@@ -1,0 +1,416 @@
+Drug interaction risk between cardioprotective drugs and drugs used
+in treatment of COVID-19: A evidence-based review from sixdatabases
+Shini Rubina S K, Pharm.Da, Anuba P A, Pharm.Da, Swetha B, Pharm.Da,
+Kavya Priya kalala, Pharm.Da, Aishwarya PM, MDb, Sarvesh Sabarathinam, Ph.Da,*
+aDepartment of Pharmacy Practice, SRM College of Pharmacy, SRM IST, Kattankulathur, 603203, Kancheepuram, Tamil Nadu, India
+bSree Balaji Medical College and Hospital, Chennai, Tamil Nadu, 600044, India
+article info
+Article history:
+Received 31 January 2022Received in revised form2 March 2022Accepted 4 March 2022
+Keywords:
+COVID-19COVID- 19 treatmentComorbidityPolypharmacy
+Drug-drug interactionabstract
+Background and aims: This Review discusses the potential drug interactions risk between Drugs used in
+treating COVID-19 infection and Drugs used in treating comorbid conditions (Diabetes, hypertension,cardiovascular illness).
+Method: Six Databases were consulted a) Micromedex drug interaction b) Medicine complete.com c)
+Liverpool Drug Interaction Group for COVID-19 therapies d) Epocrates e) Medscape f) drugs.com .T o
+acquire information on possible interaction effects between drugs used for COVID-19 treatment such as
+atazanavir, lopinavir/ritonavir, remdesivir, molnupiravir, paxlovid(nirmatrelvir/ritonavir), dexametha-
+sone, azithromycin, chloroquine, and FDA approved monoclonal antibodies with primarily used antidi-abetic drugs, antihypertensive drugs, and drugs acting on the cardiovascular system.Results: Potential interaction effects such as worsening glycemic control were prominent with lopinavir/
+ritonavir and the primarily used antidiabetic drugs, which needs dosage adjustment and close moni-
+toring. The risk of hypotension and irregular heart rhythm is the potential interaction effects withconcomitant use of drugs for COVID-19 treatment and antihypertensive drugs. Caution is advised with
+drugs such as atazanavir and lopinavir/ritonavir when concomitantly used in treating comorbid condi-
+tions. Drugs such as remdesivir, molnupiravir, and some monoclonal antibodies are safer in use withdrugs used in treating the comorbid condition.
+Conclusions: Drug-drug interaction remains one of the signi ﬁcant factors in altering the therapeutic
+efﬁcacy. Drugs used to manage comorbid conditions may in ﬂuence the COVID-19 treatment with po-
+tential interaction effects. These enhance the view on safety concerns about the drug interaction risk inmanaging COVID-19 infection in patients with comorbid conditions. This primary evidence may concern
+preventing potential or unintentional effects resulting from Drug-drug interaction, Improving patient
+quality of life.
+©2022 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+1. Introduction
+Coronavirus disease 2019 (COVID-19) is a contagious disease
+triggered by severe acute respiratory syndrome coronavirus 2
+strain (Sars cov-2), which constitutes the pandemic of the century
+[1,2]. The number of people affected by COVID-19 infectionworldwide is over 32 million and rapidly increasing, emphasizing
+the importance of symptom management and treatment knowl-
+edge for general practitioners and other clinicians [ 3]. COVID-19
+infection targets the lungs primarily, causing interstitial pneumo-
+nitis and intense ARDS (acute respiratory distress syndrome) [ 4].
+With increasing age, comorbidities, and underlying conditions, the
+intensity of the infection and fatality get increases [ 5]. Patients over
+60 years of age with a medical history, such as cardiovascular dis-
+ease, are at the highest risk of developing severe disease as a result
+of COVID-19 [ 6]. Under FDA-issued emergency use authorization,
+antiviral pharmaceuticals (e.g., Remdesivir), anti-in ﬂammatory*Corresponding author. Department of Pharmacy Practice, S.R.M. College of
+Pharmacy, SRM Institute of Science and Technology, SRM Nagar, Kattankulathur,603 203, Kancheepuram, Tamil Nadu, India.
+E-mail address: sarveshtvg@gmail.com (S. Sabarathinam).
+Contents lists available at ScienceDirect
+Diabetes &Metabolic Syndrome: Clinical Research &Reviews
+journal homepage: www.elsevier.com/locate/dsx
+https://doi.org/10.1016/j.dsx.2022.102451
+1871-4021/ ©2022 Diabetes India. Published by Elsevier Ltd. All rights reserved.Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451medications, anti-SARS-CoV-2 monoclonal antibodies, and immu-
+nomodulatory therapy are accessible as an option for pharmaco-
+logical management [ 7,8]. Treatment of complex diseases
+frequently necessitates the use of multiple drugs simultaneously.
+Polypharmacy raises the risk of drug-drug interaction and reduces
+patient compliance. Drug combination therapy can be very effec-
+tive, but it is also associated with drug-drug interactions. COVID-19
+Patients with underlying diseases are more likely to have drug in-
+teractions as they frequently require multiple medications. Drug
+interactions may put the patient at risk of severe adverse effects
+and reduce treatment safety and ef ﬁcacy. Therefore, there must be
+a signi ﬁcant concern in managing their conditions. This Review
+discusses the potential interaction effects between the drugs used
+in COVID-19 treatment and drugs primarily used for cardiovascular
+and comorbid conditions such as diabetes and hypertension.
+2. Drugs used in treatment of COVID 19 infections
+Developing research and clinical data on the virologic SARS-
+CoV-2 suggest a possible list of repurposed drugs with suitable
+pharmacological effects and therapeutic ef ﬁcacies in managing
+COVID-19 patients. Antiviral drugs such as atazanavir, lopinavir/
+ritonavir, and remdesivir are signi ﬁcant in treating the COVID-19
+infection [ 9]. Atazanavir inhibits the protease activity of SARS-
+Cov-2 which results in inhibition of viral replication. Viral replica-
+tion is also hampered by the drug lopinavir/ritonavir by its action of
+inhibiting the protease activity of the virus. The drug remdesivir
+induces the termination of viral protein synthesis by inhibiting RNA
+polymerase. Many repurposed antiviral drugs are being investi-
+gated, and some are still in the initial stages of regulatory approval.
+Recently U.S. Food and Drug Administration (FDA) has approved
+antiviral drugs such as molnupiravir, paxlovid(nirmatrelvir/rito-
+navir), which gives concern to the new strains of SARS-Cov-2.
+Molnupiravir is a prodrug of N-hydroxycytidine (NHC) with activ-
+ity against SARS-CoV-2 and other RNA viruses and a high barrier to
+resistance development [ 10]. Molnupiravir found to follow “error
+catastrophe ”mechanism, which is built on the concept that
+increasing the rate of mutation in the viral genome beyond a bio-
+logically tolerable threshold will render the virus lethal and lead to
+its extinction [ 11]. Paxlovid is a brand name for a combination
+therapy that includes nirmatrelvir and ritonavir. Nirmatrelvir is a
+SARS-CoV-2 protease inhibitor. Coadministration of nirmatrelvir
+with a low dose of ritonavir (commonly used in combination with
+other protease inhibitors as part of antiretroviral therapy for HIV
+infection) slows hepatic metabolism of nirmatrelvir, allowing it to
+remain active in the body for a more extended period. Corticoste-
+roids are also used to treat COVID-19 infection which shows their
+effectiveness in suppressing multiple in ﬂammatory genes. Gluco-
+corticoids, such as dexamethasone, have been used as anti-
+inﬂammatory and immunosuppressive medications. Dexametha-
+sone prevents the entry of SARS-CoV-2 spike pseudo typed virus
+into host cells by preventing the binding of angiotensin converting
+enzyme-2 (ACE-2) receptors to the spike protein [ 12]. Azithromycin
+is the potential antibiotic used in the treatment of COVID-19infection, and it exhibits antiviral activity by reducing viral entry
+into host cells and also exhibits its immunomodulatory effect by
+inhibiting the release of cytokine mainly involved in COVID 19
+infection [ 13]. Anti-parasitic drugs involved in the treatment of
+COVID-19 infection are chloroquine, hydroxychloroquine, and
+ivermectin. Chloroquine prevents the entry of SARS-CoV-2 into
+host organisms by preventing glycosylation of ACE-2 receptors.
+Glycosylation of ACE-2 receptors gets activated when the virus
+binds to ACE-2 receptors, providing entry of the virus to the host
+cell. Chloroquine also works by inhibiting endosome and lysosome
+acidiﬁcation, causing the virus to stall inside endosomes andpreventing the viral RNA genome from being released into the
+cytosol [ 14]. The cytokine storms activated by the overproduction
+of proin
+ﬂammatory cytokines were observed in COVID-19 patients.
+In such conditions, proin ﬂammatory cytokines such as interleukin
+1 (IL-1) and interleukin 6 (IL-6) levels are typically elevated. Drugs
+that inhibit the biological activity of IL-1 and its downstream
+product, IL-6, may help treat SARS-CoV-2 infection [ 15]. Currently,
+the COVID-19 treatment guidelines have recommended using two
+drugs such as Sarilumab and Tocilizumab. Anti-SARS-CoV-2
+monoclonal antibodies that target the spike protein were shown
+to be clinically effective in treating COVID-19 infection. These
+involve drugs such as Bamlanivimab plus etesevimab, casirivimab
+plus imdevimab, and sotrovimab, which received emergency use
+authorization to treat mild to moderate COVID-19 in nonhospital-
+ized patients.
+3. Method
+We consulted six Databases.
+a) Micromedex drug interaction
+b) Medicine complete.com
+c) Liverpool Drug Interaction Group for COVID-19 therapies
+d) Epocrates
+e) Medscape
+f) drugs.com.
+To acquire information on possible interaction effects between
+drugs used for COVID-19 treatment such as atazanavir, lopinavir/
+ritonavir, remdesivir, molnupiravir, paxlovid (nirmatrelvir/ritona-
+vir), dexamethasone, azithromycin, chloroquine, and FDA approved
+monoclonal antibody with primarily used antidiabetic drugs,
+antihypertensive drugs, and drugs acting on the cardiovascular
+system.
+4. Potential interaction risk between drugs used in treatment
+of COVID-19 and drugs used in treating comorbid conditions
+Potential interaction effects between antidiabetic drugs and
+covid treatment drugs involve hypoglycemia, lactic acidosis, and
+worsening glycemic control. The majority of the databases showed
+Signiﬁcant interactions between lopinavir/Ritonavir and metfor-
+min. Chloroquine interacts with all the antidiabetic drugs, of which
+moderate interaction risk was seen with atazanavir and dexa-
+methasone. These prominent effects have been conveyed from
+more than three databases, as shown in Table 1 . Drug paxlovid, a
+combination of nirmatrelvir and ritonavir, was found to interact
+with all the listed antidiabetic drugs, signi ﬁcantly with glimepiride
+and glipizide.
+The potential interaction effect of increased risk of bleeding
+with major severity is conveyed by more than three databases
+between paxlovid (nirmatrelvir/ritonavir) and drugs acting on the
+cardiovascular system (ticagrelor, warfarin, and rivaroxaban).
+Rhabdomyolysis, myopathy remains a possible potential interac-
+tion effect between lopinavir/ritonavir, paxlovid, atazanavir, and
+atorvastatin. Other drugs such as dexamethasone, chloroquine, andmonoclonals such as sarilumab and tocilizumab provide moderate
+interaction with cardioprotective drugs that need caution and
+monitoring. Azithromycin potentially interacts with cardiovascular
+drugs such as warfarin and rivaroxaban conveyed from more than
+three databases as shown in Table 2 . However, monitoring is
+mandatory in all conditions.
+Hypotension and irregular heart rhythm are the possible inter-
+action effects between drugs used in COVID-19 treatment and
+primarily used antihypertensive drugs (enalapril, Lisinopril,S.R. S K, A. P A, S. B et al. Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451
+2Olmesartan, telmisartan, propranolol, and atenolol). Interactions
+with major severity are found to be with the drug atazanavir. These
+Interactions are conveyed from more than three databases. Dexa-
+methasone was found to produce potential interaction effects with
+all antihypertensive drugs with moderate severity. Other drugs
+such as azithromycin chloroquine were found to moderately
+interact with some antihypertensive drugs that need monitoring of
+parameters, as explained in Table 3 . As drug interaction potentially
+results in toxicity effects or therapeutic failure, concern on the
+coadministration of drugs is mandatory. These interactions may or
+may not affect therapy based on the individual patient's pharma-
+cokinetics and pharmacodynamics. Therefore, There is a need for
+health care professionals to be aware of potential effects associated
+with drug interactions.
+5. Discussion
+5.1. Drugs used in treatment of COVID-19 and antidiabetic drugs
+Drug interactions may produce unwanted effects during phar-
+macological treatment, which is common among patients receiving
+more drugs. Polypharmacy remains a signi ﬁcant cause for drug-
+drug interactions. These drug-drug interactions result in either
+toxicity effects or therapeutic failure. In this Review, we have
+analyzed six databases to check possible interaction effectsbetween drugs used in COVID-19 treatment and primarily pre-
+scribed drugs for comorbid conditions such as hypertension, dia-
+betes, and cardiovascular illness, which remain major mortality risk
+factors during the COVID-19 pandemic. Green, yellow, red explains
+the severity of the interaction effects. Green indicates no in-
+teractions, yellow and red refer to moderate and major severity,
+respectively. The interactions effects are discussed between COVID-
+19 treatment drugs and antidiabetic, antihypertensive, and drugs
+acting on the cardiovascular system. In this Review, one drug from
+each category has been chosen as all drugs in the same class possess
+a similar mechanism of action. This mechanism of action remains
+signiﬁcant for checking out interactions.
+Diabetes mellitus is managed by drugs that belong to biguanides
+(metformin), sulfonylurea (glimepiride and gliclazide), Dipeptidyl
+peptidase (DPP) 4 inhibitors (linagliptin and sitagliptin), alpha1
+glucosidase inhibitors (acarbose). These drugs are primarily chosen
+to check interactions with drugs used in COVID-19 treatment. Po-
+tential effects such as worsening glycemic control, hypoglycemia,
+increased risk of lactic acidosis are the possible interaction effects
+with drugs used in COVID-19 treatment. The results of the inter-
+action are conveyed in Table 1 . Interaction with major severity is
+found with drugs lopinavir/ritonavir and chloroquine. The signi ﬁ-
+cant possible effect found between lopinavir/ritonavir and met-
+formin is increased risk of lactic acidosis, so concurrent
+administration is not recommended in renal or hepatic impairmentTable 1
+Drugs used in treatment of COVID-19 and anti diabetic drug.S.R. S K, A. P A, S. B et al. Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451
+3patients. Symptom monitoring is always recommended. Chloro-
+quine produced signi ﬁcant interaction with all antidiabetic drugs as
+listed on Table 1 . Chloroquine enhances the hypoglycemic effect
+when co-administered with antidiabetic drugs due to the syner-
+gistic effect. Hence the possible impact found to be the risk of hy-
+poglycemia. The antagonistic effect is seen with concomitant use of
+dexamethasone and antidiabetic drugs. Dexamethasone was found
+to antagonize the effectiveness of hypoglycemic agents. Monitoring
+the glycemic level of the patient is mandatory during treatment.
+Nirmatrelvir/ritonavir can alter the effect of antidiabetic drugs by
+enzyme induction when used for an extended period. However, the
+risk is low, monitoring blood glucose levels is recommended during
+treatment. These interaction effects, as mentioned above, may or
+may not be at a higher risk in all patients. However, monitoring the
+patient's glycemic level is essential as these interactions can pro-
+duce toxicity effects or result in therapeutic failure.
+5.2. Drugs used in treatment of COVID-19 and drus acting on
+cardiovascular system
+Drugs acting on the cardiovascular system discussed in this
+Review belong to a category such as Anticoagulants (warfarin,
+rivaroxaban), anti-platelets (aspirin, clopidogrel, ticagrelor), and
+dyslipidemic agents (atorvastatin), and these drugs checked for
+interaction with the drug used in COVID-19 treatment. The resultswere analyzed from six databases, as shown in Table 2 . Signi ﬁcant
+interactions were possible with atazanavir and ticagrelor, which
+likely may increase the risk of bleeding, which involves the
+mechanism of enzyme inhibition by the drug atazanavir. Moni-
+toring of hematological parameters is mandatory. It has been rec-
+ommended that the use of drugs that belongs to potent
+CytochromeP450 3A4 (CYP3A4) inhibitors (E.g., atazanavir) can be
+avoided while it is necessary for receiving ticagrelor. Another sig-
+niﬁcant interaction is seen with atazanavir and atorvastatin, which
+explains the potential effect of enhanced exposure of drug ator-
+vastatin which has a high capability of resulting in toxicity. The
+combination drugs such as Lopinavir/ritonavir and nirmatrelvir/
+ritonavir (paxlovid) potentially interact with clopidogrel, ticagrelor,
+warfarin, and rivaroxaban resulting in increased exposure to clo-
+pidogrel, ticagrelor, warfarin and rivaroxaban, respectively indi-
+cating the risk of bleeding. At such conditions, dosage adjustment
+and routine monitoring of hematology pro ﬁle are recommended.
+The risk of myopathy and rhabdomyolysis, a condition associated
+with a muscle injury, is indicated with concomitant use of Lopi-
+navir/ritonavir with atorvastatin. Monitoring toxicity symptoms are
+recommended for this kind of effect. If so seen, dosage adjustment
+or frequency adjustment has to be initiated. Increased risk ofrhabdomyolysis is also seen with concomitant use of azithromycin
+with atorvastatin. The drugs with a higher risk of producing drug
+interaction are atazanavir and lopinavir/ritonavir, and nirmatrelvir/Table 2
+Drugs used in treatment of COVID 19 and drugs acting on cardiovascular system.S.R. S K, A. P A, S. B et al. Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451
+4ritonavir. These are to be made under consideration during
+administration. Increased risk of bleeding is indicated with
+concomitant use of warfarin and rivaroxaban with azithromycin.
+Hematological parameters to be monitored regularly during the
+treatment. Other drugs of COVID-19 therapy are found to produce
+moderate interactions, which needs monitoring, but patients are
+not found to be at higher risk; however, monitoring is always
+required. Effects that remain possible with moderate interactions
+are increased risk of bleeding and elevated INR (international
+normalized ratio) values.
+5.3. Drugs used in treatment of COVID 19 and antihypertensive
+drugs
+Hypertension is pharmacologically treated Primarily with beta-
+blockers (atenolol, propranolol), Angiotensin converting enzyme
+(ACE) inhibitors (enalapril. Lisinopril), Angiotensin receptor
+blockers (Olmesartan, telmisartan), and calcium channel blockers
+(Amlodipine), interaction of these drugs with drugs used in COVID
+19 treatment are shown in Table 3 . Hypotension, irregular heart
+rhythm, electrocardiographic (ECG) changes are the potential ef-
+fects of drug interaction with COVID-19 treatment drugs and anti-
+hypertensive drugs. Interaction with major severity is found
+between atazanavir and beta-blockers (propranolol, atenolol),resulting in irregular heart rhythm or additive PR interval prolon-
+gation. Concurrent use is not recommended, In case of necessity,
+their ECG parameters are to be monitored during treatment. More
+than three databases conveyed Possible interactions with Amlodi-
+pine and atazanavir. Its effect remains with major severity,
+increasing risk of cardiotoxicity PR interval prolongation are
+considered to be the effects of major severity. Therefore, Routine
+ECG monitoring is required. The same interaction effect is also seen
+with lopinavir/ritonavir with major severity. Dexamethasone in-
+teracts with all the antihypertensive drugs with moderate severity
+producing an impact of antagonization of antihypertensive effect
+resulting in therapeutic failure. This interaction is at low risk as
+they are conveyed from a single database. These interaction effects
+need consideration for frequency adjustment. Other drugs such as
+azithromycin chloroquine showed potential interaction with anti-
+hypertensive drugs, resulting in ECG changes and prolongation of
+PR or QT interval; therefore, caution is advised for the concomitant
+use of these drugs with atenolol, propranolol, and Amlodipine.
+Nirmatrelvir/ritonavir enhances plasma drug concentration of cal-
+cium channel blockers by enzyme inhibition resulting in hypoten-
+sion. Monitoring for symptoms related to hypotension is strictly
+recommended. If concurrent use of the drug mentioned above is
+unavoidable, renal function, ECG parameters, and blood pressure
+are to be routinely examined to prevent potential effects thatTable 3
+Drugs used in treatment of COVID 19 and antihypertensive drugs.S.R. S K, A. P A, S. B et al. Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451
+5results from drug-drug interactions.
+5.4. Drug interaction with monoclonal antibody
+One of the proposed COVID-19 therapeutic options is a mono-
+clonal antibody. Anti-SARS-CoV-2 monoclonal antibodies are
+among the most recent investigational COVID-19 treatments
+permitted for emergency use authorization (EUA) by the US Food
+and Drug Administration (FDA). A clinical perspective of drug-drug
+interactions with a monoclonal antibody are unlikely to occur.
+Interleukin 6 inhibitor monoclonals such as sarilumab, Tocilizumab,
+recommended for COVID-19 treatment, was found to interact with
+drugs acting on the cardiovascular system. These drugs were found
+to suppress the action of co-administered cardioprotective medi-
+cations by affecting the expression of drug-metabolizing enzymes
+that may result in therapeutic failure. Although the interaction
+potential is less prominent as conveyed from fewer databases,
+therapeutic monitoring of effects is recommended during treat-
+ment. Tocilumab and sarilumab were found to moderately interact
+with antihypertensive drugs such as Amlodipine and found that
+these drugs reduce the ef ﬁcacy of Amlodipine by affecting the drug-
+metabolizing enzymes. It is less risky however therapeutic moni-
+toring of effect is required. The FDA-approved Anti-SARS-CoV-2
+monoclonal antibodies such as casirivimab/imdevimab, etesevi-
+mab/bamlanivimab, sotrovimab are not found to interact with
+antidiabetic, antihypertensive, or with drugs acting on the cardio-
+vascular system. The absence of interaction is detected with these
+monoclonals however these drugs are recommended for patients
+who are hospitalized for a diagnosis other than COVID-19, provided
+they have mild to moderate COVID-19 infection and are at high risk
+for progressing to severe disease.
+6. Limitations
+The major limitation of this study is; as it does not include
+clinical evidence or a systematic review. This review has been
+carried out from evidence based primary sources in the view of to
+address the caution behind the use of drug during COVID-19
+treatment.
+7. Conclusion
+Management of comorbid conditions is unavoidable. Patients
+with underlying diseases receive complex drugs risking drug
+interaction. Drug-drug interactions remain one of the challenging
+issues during treatment, as they may develop either toxicity or
+therapeutic failure, which may in ﬂuence the patient's treatment
+efﬁcacy. Since the Safety concern of patients remains mandatory
+during their treatment, this review highlights the possible effects of
+drug interactions between drugs used in COVID-19 treatment and
+drugs used primarily for comorbid conditions when used simul-
+taneously. Therefore, this primary evidence may concern prevent-
+ing potential or unintentional effects resulting from a Drug-drug
+interaction, Improving patient quality of life.
+CRediT authorship contribution statement
+SRSK, APA: Methodology and Writing. SB, KKP: Data curation
+and Review. APM: Investigation and Resource. SS: Writing, Editing,
+Conceptualization and Supervision.Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Funding
+No funding received.
+Declaration of interests
+The authors declare that they have no known competing
+ﬁnancial interests or personal relationships that could have
+appeared to in ﬂuence the work reported in this paper.
+Declaration of competing interest
+The authors declare no con ﬂict of interest in the contents of the
+manuscript.
+Acknowledgments
+We would like to thank all health care professionals.
+References
+[1]Jain A. Deregulated kynurenine metabolism - an alternate hypothesis for
+COVID-19 associated anosmia. Med Hypotheses 2021;157:110721 .
+[2]Preethi L, Ganamurali N, Dhanasekaran D, Sabarathinam S. Therapeutic use of
+Guggulsterone in COVID-19 induced obesity (COVIBESITY) and signi ﬁcant role
+in immunomodulatory effect. Obes Med 2021;24:100346 .
+[3] Plasencia-García, Oda Beatriz, et al. Drug-drug interactions between COVID-19
+treatments and antipsychotics drugs: integrated evidence from 4 databases
+and a systematic review. Psychopharmacology 2021;238(2):329 e40.https://
+doi.org/10.1007/s00213-020-05716-4 .
+[4]Guzik TJ, Mohiddin SA, Dimarco A, et al. COVID-19 and the cardiovascular
+system: implications for risk assessment, diagnosis, and treatment options.
+Cardiovasc Res 2020;116(10):1666 e87.
+[5]Bandopadhyay A, Singh AK, Chaubey G. COVID-19: the cause of the man-
+ifested cardiovascular complications during the pandemic, vol. 8; 2021. 1481 .
+[6]Brandariz-Nu ~nez David, et al. Potential drug-drug interactions in COVID 19
+patients in treatment with lopinavir/ritonavir. Med Clin 2020 Oct 9;155(7):281e7. PMCID: PMC7346810 .
+[7]Coopersmith CM, Antonelli M, Bauer SR, et al. The surviving sepsis campaign:
+research priorities for coronavirus disease 2019 in critical illness. Crit Care
+Med 2021;49(4):598 e622.
+[8]Sanyaolu A, Okorie C, Marinkovic A, et al. Comorbidity and its Impact on Pa-
+tients with COVID-19. SN comprehensive clinical medicine. 2020. p. 1 e8.
+[9]Wu R, Wang L, Kuo HD, et al. An update on current therapeutic drugs treating
+COVID-19. Curr Pharmacol Rep 2020:1 e15.
+[10] Jayk Bernal A, Gomes da Silva MM, Musungaie DB, et al. Molnupiravir for oral
+treatment of covid-19 in nonhospitalized patients. 2021 .
+[11] Singh AK, Singh A, Singh R, Misra A. Molnupiravir in COVID-19: a systematic
+review of literature. Diabetes, Metab. Syndrome: Clin Res Rev 2021;15(6):102329 .
+[12] Zhang Y, Hu S, Wang J, Xue Z, Wang C, Wang N. Dexamethasone inhibits
+SARS-CoV-2 spike pseudotyped virus viropexis by binding to ACE2. Virology
+2021;554:83 e8.
+[13] Vallejos J, Zoni R, Bangher M, et al. Ivermectin to prevent hospitalizations in
+patients with COVID-19 (IVERCOR-COVID19): a structured summary of a
+study protocol for a randomized controlled trial. Trials 2020;21(1):965 .
+[14] Devaux CA, Rolain J-M, Colson P, Raoult D. New insights on the antiviral ef-
+fects of chloroquine against coronavirus: what to expect for COVID-19? Int J
+Antimicrob Agents 2020;55(5):105938 .
+[15] Ucciferri C, Vecchiet J, Falasca K. Role of monoclonal antibody drugs in the
+treatment of COVID-19. World J Clin Cases 2020;8(19):4280 e5.S.R. S K, A. P A, S. B et al. Diabetes &Metabolic Syndrome: Clinical Research &Reviews 16 (2022) 102451
+6

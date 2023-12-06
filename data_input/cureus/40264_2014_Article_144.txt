@@ -1,0 +1,851 @@
+REVIEW ARTICLE
+Pharmacokinetic Drug Interaction Proﬁles of Proton Pump
+Inhibitors: An Update
+Ralph-Steven Wedemeyer •Henning Blume
+Published online: 19 February 2014
+/C211The Author(s) 2014. This article is published with open access at Springerlink.com
+Abstract Proton pump inhibitors (PPIs) are used exten-
+sively for the treatment of gastric acid-related disorders,
+often over the long term, which raises the potential forclinically signiﬁcant drug interactions in patients receiving
+concomitant medications. These drug–drug interactions
+have been previously reviewed. However, the currentknowledge is likely to have advanced, so a thorough review
+of the literature published since 2006 was conducted. This
+identiﬁed new studies of drug interactions that are modu-lated by gastric pH. These studies showed the effect of a
+PPI-induced increase in intragastric pH on mycophenolate
+mofetil pharmacokinetics, which were characterised by adecrease in the maximum exposure and availability of
+mycophenolic acid, at least at early time points. Post-2006
+data were also available outlining the altered pharmaco-kinetics of protease inhibitors with concomitant PPI
+exposure. New data for the more recently marketed dex-
+lansoprazole suggest it has no impact on the pharmacoki-netics of diazepam, phenytoin, theophylline and warfarin.
+The CYP2C19-mediated interaction that seems to exist
+between clopidogrel and omeprazole or esomeprazole has
+been shown to be clinically important in research published
+since the 2006 review; this effect is not seen as a classeffect of PPIs. Finally, data suggest that coadministration
+of PPIs with methotrexate may affect methotrexate phar-
+macokinetics, although the mechanism of interaction is notwell understood. As was shown in the previous review,
+individual PPIs differ in their propensities to interact with
+other drugs and the extent to which their interaction pro-ﬁles have been deﬁned. The interaction proﬁles ofomeprazole and pantoprazole sodium (pantoprazole-Na)
+have been studied most extensively. Several studies have
+shown that omeprazole carries a considerable potential fordrug interactions because of its high afﬁnity for CYP2C19
+and moderate afﬁnity for CYP3A4. In contrast, pantop-
+razole-Na appears to have lower potential for interactionswith other medications. Lansoprazole and rabeprazole also
+seem to have a weaker potential for interactions than
+omeprazole, although their interaction proﬁles, along withthose of esomeprazole and dexlansoprazole, have been less
+extensively investigated. Only a few drug interactions
+involving PPIs are of clinical signiﬁcance. Nonetheless, thepotential for drug interactions should be considered when
+choosing a PPI to manage gastric acid-related disorders.
+This is particularly relevant for elderly patients takingmultiple medications, or for those receiving a concomitant
+medication with a narrow therapeutic index.
+1 Introduction
+Proton pump inhibitors (PPIs) achieve a greater degree and
+longer duration of gastric acid suppression, and better
+healing rates in various gastric acid-related disorders, thanhistamine H
+2receptor antagonists [ 1–3]. They are thus
+considered essential in the management of gastro-oesoph-
+ageal reﬂux disease, peptic ulcer disease (PUD) and Zol-linger–Ellison syndrome. PPIs are also a key part of triple
+therapy (with two antibiotics, such as clarithromycin,
+amoxicillin or metronidazole) for the eradication of H.
+pylori in PUD [ 4], and may be used in the prophylaxis of
+stress- and NSAID-induced PUD [ 5,6]. Many of these
+disorders generally require long-term treatment, whichincreases the potential for clinically signiﬁcant drug
+interactions in patients (such as hospitalised patients andR.-S. Wedemeyer ( &)/C1H. Blume
+SocraTec CSC GmbH, Im Setzling 35,61440 Oberursel, Germanye-mail: Ralph-Steven.Wedemeyer@socratec-pharma.deDrug Saf (2014) 37:201–211
+DOI 10.1007/s40264-014-0144-0community-dwelling older people [ 7,8]) receiving PPIs
+and other medications [ 9].
+A previous review published in 2006 highlighted the
+similarities and differences among the PPIs in terms of thelikelihood, relevance and mechanisms of drug–drug
+interactions [ 10]. In the review, the authors discussed how,
+by elevating pH, PPIs can modify the intragastric releaseof other drugs from their dosage forms, and also how PPIs
+inﬂuence drug absorption and metabolism by interacting
+with adenosine triphosphate-dependent P-glycoprotein or
+with the cytochrome P450 (CYP) enzyme system [ 10]. At
+the time of the review, the interaction proﬁles of ome-prazole and pantoprazole sodium (pantoprazole-Na) had
+been studied most extensively. The authors concluded that
+omeprazole carried a considerable potential for druginteractions because of its high afﬁnity for CYP2C19 and
+moderate afﬁnity for CYP3A4, whereas pantoprazole-Na
+appeared to have a lower potential for interactions thanomeprazole based on extensive evidence. Lansoprazole
+and rabeprazole also seemed to have a weaker potential
+for interactions than omeprazole, but this was based onlimited evidence only. Much of the review remains rele-
+vant today; however, several PPI drug interaction papers
+have been published since 2006. Thus, here we present anupdate of the 2006 review, which, when read in con-
+junction with the original article, provides a comprehen-
+sive overview of drug interactions associated with the useof PPIs [ 10].
+This review is based on literature published from 1
+January 2007 to 31 December 2012 identiﬁed by searching(i) MEDLINE using Medical Subject Heading (MESH)
+terms for ‘drug-interactions’ and ‘proton pump inhibitors’;
+and (ii) EMBASE using (Omeprazole/drug interaction) OR(Esomeprazole/drug interaction) OR (Lansoprazole/drug
+interaction) OR (Pantoprazole/drug interaction) OR (Rab-
+eprazole/drug interaction) OR (Proton-Pump-Inhibitor/drug interaction). Searches were limited to English lan-
+guage and excluded comments, editorials, letters, notes or
+conference papers or reviews. PUBMED and EMBASEresults were combined and duplicates removed; the
+remaining results were divided into articles investigating
+PPI interactions with clopidogrel (where this term was usedin the title, abstract or as CAS number for MEDLNE or as
+descriptor for EMBASE) and other drug interaction arti-
+cles. Additional articles were also obtained from manualsearches of the reference lists of relevant reviews and
+papers. In total, 132 articles for interactions with clopido-
+grel and 174 articles for interactions with other drugs wereobtained. The two authors independently selected addi-
+tional articles for inclusion based on appropriate study
+design for drug-interaction studies, and any discrepancieswere discussed and agreed. Forty new references were
+identiﬁed and used in this updated review.2 Mechanisms Involved in Proton Pump Inhibitor
+Drug Interactions
+2.1 Modulation of Gastric pHGroup-speciﬁc interactions between PPIs and other drugs
+may result from a PPI-induced increase in gastric pH,which can decrease the soluble amount of other drug
+substances, alter drug release from products with pH-
+dependent dissolution properties, or indirectly impact bio-availability by changing the kinetics of pro-drugs. Exam-
+ples of drug pharmacokinetics that are affected by gastric
+pH have been discussed extensively in the 2006 review[10]. These include the reduced bioavailability of oral
+ketoconazole when co-administered with omeprazole
+60 mg [ 11], and the reduced mean area under the con-
+centration-time curve at 24 hours (AUC
+24) and peak
+plasma concentration ( Cmax) of oral itraconazole 200-mg
+capsules administered with concomitant omeprazole 40 mg[12].
+Of importance since the publication of the 2006 review,
+new data are available for the interaction of PPIs andmycophenolate mofetil. Administration of PPIs increases
+intragastric pH, which slows down the hydrolysis of my-
+cophenolate mofetil resulting in decreased maximumexposure and availability of mycophenolic acid, at least at
+early time points. Compared with mycophenolate mofetil
+alone, coadministration of mycophenolate mofetil with
+pantoprazole-Na resulted in persistently lower plasma
+concentrations of mycophenolic acid in heart transplantrecipients [ 13] and a signiﬁcant decrease in total and
+maximum exposure in patients with autoimmune disease.
+This correlated with a 42 % increase ( p\0.01) in the area
+of inosine monophosphate dehydrogenase activity [ 14].
+However, coadministration of pantoprazole-Na and
+enteric-coated mycophenolate sodium did not result in anysigniﬁcant changes in pharmacokinetic parameters in heart
+or lung transplant recipients [ 15]. These ﬁndings from
+steady-state studies conﬁrmed results from an earlier studyin healthy individuals [ 16]. Being in steady state for pan-
+toprazole-Na (40 mg/day) signiﬁcantly lowered total and
+maximum exposure of mycophenolic acid after adminis-tration of mycophenolate mofetil, but had no relevant
+effect after administration of enteric-coated mycophenolate
+sodium. Other pharmacokinetic parameters were notaffected [ 16], suggesting that interaction on the enzymatic
+level is unlikely.
+Other interactions not discussed in the previous review
+include changes in the contact of the PPIs themselves to the
+gastric environment, which will change the exposure to the
+PPI. This predominantly results from the instability of PPIsat low pH and makes administration of PPIs by means of
+gastro-resistant formulations a necessity. Consistent with202 R.-S. Wedemeyer, H. Blumethis, concomitant intake of the prokinetic mosapride led to
+increases of about 50 % in total and maximum exposure
+after administration of rabeprazole, which was explained
+by the increased transport time to the intestine [ 17]. These
+results substantiated earlier results for the combination of
+omeprazole and mosapride [ 18] and suggested that such an
+interaction would also beneﬁt all other PPIs. However, thisexplanation does not address the fact that administration as
+a gastro-resistant formulation means no contact of PPI and
+gastric acid, suggesting that an undiscovered pharmacoki-
+netic interaction with mosapride is also possible.
+A group effect with clear clinical implications is
+assumed for several protease inhibitors that can have sig-
+niﬁcantly altered bioavailability if coadministered with
+PPIs. For example, total and maximum exposure to single-dose atazanavir 400 mg was reduced by more than 90 %
+when administered with lansoprazole 60 mg [ 19]. The loss
+in solubility for atazanavir at increased pH values is con-sidered responsible for this effect, as a CYP-mediated
+interaction is unlikely for this drug combination. For other
+combinations, the situation may be more complex. Expo-sure to nelﬁnavir, which is comparably pH-dependently
+soluble, was reduced at steady state after nelﬁnavir
+1,250 mg twice daily for 4 days by about 35 % if coad-ministered with omeprazole 40 mg once daily for 4 days,
+but terminal elimination and clearance remained unaltered
+[20]. Nevertheless, nelﬁnavir is metabolised by CYP 2C19,
+whose inhibition by omeprazole probably counteracts the
+loss in exposure caused by solubility effects. This would
+also explain the decrease in the metabolic ratio of the mainmetabolite and nelﬁnavir.
+In contrast, total and maximum exposure to single-dose
+raltegravir 400 mg are increased by a factor of 3 and 4,respectively, if administered with omeprazole 20 mg once
+daily for 4 days [ 21]. Enzyme-based interactions are unli-
+kely given the metabolic pathway of raltegravir; however,raltegravir has greatly increased solubility at increased pH
+and is a substrate to P-glycoprotein, which is at least
+modestly inhibited by omeprazole, both effects probablybeing synergistic. As shown here, in addition to possible
+group effects of PPIs, individual interactions of each
+compound remain possible and should be considered.
+The situation for protease inhibitors becomes even more
+complex with the common concomitant use of the booster
+ritonavir. Ritonavir itself has better solubility at a lowerpH, boosts other protease inhibitors by inhibiting CYP3A4,
+is metabolised by CYP3A4 (similar to PPIs) and is a sub-
+strate and inhibitor of P-glycoprotein [ 22–24].
+Total and maximum exposure of the non-ionizable
+lopinavir and ritonavir at steady state were both increased
+by about 25 % when administered with omeprazole,without obvious changes in the elimination [ 22]. These
+ﬁndings were explained by an increase in exposure toritonavir resulting from inhibition of P-glycoprotein by
+omeprazole and a subsequent stronger inhibitory effect on
+CYP3A4 by ritonavir. Separation of protease inhibitor and
+omeprazole administration by 2 hours in another studylargely prevented this effect; the increase in total and
+maximum exposure to ritonavir after dose separation was
+lowered from 14 to 3 % and from 16 to 8 %, respectively[23]. In contrast, exposure to concomitantly administered
+saquinavir remained increased by 50–70 % and, thus, was
+obviously not triggered by the change for ritonavir (i.e.,
+another more systemic effect should account for this
+effect). Consistent with this, in another study, the increasein exposure to ritonavir was negligible, but exposure to
+saquinavir was increased by about 80 %, with a concomi-
+tant increase of omeprazole dose [ 24].
+The combined effect of several factors was demon-
+strated in a study with a single dose of indinavir 800 mg, in
+which exposure to indinavir was decreased by 35 and 45 %with constant treatment with omeprazole 20 and 40 mg but
+was increased by 55 % when a single dose of ritonavir
+200 mg was added to high-dose omeprazole [ 25].
+2.2 Interactions with the Adenosine Triphosphate-
+Dependent Efﬂux Transporter P-Glycoprotein
+Since the publication of the previous review [ 10], there
+have been no new studies involving PPIs and the P-gly-coprotein transporter system. In the previous review,
+omeprazole, lansoprazole and pantoprazole-Na, which are
+substrates for the P-glycoprotein transporter system, wereall reported to inhibit P-glycoprotein-mediated efﬂux of
+digoxin in an in vitro Caco-2 cell model [ 26]. Data were
+not available in this study for esomeprazole andrabeprazole.
+2.3 The Cytochrome P450 Enzyme SystemDiscussion of interactions with intestinal and liver CYPs
+was extensive in the 2006 review [ 10] and is not reiterated
+here, except to remind readers that PPIs are predominantly
+metabolised in the liver by CYP2C19 and CYP3A4 [ 27].
+Of signiﬁcance since the previous review, there have
+been extensive discussions in recent reviews and meta-
+analyses on the drug interactions between certain PPIs and
+clopidogrel [ 28–34]. These interactions appear to be
+mediated by CYP2C19 and are of utmost clinical rele-
+vance. Although recent retrospective studies have sug-
+gested an attenuation of the beneﬁcial effects ofclopidogrel when administered concomitantly with PPIs in
+general, stratiﬁcation of the analysis has indicated that such
+effects are not present in patients receiving pantoprazole-Na compared with those receiving omeprazole [ 35,36].
+Several studies demonstrated that being in steady state forDrug Interactions with Proton Pump Inhibitors 203omeprazole signiﬁcantly increased total exposure to clop-
+idogrel and decreased exposure to the active metabolite
+[37]. These effects continued to persist even after sepa-
+rating administrations of the drugs by 12 hours, or afteradministration of doubled doses of clopidogrel. However,
+differences became clearly smaller after substitution of
+omeprazole by pantoprazole-Na [ 37].
+This is consistent with the ﬁnding that clopidogrel must
+be activated by CYP2C19, an enzyme inhibited by ome-
+prazole but not pantoprazole-Na [ 38]. It is further
+conﬁrmed by data showing that exposure to the active
+metabolite after administration of clopidogrel was signiﬁ-cantly decreased, and inhibition of platelet function
+diminished, under coadministration of omeprazole or
+esomeprazole [ 39]. The relevance of CYP2C19 is further
+stressed by a study showing that only a small effect was
+observed from coadministration of lansoprazole with
+prasugrel, the latter being activated more dominantly byCYP isoenzymes other than CYP2C19 [ 40].
+The situation for lansoprazole seems more complex;
+however, unlike for rabeprazole, at least some information,including pharmacokinetic data, is available. Coadminis-
+tration of lansoprazole with clopidogrel had no effect on
+the formation of clopidogrel’s inactive carboxylic acidmetabolite. Nonetheless, the pharmacodynamic effect was
+signiﬁcantly lowered in good responders to clopidogrel,
+probably as a result of inhibition of clopidogrel activationvia CYP2C19, which is without relevance for the formation
+of the carboxylic acid derivative via esterases [ 40]. How-
+ever, evaluation of the total population in this study did notshow more than a trend to a lowered efﬁcacy of clopido-
+grel. This is consistent with ﬁndings reported from another
+study which found lansoprazole or dexlansoprazoleexhibited no signiﬁcant effect on the exposure to clopido-
+grel’s active metabolite or its pharmacodynamics [ 39].
+In summary an interaction between clopidogrel and PPIs
+seems to exist for omeprazole and esomeprazole, whereas
+there are only limited data for rabeprazole. Dexlansopraz-
+ole, lansoprazole and pantoprazole-Na had less effect onthe antiplatelet activity of clopidogrel than did omeprazole
+or esomeprazole, which is supported by the Plavix
+label [ 41].
+3 Interaction Proﬁles of Proton Pump Inhibitors
+The interaction proﬁles of omeprazole and pantoprazole-
+Na have been extensively studied, whereas those foresomeprazole, lansoprazole and rabeprazole are less well
+deﬁned. The major ﬁndings of these studies are summa-
+rised in Table 1, which includes new data on drug
+interaction studies with bortezomib [ 42], ciproﬂoxacin
+extended release [ 43], citalopram [ 44], clarithromycin [ 45],clopidogrel [ 37,39], etravirine [ 46], gemiﬂoxacin [ 47] and
+ivabradine [ 48].
+Since 2006, a retrospective case-control study in
+patients with coronary artery disease indicated increasedresidual platelet aggregation and platelet activation during
+concomitant treatment with 75 mg/day non-enteric-coated
+acetylsalicylic acid and PPIs [ 49]. Coadministration of
+enteric-coated acetylsalicylic acid with pantoprazole-Na
+showed a decrease in platelet aggregation [ 50] and coad-
+ministration with lansoprazole showed no signiﬁcant effect
+on platelet activity or in the levels of salicylates in the
+blood [ 51]. Thus, these prospective studies, which inves-
+tigated the effects of the PPIs constituting concomitant
+treatment in about 70 % of patients in the case-control
+study, do not support the observed impairment of acetyl-salicylic acid. Effects on platelet function with omeprazole
+and esomeprazole cannot be ruled out and monitoring of
+treatment efﬁcacy might be recommended in cases ofomeprazole or esomeprazole coadministration.
+Case reports (from both the literature and the US Food
+and Drug Administration Adverse Events Reporting Sys-tem) along with population pharmacokinetic studies sug-
+gest that coadministration of PPIs and methotrexate may
+elevate and prolong serum levels of methotrexate and/or its
+metabolite hydroxymethotrexate, although the mechanism
+for this interaction is not clearly understood (see Bezabeh
+et al. [ 52] for a comprehensive review).
+3.1 Omeprazole
+In the previous review [ 10], omeprazole was reported to
+interact with diazepam [ 53–55], proguanil [ 56] and the
+antidepressant moclobemide (in extensive metabolisers)[57] via competitive inhibition of CYP2C19. Omeprazole-
+induced competitive inhibition of CYP2C19 also has the
+potential to alter the metabolism of phenytoin [ 54,58] and
+warfarin [ 59–63] (see the previous review for an extensive
+discussion) [ 10]. More recently, CYP2C19 inhibition by
+omeprazole was identiﬁed as the reason for a 50 %reduction in the oral clearance of ( ?)-(S) citalopram, with a
+corresponding increase of approximately 120 % in plasma
+concentrations in healthy volunteers [ 44]. Similarly, such
+inhibition was found most likely to increase the total
+exposure of etravirine by 41 % after a single dose of
+etravirine 100 mg and multiple-dose omeprazole, an effectthat was not observed with multiple-dose ranitidine [ 46].
+The effects of omeprazole on the pharmacokinetics of
+antacids, bortezomib, ciproﬂoxacin extended release,gemiﬂoxacin, nifedipine, metoprolol, NSAIDs, iron and
+theophylline have also been investigated, with no clini-
+cally signiﬁcant ﬁndings [ 42,43,47,64–69]. Systematic
+clinical trials have shown conﬂicting results for interac-
+tions between omeprazole and ciclosporin, with elevated204 R.-S. Wedemeyer, H. BlumeTable 1 Pharmacokinetic interaction proﬁles of proton pump inhibitors (PPIs)
+Concomitant drug Effect of PPI on concomitant drug
+Esomeprazole Lansoprazole Omeprazole Pantoprazole-Na Rabeprazole
+Antacid Unknown Conﬂicting results [ 108,111] None [ 64] None [ 83] None [ 123]
+Phenazone (antipyrine) Unknown :Clearance [ 106] ;Clearance [ 125] None [ 84] Unknown
+Bortezomib Unknown Unknown None [ 42] Unknown Unknown
+Caffeine Unknown None [ 126] Conﬂicting results [ 126,127] None [ 85,126] Unknown
+Carbamazepine Unknown Unknown ;Clearance [ 128] None [ 86] Unknown
+Oral contraceptives Unknown Conﬂicting results [ 129] Unknown [ 125] None [ 98] Unknown
+Ciclosporin Unknown Unknown Conﬂicting results [ 70,71,130] None [ 88] Unknown
+Cinacalcet Unknown Unknown Unknown None [ 87] Unknown
+Ciproﬂoxacin ER Unknown Unknown None [ 43] Unknown Unknown
+Citalopram Unknown Unknown ;Clearancea[44] Unknown Unknown
+Clarithromycin Unknown Unknown None [ 45] None [ 45] Unknown
+Clopidogrel ;Absorption [ 39] None [ 39] ;Absorption [ 37] None [ 37] Unknown
+Diazepam ;Clearance [ 80–82,131] None [ 107] ;Clearance [ 53,54] None [ 82,89] Noneb[55]
+Diclofenac Unknown Unknown None [ 65] None [ 90] Unknown
+Digoxin Unknown Unknown :Absorption [ 132] Nonec[91] :Absorption [ 133]
+Ethanol Unknown None [ 134] None [ 134] None [ 92] Unknown
+Etravirine Unknown Unknown ;Clearance [ 46] Unknown Unknown
+Gemiﬂoxacin Unknown Unknown None [ 47] Unknown Unknown
+Glibenclamide Unknown Unknown Unknown None [ 93] Unknown
+Ivabradine Unknown None [ 48] None [ 48] Unknown Unknown
+Levothyroxine Unknown Unknown Unknown None [ 94] Unknown
+Metoprolol Unknown Unknown None [ 66] None [ 95] Unknown
+Naproxen Unknown Unknown None [ 65] None [ 96] Unknown
+Nifedipine Unknown Unknown :Absorption
+;Clearance [ 67]Noned[97] Unknown
+Phenprocoumon Unknown Unknown ;Clearance [ 63] None [ 99] Unknown
+Phenytoin ;Clearance [ 80,131] None [ 110] ;Clearance [ 54,58,135] None [ 100] None [ 120]
+Piroxicam Unknown Unknown None [ 65] None [ 101] Unknown
+Tacrolimus Unknown ;Clearance [ 117] Unknown None [ 102] None [ 117,122,136]
+Theophylline Unknown Conﬂicting results [ 113,114] None [ 68,113] None [ 103,113] None [ 121]
+Warfarin ;Clearancee[80,131] None [ 111] ;Clearancee[59–61] None [ 104] None [ 121]
+Table modiﬁed from Blume et al. [ 10]. Reprinted with permission (with additions for bortezomib [ 42], ciproﬂoxacin ER [ 43], citalopram [ 44], clarithromycin [ 45], clopidogrel [ 37,39], etravirine [ 46],
+gemiﬂoxacin [ 47] and ivabradine [ 48])
+;decreases, :increases, ERextended release
+a(?)-(S) enantiomer only
+bEffects were seen with the desmethyl metabolite of diazepam but were signiﬁcant only in CYP2C19-deﬁcient individuals
+cb-Acetyldigoxin
+dOnly for nifedipine sustained-release
+eOnly for R-warfarin; present in homozygous extensive metabolisersDrug Interactions with Proton Pump Inhibitors 205ciclosporin concentrations occurring in heart transplant
+patients [ 70] but not in renal transplant patients [ 71] fol-
+lowing coadministration of these agents.
+Compounds with a high afﬁnity for CYP3A4 (e.g.,
+ketoconazole or ﬂuconazole [ 72,73], clarithromycin [ 74]
+and moclobemide [ 75]) may affect the bioavailability of
+omeprazole by increasing its serum concentrations, but thisis only likely to be clinically relevant in those with
+CYP2C19 deﬁciency who metabolise omeprazole via the
+CYP3A4 metabolic pathway.
+Omeprazole kinetics are also affected via the CYP2C19
+pathway. Decreased plasma concentrations of omeprazoleand omeprazole sulphone occurred after administration of
+ginkgo biloba [ 76] or St. John’s wort [ 77]. Metabolism of
+omeprazole was reduced following administration of ﬂu-voxamine (extensive metabolisers only) [ 78], and the
+omeprazole AUC was increased following use of a com-
+bined oral contraceptive containing ethinyloestradiol [ 79]
+(see previous review for details [ 10]).
+In summary, several omeprazole-related drug interac-
+tions have been reported, although not all these interactionsare considered signiﬁcant. The number of reported inter-
+actions might be explained by the fact that omeprazole has
+been available longer than other PPIs (since 1989).
+3.2 Esomeprazole
+There are no additional new data for CYP-mediated
+interactions with esomeprazole. The 2006 review con-
+cluded that the interaction potentials of esomeprazole andracemic omeprazole seem not to differ signiﬁcantly [ 10].
+The authors reported that there were no apparent interac-
+tions between esomeprazole and drugs that are primarilymetabolised by CYP1A2, CYP2A6, CYP2C9, CYP2D6 or
+CYP2E1 [ 80]. Esomeprazole, however, does interact with
+compounds metabolised by CYP2C19 as shown in studiesusing phenytoin and R-warfarin, although interactions did
+not reach clinical signiﬁcance [ 80]. In addition, multiple
+doses of esomeprazole increased diazepam concentrationsand reduced diazepam elimination, but no similar changes
+were reported with pantoprazole-Na [ 81,82]. These effects
+with esomeprazole were manifested clinically as disruptedmotor coordination and vigilance [ 81,82].
+3.3 PantoprazoleSince the last review, pantoprazole-Na has been shown to
+have no signiﬁcant interactions with clopidogrel [ 37]. The
+authors of the previous review concluded that extensive
+studies in healthy volunteers and patients have shown
+that pantoprazole-Na has a low potential to interact withother medications [ 10]. There were no signiﬁcant meta-
+bolic interactions when combining pantoprazole-Na withantacids [ 83], phenazone (antipyrine) [ 84], caffeine [ 85],
+carbamazepine [ 86], cinacalcet [ 87], clarithromycin [ 45],
+ciclosporin [ 88], clopidogrel [ 37], diazepam [ 89], diclofe-
+nac [ 90],b-acetyldigoxin [ 91], ethanol [ 92], glibenclamide
+[93], levothyroxine sodium [ 94], metoprolol [ 95], naproxen
+[96], sustained-release nifedipine [ 97], oral contraceptives
+[98], phenprocoumon [ 99], phenytoin [ 100], piroxicam
+[101], tacrolimus [ 102], theophylline [ 103] or warfarin
+[104]. There was a slight, but clinically insigniﬁcant,
+interaction between pantoprazole-Na 40 mg and cisapride
+20 mg [ 105].
+Pantoprazole-magnesium (pantoprazole-Mg) is an
+improved formulation of pantoprazole that has been
+developed since the 2006 review. Pantoprazole-Mg was
+achieved by synthesizing a magnesium salt of the activeingredient, rather than a sodium salt as in pantoprazole-Na.
+Since pantoprazole-Na and pantoprazole-Mg are different
+salts of the same molecule, their drug interaction proﬁlesare expected to be similar.
+3.4 LansoprazoleThere have been no new CYP-mediated drug interaction
+studies with lansoprazole since the 2006 review [ 10]. As
+outlined previously, there are no clinically signiﬁcant
+interactions reported between lansoprazole and phenazone
+[106], diazepam [ 107], ivabradine [ 48], magaldrate [ 108],
+oral contraceptives [ 109], phenytoin [ 110], prednisolone
+[111], propranolol [ 111] or warfarin [ 112]. Increases in
+theophylline bioavailability following lansoprazoleadministration are not considered to be clinically signiﬁ-
+cant [ 113,114], and increased clearance of theophylline
+following lansoprazole use [ 115] was not seen consistently
+[113]. Lansoprazole decreased oral tacrolimus clearance,
+signiﬁcantly increasing blood tacrolimus concentration
+[116], particularly in those with CYP2C19 mutant alleles
+[116,117]. Finally, the CYP2C19 inhibitor ﬂuvoxamine
+had a signiﬁcant effect on lansoprazole metabolism
+(increased plasma concentrations) in extensive metabolis-ers for CYP2C19 but not in poor metabolisers [ 118].
+More recently, dexlansoprazole, the active enantiomer
+of lansoprazole, has been introduced into therapy. This
+compound is marketed with an innovative Dual Delayed
+ReleaseTMtechnology, which is designed to release the
+entire dose in two separate portions to allow prolongationof plasma concentration-time proﬁles after once-daily
+administration. Considering the mechanism of action of
+PPI with irreversible inhibition of the proton pump, clinicaladvantages of such a biopharmaceutical proﬁle should be
+carefully evaluated in therapeutic practice. Interactions
+of dexlansoprazole dual delayed release product havebeen investigated with diazepam, phenytoin, theophylline
+and warfarin as probe drugs (for interactions, e.g. with206 R.-S. Wedemeyer, H. BlumeCYP2C19, 2C9, 1A2 and 3A) and no impact on pharma-
+cokinetics of the compounds has been found [ 119].
+The interaction proﬁles of lansoprazole and dexlansop-
+razole have not been as thoroughly investigated as those ofomeprazole or pantoprazole-Na. Nonetheless, neither
+compound appears to be associated with major clinically
+relevant drug interactions.
+3.5 RabeprazoleInformation on drug interactions with rabeprazole has not
+changed since the 2006 review [ 10]. Drug interactions with
+rabeprazole are less well studied than those with omepra-
+zole or pantoprazole-Na, as evidenced by the large number
+of unknown results in Table 1. Most studies report inter-
+actions attributed to the group effect of all PPIs on gastric
+pH (e.g. interactions with digoxin [ 120] or ketoconazole
+[121]). Signiﬁcant CYP-mediated drug interactions with
+rabeprazole are generally not likely because rabeprazole
+has a low afﬁnity for a range of CYP isoenzymes [ 27].
+Further studies will prove useful to conﬁrm this. In the2006 review, rabeprazole was not found to be involved in
+metabolic drug interactions with theophylline [ 121], war-
+farin [ 121], phenytoin [ 120], tacrolimus [ 122] or antacids
+[123]. Its effect on the pharmacokinetics of the desmethyl
+metabolite of diazepam was signiﬁcant only in poor met-
+abolisers of S-mephenytoin 4
+0-hydroxylation (i.e., those
+deﬁcient in CYP2C19) [ 55].
+The CYP2C19 inhibitor ﬂuvoxamine had a signiﬁcant
+effect on rabeprazole metabolism in extensive metabolisersof CYP2C19, with increased AUC
+(0,?)and elimination
+half-life of rabeprazole and rabeprazole thioether in
+homozygous and heterozygous extensive metabolisers[124]. In contrast, there were no differences in any phar-
+macokinetic parameters in poor metabolisers (*2/*2).
+4 Conclusions
+A thorough review of the literature since 2006 has yielded
+additional PPI drug interactions modulated by gastric pH,
+such as those reported with mycophenolate mofetil [ 13,14,
+16], the instability of PPIs themselves at low pH [ 17], and
+the altered pharmacokinetics of several protease inhibitors
+(including atazanavir [ 19], nelﬁnavir [ 20], raltegravir [ 21],
+ritonavir [ 22–24], and indinavir [ 25]). There are, however,
+a few new CYP-mediated drug interaction studies, with the
+most notable being the new data on dexlansoprazole anddata for interactions between some PPIs and clopidogrel.
+Of clinical importance in recent years, CYP2C19-mediated
+interaction seems to exist between clopidogrel and ome-prazole or esomeprazole, an effect not seen in PPIs as a
+class [ 35–37,39]. In addition, the effects of omeprazoleand esomeprazole on platelet aggregation when coadmin-
+istered with acetylsalicylic acid cannot be ruled out without
+additional research. Finally, coadministration of PPIs with
+methotrexate may affect methotrexate pharmacokinetics,although the mechanism of interaction is not well under-
+stood [ 52].
+Overall, the conclusions from the 2006 review still
+remain relevant. Lansoprazole, pantoprazole-Na and rab-
+eprazole appear to be associated with lower incidences of
+drug interactions than omeprazole and esomeprazole,
+resulting either from their lower afﬁnity for speciﬁc CYP
+isoenzymes or the involvement of additional eliminationprocesses. However, only the interaction proﬁle of pan-
+toprazole-Na has been well characterised.
+With little difference among the PPIs in terms of clinical
+efﬁcacy at equivalent doses, differences in drug interaction
+propensities become important factors in prescribing
+decisions, particularly in patients who are taking multipleconcomitant medications (such as the elderly) or those
+receiving drugs with a narrow therapeutic window. A PPI
+with a well proven low risk of drug interactions would bethe favourable choice in these patients.
+Acknowledgements Henning Blume and Ralph-Steven Wedemeyer
+declared no conﬂict of interest relevant to this manuscript.
+HB and R-SW were responsible for writing and reviewing all drafts
+of the manuscript and approving the ﬁnal draft.
+Editorial support was provided by Susan Cheer, Freelance Writing
+Works, Queenstown, New Zealand, who received funding from
+Takeda Pharmaceuticals International GmbH. No other funding was
+provided for this manuscript.
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in anymedium, provided the original author(s) and the source are credited.
+References
+1. Chiba N, De Gara CJ, Wilkinson JM, et al. Speed of healing and
+symptom relief in grade II to IV gastroesophageal reﬂux disease:a meta-analysis. Gastroenterology. 1997;112(6):1798–810.
+2. Dammann HG. Pantoprazole: a pharmacological and clinical
+proﬁle. Today’s Ther Trends. 1997;15:109–36.
+3. Cheer SM, Prakash A, Faulds D, et al. Pantoprazole: an update of
+its pharmacological properties and therapeutic use in the man-
+agement of acid-related disorders. Drugs. 2003;63(1):101–33.
+4. Welage LS, Berardi RR. Evaluation of omeprazole, lansopraz-
+ole, pantoprazole, and rabeprazole in the treatment of acid-
+related diseases. J Am Pharm Assoc (Wash). 2000;40(1):52–62
+quiz 121–3.
+5. Lanza FL, Members of the Ad Hoc Committee on Practice
+Parameters of the American College of Gastroenterology. A
+guideline for the treatment and prevention of NSAID-induced
+ulcers. Am J Gastroenterol. 1998;93(11):2037–46.
+6. Singh G, Triadaﬁlopoulos G. Appropriate choice of proton
+pump inhibitor therapy in the prevention and management ofDrug Interactions with Proton Pump Inhibitors 207NSAID-related gastrointestinal damage. Int J Clin Pract.
+2005;59(10):1210–7.
+7. Hanlon JT, Schmader KE, Koronkowski MJ, et al. Adverse drug
+events in high risk older outpatients. J Am Geriatr Soc.
+1997;45(8):945–8.
+8. Lazarou J, Pomeranz BH, Corey PN. Incidence of adverse drug
+reactions in hospitalized patients: a meta-analysis of prospectivestudies. JAMA. 1998;279(15):1200–5.
+9. Ramirez FC. Diagnosis and treatment of gastroesophageal reﬂux
+disease in the elderly. Clevel Clin J Med. 2000;67(10):755–66.
+10. Blume H, Donath F, Warnke A, et al. Pharmacokinetic drug
+interaction proﬁles of proton pump inhibitors. Drug Saf.
+2006;29(9):769–84.
+11. Chin TW, Loeb M, Fong IW. Effects of an acidic beverage
+(Coca-Cola) on absorption of ketoconazole. Antimicrob AgentsChemother. 1995;39(8):1671–5.
+12. Jaruratanasirikul S, Sriwiriyajan S. Effect of omeprazole on the
+pharmacokinetics of itraconazole. Eur J Clin Pharmacol.1998;54(2):159–61.
+13. Koﬂer S, Deutsch MA, Bigdeli AK, et al. Proton pump inhibitor
+co-medication reduces mycophenolate acid drug exposure inheart transplant recipients. J Heart Lung Transpl. 2009;28(6):605–11.
+14. Schaier M, Scholl C, Scharpf D, et al. Proton pump inhibitors
+interfere with the immunosuppressive potency of mycopheno-late mofetil. Rheumatology (Oxford). 2010;49(11):2061–7.
+15. Koﬂer S, Wolf C, Shvets N, et al. The proton pump inhibitor
+pantoprazole and its interaction with enteric-coated mycophen-
+olate sodium in transplant recipients. J Heart Lung Transpl.2011;30(5):565–71.
+16. Rupprecht K, Schmidt C, Raspe A, et al. Bioavailability of
+mycophenolate mofetil and enteric-coated mycophenolatesodium is differentially affected by pantoprazole in healthyvolunteers. J Clin Pharmacol. 2009;49(10):1196–201.
+17. Arai K, Takeuchi Y, Watanabe H, et al. Prokinetics inﬂuence the
+pharmacokinetics of rabeprazole. Digestion. 2008;78:7–71.
+18. Takeuchi Y, Watanabe H, Imawari M. Mosapride citrate, a sero-
+tonin HT 4 selective agonist, beneﬁcially affects pharmacokinetics
+of proton pump inhibitor. Gastroenterology. 2005;128:A531.
+19. Tomilo DL, Smith PF, Ogundele AB, et al. Inhibition of ataz-
+anavir oral absorption by lansoprazole gastric acid suppressionin healthy volunteers. Pharmacotherapy. 2006;26(3):341–6.
+20. Fang AF, Damle BD, LaBadie RR, et al. Signiﬁcant decrease in
+nelﬁnavir systemic exposure after omeprazole coadministrationin healthy subjects. Pharmacotherapy. 2008;28(1):42–50.
+21. Iwamoto M, Wenning LA, Nguyen BY, et al. Effects of ome-
+prazole on plasma levels of raltegravir. Clin Infect Dis.2009;48(4):489–92.
+22. Overton ET, Tschampa JM, Klebert M, et al. The effect of acid
+reduction with a proton pump inhibitor on the pharmacokinetics
+of lopinavir or ritonavir in HIV-infected patients on lopinavir/ritonavir-based therapy. J Clin Pharmacol. 2010;50(9):1050–5.
+23. Singh K, Dickinson L, Chaikan A, et al. Pharmacokinetics and
+safety of saquinavir/ritonavir and omeprazole in HIV-infected
+subjects. Clin Pharmacol Ther. 2008;83(6):867–72.
+24. Winston A, Back D, Fletcher C, et al. Effect of omeprazole
+on the pharmacokinetics of saquinavir-500 mg formulation
+with ritonavir in healthy male and female volunteers. AIDS.2006;20(10):1401–6.
+25. Tappouni HL, Rublein JC, Donovan BJ, et al. Effect of ome-
+prazole on the plasma concentrations of indinavir when
+administered alone and in combination with ritonavir. Am JHealth Syst Pharm. 2008;65(5):422–8.
+26. Pauli-Magnus C, Rekersbrink S, Klotz U, et al. Interaction of
+omeprazole, lansoprazole and pantoprazole with P-glycoprotein.
+Naunyn Schmiedebergs Arch Pharmacol. 2001;364(6):551–7.27. Gerson LB, Triadaﬁlopoulos G. Proton pump inhibitors and
+their drug interactions: an evidence-based approach. Eur J
+Gastroenterol Hepatol. 2001;13(5):611–6.
+28. Laine L. Proton pump inhibitor co-therapy with clopidogrel: is
+there GI beneﬁt or cardiovascular harm? Gastroenterology.
+2011;140(3):769–72.
+29. Kwok CS, Loke YK. Meta-analysis: the effects of proton pump
+inhibitors on cardiovascular events and mortality in patients
+receiving clopidogrel. Aliment Pharmacol Ther. 2010;31(8):
+810–23.
+30. Lima JP, Brophy JM. The potential interaction between clopi-
+dogrel and proton pump inhibitors: a systematic review. BMC
+Med. 2010;8:81.
+31. Bates ER, Lau WC, Angiolillo DJ. Clopidogrel-drug interac-
+tions. J Am Coll Cardiol. 2011;57(11):1251–63.
+32. Ogawa R, Echizen H. Drug–drug interaction proﬁles of proton
+pump inhibitors. Clin Pharmacokinet. 2010;49(8):509–33.
+33. Chen J, Yuan YC, Leontiadis GI, et al. Recent safety concerns
+with proton pump inhibitors. J Clin Gastroenterol. 2012;46:
+93–114.
+34. Kwok CS, Loke YK. Effects of proton pump inhibitors on
+platelet function in patients receiving clopidogrel: a systematicreview. Drug Saf. 2012;35(2):127–39.
+35. Ho PM, Maddox TM, Wang L, et al. Risk of adverse outcomes
+associated with concomitant use of clopidogrel and proton pumpinhibitors following acute coronary syndrome. JAMA. 2009;301(9):937–44.
+36. Juurlink DN, Gomes T, Ko DT, et al. A population-based study
+of the drug interaction between proton pump inhibitors andclopidogrel. CMAJ. 2009;180(7):713–8.
+37. Angiolillo DJ, Gibson CM, Cheng S, et al. Differential effects of
+omeprazole and pantoprazole on the pharmacodynamics andpharmacokinetics of clopidogrel in healthy subjects: random-ized, placebo-controlled, crossover comparison studies. Clin
+Pharmacol Ther. 2011;89(1):65–74.
+38. Li XQ, Andersson TB, Ahlstrom M, et al. Comparison of
+inhibitory effects of the proton pump-inhibiting drugs omepra-zole, esomeprazole, lansoprazole, pantoprazole, and rabeprazole
+on human cytochrome P450 activities. Drug Metab Dispos.
+2004;32(8):821–7.
+39. Frelinger AL, Lee RD, Mulford DJ, et al. A randomized,
+2-period, crossover design study to assess the effects of dex-
+lansoprazole, lansoprazole, esomeprazole, and omeprazole on
+the steady-state pharmacokinetics and pharmacodynamics ofclopidogrel in healthy volunteers. J Am Coll Cardiol. 2012;59:
+1304–11.
+40. Small DS, Farid NA, Payne CD, et al. Effects of the proton
+pump inhibitor lansoprazole on the pharmacokinetics andpharmacodynamics of prasugrel and clopidogrel. J Clin Phar-
+macol. 2008;48(4):475–84.
+41. BMS. Plavix prescribing information. 2011. http://products.
+sanoﬁ.us/plavix/plavix.html . Last accessed 23 April 2012.
+42. Quinn DI, Nemunaitis J, Fuloria J, et al. Effect of the cyto-
+chrome P450 2C19 inhibitor omeprazole on the pharmacoki-
+netics and safety proﬁle of bortezomib in patients with advancedsolid tumours, non-Hodgkin’s lymphoma or multiple myeloma.
+Clin Pharmacokinet. 2009;48(3):199–209.
+43. Washington C, Hou E, Hughes N, et al. Effect of omeprazole on
+bioavailability of an oral extended-release formulation of cip-roﬂoxacin. Am J Health Syst Pharm. 2006;63(7):653–6.
+44. Rocha A, Coelho EB, Sampaio SA, et al. Omeprazole prefer-
+entially inhibits the metabolism of ( ?)-(S)-citalopram in healthy
+volunteers. Br J Clin Pharmacol. 2010;70(1):43–51.
+45. Calabresi L, Pazzucconi F, Ferrara S, et al. Pharmacokinetic
+interactions between omeprazole/pantoprazole and clarithro-
+mycin in health volunteers. Pharmacol Res. 2004;49(5):493–9.208 R.-S. Wedemeyer, H. Blume46. Scholler-Gyure M, Kakuda TN, De Smedt G, et al. A pharma-
+cokinetic study of etravirine (TMC125) co-administered with
+ranitidine and omeprazole in HIV-negative volunteers. Br J ClinPharmacol. 2008;66(4):508–16.
+47. Allen A, Vousden M, Lewis A. Effect of omeprazole on the
+pharmacokinetics of oral gemiﬂoxacin in healthy volunteers.Chemotherapy. 1999;45(6):496–503.
+48. Portoles A, Calvo A, Terleira A, et al. Lack of pharmacokinetic
+interaction between omeprazole or lansoprazole and ivabradine
+in healthy volunteers: an open-label, randomized, crossover,pharmacokinetic interaction clinical trial. J Clin Pharmacol.2006;46(10):1195–203.
+49. Wurtz M, Grove EL, Kristensen SD, et al. The antiplatelet effect
+of aspirin is reduced by proton pump inhibitors in patients withcoronary artery disease. Heart. 2010;96(5):368–71.
+50. Kasprzak M, Kozinski M, Bielis L, et al. Pantoprazole may
+enhance antiplatelet effect of enteric-coated aspirin in patients
+with acute coronary syndrome. Cardiol J. 2009;16(6):535–44.
+51. Adamopoulos AB, Sakizlis GN, Nasothimiou EG, et al. Do
+proton pump inhibitors attenuate the effect of aspirin on platelet
+aggregation? A randomized crossover study. J CardiovascPharmacol. 2009;54(2):163–8.
+52. Bezabeh S, Mackey AC, Kluetz P, et al. Accumulating evidence
+for a drug-drug interaction between methotrexate and proton
+pump inhibitors. Oncologist. 2012;17(4):550–4.
+53. Andersson T, Cederberg C, Edvardsson G, et al. Effect of
+omeprazole treatment on diazepam plasma levels in slow versus
+normal rapid metabolizers of omeprazole. Clin Pharmacol Ther.
+1990;47(1):79–85.
+54. Gugler R, Jensen JC. Omeprazole inhibits oxidative drug metab-
+olism. Studies with diazepam and phenytoin in vivo and 7-eth-
+oxycoumarin in vitro. Gastroenterology. 1985;89(6):1235–41.
+55. Ishizaki T, Chiba K, Manabe K, et al. Comparison of the
+interaction potential of a new proton pump inhibitor, E3810,
+versus omeprazole with diazepam in extensive and poor me-
+tabolizers of S-mephenytoin 4
+0-hydroxylation. Clin Pharmacol
+Ther. 1995;58(2):155–64.
+56. Funck-Brentano C, Becquemont L, Lenevu A, et al. Inhibition
+by omeprazole of proguanil metabolism: mechanism of the
+interaction in vitro and prediction of in vivo results from thein vitro experiments. J Pharmacol Exp Ther. 1997;280(2):730–8.
+57. Yu KS, Yim DS, Cho JY, et al. Effect of omeprazole on the
+pharmacokinetics of moclobemide according to the genetic
+polymorphism of CYP2C19. Clin Pharmacol Ther. 2001;69(4):266–73.
+58. Prichard PJ, Walt RP, Kitchingman GK, et al. Oral phenytoin
+pharmacokinetics during omeprazole therapy. Br J Clin Phar-macol. 1987;24(4):543–5.
+59. Sutﬁn T, Balmer K, Bostrom H, et al. Stereoselective interaction
+of omeprazole with warfarin in healthy men. Ther Drug Monit.
+1989;11(2):176–84.
+60. Unge P, Svedberg LE, Nordgren A, et al. A study of the inter-
+action of omeprazole and warfarin in anticoagulated patients. Br
+J Clin Pharmacol. 1992;34(6):509–12.
+61. Uno T, Sugimoto K, Sugawara K, et al. The role of cytochrome
+P2C19 in R-warfarin pharmacokinetics and its interaction with
+omeprazole. Ther Drug Monit. 2008;30(3):276–81.
+62. Grass U. Drug interactions with proton pump inhibitors: cases
+reported internationally from medical practice [in German]. DerKassenarzt. 2000;43:32–9.
+63. Enderle C, Muller W, Grass U. Drug interaction: omeprazole
+and phenprocoumon. BMC Gastroenterol. 2001;1:2.
+64. Iwao K, Saitoh H, Takeda K, et al. Decreased plasma levels of
+omeprazole after coadministration with magnesium-aluminium
+hydroxide dry suspension granules. Yakugaku Zasshi. 1999;119(3):
+221–8.65. Andersson T, Bredberg E, Lagerstrom PO, et al. Lack of drug-
+drug interaction between three different non-steroidal anti-
+inﬂammatory drugs and omeprazole. Eur J Clin Pharmacol.1998;54(5):399–404.
+66. Andersson T, Lundborg P, Regardh CG. Lack of effect of
+omeprazole treatment on steady-state plasma levels of meto-prolol. Eur J Clin Pharmacol. 1991;40(1):61–5.
+67. Soons PA, van den Berg G, Danhof M, et al. Inﬂuence of single-
+and multiple-dose omeprazole treatment on nifedipine pharma-
+cokinetics and effects in healthy subjects. Eur J Clin Pharmacol.1992;42(3):319–24.
+68. Taburet AM, Geneve J, Bocquentin M, et al. Theophylline
+steady state pharmacokinetics is not altered by omeprazole. Eur
+J Clin Pharmacol. 1992;42(3):343–5.
+69. Koop H, Bachem MG. Serum iron, ferritin, and vitamin B12
+during prolonged omeprazole therapy. J Clin Gastroenterol.
+1992;14(4):288–92.
+70. Reichenspurner H, Meiser BM, Muschiol F, et al. The inﬂuence
+of gastrointestinal agents on resorption and metabolism of
+cyclosporine after heart transplantation: experimental and clin-
+ical results. J Heart Lung Transpl. 1993;12(6 Pt 1):987–92.
+71. Blohme I, Idstrom JP, Andersson T. A study of the interaction
+between omeprazole and cyclosporine in renal transplant
+patients. Br J Clin Pharmacol. 1993;35(2):156–60.
+72. Bottiger Y, Tybring G, Gotharson E, et al. Inhibition of the
+sulfoxidation of omeprazole by ketoconazole in poor andextensive metabolizers of S-mephenytoin. Clin Pharmacol Ther.
+1997;62(4):384–91.
+73. Kang BC, Yang CQ, Cho HK, et al. Inﬂuence of ﬂuconazole on
+the pharmacokinetics of omeprazole in healthy volunteers. Bi-
+opharm Drug Dispos. 2002;23(2):77–81.
+74. Furuta T, Ohashi K, Kobayashi K, et al. Effects of clarithro-
+mycin on the metabolism of omeprazole in relation to CYP2C19genotype status in humans. Clin Pharmacol Ther. 1999;66(3):
+265–74.
+75. Cho JY, Yu KS, Jang IJ, et al. Omeprazole hydroxylation is
+inhibited by a single dose of moclobemide in homozygotic EMgenotype for CYP2C19. Br J Clin Pharmacol. 2002;53(4):
+393–7.
+76. Yin OQ, Tomlinson B, Waye MM, et al. Pharmacogenetics and
+herb–drug interactions: experience with Ginkgo biloba andomeprazole. Pharmacogenetics. 2004;14(12):841–50.
+77. Wang LS, Zhou G, Zhu B, et al. St John’s wort induces both
+cytochrome P450 3A4-catalyzed sulfoxidation and 2C19-dependent hydroxylation of omeprazole. Clin Pharmacol Ther.
+2004;75(3):191–7.
+78. Yasui-Furukori N, Takahata T, Nakagami T, et al. Different
+inhibitory effect of ﬂuvoxamine on omeprazole metabolismbetween CYP2C19 genotypes. Br J Clin Pharmacol. 2004;57(4):
+487–94.
+79. Palovaara S, Tybring G, Laine K. The effect of ethinyloestradiol
+and levonorgestrel on the CYP2C19-mediated metabolism ofomeprazole in healthy female subjects. Br J Clin Pharmacol.
+2003;56(2):232–7.
+80. Andersson T, Hassan-Alin M, Hasselgren G, et al. Drug inter-
+action studies with esomeprazole, the (S)-isomer of omeprazole.
+Clin Pharmacokinet. 2001;40(7):523–37.
+81. Drewelow B, Schafﬂer K, Reitmeir P. Superior interaction
+proﬁle of pantoprazole vs esomeprazole after single dose diaz-epam regarding pharmacodynamic (PD) and kinetic (PK)
+parameters. Can J Gastroenterol. 2006;20(Suppl. A):144.
+82. Drewelow B, Schafﬂer K, Reitmeir P, et al. Effects of multiple-
+dose esomeprazole and pantoprazole on diazepam pharmacoki-netic proﬁle and pharmacodynamic effects on cognitive and
+psychomotor function in healthy volunteers. Arzneimittelfors-
+chung. 2010;60(8):483–91.Drug Interactions with Proton Pump Inhibitors 20983. Hartmann M, Bliesath H, Huber R, et al. Simultaneous intake of
+antacids has no inﬂuence on the pharmacokinetics of the gastric
+H?/K?-ATPase inhibitor pantoprazole. Gut. 1994;35(Suppl.
+4):A76.
+84. De Mey C, Meineke I, Steinijans VW, et al. Pantoprazole lacks
+interaction with antipyrine in man, either by inhibition orinduction. Int J Clin Pharmacol Ther. 1994;32(2):98–106.
+85. Hartmann M, Zech K, Bliesath H, et al. Pantoprazole lacks
+induction of CYP1A2 activity in man. Int J Clin Pharmacol
+Ther. 1999;37(4):159–64.
+86. Huber R, Bliesath H, Hartmann M, et al. Pantoprazole does not
+interact with the pharmacokinetics of carbamazepine. Int J Clin
+Pharmacol Ther. 1998;36(10):521–4.
+87. Padhi D, Harris R, Salﬁ M, et al. Cinacalcet HCl absorption in
+study subjects is not affected by coadministration of medicationscommonly prescribed to chronic kidney disease (CKD) patients
+(pantoprazole, sevelamer HCl, and calcium carbonate). J Am
+Soc Nephrol. 2003;14:SA-PO744.
+88. Lorf T, Ramadori G, Ringe B, et al. Pantoprazole does not affect
+cyclosporin A blood concentration in kidney-transplant patients.
+Eur J Clin Pharmacol. 2000;55(10):733–5.
+89. Gugler R, Hartmann M, Rudi J, et al. Lack of pharmacokinetic
+interaction of pantoprazole with diazepam in man. Br J Clin
+Pharmacol. 1996;42(2):249–52.
+90. Bliesath H, Huber R, Steinijans VW, et al. Lack of pharmaco-
+kinetic interaction between pantoprazole and diclofenac. Int JClin Pharmacol Ther. 1996;34(4):152–6.
+91. Hartmann M, Huber R, Bliesath H, et al. Lack of interaction
+between pantoprazole and digoxin at therapeutic doses in man.Int J Clin Pharmacol Ther. 1996;34(1 Suppl.):S67–71.
+92. Heinze H, Fischer R, Pfutzer R, et al. Lack of interaction
+between pantoprazole and ethanol. Clin Drug Invest. 2001;2001(21):345–51.
+93. Walter-Sack IE, Bliesath H, Stotzer F, et al. Lack of pharma-
+cokinetic and pharmacodynamic interaction between pantop-
+razole and glibenclamide in humans. Clin Drug Invest.1998;15:253–60.
+94. Dietrich JW, Gieselbrecht K, Holl RW, et al. Absorption
+kinetics of levothyroxine is not altered by proton-pump inhibitor
+therapy. Horm Metab Res. 2006;38(1):57–9.
+95. Koch HJ, Hartmann M, Bliesath H, et al. Pantoprazole has no
+inﬂuence on steady state pharmacokinetics and pharmacody-
+namics of metoprolol in healthy volunteers. Int J Clin Pharmacol
+Ther. 1996;34(10):420–3.
+96. Hartmann M, Schulz HU, Krupp S, et al. Pantoprazole lacks
+interaction with the NSAID naproxen in man. Gut. 2000;47:
+A85.
+97. Bliesath H, Huber R, Steinijans VW, et al. Pantoprazole does
+not interact with nifedipine in man under steady-state condi-
+tions. Int J Clin Pharmacol Ther. 1996;34(2):51–5.
+98. Middle MV, Muller FO, Schall R, et al. Effect of pantoprazole
+on ovulation suppression by a low-dose hormonal contraceptive.Clin Drug Invest. 1995;9:54–6.
+99. Ehrlich A, Fuder H, Hartmann M, et al. Lack of pharmacody-
+namic and pharmacokinetic interaction between pantoprazoleand phenprocoumon in man. Eur J Clin Pharmacol.
+1996;51(3–4):277–81.
+100. Middle MV, Muller FO, Schall R, et al. No inﬂuence of pan-
+toprazole on the pharmacokinetics of phenytoin. Int J ClinPharmacol Ther. 1995;33(5):304–7.
+101. Bliesath H, Hartmann H, Maier J, et al. Lack of interaction
+between pantoprazole and piroxicam in man. Gut. 2000;47:A85.
+102. Lorf T, Ramadori G, Ringe B, et al. The effect of pantoprazole
+on tacrolimus and cyclosporin A blood concentration in trans-
+plant recipients. Eur J Clin Pharmacol. 2000;56(5):439–40.103. Schulz HU, Hartmann M, Steinijans VW, et al. Lack of inﬂu-
+ence of pantoprazole on the disposition kinetics of theophylline
+in man. Int J Clin Pharmacol Ther Toxicol. 1991;29(9):369–75.
+104. Duursema L, Muller FO, Schall R, et al. Lack of effect of
+pantoprazole on the pharmacodynamics and pharmacokinetics
+of warfarin. Br J Clin Pharmacol. 1995;39(6):700–3.
+105. Ferron GM, Paul JC, Fruncillo RJ, et al. Lack of pharmacoki-
+netic interaction between oral pantoprazole and cisapride in
+healthy adults. J Clin Pharmacol. 1999;39(9):945–50.
+106. St Peter JV, Awni WM, Granneman GR, et al. The effects of
+lansoprazole on the disposition of antipyrine and indocyaninegreen in normal human subjects. Am J Ther. 1995;2(8):561–8.
+107. Lefebvre RA, Flouvat B, Karolac-Tamisier S, et al. Inﬂuence of
+lansoprazole treatment on diazepam plasma concentrations. ClinPharmacol Ther. 1992;52(5):458–63.
+108. Gerloff J, Barth H, Migot A, et al. Does the proton pump
+inhibitor lansoprazole interact with antacids. Arch Pharmacol.
+1993;347:A124.
+109. Fuchs W, Sennewald R, Klotz U. Lansoprazole does not affect
+the bioavailability of oral contraceptives. Br J Clin Pharmacol.
+1994;38(4):376–80.
+110. Karol MD, Locke CS, Cavanaugh JH. Lack of pharmacokinetic
+interaction between lansoprazole and intravenously adminis-
+tered phenytoin. J Clin Pharmacol. 1999;39(12):1283–9.
+111. Gremse DA. Lansoprazole: pharmacokinetics, pharmacody-
+namics and clinical uses. Expert Opin Pharmacother. 2001;2(10):1663–70.
+112. Landes BD, Petite JP, Flouvat B. Clinical pharmacokinetics of
+lansoprazole. Clin Pharmacokinet. 1995;28(6):458–70.
+113. Dilger K, Zheng Z, Klotz U. Lack of drug interaction between
+omeprazole, lansoprazole, pantoprazole and theophylline. Br J
+Clin Pharmacol. 1999;48(3):438–44.
+114. Granneman GR, Karol MD, Locke CS, et al. Pharmacokinetic
+interaction between lansoprazole and theophylline. Ther Drug
+Monit. 1995;17(5):460–4.
+115. Kokufu T, Ihara N, Sugioka N, et al. Effects of lansoprazole on
+pharmacokinetics and metabolism of theophylline. Eur J ClinPharmacol. 1995;48(5):391–5.
+116. Takahashi K, Motohashi H, Yonezawa A, et al. Lansoprazole-
+tacrolimus interaction in Japanese transplant recipient withCYP2C19 polymorphism. Ann Pharmacother. 2004;38(5):791–4.
+117. Itagaki F, Homma M, Yuzawa K, et al. Effect of lansoprazole
+and rabeprazole on tacrolimus pharmacokinetics in healthyvolunteers with CYP2C19 mutations. J Pharm Pharmacol.
+2004;56(8):1055–9.
+118. Yasui-Furukori N, Saito M, Uno T, et al. Effects of ﬂuvoxamine
+on lansoprazole pharmacokinetics in relation to CYP2C19
+genotypes. J Clin Pharmacol. 2004;44(11):1223–9.
+119. Vakily M, Lee RD, Wu J, et al. Drug interaction studies with
+dexlansoprazole modiﬁed release (TAK-390MR), a protonpump inhibitor with a dual delayed-release formulation: resultsof four randomized, double-blind, crossover, placebo-controlled,
+single-centre studies. Clin Drug Investig. 2009;29(1):35–50.
+120. Humphries TJ. A review of the drug–drug interaction potential
+of rabeprazole sodium based on CYP-450 interference or
+absorption effects. Digestion. 1998;59(Suppl. 3):76.
+121. Humphries TJ, Nardi RV, Spera AC, et al. Coadministration of
+rabeprazole sodium (E3810) does not affect the pharmacoki-netics of anhydrous theophylline or warfarin. Gastroenterology.
+1996;110:A138.
+122. Itagaki F, Homma M, Yuzawa K, et al. Drug interaction of
+tacrolimus and proton pump inhibitors in renal transplantrecipients with CYP2C19 gene mutation. Transpl Proc. 2002;
+34(7):2777–8.210 R.-S. Wedemeyer, H. Blume123. Yasuda S, Higashi S, Murakami M, et al. Antacids have no
+inﬂuence on the pharmacokinetics of rabeprazole, a new proton
+pump inhibitor, in healthy volunteers. Int J Clin Pharmacol Ther.1999;37(5):249–53.
+124. Uno T, Shimizu M, Yasui-Furukori N, et al. Different effects of
+ﬂuvoxamine on rabeprazole pharmacokinetics in relation toCYP2C19 genotype status. Br J Clin Pharmacol. 2006;61(3):309–14.
+125. Humphries TJ, Merritt GJ. Review article: drug interactions with
+agents used to treat acid-related diseases. Aliment PharmacolTher. 1999;13(Suppl. 3):18–26.
+126. Andersson T, Holmberg J, Rohss K, et al. Pharmacokinetics and
+effect on caffeine metabolism of the proton pump inhibitors,
+omeprazole, lansoprazole, and pantoprazole. Br J Clin Phar-macol. 1998;45(4):369–75.
+127. Rost KL, Roots I. Accelerated caffeine metabolism after ome-
+prazole treatment is indicated by urinary metabolite ratios:
+coincidence with plasma clearance and breath test. Clin Phar-macol Ther. 1994;55(4):402–11.
+128. Naidu MUR, Shobha JC, Dixit VK, et al. Effect of multiple dose
+omeprazole on the pharmacokinetics of carbamazepine. DrugInvest. 1994;7:8–12.
+129. Colin-Jones DG. Safety of lansoprazole. Aliment Pharmacol
+Ther. 1993;7(Suppl. 1):56–60 discussion 1–6.130. Schouler L, Dumas F, Couzigou P, et al. Omeprazole-cyclo-
+sporin interaction. Am J Gastroenterol. 1991;86(8):1097.
+131. Andersson T, Hassan-Alin M, Hasselgren G, et al. Pharmaco-
+kinetic studies with esomeprazole, the (S)-isomer of omepra-
+zole. Clin Pharmacokinet. 2001;40(6):411–26.
+132. Oosterhuis B, Jonkman JH, Andersson T, et al. Minor effect of
+multiple dose omeprazole on the pharmacokinetics of digoxinafter a single oral dose. Br J Clin Pharmacol. 1991;32(5):
+569–72.
+133. Fuhr U, Jetter A. Rabeprazole: pharmacokinetics and pharma-
+cokinetic drug interactions. Pharmazie. 2002;57(9):595–601.
+134. Battison L, Tulissi P, Moretti M, et al. Lansoprazole and ethanol
+metabolism: comparison with omeprazole and cimetidine.
+Pharmacol Toxicol. 1997;81:247–52.
+135. Andersson T, Lagerstrom PO, Unge P. A study of the interaction
+between omeprazole and phenytoin in epileptic patients. Ther
+Drug Monit. 1990;12(4):329–33.
+136. Hosohata K, Masuda S, Yonezawa A, et al. Absence of inﬂuence
+of concomitant administration of rabeprazole on the pharma-
+cokinetics of tacrolimus in adult living-donor liver transplant
+patients: a case-control study. Drug Metab Pharmacokinet.2009;24(5):458–63.Drug Interactions with Proton Pump Inhibitors 211

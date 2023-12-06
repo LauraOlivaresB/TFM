@@ -1,0 +1,1099 @@
+Practice research rePort 
+Address correspondence to Dr. Reese 
+(Thomas.Reese@vumc.org).
+© American Society of Health-System 
+Pharmacists 2022. All rights reserved. 
+For permissions, please e-mail: journals.
+permissions@oup.com.
+https://doi.org/10.1093/ajhp/zxac045thomas reese, PharmD, PhD,  
+Department of Biomedical Informatics, 
+Vanderbilt University Medical Center, 
+Nashville, TN, USA
+adam Wright, PhD, Department of 
+Biomedical Informatics, Vanderbilt 
+University Medical Center, Nashville, TN, 
+USA
+siru Liu, PhD, Department of 
+Biomedical Informatics, Vanderbilt 
+University Medical Center, Nashville, TN, 
+USA
+richard Boyce, PhD, Department of 
+Biomedical Informatics, University of 
+Pittsburgh, Pittsburgh, PA, USA
+andrew romero, PharmD, Department 
+of Pharmacy, Banner University Medical 
+Center, Tucson, AZ, USA
+Guilherme Del Fiol, MD, PhD, 
+Department of Biomedical Informatics, 
+University of Utah, Salt Lake City, UT, 
+USA
+Kensaku Kawamoto, MD, PhD, Mhs, 
+Department of Biomedical Informatics, 
+University of Utah, Salt Lake City, UT, 
+USA
+Daniel Malone, rPh, PhD, University 
+of Utah College of Pharmacy, Salt Lake 
+City, UT, USAPurpose. Inaccurate and nonspecific medication alerts contribute to high 
+override rates, alert fatigue, and ultimately patient harm. Drug-drug inter -
+action (DDI) alerts often fail to account for factors that could reduce risk; 
+further, drugs that trigger alerts are often inconsistently grouped into value 
+sets. Toward improving the specificity of DDI alerts, the objectives of this 
+study were to (1) highlight the inconsistency of drug value sets for trigger -
+ing DDI alerts and (2) demonstrate a method of classifying factors that can 
+be used to modify the risk of harm from a DDI.
+Methods. This was a proof-of-concept study focused on 15 well-known 
+DDIs. Using 3 drug interaction references, we extracted 2 drug value sets 
+and any available order- and patient-related factors for each DDI. Fleiss’ 
+kappa was used to measure the consistency of value sets among refer -
+ences. Risk-modifying factors were classified as order parameters (eg, 
+route and dose) or patient characteristics (eg, comorbidities and labora-
+tory results).
+results. Seventeen value sets (56%) had nonsignificant agreement. 
+Agreement among the remaining 13 value sets was on average moder -
+ate. Thirty-three factors that could reduce risk in 14 of 15 DDIs (93%) 
+were identified. Most risk-modifying factors (67%) were classified as order 
+parameters.
+conclusion. This study demonstrates the importance of increasing the 
+consistency of drug value sets that trigger DDI alerts and how alert speci-
+ficity and usefulness can be improved with risk-modifying factors obtained 
+from drug references. It may be difficult to operationalize certain factors to 
+reduce unnecessary alerts; however, factors can be used to support deci-
+sions by providing contextual information.
+Keywords: alerts, clinical decision support, drug-drug interactions,  
+interoperability
+Am J Health-Syst Pharm. 2022;79:1086-1095
+Clinical decision support (CDS) has 
+the potential to prevent harmful 
+drug-drug interactions (DDIs); how -
+ever, greater than 90% of DDI alerts are 
+overridden (ie, ignored or dismissed).1 
+Despite clinicians deeming most DDI 
+alerts as “not clinically significant, ” 
+more than half of alert overrides are in -
+appropriate.2,3 Inappropriate overrides 
+result in approximately 6 times more 
+adverse drug events compared to appro -
+priate overrides.4 Numerous irrelevant 
+DDI alerts can desensitize clinicians, 
+whereby important patient safety alerts are overridden, a phenomenon called 
+alert fatigue.5 Excessive override rates 
+and ubiquitous adverse drug events are 
+evidence that conventional medica -
+tion alerts are not meeting clinician in -
+formation needs or CDS implementer 
+expectations.6-9
+Conventional DDI alerts are trig-
+gered or invoked by the presence of 
+2 interacting drugs. While increasing 
+alert specificity or usefulness is possible 
+by incorporating patient factors (eg, 
+comorbidities and laboratory results) 
+and drug order factors (eg, route and Improving the specificity of drug-drug interaction alerts: 
+Can it be done?applyparastyle “fig//caption/p[1]” parastyle “FigCapt”
+1086   aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+dose) in CDS logic,10,11 alerts largely 
+do not account for contextual factors 
+that can eliminate the need of an alert 
+or affect the risk of certain DDIs.12 For 
+instance, a drug interaction between 
+the HMG Co-A reductase inhibitor 
+atorvastatin and the protease inhibitor 
+fosamprenavir may not be clinically 
+significant if the dose of atorvastatin 
+is below 20 mg per day. In addition to 
+the lack of contextual factors in CDS 
+logic, triggering of DDI alerts depends 
+on 2 separate drug groups (ie, value 
+sets).13 Value sets have been charac -
+terized as lists of codes and terms that 
+define a clinical concept.14 Drug know-
+ledge bases frequently define inter -
+actions in terms of value sets based on 
+certain criteria, such as mechanism of 
+action for a monoamine oxidase in-
+hibitor (MAOI) value set. Evidence for 
+a drug interaction is often limited to a 
+few drugs in a value set,15 with the po-
+tential for an interaction inferred to 
+additional drugs.16 Generalizing evi-
+dence to members of a drug class is 
+an unstandardized approach that can 
+lead to variation among value sets that 
+trigger DDI alerts, resulting in reduced 
+CDS effectiveness and inconsistent 
+outcomes across institutions.17 For ex -
+ample, fluvastatin and rosuvastatin, 
+which would both be included in an 
+HMG Co-A reductase inhibitor value 
+set, are metabolized by the cytochrome 
+P450 (CYP) 2C9 isozyme and will likely 
+not be clinically relevant to an inter -
+action between an HMG Co-A reduc -
+tase inhibitor and a CYP3A4 inhibitor. 
+While CDS implementors have some 
+ability to control CDS logic and value 
+sets, institutions often rely on third-
+party systems and drug information 
+knowledge bases (eg, MedKnowledge 
+[First DataBank, Inc.], Multum [Cerner 
+Corporation], and Medi-Span [Wolters 
+Kluwer Health]) to generate DDI alerts.6
+CDS implementers have em-
+ployed multiple strategies to im-
+prove DDI alerts. Individual alert 
+override rates have been used to 
+identify and filter irrelevant or inef -
+fective alerts.18 Another strategy is to 
+create a list of low-priority DDIs and 
+downgrade alerts to noninterruptive mechanisms.15 Additionally, severity 
+thresholds have been increased so that 
+only high-priority alerts are shown 
+to clinicians.15,19 While the process by 
+which drug alerts are filtered or modi-
+fied is often accomplished with user 
+consensus,20-24 certain institutions 
+do not have the ability to customize 
+CDS logic or do not have access to 
+terminologists and subject matter ex -
+pertise to create and maintain value 
+sets25,26; therefore, these approaches to 
+improving DDI alerts are less explored. 
+Toward understanding the need for 
+curated value sets and how contextual 
+factors can be used to increase the spe-
+cificity and usefulness of DDI alerts, 
+the objectives of this study were to (1) 
+highlight the inconsistency of drug 
+value sets for triggering DDI alerts and 
+(2) demonstrate a method of classifying 
+factors that can be used to modify the 
+risk of harm from a DDI.
+Methods
+As a proof-of-concept study, we fo-
+cused on 15 high-priority DDIs iden-
+tified by the Office of the National 
+Coordinator (ONC) for Health 
+Information Technology ( Table 1).27 
+We analyzed DDI information in 3 references: Lexicomp (UpToDate, 
+Inc.), Micromedex (IBM Corporation), 
+and Hansten and Horn’s The Top 100 
+Drug Interactions.27 Drugs in each 
+interacting value set and factors that 
+can affect the risk or severity of the DDI 
+were extracted. Drug interaction refer -
+ences provide a list of drug names (ie, 
+value sets) for each DDI (ie, drug A and 
+drug B), and we mapped DDIs among 
+references to the ONC list. As such, 
+for value sets with a single drug A (eg, 
+atazanavir), multiple interacting drugs 
+were often listed in each reference. 
+The appendix provides a complete list 
+of drugs for each value set across ref -
+erences. Contextual factors were ex -
+tracted from the narrative monograph 
+and classified as either order param-
+eters or patient characteristics.
+Drugs.   Items on the ONC list 
+of high-priority DDIs were defined 
+in terms of individual drugs (eg, 
+irinotecan), drug classes (eg, se-
+lective serotonin reuptake inhibitors), 
+or mechanism of action (eg, strong 
+CYP3A4 inhibitors).28 We measured 
+the consistency of drugs in each value 
+set among the ONC list and the 3 drug 
+interaction references. The value set 
+consistency was calculated using Fleiss’ 
+kappa, which is used for measuring 
+nominal scale agreement among many 
+raters or, for the purpose of this analysis, 
+drug interaction references. Measure 
+categories were as follows: almost per -
+fect (0.81-1.00), substantial (0.61-0.80), 
+moderate (0.41-0.60), fair (0.21-0.40), 
+and slight (0.0-0.2).29,30 We chose Fleiss’ 
+kappa due to familiarity with Cohen’s 
+kappa, a method to measure agreement 
+between 2 raters.
+Factors.   Drug monographs for 
+each DDI combination were manu-
+ally extracted from the 3 references. 
+Factors that affect DDI risk or se-
+verity were annotated by a single au-
+thor (T.R.) with pharmacotherapy and 
+DDI experience. Factor categories 
+were initially derived iteratively with 
+a bottom-up approach across the ex -
+tracted monographs. Collation of de-
+rived categories aligned with the Fast 
+Healthcare Interoperability Resources 
+(FHIR) standard (Health Level Seven KeY PoiNts
+ • Consistency of drugs among 
+drug interactions value sets is 
+limited.
+ • Incorporating contextual fac -
+tors, such as patient charac -
+teristics and order parameters, 
+may improve drug interaction 
+alerts.
+ • The findings suggest that a 
+central authority and new 
+technology may be needed to 
+maintain drug value sets and 
+that expanding clinical decision 
+support logic to include con -
+textual factors will be crucial to 
+improving drug interaction alert 
+specificity.
+ aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022  1087Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+International [HL7], Ann Arbor, MI; 
+all FHIR resources discussed here are 
+trademarked by HL7).31 A second clin-
+ician with DDI and data standards ex -
+pertise (A.R.) reviewed the resulting 
+resources and categories. Factors in the 
+extracted monographs were first an-
+notated according to order or patient 
+categories. Then, order and patient fac -
+tors were classified as timing, dose, and 
+route and as condition, observation, 
+and medication, respectively.
+Fhir resources.  Medication-
+Request is a FHIR resource that is 
+used for inpatient and outpatient set -
+tings to order or request medications. 
+The resource includes elements for 
+timing, dose, and route of medica-
+tion orders. Three FHIR “event” re-
+sources (Condition, Observation, and 
+Medication) relate to patient character -
+istics. Timing factors are relevant when 
+time between the administration of 2 
+interacting drugs can modify the risk of 
+DDI occurrence. Dose factors are rele-
+vant when the dose of either interacting 
+drug affects the potential DDI harm severity. Route of administration is im-
+portant when the route can modify the 
+risk of a DDI, such as lack of systemic 
+absorption from topical, ophthalmic, 
+or otic agents. Condition factors in-
+clude patient comorbidities and acute 
+problems that may affect the severity 
+of DDIs. Observation factors are any 
+relevant measurements (eg, laboratory 
+test results and vital signs) that modify 
+the risk or severity of a DDI. Medication 
+factors include other medications the 
+patient is taking that may increase or 
+decrease the severity or risk of a DDI, 
+as well as medications in a specific 
+value set that pose less or more inter -
+action risk. We tracked the number of 
+drug interaction references that pro-
+vided a similar factor in the DDI mono-
+graph. Table 2 provides an example of 
+the monograph and annotations for the 
+SSRIs/MAOIs DDI.
+results
+Overall, the 15 high-priority DDIs 
+on the ONC list were identified in 
+the 3 drug interaction references. A  discrepancy was that one refer -
+ence separated the Tranylcypromine/
+Procarbazine and Triptans/MAOI DDIs 
+into separate value sets. For instance, 
+certain triptans were included in the 
+broader serotonergic value set. For 
+these DDIs, the consistency was cal-
+culated among the 2 other drug refer -
+ences and the ONC list.
+Drugs.  The 15 DDIs encompassed 
+30 drug value sets and 682 drugs. The 
+mean number of drugs per value set 
+was 23 (median, 13). Of the 23-drug 
+average per value set, an average of 
+3.8 drugs were the same across refer -
+ences (Figure 1). Table 3 provides the 
+total number of drugs in each value 
+set, the calculated value set agreement, 
+and a listing of drugs in value sets for 
+which there was perfect consensus 
+among references. For instance, the 
+Amphetamine & Derivatives value set 
+included 17 unique drugs and had a sig-
+nificant Fleiss’ kappa of 0.16 (P = 0.04); 
+amphetamine, dextroamphetamine, 
+lisdexamfetamine, and metham-
+phetamine were identified in the 
+ONC list and the 3 drug interaction 
+references. Seventeen value sets 
+(56%) had nonsignificant agree-
+ment across the drug interaction ref -
+erences. Further, of the significant 
+value sets, the average Fleiss’ kappa 
+was moderate (0.45; standard devi-
+ation [SD], 0.33). Value sets with per -
+fect agreement (Fleiss’ kappa  =  1) 
+included Irinotecan, Tizanidine, and 
+Azathioprine & Mercaptopurine. 
+Two value sets had moderate agree-
+ment (Febuxostat, P  =  0.03; and PPIs, 
+P  <  0.001), 4 had fair agreement  
+(MAOIs [ Table 3, DDI  1], P   =  0.006; 
+MAOIs [ Table 3, DDI 4], P  = 0.006; MAOIs 
+[Table 3, DDI 7], P  = 0.001; and Protease 
+Inhibitors, P  <  0.001), and 4 had slight 
+agreement (Amphetamine & Derivatives, 
+P = 0.04; SSRIs, P  = 0.008; strong CYP1A2 
+Inhibitors, P = 0.002; and MAOIs [ Table 3,  
+DDI 6], P = 0.02).
+Factors.   From 14 of the 15 DDIs 
+(93%), a total of 33 contextual factors 
+were extracted ( Table 4). The DDI with 
+no identified factors was CYP3A4  & 
+Protease Inhibitors/Ergot Alkaloids. 
+Most factors (22 of 33, or 67%) were Table 1. Office of the National Coordinator List of High-Priority Drug-Drug 
+Interactions
+ Drug A Drug B 
+1. Amphetamine & Derivatives MAOIs
+2. Atazanavir PPIs
+3. Febuxostat Azathioprine & Mercaptopurine
+4. SSRIs MAOIs
+5. Irinotecan Strong CyP3A4 Inhibitors
+6. Narcotic Analgesics MAOIsa
+7. Tricyclic Antidepressants MAOIs
+8. High-risk QT Prolonging Agents High-risk QT Prolonging Agents
+9. Ramelteon Strong CyP1A2 Inhibitors
+10. Strong CyP3A4 Inducers Protease Inhibitors
+11. HMG Co-A Reductase Inhibitors CyP3A4 & Protease Inhibitors
+12. CyP3A4 & Protease Inhibitors Ergot Alkaloids & Derivatives
+13. Tizanidine CyP1A2 Inhibitors
+14. Tranylcypromine Procarbazine
+15. Triptans MAOIs
+Abbreviations: MAOI, monoamine oxidase inhibitor; SSRI, selective serotonin reuptake inhibitor; 
+CyP3A4, cytochrome P450 isozyme 3A4; CyP1A2, cytochrome P450 isozyme 1A2; PPI, proton 
+pump inhibitor.
+1088   aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+order related, with timing factors 
+extracted for 10 of 15 DDIs (67%). 
+Furthermore, timing factors were con-
+sistent across references (ie, 3 of 3 or 2 
+of 2 sources were in agreement) for 8 
+of the 10 DDIs (80%). Most timing fac -
+tors were associated with MAOIs; the 
+references provided recommendations 
+to wait at least 14  days after stopping 
+an MAOI before starting an interacting 
+medication. Dose factors were available 
+for 9 DDIs (60%). Compared to timing, dose factors were less consistent across 
+the references. Two of the 9 DDIs (22%) 
+had dose considerations that were con-
+sistent across the references. Most dose 
+recommendations were nonspecific in-
+creases or decreases when initiating a 
+medication that changes metabolism. 
+Route of administration factors were 
+identified for 3 of 15 DDIs (20%). The 
+route factors were specific to the trans -
+dermal administration of the MAOI 
+selegiline.
+Patient factors were available with 
+9 DDIs (60%). Most medication fac -
+tors were specific drug exclusions from 
+the value set due to low risk of the 
+interaction. High-risk QT-prolonging 
+agents had patient considerations in 
+all 3 categories; however, only the con-
+dition factor (eg, comorbidities) was 
+consistent across all 3 drug interaction 
+references. The condition factor for the 
+Atazanavir/PPIs DDI included treat -
+ment experience (ie, atazanavir treat -
+ment experienced vs naïve), age, sex, 
+and heart disease. Observation factors included laboratory measures (eg, 
+hypokalemia). The medication factor 
+for High-Risk QT Prolonging Agents 
+was related to CYP3A4 substrates. 
+These substrates increase the blood 
+concentration of certain QT-prolonging 
+agents and was an additive risk for pro-
+longing heart rate–corrected QT (QTc) 
+intervals.
+Discussion
+This study demonstrates the im-
+portance of increasing the consist -
+ency of drug value sets that trigger 
+DDI alerts and how alert specificity 
+and usefulness can be improved with 
+risk-modifying factors. Despite the rec -
+ognition and familiarity of the chosen 
+DDIs, it was surprising that less than 
+half (43%) of the 30 drug value sets had 
+a significant consistency among drug 
+references and that the average agree-
+ment was moderate ( Table 3). Further, 
+most DDIs (93%) had at least 1 poten-
+tial risk-modifying factor and several 
+(40%) had more than 2 factors ( Table 4). Figure 1. Depiction of value set in -
+consistency across drug references.
+Table 2. Example of Drug Monograph Extraction and Annotation for SSRI/MAOI Interaction
+Source Annotation 
+Lexicomp (UpToDate, Inc.)  
+“The washout period should probably be at least 1-2 weeks (2 weeks 
+for vilazodone, 3 weeks for vortioxetine, 5 weeks for fluoxetine), 
+depending on the half-life of the agent being discontinued. In gen -
+eral, furazolidone, linezolid, and procarbazine will pose less risk 
+than isocarboxazid, phenelzine, or tranylcypromine. Caution is still 
+advised. Selegiline administered in high oral dosages (e.g., more 
+than 10 mg/day of tablet/capsule; more than 2.5 mg/day of orally 
+disintegrating tablet) or transdermally will exhibit nonselective MAOI 
+activity. MAOI Exceptions Linezolid; Methylene Blue; Tedizolid”Timing: The washout period should probably be at 
+least 1-2 weeks  
+Dose: Selegiline administered in high oral dosages  
+Route: Transdermally, will exhibit nonselective MAOI 
+activity  
+Medication: Furazolidone, linezolid, and procarbazine 
+will pose less risk than isocarboxazid, phenelzine, 
+or tranylcypromine and MAOI exceptions (linezolid, 
+methylene blue, and tedizolid)
+Micromedex (IBM Corporation)  
+“At least 14 days (preferably 18-20) should elapse after stopping an 
+MAOI before starting a serotonergic drug. At least 5 weeks should 
+after stopping fluoxetine before starting an MAOI. If possible use 
+an alternative to the serotonergic drug in patients on linezolid or 
+MAO-B inhibitors. Tedizolid does not appear to be a MAOI to a clin-
+ically important degree, so is unlikely to increase the risk of sero-
+tonin syndrome. Also, depending on the antibiogram, one could 
+consider alternative antibiotics such as vancomycin or telavancin 
+for linezolid”Timing: At least 14 days should elapse after stopping 
+an MAOI  
+Medication: Tedizolid does not appear to be an 
+MAOI to a clinically important degree
+Hansten and Horn’s The Top 100 Drug Interactions27 
+“Wait at least 14 days after discontinuing an MAOI intended to treat 
+psychiatric disorders before initiating fluoxetine. Wait at least 5 
+weeks after discontinuing fluoxetine before initiating therapy with 
+an MAOI intended to treat psychiatric disorders”Timing: Wait at least 14 days after discontinuing an 
+MAOI
+ aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022  1089Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+Incorporating contextual factors in CDS 
+logic can not only improve the specifi-
+city of alerts but also make alerts more 
+useful by providing contextual infor -
+mation about DDI risk factors. A  feas -
+ible approach to address risk-modifying 
+factors and curated value sets may be through emerging health information 
+technology standards such as HL7’s 
+FHIR, Clinical Quality Language (CQL), 
+and CDS Hooks.32-36 CDS implementers 
+can use these standards and web-based 
+technology to bridge limited electronic 
+health record functionality with CDS logic that incorporates contextual fac -
+tors and external value sets.
+The low consistency of drug value 
+sets aligns what others have found 
+regarding variability of CDS among 
+institutions. Fung et  al24 identified 
+large differences in the number and Table 3. Numbers of Medications and Classes in Value Sets, Value Set Consistency (κ), and Individual Drugs With 
+Perfect Agreement Among References
+DDI Drug A Drug B 
+1 Amphetamine & Derivatives (n = 17, κ = 0.16*)  
+Amphetamine, dextroamphetamine, lisdexamfetamine, 
+methamphetamineMAOIs (n = 12, κ = 0.24*)  
+Isocarboxazid, phenelzine, selegiline, tranylcypromine
+2 Atazanavir (n = 6, κ = 0.11)  
+AtazanavirPPIs (n = 11, κ = 0.49*)  
+Esomeprazole, dexlansoprazole, lansoprazole, 
+omeprazole, pantoprazole, rabeprazole
+3 Febuxostat (n = 2, κ = 0.47*)  
+FebuxostatAzathioprine & Mercaptopurine (n = 2, κ = 1.00*)  
+Azathioprine, mercaptopurine
+4 SSRIs (n = 23, κ = 0.17*)  
+Citalopram, escitalopram, fluoxetine, fluvoxamine, 
+paroxetine, sertralineMAOIs (n = 12, κ = 0.24*)  
+Isocarboxazid, phenelzine, selegiline, tranylcypromine
+5 Irinotecan (n = 1, κ = 1.00*)  
+IrinotecanStrong CyP3A4 Inhibitors (n = 37, κ = 0.16*)  
+Clarithromycin, indinavir, itraconazole, ketoconazole, 
+nelfinavir, ritonavir, saquinavir, telithromycin, 
+voriconazole
+6 Narcotic Analgesics (n = 43, κ = –0.01)  
+Fentanyl, meperidine, methadone, tapentadol, 
+tramadolMAOIs (n = 13, κ = 0.20*)  
+Isocarboxazid, phenelzine, selegiline, tranylcypromine
+7 Tricyclic Antidepressants (n = 12, κ = 0.06)  
+Clomipramine, imipramineMAOIs (n = 12, κ = 0.29*)  
+Isocarboxazid, phenelzine, selegiline, tranylcypromine
+8 High-risk QT Prolonging Agents (n = 114, κ = –0.06)  
+Arsenic trioxide, disopyramide, dofetilide, ibutilide, 
+procainamide, quinidine, sotalol, thioridazineHigh-risk QT Prolonging Agents (n = 114, κ = –0.06)  
+Arsenic trioxide, disopyramide, dofetilide, ibutilide, 
+procainamide, quinidine, sotalol, thioridazine
+9 Ramelteon (n = 37, κ = –0.11)  
+RamelteonStrong CyP1A2 Inhibitors (n = 16, κ = –0.06)  
+Ciprofloxacin
+10 Strong CyP3A4 Inducers (n = 22, κ = –0.05)  
+Carbamazepine, rifampinProtease Inhibitors (n = 22, κ = 0.39*)  
+Atazanavir, darunavir, fosamprenavir, indinavir, lopinavir, 
+nelfinavir, ritonavir, saquinavir, tipranavir
+11 HMG Co-A reductase inhibitors (n = 8, κ = –0.16)  
+Lovastatin, simvastatinCyP3A4 and protease inhibitors (n = 41, κ = 0.08)  
+Indinavir, nefazodone, nelfinavir, ritonavir, saquinavir
+12 CyP3A4 & Protease Inhibitors (n = 34, κ = –0.23)  
+Indinavir, nelfinavir, ritonavir, saquinavirErgot alkaloids & derivatives (n = 7, κ = 0.07)  
+Dihydroergotamine, ergotamine
+13 Tizanidine (n = 1, κ = 1.00*)  
+TizanidineCyP1A2 Inhibitors (n = 18, κ = –0.05)  
+Ciprofloxacin
+14 Tranylcypromine (n = 13, κ = 0.11)  
+Isocarboxazid, phenelzine, rasagiline, safinamide, 
+tranylcypromine, selegilineProcarbazine (n = 13, κ = 0.11)  
+Isocarboxazid, phenelzine, rasagiline, safinamide, 
+tranylcypromine, selegiline
+15 Triptans (n = 7, κ = 0.14)  
+Sumatriptan, rizatriptan, zolmitriptanMAOIs (n = 12, κ = –0.12)  
+Isocarboxazid, phenelzine, tranylcypromine
+Abbreviations: CyP1A2, cytochrome P450 isozyme 1A2; CyP3A4, cytochrome P450 isozyme 3A4; MAOI, monoamine oxidase inhibitor; PPI, proton 
+pump inhibitor; SSRI, selective serotonin reuptake inhibitor. The symbol κ denotes Fleiss’ kappa statistic.
+aP < 0.05.
+1090   aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+agreement of drug pairs across 3 drug 
+knowledge bases (ie, First DataBank, 
+Micromedex, and Multum) that are 
+used to generate CDS alerts. Among 8.6 
+million unique drug pairs, only 5% of 
+them were found in all the 3 knowledge 
+bases. Cornu et  al37 found that while 
+high-priority DDI alerts were gener -
+ally available across knowledge bases, 
+severity levels (eg, “moderate” and 
+“severe”) varied considerably. Severity 
+levels contribute to whether certain 
+alerts are active and the type of alert 
+that was shown to clinicians.22 Often 
+severity levels are preset by knowledge 
+vendors, but healthcare institutions 
+can modify these settings. Our ana-
+lysis complements previous studies by providing agreement of drugs within 
+value sets and contextual factors that 
+can be used to reduce false-positive 
+alerts or make alerts that are more clin-
+ically relevant.
+While the findings suggest that alert 
+specificity can be improved by adding 
+CDS logic to account for factors related 
+to the drug order or patient character -
+istics, there are caveats to operational-
+izing contextual factors with DDI alerts. 
+Not all DDIs are amenable to modifying 
+factors. Certain DDIs pose the same 
+risk across patients and medication 
+order parameters. Empiric evidence 
+of DDIs is limited. The evaluated DDIs 
+were not selected based on the po-
+tential for factors to modify the risk or severity of the DDI. Other DDIs may 
+be more or less amenable to increasing 
+alert specificity. Further, most factors 
+we identified were nonspecific con-
+ditions or exposure thresholds. These 
+factors may not be granular enough to 
+filter DDI alerts; however, the factors 
+may be useful for clinicians to deter -
+mine DDI risk. For example, heart dis -
+ease is specified as a patient factor for 
+QTc-prolonging interactions. Would 
+this factor be operationalized as heart 
+failure, atrial fibrillation, or a previous 
+myocardial infarction? Or perhaps all 
+three? It is unclear how this factor could 
+be used to filter an alert, but it could 
+be used to present patient-specific in-
+formation to clinicians. Finally, DDI Table 4. Order and Patient Factors by Potential DDI Across Drug Interaction Databasesa
+  Order Factors Patient Factors
+DDI Drug A/Drug B Timing Dose Route Condition Observation Medication 
+1 Amphetamine & Derivatives/
+MAOIs3/3      
+2 Atazanavir/PPIs 3/3 3/3  2/3   
+3 Febuxostat/Azathioprine & 
+Mercaptopurine 2/3     
+4 SSRIs/MAOIs 3/3 1/3 1/3   2/3
+5 Irinotecan/Strong CyP3A4  
+inhibitors3/3     1/3
+6 Narcotic Analgesics/MAOIs 3/3  1/3   2/3
+7 Tricyclic Antidepressants/MAOIs 3/3 1/3 1/3   3/3
+8 High-risk QT Prolonging Agents 1/3 1/3  3/3 1/3 1/3
+9 Ramelteon/Strong CyP1A2  
+Inhibitors     1/3
+10 Strong CyP3A4 Inducers/ 
+protease inhibitors1/3 3/3     
+11 HMG Co-A Reductase Inhibitors/
+CyP3A4 and protease inhibitors 2/3    2/3
+12 CyP3A4 and protease inhibitors/
+ergot alkaloidsb      
+13 Tizanidine/CyP1A2 inhibitors  1/3     
+14 Tranylcypromine/procarbazine 2/2      
+15 Triptans/MAOIs 2/2 1/2    1/2
+ Total instances of agreement 10 9 3 2 1 8
+Abbreviations: MAOI, monoamine oxidase inhibitor; PPI, proton pump inhibitor; SSRI, selective serotonin reuptake inhibitor; CyP3A4, cytochrome 
+P450 isozyme 3A4; CyP1A2, cytochrome P450 isozyme 1A2.
+aData are fraction of evaluated references in agreement (eg, 2/3 indicates a factor was found in 2 of 3 references).
+bNo factors identified.
+ aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022  1091Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+contextual factors lack a standardized 
+taxonomy to support implementation 
+in CDS logic.
+Limitations.   This study has limi-
+tations. The selected DDIs, while iden-
+tified as high-priority DDIs by ONC, 
+may not be representative of DDIs 
+across institutions. Additionally, we 
+did not search for contextual factors 
+in drug knowledge bases that are used 
+for electronic health record alerts, as 
+these knowledge bases are not easily 
+referenceable. Finally, we did not 
+empirically test how factors and cur -
+ated value sets would increase alert 
+specificity.
+conclusion
+The goal of this proof-of-concept 
+analysis was to better understand the 
+need for curated value sets that are 
+used in triggering DDI alerts and dem-
+onstrate how contextual factors can be 
+used to increase the specificity and use-
+fulness of DDI alerts. The findings high-
+light that the consistency of drug value 
+sets is limited for a list of well-known 
+DDIs. Encouraging, however, was the 
+potential to use contextual factors in 
+CDS logic. While many identified fac -
+tors may not provide granular informa-
+tion to eliminate certain DDI alerts, the 
+factors can provide useful information 
+for clinicians to decide whether to over -
+ride an alert. These findings can gener -
+alize to other DDIs, suggesting that a 
+central authority and new technology 
+may be needed to maintain drug value 
+sets and that expanding CDS logic 
+will be crucial to improve DDI alert 
+specificity.
+Disclosures
+This work was supported by the National 
+Institutes of Health (grant numbers R01 
+LM011838, R21 HS023826, R01 HS025984, 
+and R01 AG062499). Outside of the sub -
+mitted work, Dr. Kawamoto reports having 
+received honoraria from and engaged in con -
+sulting, sponsored research, writing assist -
+ance, licensing, or codevelopment in the past 
+3  years with McKesson InterQual, Hitachi, 
+Pfizer, Klesis Healthcare, RTI International, 
+Mayo Clinic, the University of California 
+at San Francisco, MD Aware, and the ONC 
+for Health Information Technology (via 
+Security Risk Solutions) in the area of health information technology (IT). Dr. Kawamoto 
+is also a former unpaid board member of 
+the nonprofit HL7 health IT standard de -
+velopment organization, is currently an un -
+paid member of the US Health Information 
+Technology Advisory Committee, and has 
+helped develop a number of health IT tools 
+that may be commercialized to enable wider 
+impact. The other authors have declared no 
+potential conflicts of interest.
+additional information
+Drs. Boyce and Malone contributed to the 
+study design. Dr. Romero contributed to the 
+analysis and data synthesis. Drs. Wright, and 
+Liu, Del Fiol, and Kawamoto contributed to 
+substantive revisions. All authors reviewed 
+the manuscript.
+references
+1. Van Der Sijs H, Aarts J, Vulto A, Berg M. 
+Overriding of drug safety alerts in 
+computerized physician order entry. 
+J Am Med Inform Assoc. Published 
+online 2006. doi:10.1197/jamia.M1809.
+Computerized
+2. Edrees H, Amato MG, Wong A, 
+Seger DL, Bates DW. High-priority 
+drug-drug interaction clinical decision 
+support overrides in a newly imple-
+mented commercial computerized 
+provider order-entry system: over -
+ride appropriateness and adverse 
+drug events. J Am Med Inform Assoc. 
+2020;27(6):893-900. doi:10.1093/jamia/
+ocaa034
+3. Wright A, McEvoy DS, Aaron S, et al. 
+Structured override reasons for drug-
+drug interaction alerts in electronic 
+health records. J Am Med Inform Assoc. 
+2019;26(10):934-942. doi:10.1093/
+jamia/ocz033
+4. Wong A, Amato MG, Seger DL, et al. 
+Prospective evaluation of medication-
+related clinical decision support 
+over-rides in the intensive care unit. 
+BMJ Qual Saf.  2018;27(9):718-724. 
+doi:10.1136/bmjqs-2017-007531
+5. Hussain MI, Reynolds TL, Zheng K. 
+Medication safety alert fatigue may be 
+reduced via interaction design and clin-
+ical role tailoring: a systematic review. J 
+Am Med Inform Assoc. 2019;26(10):1141-
+1149. doi:10.1093/jamia/ocz095
+6. Bryant AD, Fletcher GS, Payne TH. 
+Drug interaction alert override rates 
+in the Meaningful Use era. Appl Clin 
+Inform. 2014;5(3):802-813. doi:10.4338/
+ACI-2013-12-RA-0103
+7. Nanji KC, Seger DL, Slight SP , et al. 
+Medication-related clinical decision 
+support alert overrides in inpatients. J 
+Am Med Inform Assoc. 2017;25:476-481. 
+doi:10.1093/jamia/ocx1158. Bates DW, Leape LL, Petrycki S. 
+Incidence and preventability of adverse 
+drug events in hospitalized adults. J 
+Gen Intern Med. 1993;8(6):289-294. 
+doi:10.1007/BF02600138
+9. Classen DC, Pestotnik SL, Evans RS, 
+Lloyd JF , Kurke JP . Adverse drug events 
+in hospitalized patients. Excess length 
+of stay, extra costs, and attributable 
+mortality. JAMA. 1997;277(17):1351. 
+doi:10.1001/jama.1997.03540410029014
+10. Payne TH, Hines LE, Chan RC, et al. 
+Recommendations to improve the 
+usability of drug-drug interaction clin-
+ical decision support alerts. J Am Med 
+Inform Assoc. 2015;22(6):1243-1250. 
+doi:10.1093/jamia/ocv011
+11. Hansten PD, Horn JR, Hazlet TK. ORCA: 
+OpeRational ClassificAtion of drug 
+interactions. J Am Pharm Assoc (1996). 
+2001;41(2):161-165.
+12. McGreevey JD, Mallozzi CP , Perkins RM, 
+Shelov E, Schreiber R. Reducing 
+alert burden in electronic health 
+records: state of the art recommenda-
+tions from four health systems. 
+Appl Clin Inform. 2020;11(1):1-12. 
+doi:10.1055/s-0039-3402715
+13. Chou E, Boyce RD, Balkan B, et al. 
+Designing and evaluating contextual-
+ized drug–drug interaction algorithms. 
+JAMIA Open. 2021;4(1):ooab023. 
+doi:10.1093/jamiaopen/ooab023
+14. US National Library of Medicine. 
+NLM Value Set Authority Center: code 
+ systems and tools. Published January 
+28, 2021. Accessed September 19, 2021. 
+https://www.nlm.nih.gov/vsac/sup-
+port/authorguidelines/code-systems.
+html
+15. Phansalkar S, van der Sijs H, Tucker AD, 
+et al. Drug-drug interactions that 
+should be noninterruptive in order 
+to reduce alert fatigue in electronic 
+health records. J Am Med Inform Assoc. 
+2013;20(3):489-493. doi:10.1136/
+amiajnl-2012-001089
+16. Noor A, Liu-Wei W, Barnawi A, 
+et al. Deep drug-drug interaction 
+discovery and demystification. 
+bioRxiv. Published online 2020. 
+doi:10.1101/2020.04.08.032011
+17. Wright A, Ai A, Ash J, et al. Clinical de-
+cision support alert malfunctions: ana-
+lysis and empirically derived taxonomy. 
+J Am Med Inform Assoc. 2018;25(5):496-
+506. doi:10.1093/JAMIA/OCX106
+18. Tilson H, Hines L, McEvoy G, et al. 
+Recommendations for selecting drug-
+drug interactions for clinical decision 
+support. Am J Health-Syst Pharm. 
+2016;73(8):576-585. doi:10.2146/
+ajhp150565
+19. Parke C, Santiago E, Zussy B, Klipa D. 
+Reduction of clinical support warn-
+ings through recategorization of 
+1092   aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+severity levels. Am J Health-Syst Pharm. 
+2015;72(2):144-148. doi:10.2146/
+ajhp140095
+20. Wright A, Sittig DF , Ash JS, et al. 
+Governance for clinical decision sup-
+port: case studies and recommended 
+practices from leading institutions. J Am 
+Med Inform Assoc. 2011;18(2):187-194. 
+doi:10.1136/jamia.2009.002030
+21. Kawamoto K, Flynn MC, Kukhareva P , 
+et al. A Pragmatic guide to establishing 
+clinical decision support governance 
+and addressing decision support fa-
+tigue: a case study. AMIA Annu Symp 
+Proc.  2018;(iii):624-633.
+22. McEvoy DS, Sittig DF , Hickman TT, et al. 
+Variation in high-priority drug-drug 
+interaction alerts across institutions 
+and electronic health records. J Am 
+Med Inform Assoc. 2017;24(2):331-338. 
+doi:10.1093/jamia/ocw114
+23. Reese TJ, Kawamoto K, Fiol DG, et al. 
+When an alert is not an alert: a pilot 
+study to characterize behavior and 
+cognition associated with medica-
+tion alerts. AMIA Annu Symp Proc. 
+2018;2018:1488-1497.
+24. Fung KW, Kapusnik-Uner J, 
+Cunningham J, Higby-Baker S, 
+Bodenreider O. Comparison of three 
+commercial knowledge bases for detec -
+tion of drug-drug interactions in clinical decision support. J Am Med Inform 
+Assoc.  2017;24(4):806-812. doi:10.1093/
+jamia/ocx010
+25. Wah Fung K, Xu J, Gold S. The use of 
+inter-terminology maps for the creation 
+and maintenance of value sets. AMIA 
+Annu Symp Proc. 2019;2019: 438-447.
+26. Khatipov E, Madden M, Chiang P , et al. 
+Creating, maintaining and publishing 
+value sets in the VSAC. Poster presented 
+in: AMIA Annu Symp Proc. 2014:1459. 
+https://data.lhncbc.nlm.nih.gov/
+public/mor/pubs/pdf/2014-amia-ek-
+poster.pdf
+27. Hanston PD, Horn JR. The Top 100 Drug 
+Interactions. H&H Publications; 2021.
+28. Phansalkar S, Desai AA, Bell D, et al. 
+High-priority drug-drug interactions for 
+use in electronic health records. J Am 
+Med Inform Assoc. 2012;19(5):735-743. 
+doi:10.1136/amiajnl-2011-000612
+29. Fleiss JL. Measuring nominal scale 
+agreement among many raters. Psychol 
+Bull. 1971;76(5):378-382. doi:10.1128/
+JCM.41.11.5325-5326.2003
+30. Landis JR, Koch GG. The measurement 
+of observer agreement for categorical 
+data. Biometrics. 1977;33(1):159-174.
+31. Health Level Seven International. HL7 
+FHIR release 4. Published November 1, 
+2019. Accessed August 29, 2021. https://
+www.hl7.org/fhir/index.html32. Health Level Seven International. CDS 
+Hooks. Accessed April 16, 2021. https://
+cds-hooks.org/
+33. Nguyen B, Reese T, Decker S, Malone D, 
+Boyce RD, Beyan O. Implementation 
+of clinical decision support services to 
+detect potential drug-drug interaction 
+using Clinical Quality Language. Stud 
+Health Technol Inform. 2019;(viii):724-
+728. doi:10.3233/SHTI190318
+34. Office of the National Coordinator for 
+Health Information Technology. CQL 
+– Clinical Quality Language. Accessed 
+April 16, 2021. https://ecqi.healthit.gov/
+cql
+35. Health Level Seven International. 
+Welcome to FHIR. Published 2019. 
+Accessed April 16, 2021. http://hl7.org/
+fhir/
+36. Mandel JC, Kreda DA, Mandl KD, 
+Kohane IS, Ramoni RB. SMART on 
+FHIR: a standards-based, interoper -
+able apps platform for electronic 
+health records. J Am Med Inform Assoc. 
+2017;23(5):899-908. doi:10.1093/jamia/
+ocv189
+37. Cornu P , Phansalkar S, Seger DL, 
+et al. High-priority and low-priority 
+drug-drug interactions in different 
+international electronic health record 
+systems: a comparative study. Int J Med 
+Inform. 2018;111:165-171.
+appendix—Drugs included in the value sets
+DDI Drug A Drug B 
+1. Amphetamine & Derivatives MAOIs
+ amphetamine, dextroamphetamine, lisdexamefetamine, 
+methamphetamine, benzphetamine, atomoxetine, 
+diethylpropion, methylphenidate, pseudoephedrine, 
+dexmethylphenidate, dopamine, ephedrine, 
+isometheptene, mazindol, metaraminol, phenylephrine, 
+tapentadolisocarboxazid, phenelzine, selegiline, tranylcypromine, 
+procarbazine, rasagiline, safinamide, methylene blue, 
+syrian rue, moclobemide, linezolid, furazolidone
+2. Atazanavir PPIs
+ atazanavir, fosamprenavir, indinavir, ledipasvir, nelfinavir, 
+rilpivirineesomeprazole, dexlansoprazole, lansoprazole, omeprazole, 
+pantoprazole, rabeprazole, revaprazan, cimetidine, 
+famotidine, nizatidine, ranitidine
+3. Febuxostat Azathioprine & Mercaptopurine
+ febuxostat, allopurinol azathioprine, mercaptopurine
+4. SSRIs MAOIs
+ citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, 
+sertraline, desvenlafaxine, duloxetine, milnacipran, 
+venlafaxine, vilazodone, vorioxetine, dapoxetine, fentanyl, 
+levomilnacipran, meperidine, methadone, tapentadol, 
+tetrabenazine, tramadol, trazodone, cyclobenzaprine, 
+dextromethorphanisocarboxazid, phenelzine, selegiline, tranylcypromine, 
+procarbazine, rasagiline, safinamide, methylene blue, 
+linezolid, syrian rue, moclobemide, furazolidone
+5. Irinotecan Strong CyP3A4 Inhibitors
+ aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022  1093Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+ irinotecan clarithromycin, indinavir, itraconazole, ketoconazole, 
+nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole, 
+boceprevir, cobicistat, darunavir, nefazodone, 
+posaconazole, telaprevir, amiodarone, amprenavir, 
+diltiazem, erythromycin, fluconazole, idelalisib, verap-
+amil, mifepristone, ceritinib, ciprofloxacin, cyclosporine, 
+dasabuvir, delavirdine, dronedarone, imatinib, tipranavir, 
+lapatinib, lomitapide, ombitasvir, paritaprevir, quinupristin, 
+troleandomycin
+6. Narcotic Analgesics MAOIs
+ fentanyl, meperidine, methadone, tapentadol, tramadol, 
+alfentanil, benzhydrocodone, buprenorphine, codeine, 
+hydrocodone, nalbuphine, oxycodone, oxymorphone, 
+remifentanil, sufentanil, butorphanol, dextromethorphan, 
+dihydrocodeine, heroin, hydromorphone, levorphanol, 
+meptazinol, morphine, opium, paregoric, pentazo-
+cine, citalopram, cyclobenzaprine, desvenlafaxine, 
+dextromethorphan, duloxetine, escitalopram, fluvoxamine, 
+levomilnacipran, levomilnacipran, milnacipran, paroxetine, 
+sertraline, tetrabenazine, trazodone, venlafaxine, 
+vilazodone, vortioxetineisocarboxazid, phenelzine, selegiline, tranylcypromine, 
+procarbazine, rasagiline, safinamide, methylene blue, 
+linezolid, furazolidone, moclobemide, syrian rue, tedizolid
+7. Tricyclic Antidepressants MAOIs
+ clomipramine, imipramine, amitriptyline, amoxapine, 
+desipramine, doxepin, nortriptyline, protriptyline, 
+trimipramine, dosulepin, lofepramine, melitracenisocarboxazide, phenelzine, selegiline, tranylcypromine, 
+procarbazine, rasagiline, safinamide, syrian rue, 
+moclobemide, methylene blue, linezolid, furazolidone
+8. High-risk QT Prolonging Agents High-risk QT Prolonging Agents
+ arsenic trioxide, disopyramide, dofetilide, ibutilide, 
+procainamide, quinidine, sotalol, thioridazine, amiodarone, 
+bepridil, flecainide, mesoridazine, pimozide, terfenadine, 
+vandetanib, anagrelide, astemizole, bedaquiline, 
+chloroquine, chlorpromazine, cilostazol, ciprofloxacin, 
+citalopram, cisapride, donepezil, dronedarone, droperidol, 
+erythromycin, escitalopram, fluconazole, haloperidol, 
+halofantrine, lapatinib, levomethadyl, levofloxacin, 
+methadone, moxifloxacin, ondansetron, oxaliplatin, 
+pentamidine, quinine, sparfloxain, abiraterone acetate, 
+acetylcholine, ajmaline, azithromycin, aripiprazole, 
+atazanavir, azithromycin, aliskiren, clarithromycin, cocaine, 
+ceritinib, celecoxib, clofazimine, clozapine, delamanid, 
+domperidone, desflurane, dronedarone, dolasetron, 
+efavirenz, fluoxetine, foscarnet, ganciclovir, gatifloxacin, 
+grepafloxacin, hydroxychloroquine, hydroxyzine, ibogaine, 
+ivabradine, lenvatinib, ketoconazole, lansoprazole, 
+lumefantrine, lopinavir, levomepromazine, lomefloxacin, 
+milrinone, nilotinib, nelfinavir, norfloxacin, olanzapine, 
+omeprazole, papaverine, panobinostat, pazopanib, 
+probucol, perphenazine, posaconazole, propafenone, 
+propofol, roxithromycin, sulpiride, saquinavir, sertraline, 
+solifenacin, sulfamethoxazole/trimethoprim, sumatriptan, 
+sunitinib, toremifene, terlipressin, terodiline, tacrolimus, 
+technetium tc 99m tetrofosmin, telitromycin, thiothixene, 
+tramadol, trazodone, trifluoperazine, vernakalant, vaso-
+pressin, voriconazole, n-acetylprocainamidearsenic trioxide, disopyramide, dofetilide, ibutilide, 
+procainamide, quinidine, sotalol, thioridazine, amiodarone, 
+bepridil, flecainide, mesoridazine, pimozide, terfenadine, 
+vandetanib, anagrelide, astemizole, bedaquiline, 
+chloroquine, chlorpromazine, cilostazol, ciprofloxacin, 
+citalopram, cisapride, donepezil, dronedarone, droperidol, 
+erythromycin, escitalopram, fluconazole, haloperidol, 
+halofantrine, lapatinib, levomethadyl, levofloxacin, 
+methadone, moxifloxacin, ondansetron, oxaliplatin, pent-
+amidine, quinine, sparfloxain, abiraterone acetate, acetyl-
+choline, ajmaline, azithromycin, aripiprazole, atazanavir, 
+azithromycin, aliskiren, clarithromycin, cocaine, 
+ceritinib, celecoxib, clofazimine, clozapine, delamanid, 
+domperidone, desflurane, dronedarone, dolasetron, 
+efavirenz, fluoxetine, foscarnet, ganciclovir, gatifloxacin, 
+grepafloxacin, hydroxychloroquine, hydroxyzine, ibogaine, 
+ivabradine, lenvatinib, ketoconazole, lansoprazole, 
+lumefantrine, lopinavir, levomepromazine, lomefloxacin, 
+milrinone, nilotinib, nelfinavir, norfloxacin, olanzapine, 
+omeprazole, papaverine, panobinostat, pazopanib, 
+probucol, perphenazine, posaconazole, propafenone, 
+propofol, roxithromycin, sulpiride, saquinavir, sertraline, 
+solifenacin, sulfamethoxazole/trimethoprim, sumatriptan, 
+sunitinib, toremifene, terlipressin, terodiline, tacrolimus, 
+technetium tc 99m tetrofosmin, telitromycin, thiothixene, 
+tramadol, trazodone, trifluoperazine, vernakalant, vaso-
+pressin, voriconazole, n-acetylprocainamide
+9. Ramelteon Strong CyP1A2 Inhibitors
+1094   aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022Practice research rePort
+IMPROVING SPECIFICITY OF DRUG-DRUG INTERACTION ALERTS
+ ramelteon, caffeine, duloxetine, tasimelteon, tizanidine, 
+acebrophylline, acenocoumarol, agomelatine, alosetron, 
+aminophylline, asenapine, bromazepam, clomipramine, 
+clozapine, cyclobenzaprine, dacarbazine, flutamide, flu -
+voxamine, lidocaine, melatonin, mexiletine, mirtazapine, 
+olanzapine, pimozide, pirfenidone, pomalidomide, pro-
+pranolol, ramosetron, rasagiline, ropinirole, ropivacaine, 
+stiripentol, theophylline, thiothixene, tizanidine, trifluopera -
+zine, tacrineciprofloxacin, fluvoxamine, mexiletine, enoxacin, 
+amiodarone, atazanavir, cimetidine, tacrine, zileuton, 
+ticlopidine, deferasirox, methoxsalen, rucaparib, 
+stiripentol, thiabendazole, vemurafenib
+10. Strong CyP3A4 Inducers Protease Inhibitors
+ carbamazepine, rifampin, phenytoin, st. john’s wort, 
+apalutamide, bosentan, enzalutamide, fosphenytoin, 
+lumacaftor, mitotane, primidone, rifabutin, rifapentine, 
+barbiturates, phenobarbital, dabrafenib, dexamethasone, 
+efavirenz, etravirine, lumacaftor, nivirapine, oxcarbazepineatazanavir, darunavir, fosamprenavir, indinavir, lopinavir, 
+nelfinavir, ritonavir, saquinavir, tipranavir, amprenavir, 
+boceprevir, delavirdiune, etravirine, dasabuvir, elbasvir, 
+ombitasvir, maraviroc, rilpivirine, simeprevir, sofosbuvir, 
+telaprevir, daclatasvir
+11. HMG Co-A Reductase Inhibitors CyP3A4 & Protease Inhibitors
+ lovastatin, simvastatin, atorvastatin, cerivastatin, fluvastatin, 
+pitavastatin, pravastatin, rosuvastatinindinavir, nefazodone, nelfinavir, ritonavir, saquinavir, 
+atazanavir, boceprevir, clarithromycin, cobicistat, 
+darunavir, itraconazole, ketoconazole, saquinavir, 
+telithromycin, telaprevir, voriconazole, amiodarone, 
+amprenavir, idelalisib, lopinavir, posaconazole, aprepitant, 
+ceritinib, cyclosporine, danazol, diltiazem, delavirdine, 
+dronedarone, dasabuvir, erythromycin, fluconazole, 
+fluvoxamine, imatinib, lapatinib, lomitapide, ombitasvir, 
+paritaprevir, ranolazine, ticagrelor, tipranavir, verapamil
+12. CyP3A4 & Protease Inhibitors Ergot Alkaloids & Derivatives
+ indinavir, nelfinavir, ritonavir, saquinavir, atazanavir, 
+boceprevir, clarithromycin, cobicistat, darunavir, 
+itraconazole, ketoconazole, telaprevir, telithromycin, 
+voriconazole, conivaptan, mifepristone, nefazodone, 
+posaconazole, amiodarone, aprepitant, ceritinib, cyclo-
+sporine, delavirdine, diltiazem, dronedarone, imatinib, 
+lapatinib, ombitasvir, paritaprevir, verapamil, erythromycin, 
+grapefruit, dasbuvir, lomitapidedihydroergotamine, ergotamine, ergonovine, 
+methylergonovine, ergoloid mesylates, methysergide, 
+bromocriptine
+13. Tizanidine CyP1A2 Inhibitors
+ tizanidine ciprofloxacin, fluvoxamine, mexiletine, enoxacin, zileuton, 
+amiodarone, atazanavir, cimetidine, ethinyl estradiol, 
+tacrine, ticlopidine, deferasirox, methoxsalen, rucaparib, 
+stiripentol, thiabendazole, vemurafenib, propafenone
+14. Tranylcypromine Procarbazine
+ isocarboxazid, phenelzine, rasagiline, safinamide, 
+tranylcypromine, selegiline, methylene blue, linzolidprocarbazine, moclobemide, furazolidone, syrian rue, 
+tedizolid
+15. Triptans MAOIs
+ sumatriptan, rizatriptan, zolmitriptan, almotriptan, eletriptan, 
+frovatriptan, naratriptanisocarboxazid, phenelzine, tranylcypromine, methylene 
+blue, moclobemide, procarbazine, rasagiline, safinamide, 
+selegiline, linezolid, syrian rue, tedizolid
+ aM J heaL th-sYst PharM | VOLUME 79 | NUMBER 13 | JUL y 1, 2022  1095

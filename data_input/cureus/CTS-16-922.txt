@@ -1,0 +1,1315 @@
+922 |     Clin Transl Sci. 2023;16:922–936. www.cts-journal.com
+INTRODUCTION
+The importance of drug–  drug interactions (DDI) in drug 
+development and clinical practice is clear: DDIs may in-
+crease the risk of treatment failures and the incidence and 
+severity of adverse events. The successful evaluation and 
+prediction of DDIs during different phases of drug devel-
+opment and regulatory evaluation is critical to mitigate 
+this risk.Cytokines are a class of secreted small proteins (~5– 25 
+kDa) that regulates the cell survival, growth, differenti-
+ation, and effector function.1 Some cytokines, especially 
+pro- inflammatory cytokines, are elevated during host im-
+mune responses to inflammation, infection, trauma, or 
+cancer, and play an important role by controlling immune 
+cell maturation, growth, and responsiveness. There is 
+long-  standing evidence for cytokine-  drug interaction with 
+early clinical evidence in the 1970s, which demonstrated Received: 12 December 2022 | Revised: 21 February 2023 | Accepted: 1 March 2023
+DOI: 10.1111/cts.13507  
+REVIEW
+Assessment of the drug–  drug interaction potential for 
+therapeutic proteins with pro- inflammatory activities
+Yanke Yu1 |   Charity Henrich2 |   Diane Wang1
+1Clinical Pharmacology, Global Product 
+Development, Pfizer, San Diego, 
+California, USA
+2San Diego Skaggs School of Pharmacy 
+and Pharmaceutical Sciences, 
+University of California, San Diego, 
+California, USA
+Correspondence
+Yanke Yu, Pfizer Inc. (Currently at 
+Genentech Inc.), 10555 Science Center 
+Drive, San Diego, CA 92121, USA.
+Email: yu.yanke@gene.comAbstract
+It is well- recognized that therapeutic proteins (TPs) with pro- inflammatory ac-
+tivities elevate the pro- inflammatory cytokines and result in cytokine- drug in-
+teractions. In the current review, several pro- inflammatory cytokines, including 
+IL- 2, IL- 6, IFN- γ, and TNF- α, as well as an anti- inflammatory cytokine IL- 10, 
+were summarized for their respective effect on major cytochrome P450 enzymes 
+and efflux transporter PgP. Pro- inflammatory cytokines are generally associated 
+with suppression of CYP enzymes across assay systems but have varied effect on 
+Pgp expression levels and activities depending on the individual cytokines and 
+assay systems, whereas IL- 10 had no significant impact on CYP enzymes and 
+P- gp. A cocktail drug- drug interaction (DDI) study design could be an ideal ap-
+proach for simultaneously assess the impact of TPs with pro- inflammatory activi-
+ties on multiple CYP enzymes. Clinical DDI studies using the cocktail approach 
+have been conducted for several TPs with pro- inflammatory activities and for 
+those TPs with pro- inflammatory activities which had no clinical DDI study con-
+ducted, languages for potential DDI risk due to cytokine- drug interaction were 
+included in the label. Up to date drug cocktails, including clinically validated and 
+unvalidated for DDI assessment, were summarized in this review. Most clinically 
+validated cocktails focused either on CYP enzymes or transporters. Additional 
+effort was needed to validate a cocktail to include both the major CYP enzymes 
+and key transporters. In silico methods for assessment of the DDI for TPs with 
+pro- inflammatory activities were also discussed.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any 
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 Pfizer Inc. Clinical and Translational Science published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.   | 923
+DDI FOR THERAPEUTIC PROTEINS
+that acute inflammatory responses (associated with cy -
+tokine release) to infection or tissue injury could lead to 
+altered drug pharmacokinetics.2– 4 Quinine exposure was 
+increased during induced malaria and induced fever, and 
+theophylline had a longer half- life and therefore higher 
+exposure during acute respiratory viral illness.3,4 With 
+the advancement in the knowledge of cytokines and drug 
+metabolism, direct link of cytokines and drug metaboliz-
+ing enzymes were identified. For instance, interleukin 6 
+(IL- 6) was found to be critical in reduction of cytochromes 
+P450 (CYP) enzymes CYP1A2, CYP2A5, and CYP3A11 
+mRNA levels during turpentine- induced inflammation 
+but not during LPS- mediated inflammation in mice.5 In 
+general, cytokines downregulate CYP enzyme levels, re -
+duce CYP enzyme substrates metabolism, and increase 
+drug exposures.
+Therapeutic proteins (TPs) with pro- inflammatory 
+activities are a class of TPs with the properties either as 
+pro- inflammatory cytokines, such as peginterferon, or as 
+pro- inflammatory cytokine modulators, such as blinatum-
+omab. By definition, TPs with pro- inflammatory activities 
+could result in persistent or transient elevation of cytokine 
+levels in the body, therefore, administration of TPs with 
+pro- inflammatory activities could lead to DDIs with co- 
+administered drugs owing to the cytokine-  drug interac-
+tion.6,7 Recent US Food and Drug Administration (FDA) 
+draft guidance on “Drug-  drug interaction assessment for 
+therapeutic proteins” laid out recommendations regarding 
+assessing DDI risks for TPs.8 For TPs as pro- inflammatory 
+cytokines, a clinical DDI study is recommended, and, for 
+TPs as pro- inflammatory cytokine modulators, a clinical 
+DDI study may not be conducted but label language to in-
+clude potential CYP/transporter mediated DDIs.
+The objectives of the current review are to provide a 
+summary of key pro- inflammatory cytokines (IL- 2, IL- 6, 
+TNF- α, and IFN- γ) and their effect on major CYP enzymes 
+and efflux transporter P-  glycoprotein (P-  gp); clinically ob -
+served DDIs for TPs with pro- inflammatory activities; pos -
+sible drug cocktails for clinical DDI study to evaluate such 
+DDIs; and in silico methods for assessment of such DDIs.
+Cytokines effect on CYP enzymes and 
+transporters
+IL- 2
+IL- 2 is a 15.5- 16- kDa four- α- helix- bundle cytokine, se-
+creted primarily by antigen- stimulated CD4+ T cells, 
+and also can be secreted by CD8+ T cells, NK cells, and 
+activated dendritic cells.9 IL- 2 plays an important role in 
+immune homeostasis and activation via stimulation both 
+regulatory T cells and cytotoxic effector T cells.IL- 2 treatment of cryopreserved human hepatocytes 
+had no significant impact on either mRNA levels or en-
+zyme activities for CYP1A2, 2C9, or 3A4, but modestly 
+decreased CYP2B6 (mRNA only) and CYP2C19 (enzyme 
+activity only) by less than 25% (Table  1).10 On the contrary, 
+the CYP2D6 mRNA expression increased ~50%, whereas 
+CYP2D6 enzyme activity decreased ~22%.10 In primary 
+human hepatocyte culture, IL- 2 was shown to have tran-
+sient suppression of CYP3A activity, but demonstrated a 
+sustained and concentration-  dependent 50% to 70% sup -
+pression of CYP3A activity in hepatocyte/Kupffer cell 
+coculture.11 Indinavir, primarily eliminated by CYP3A4 
+metabolism, was found to have significant increase in 
+area under the curve (AUC; 88% increase on day 5 vs. day 
+1) after IL- 2 infusion in patients infected with the human 
+immunodeficiency virus.12 In addition, high-  dose daily 
+administration (9 or 12*106 units/m2) of IL- 2 in patients 
+with hepatic metastases from colon or rectum carcinomas 
+resulted in significant reduction of total CYP enzyme pro -
+tein level by 34%, CYP1A2 protein level by 37%, CYP2C 
+protein level by 45%, CYP2E1 protein level by 60%, and 
+CYP3A4 protein level by 39%.13
+IL- 2 significantly reduced P-  gp mRNA expression in 
+human colon carcinoma cell lines Lo VO, HT115, and 
+SW480 cells, but had no effect on P-  gp expression in 
+LS174T cells (Table  2).14 In another two human colon 
+carcinoma cells, HCT15 and HCT116, a transient and re -
+versible reduction of P-  gp mRNA and protein levels when 
+incubated with IL- 2 was observed.15 In a mouse model, 
+chronic IL- 2 treatment led to a significant decrease of 57% 
+in P-  gp protein expression but no marked differences in 
+P- gp mRNA level in the intestines, and, as a result, IL- 2 
+pretreatment increased orally administered P-  gp substrate 
+digoxin exposure by 2.8- fold in mice.16 Incubation of IL- 2 
+with human peripheral blood mononuclear cells (hPB -
+MCs) resulted in reduced CYP2B6 and CYP3A4 mRNA 
+and protein levels; in contrast, IL- 2 increased the P-  gp 
+mRNA level to ~4.7- fold and protein level to ~2- fold, and 
+resulted in reduced cellular accumulation of digoxin by 
+17% and saquinavir by 28%.17 In another study using hPB -
+MCs, IL- 2 incubation was shown to significantly increase 
+P- gp mRNA and protein levels in lymphocytes, and flow 
+cytometry further confirmed that P-  gp expression was sig -
+nificantly augmented on CD4+, CD8+, and CD19+ cells.18
+IL- 6
+IL- 6 is a 21- 26- kDa four- α- helix- bundle cytokine with an 
+additional short α- helix in the CD loop, secreted primar-
+ily by various cell types, including fibroblasts, endothelial 
+cells, macrophages, T cells, and myocytes.19 IL- 6 plays an 
+important role in host defense through the stimulation 924 |   
+YU et al.
+TABLE 1 The impact of cytokines on CYP enzymes.
+Cytokines Assay system CYP1A2 CYP2B6 CYP2C8 CYP2C9 CYP2C19 CYP2D6 CYP3A4 References
+IL- 2 Cryopreserved human 
+hepatocyte↔ mRNA and 
+activity↓ mRNA (<25%) 
+only↔ mRNA and 
+activity↓ activity (<25%) 
+only↑ mRNA (~50%)
+↓ activity 
+(<22%)↔ mRNA and 
+activity10
+Primary human 
+hepatocyte↓ activity 
+(transient)11
+Primary human 
+hepatocyte/Kupffer 
+coculture↓ activity (50% 
+-  70%)11
+Human ↓ protein (37%) ↓ protein (45%) ↓ protein (45%) ↓ protein (45%) ↓ protein (39%)13
+hPBMCs ↓ mRNA and 
+protein↓ mRNA and 
+protein17
+IL- 6 Primary human 
+hepatocyte and 
+hepatocyte/Kupffer 
+coculture↓ activity (~80% 
+-  90%)11
+Primary human 
+hepatocyte↓ mRNA (~75%)
+↓ protein (~60%)↓ mRNA
+(~50%)↓ mRNA (~35%)
+↓ protein (~80%)↓ mRNA
+(~40%)↓ mRNA (~90%)
+↓ protein (~50%)20
+Primary human 
+hepatocyte↓ mRNA (>75%)
+↓ activity (NS)↓ mRNA (>60%)
+↓ activity (NS)↓ mRNA (>60%)
+↓ activity (NS)↓ mRNA (>60%)
+↓ activity (NS)↓ mRNA (>30%)
+↓ activity (NS)↓ mRNA (~50%) ↓ mRNA (>80%)
+↓ activity (NS)21
+HepaRG cells ↓ mRNA (>80%)
+↓ activity (>80%)↓ mRNA (>60%)
+↓ activity (>60%)↓ mRNA (>60%)
+↓ activity (>80%)↓ mRNA (>75%)
+↓ activity (>60%)↓ mRNA (>75%)
+↓ activity (>60%)↓ mRNA (>80%)
+↓ activity (>80%)21
+Cryopreserved human 
+hepatocyte↓ mRNA (27%)
+↓ activity (22%)↓ mRNA (63%)
+↓ activity (30%)↓ mRNA (63%)
+↓ activity (35%)↓ mRNA (72%)
+↓ activity (65%)↑ mRNA 
+(2.4- fold)
+↓ activity (39%)↓ mRNA (98%)
+↓ activity (76%)10
+Caco- 2 cells ↓ mRNA (~15%)22
+hPBMCs ↔ mRNA
+↓ protein (~40%)↔ mRNA
+↓ protein (~20%)17
+IFN- γ Primary human 
+hepatocytes↓ mRNA (~75%)
+↓ protein (~70%)↓ mRNA (~50%)
+↓ protein (~80%)↔ mRNA
+↓ protein (~60%)↔ mRNA
+↓ protein (~60%)↓ mRNA (~70%)
+↓ protein (~50%)20
+hPBMCs ↓ mRNA (~60%)
+↓ protein (~60%)↓ mRNA (~40%)
+↓ protein (~50%)17
+Caco- 2 cells ↔ mRNA22
+TNF- α Primary human 
+hepatocytes↔ mRNA
+↓ protein (~80%)↓ mRNA (~60%)
+↓ protein (~80%)↔ mRNA ↔ mRNA ↓ mRNA (~80%)
+↓ protein (~60%)20
+Cryopreserved human 
+hepatocytes↓ mRNA (45%)
+↓ activity (~75%)↔ mRNA
+↓ activity (~35%)↔ mRNA
+↓ activity (~20%)↔ mRNA
+↓ activity (~80%)↓ mRNA (45%)
+↓ activity (~45%)↓ mRNA (87%)
+↓ activity (~70%)10   | 925
+DDI FOR THERAPEUTIC PROTEINS
+of acute phase responses, hematopoiesis, and immune 
+reactions.19
+IL- 6 was shown to have significant suppression of 
+CYP3A activity (~80%– 90%) in both human primary he -
+patocyte culture and hepatocyte/Kupffer cell coculture 
+(Table  1).11 In another study with primary human hepato -
+cytes, IL- 6 was shown to significantly reduce the mRNA 
+levels of all the CYP isoforms tested (CYP2C8, 2C9, 2C19, 
+3A4, and 2B6), with the least at ~35% for CYP2C9 and 
+the greatest reduction at ~90% for CYP3A4.20 IL- 6 also re -
+duced CYP2B6, 2C9, and 3A4 protein levels by ~50– 80%.20 
+Similarly, co- incubation of primary human hepatocytes 
+with IL- 6 downregulated the major CYP enzymes mRNA 
+by at least 40%, with CYP1A2 decreased by greater than 
+75%, CYP3A4 by greater than 80%, CYP2C9 by greater 
+than 60%, and CYP2D6 by ~50%, and P-  gp mRNA de -
+creased by ~40%; similar findings were observed in 
+HepaRG cells with significant downregulation by at least 
+60% for almost all P450 isoforms with co- incubation of IL- 
+6, but only marginal reduction in the P-  gp mRNA level.21 
+Consistently, IL- 6 treatment significantly reduced the en-
+zymes activities of P450s 1A2, 2B6, 2C8/9/19, and 3A4 in 
+HepaRG cells, and markedly reduced the enzymes’ activi-
+ties in primary human hepatocyte but not statistically sig -
+nificant due to high interindividual variability among the 
+three donors.21 IL- 6 treatment of cryopreserved human he -
+patocytes also significantly decreased enzyme activities of 
+all six CYP isoforms examined (CYP1A2, 2B6, 2C9, 2C19, 
+2D6, and 3A4), ranging from the least at 22% for CYP1A2 
+to the greatest at 76% for CYP3A4.10 The CYP mRNA ex -
+pression reduction was similar to the decrease in enzyme 
+activity, except that CYP2D6 enzyme activity decreased by 
+39%, but the mRNA level increased by 2.4- fold.10
+IL- 6 treatment with Caco- 2 cells, a model of the in-
+testinal epithelial barrier, had reduced CYP3A4 mRNA 
+expression by ~15% (Table  1), and increased P-  gp mRNA 
+expression by ~20% (Table  2).22 Whereas, in the human 
+hepatoma cell line HuH7, IL- 6 treatment significantly 
+reduced P-  gp mRNA level ~35% and transporter activity 
+by ~20%, but did not impact P-  gp mRNA, protein expres -
+sion or transporter activity in HepG2 cells.23 IL- 6 treat -
+ment with primary human hepatocyte modestly reduced 
+the P-  gp mRNA level by ~35% but had no impact on the 
+protein level.24 Incubation of IL- 6 with hPBMCs had no 
+significant impact on CYP2B6, CYP3A4, and P-  gp mRNA 
+levels but slightly reduced CYP2B6 and CYP3A4 pro -
+tein levels, and increased the P-  gp protein level.17 In the 
+human brain endothelial cell line hCMEC/D3 cell line, in 
+vitro model of the human blood– brain barrier (BBB), IL- 6 
+treatment slightly decreased the P-  gp mRNA level by 21% 
+and had no significant impact on protein expression, and 
+transporter activity.25 Similar findings were observed in 
+another study, IL- 6 treatment with hCMEC/D3 cell line Cytokines Assay system CYP1A2 CYP2B6 CYP2C8 CYP2C9 CYP2C19 CYP2D6 CYP3A4 References
+HepaRG cells ↓ mRNA (>40%)
+↓ activity (>80%)↓ mRNA (>40%)
+↓ activity (>80%)↓ mRNA (>40%)
+↓ activity (~30%)↓ mRNA (>40%)
+↓ activity (>80%)↓ mRNA (>40%)
+↓ activity (>80%)↓ mRNA (>40%)
+↓ activity (>80%)21
+hPBMCs ↑ mRNA
+↑ protein↔ mRNA
+↔ protein17
+Caco- 2 cells ↔ mRNA22
+IL- 10 hPBMCs ↔ mRNA
+↔ protein↔ mRNA
+↔ protein17
+Human ↔ activity ↔ activity ↔ activity ↓ activity (~12%)35
+Abbreviations: hPBMCs, human peripheral blood mononuclear cells; NS, not significant.TABLE 1 (Continued)926 |   
+YU et al.
+TABLE 2 The impact of cytokines on P- gp.
+Assay system IL- 2 IL- 6 IFN- γ TNF- α IL- 10 References
+Human colon carcinoma cell lines 
+Lo VO, HT115, SW480↓ mRNA ↓ mRNA ↓ mRNA14
+Human colon carcinoma cell line 
+LS174T↔ mRNA ↔ mRNA ↔ mRNA14
+Human colon carcinoma cell line 
+HCT15, HCT116↓ mRNA and protein 
+(transient)15
+hPBMCs ↑ mRNA (~4.7- fold)
+↑ activity (~2- fold)↔ mRNA
+↑ protein (~40%)↑ mRNA (>50- fold)
+↑ protein (~2- fold)↑ mRNA
+↑ protein↔ mRNA
+↔ protein17
+hPBMCs ↑ mRNA and activity18
+Primary human hepatocyte ↓ mRNA (~40%)21
+HepaRG cells ↓ mRNA (~20%) ↓ mRNA (~12%)21
+Caco- 2 cells ↑ mRNA (~20%) ↑ mRNA (~20%) ↔ mRNA22
+HuH7 cells ↓ mRNA (~35%)
+↓ protein (~20%)
+↓ activity (~20%)↓ mRNA (~25%)
+↓ protein (~35%)
+↓ activity (~35%)23
+HepaG2 cells ↔ mRNA, protein, and 
+activity↓ mRNA (~25%)
+↓ protein (~35%)
+↓ activity (~35%)23
+Primary human hepatocyte ↓ mRNA (~35%)
+↔ protein↔ mRNA
+↔ protein24
+hCMEC/D3 cells ↓ mRNA (21%)
+↔ protein, and activity↑ mRNA (49%)
+↑ protein
+↔ activity25
+hCMEC/D3 cells ↓ mRNA (43%)
+↔ activity26
+hPBMC derived macrophages ↑ mRNA
+↑ activity28
+Primary lymphocytes and 
+monocytic cell lines↔ mRNA28
+Caco- 2 cells ↑ mRNA (2.5- fold)
+↑ protein (~50%)
+↔ activity↓ mRNA (~56%)
+↓ activity (~20%)29
+Caco- 2 cells ↑ protein (~2- fold)30
+iHBMEC and pHBMEC ↑ mRNA
+↔ protein
+↓ activity↑ mRNA
+↔ protein
+↓ activity31
+Abbreviations: hPBMCs, human peripheral blood mononuclear cells; iHBMEC, immortalized human brain microvascular endothelial cell lines; NS, not significant; pHBMEC, primary human brain microvascular 
+endothelial cell lines.   | 927
+DDI FOR THERAPEUTIC PROTEINS
+reduced the P-  gp mRNA level by 43%, but only had mild 
+modification of P-  gp transporter activity.26
+IFN- γ
+IFN- γ is a dimerized cytokine, secreted primarily by T 
+helper cell type 1 (Th1) cells, CD8+  T cells, B cells, NK 
+cells, and antigen presenting cells (monocytes, mac-
+rophages, and dendritic cells).27 The monomer has a 
+molecular weight of 20– 25 kDa, and it is composed of a 
+core of six- α- helix- bundle and an extended C- terminal 
+region. IFN- γ plays an important role in host defense by 
+mediating both innate and adaptive immune responses, 
+also, IFN- γ can exert both antitumor and pro- tumor 
+effects.
+IFN- γ significantly reduced CYP2C8, 3A4, and 2B6 
+by ~50% to 90%, but had no significant effect on 2C9 and 
+2C19 mRNA in primary human hepatocytes (Table  1).20 
+IFN- γ also reduced CYP2B6, 2C9, and 3A4 protein lev -
+els by ~60– 80%.20 Incubation of IFN- γ with hPBMCs 
+resulted in reduced CYP2B6 and CYP3A4 mRNA and 
+protein levels; in contrast, IFN- γ dramatically increased 
+P- gp mRNA and protein levels, and resulted in reduced 
+cellular accumulation of digoxin by 26% and saquinavir 
+by 30%.17
+IFN- γ significantly reduced P-  gp mRNA expression 
+in Lo VO, HT115, and SW480 cells, but had no effect on 
+P- gp expression in LS174T cells (Table  2).14 IFN- γ upreg -
+ulated P-  gp expression and increased P-  gp transport ac-
+tivity in a dose-  and time-  dependent manner in human 
+peripheral blood monocyte-  derived macrophages. The 
+upregulation of P-  gp by IFN- γ is the specific response 
+of primary macrophages, as it has no impact on P-  gp 
+expression in primary lymphocytes and monocytic cell 
+lines.28 IFN- γ treatment with Caco- 2 cells had no signifi-
+cant impact on CYP3A4 mRNA expression, but modestly 
+increased P-  gp mRNA expression by ~ 20%.22 In another 
+study with Caco- 2 cells, IFN- γ treatment increased the 
+P- gp mRNA to 2.5- fold, and a time-  dependent increase 
+of protein level with maximum increase ~ 50% at 24 h, 
+but did not impact transporter activity.29 Similarly, Dixit 
+et al.30 reported that IFN- γ increased P-  gp protein level in 
+a concentration-  and time-  dependent manner in Caco- 2 
+cells with maximum increase by approximately twofold. 
+In both immortalized and primary human brain micro -
+vascular endothelial cell lines (iHBMEC and pHBMEC), 
+another in vitro BBB model, IFN- γ treatment increased 
+P- gp mRNA expression transiently with maximum effect 
+observed at 24 h but had no effect on the P-  gp protein 
+level. In addition, IFN- γ treatment transiently decreased 
+P- gp transporter activity with a maximum effect ob -
+served at 12 h.31TNF- α
+TNF- α exits as two forms, a 26 kDa transmembrane form 
+and a soluble 17 kDa form, which is the extracellular do-
+main cleaved from the transmembrane form.32 Both forms 
+are biologically active but require trimerization for the ac-
+tivity. TNF- α is predominantly produced by macrophages 
+and monocytes. TNF- α plays important roles in acute and 
+chronic inflammation, immunostimulation, resistance to 
+infection agents, antitumor response, sleep regulation, 
+embryonic development, and inducing necrotic or apop-
+totic cell death.33
+In primary human hepatocytes, TNF- α significantly re -
+duced the mRNA levels of CYP2C8 and 3A4 by 60– 80%, 
+but had no significant effect on CYP2C9, 2C19, and 2B6 
+mRNA (Table  1).20 TNF- α also reduced CYP2B6, 2C9, and 
+3A4 protein levels by ~60– 80%.20 In cryopreserved human 
+hepatocytes, TNF- α treatment also significantly decreased 
+enzyme activities of all six CYP isoforms examined 
+(CYP1A2, 2B6, 2C9, 2C19, 2D6, and 3A4), with greater 
+reduction (>70%) for CYP1A2/2C19/3A4 and relatively 
+smaller reduction (<50%) for CYP2B6/2C9/2D6.10 The 
+reduction of CYP mRNA expression levels was similar to 
+the decrease in enzyme activities for CYP1A2/2D6/3A4, 
+whereas CYP2B6/2C9/2C19 mRNA levels were rela-
+tively unchanged.10 Similarly, in HepaRG cells, TNF- α 
+treatment significantly reduced all major P450s isoform 
+mRNA levels by at least 40%, but only slightly reduced 
+P- gp mRNA by ~12%; the enzymatic activities of P450s 
+1A2, 2B6, 2C8/9/19, and 3A4 were also reduced with most 
+at greater than 80% reduction except about 30% reduction 
+for CYP2C8.21 In contrast, incubation of TNF- α with hPB -
+MCs significantly increased the mRNA and protein lev -
+els of CYP2B6 and P-  gp, but had no impact on CYP3A4 
+mRNA and protein levels.17
+TNF- α significantly reduced P-  gp mRNA expression in 
+Lo VO, HT115, and SW480 cells, but had no effect on P-  gp 
+expression in LS174T cells (Table  2).14 Mixed results were 
+reported on the impact of TNF- α treatment on Caco- 2 
+cells, Bertilsson et al.22 indicated that TNF- α treatment 
+had no significant impact on CYP3A4 and P-  gp mRNA 
+expression; whereas, Belliard demonstrated that TNF- α 
+treatment resulted in a time-  dependent decrease of the 
+P- gp mRNA level, with maximum reduction ~56% at 48 h, 
+and also had significant but moderate (~20%) reduction 
+in transporter activity.29 In the human hepatoma cell line, 
+HuH7 and HepG2 cells, TNF- α treatment significantly re -
+duced the P-  gp mRNA level ~25% and transporter activity 
+by ~35%.23 TNF- α treatment with primary human hepato -
+cyte had no impact on either the P-  gp mRNA level or the 
+protein level.24 In the human hCMEC/D3 cell line, TNF- α 
+treatment significantly increased P-  gp mRNA level by 49% 
+and protein expression, but had no effect on transporter 928 |   
+YU et al.
+activity.25 In another in vitro human BBB model, iHBMEC 
+and pHBMEC cells, TNF- α treatment also increased P-  gp 
+mRNA expression transiently with maximum effect ob -
+served at 24 h in iHBMEC and consistently increased P-  gp 
+mRNA expression in pHBMEC, but had no effect on the 
+P- gp protein level in both cell lines.31 Interestingly, TNF- α 
+treatment transiently decreased P-  gp transporter activity 
+with maximum effect observed at 12 h in iHBMEC cells, 
+and resulted in more consistent reduction of P-  gp trans -
+porter activity in pHBMEC cells.31
+IL- 10
+IL- 10 is a dimerized anti- inflammatory cytokine, secreted 
+primarily by monocytes, type- II T helper cells (TH2), 
+CD4 + CD25+ T regulatory cells, γδT cells, and activated B 
+cells.34 The monomer has a molecular weight of ~18 kDa, 
+consisting of a core of six- α- helix- bundle. IL- 10 plays an 
+immunoregulatory role and has inhibitory effects on pro- 
+inflammatory cytokine production and function.
+In general, incubation of IL- 10 with hPBMC had no 
+significant impact on the mRNA and protein levels of 
+CYP2B6, CYP3A4, and P-  gp, except that there is a tran-
+sient slight increase in the CYP3A4 mRNA level (Tables  1 
+and 2).17 In addition, IL- 10 treatment in 12 healthy vol-
+unteers did not significantly alter CYP1A2, CYP2C9, and 
+CYP2D6 activities, but slightly reduced CYP3A activity by 
+~12%.35
+Clinical DDI studies involving TPs with 
+pro- inflammatory activity
+Peginterferon alfa- 2a, a covalent conjugate of recombinant 
+alfa- 2a interferon with a polyethylene glycol (PEG) chain, 
+was approved for chronic hepatitis B and C. Peginterferon 
+alfa- 2a was found to have no significant effect on the 
+pharmacokinetics (PKs) of representative drugs metabo-
+lized by CYP2C9 (tolbutamide), CYP2C19 (mephenytoin), 
+CYP2D6 (debrisoquine), or CYP3A4 (dapsone); and was 
+associated with an inhibition of CYP1A2 and increased 
+theophylline AUC 25% in healthy volunteers.36,37
+Peginterferon alfa- 2b, a covalent conjugate of recom-
+binant alfa- 2b interferon with a PEG chain, was approved 
+for chronic hepatitis C. Peginterferon alfa- 2b increased 
+caffeine (CYP1A2 substrate) AUC 18– 39% in healthy and 
+chronic hepatitis C subjects depending on the dose reg -
+imen, increased dextromethorphan (CYP2D6 substrate) 
+AUC 103% in healthy subjects but had no impact in 
+chronic hepatitis C subjects, and increased desipramine 
+(CYP2D6 substrate) AUC 30% in healthy subjects.38,39 
+Peginterferon alfa- 2b had no significant impact on the PKs of tolbutamide (CYP2C9 substrate), midazolam 
+(CYP3A4 substrate), and dapsone (N- acetyltransferase 
+substrate).38,39 In another report, high-  dose interferon al-
+fa- 2b was found to reduce CYP1A2 activity by 60% in pa-
+tients with high- risk melanoma.40
+No clinical DDI information have been reported 
+for the other approved therapeutic proteins with pro- 
+inflammatory activity, including interferon alfacon- 1, 
+interferon gamma- 1b, interferon beta- 1b, TNF- α, aldesleu-
+kin, denileukin diftitox, blinatumomab, tebentafusp- tebn, 
+mosunetuzumab, and teclistamab-  cqyv.41– 51 However, 
+interferon gamma- 1b had label language describing that 
+the interferon gamma had demonstrated reduction in 
+hepatic CYP450 concentrations in rodents, which could 
+lead to suppression of the hepatic metabolism of certain 
+drugs.42 Interferon beta- 1b also had label language de -
+scribing caution when interferon beta- 1b in combination 
+with medicinal products that have a narrow therapeutic 
+index and largely dependent on the hepatic cytochrome 
+P450 system for clearance, as interferon was reported to 
+be associated with reduced activity of hepatic CYP450 en-
+zymes.44 Blinatumomab, tebentafusp, mosunetuzumab, 
+and teclistamab had label languages describing transient 
+release of cytokines that may suppress CYP450 enzymes 
+which could result in DDI risk.48– 51
+Cocktail studies
+Clinically validated cocktails involving CYP 
+mediated DDIs
+Nine clinically validated (drugs within the cocktail have 
+no mutual interactions in clinical study) cocktails with at 
+least five CYP enzymes were shown in Table  3, includ-
+ing the publication time for the final version of the cock-
+tail, drugs in the cocktail and their doses/routes, and the 
+applications of the cocktail with no change or minimal 
+changes.
+The major CYP enzymes assessed in these cocktails 
+included CYP1A2, 2B6, 2C9, 2C19, 2D6, and 3A4.52– 63 
+Caffeine was selected as the CYP1A2 probe substrate in all 
+these cocktails. Four CYP2C9 probe substrate drugs were 
+used in these cocktails, including flurbiprofen, losartan, 
+tolbutamide, and warfarin. Mephenytoin and omeprazole 
+were used as the CYP2C19 probe substrates with omepra-
+zole predominantly used. Debrisoquine, metoprolol, and 
+dextromethorphan were used as the CYP2D6 probe sub -
+strates. Dapsone, quinine, and midazolam were used as the 
+CYP3A4 probe substrates with midazolam predominantly 
+used. CYP2B6 was only assessed in the Basel cocktail and 
+Geneva cocktail with efavirenz and bupropion as the re -
+spective probe substrate.61,63 In addition, the Pittsburgh    | 929
+DDI FOR THERAPEUTIC PROTEINS
+TABLE 3 Clinically validated cocktails involving CYP mediated DDIs.
+Pittsburgh 
+Cocktail52,53Zhu Cocktail54Karolinska 
+Cocktail55Blakey Cocktail58Cooperstown 5 + 1 
+Cocktail56,57Inje Cocktail59,64Turpault 
+Cocktail60Basel 
+Cocktail61Geneva Cocktail62,63
+Publication 
+dateSeptember 
+2006November 2001 June 2003 February 2004 November 2003 November 2007 December 
+2009March 2014 September 2016
+CYP1A2 Caffeine 
+100 mgCaffeine 100 mg Caffeine 100 mg Caffeine 100 mg Caffeine 2 mg/kg Caffeine 93 mg Caffeine 
+100 mgCaffeine 
+100 mgCaffeine 50 mg
+CYP2B6 Efavirenz 
+50 mgBupropion 20 mg
+CYP2C9 Flurbiprofen 
+50 mgLosartan 25 mg Tolbutamide 
+250 mgWarfarin 10 mg Losartan 30 mg Warfarin 
+10 mgLosartan 
+12.5 mgFlurbiprofen 10 mg
+CYP2C19 Mephenytoin 
+100 mgMephenytoin 
+100 mgOmeprazole 
+20 mgOmeprazole 40 mg Omeprazole 20 mg Omeprazole 
+20 mgOmeprazole 
+10 mgOmeprazole 10 mg
+CYP2D6 Debrisoquine 
+10 mgMetoprolol 
+100 mgDebrisoquine 
+10 mgDebrisoquine 5 mg Dextromethorphan 
+30 mgDextromethorphan 
+30 mgMetoprolol 
+100 mgMetoprolol 
+12.5 mgDextromethorphan 
+10 mg
+CYP3A4 Dapsone 
+100 mgMidazolam 
+7.5 mgQuinine 250 mg Midazolam 
+0.025 mg/kg 
+(i.v.)Midazolam 
+0.025 mg/kg (i.v.)Midazolam 2 mg Midazolam 
+0.03 mg/
+kgMidazolam 
+2 mgMidazolam 1 mg
+CYP2E1 Chlorzoxazone 
+250 mgChlorzoxazone 
+200 mgChlorzoxazone 
+250 mg
+Application85,86 76,80,81,87– 93 94– 98 82
+Note: The dosing route is oral, if not specified.
+Abbreviations: DDI, drug- drug interaction; IV, intravenous.930 |   
+YU et al.
+cocktail, the Zhu cocktail, and the Blakey cocktail also 
+included CYP2E1 with chlorzoxazone as the probe sub -
+strate.52,54,58 Despite that some cocktails shared the same 
+probe substrate, the dose amount and dosing route could 
+be different. For example, midazolam was dosed intrave -
+nously in the Blakey cocktail and the Cooperstown 5 + 1 
+cocktail and was dosed orally in the other cocktails. All 
+the individual tested cocktails showed that there were no 
+mutual metabolic interactions among the included drugs 
+at the respective doses, except that whereas caffeine, losar -
+tan, omeprazole, and quinine had no significant change 
+when administered together compared with administered 
+alone, an inhibition of debrisoquine metabolism was ob -
+served when concurrent administration of the five drugs 
+in the Karolinska cocktail.55 The Inje cocktail was further 
+validated by the typical CYP inducer rifampicin or inhibi-
+tors cimetidine and fluvoxamine, and the degrees of inter -
+action are consistent with the single agent studies.64
+Clinically validated cocktails involving 
+transporter mediated DDIs
+Three clinically validated cocktails involving transporters 
+were shown in Table  S1, including the publication time 
+for the final version of the cocktail, drugs in the cocktail 
+and their doses/routes, and the applications of the cocktail 
+with no change or minimal changes.
+A five-  drug microdose probe drug cocktail (here 
+named as the Microdose cocktail) consisting of 10  μg 
+midazolam (CYP3A), 375 μg dabigatran etexilate (P-  gp), 
+10 μg pitavastatin (OATP1B1), 50 μg rosuvastatin (BCRP 
+and OATP1B1/1B3), 100 μg atorvastatin (CYP3A, BCRP, 
+OATP1B1/1B3, and P-  gp) was qualified by clinical DDI 
+studies with inducer/inhibitors of rifampin, itraconazole, 
+and clarithromycin.65 The observed DDIs were consis -
+tent with historical observed ones and/or in agreement 
+with theoretical expectations, with the exception that the 
+observed DDI for dabigatran was about twofold higher 
+for microdose compared to that of conventional dosing, 
+which could be due to P-  gp mediated nonlinearity in the 
+PKs of dabigatran.65
+Stopfer et al.66 evaluated a four-  drug cocktails 
+(here named as the Stopfer transporter cocktail) con-
+sisting of 0.25 mg digoxin (P-  gp), 5  mg furosemide 
+(OAT1 and OAT3), 500 mg metformin (OCT2, MATE1, 
+and MATE2- K), and 10  mg rosuvastatin (OATP1B1, 
+OATP1B3, and BCRP) for evaluation of transporter me -
+diated DDI. Approximately 40% increase in rosuvastatin 
+exposure was observed which could be due to the met -
+formin and furosemide had an effect on rosuvastatin.66 
+As a result, reduced doses of furosemide and metformin 
+in this four-  drug cocktail was further tested, with 0.25 mg digoxin, 1 mg furosemide, 10 mg metformin, and 10 mg 
+rosuvastatin, and no mutual interaction was observed.67 
+A follow- up study further evaluated this cocktail with 
+four common transporter inhibitors, rifampin (rosuvas -
+tatin inhibitor), probenecid (furosemide inhibitor), ci-
+metidine (metformin inhibitor), and verapamil (digoxin 
+inhibitor). Generally, the DDIs between the transporter 
+inhibitors and substrates were consistent with the his -
+torical data, except that the effect of single dose ver -
+apamil on digoxin was less than the effect observed from 
+multiple verapamil dose studies.68
+Trueck et al.69 evaluated a five-  drug transporter cock -
+tails (here named as the Trueck transporter cocktail) 
+consisting of 10 mg adefovir dipivoxil (OAT1), 100 mg sita-
+gliptin (OAT3), 500 mg metformin (OCT2, MATE1, and 
+MATE2- K), 2 mg pitavastatin (OATP1B1), and 0.5 mg di-
+goxin (P-  gp), and no significant mutual interactions were 
+observed.
+Clinically used cocktails without 
+validation source
+In addition to the validated cocktails, other cocktails were 
+also used for evaluation of complicated DDIs, although no 
+clinical data can be identified to illustrate whether there is 
+mutual interaction among the cocktail drugs. The unvali-
+dated cocktails can be found in Table S2.
+In silico methods
+The cocktail DDI studies could be helpful for evaluating 
+the potential DDI risks for TPs with pro- inflammatory ac-
+tivities with the advantage of simultaneous evaluation of 
+multiple CYP enzymes. In silico methods might also be a 
+viable approach to assess such DDIs.
+Machavaram et al.70 developed a physiologically- based 
+pharmacokinetic (PBPK) model for IL- 6 incorporating in 
+vitro IL6 CYP suppression kinetics from hepatocytes and 
+evaluated the impact of IL- 6 on CYP3A4 substrates (sim-
+vastatin and cyclosporine). A steady-  state concentration 
+of 100 pg/mL IL- 6 was associated with increased exposure 
+of simvastatin, and the predicted increase in AUC is com-
+parable with the observed data (59% vs. 58%, respectively) 
+in patients with rheumatoid arthritis (RA; patients with 
+RA had elevated IL- 6 around 100 ng/mL).70,71 Whereas, 
+a steady-  state concentration of 500 pg/mL IL- 6 resulted 
+in cyclosporine exposure increase and the predicted in-
+crease in AUC was consistent with the observed (45% vs. 
+39%, respectively) in patients with bone marrow trans -
+plant (BMT; patients with BMT had higher IL- 6 around 
+500 pg/mL).70,72 However, in another set of patients with    | 931
+DDI FOR THERAPEUTIC PROTEINS
+BMT, the predicted cyclosporine increase by IL- 6 was 
+less than clinically observed (1.6– 1.7- fold vs. 3– 5- fold). 
+Machavaram et al. further used this model with modifica-
+tion to predict the change of the exposure of several CYP 
+probe substrates, CYP3A4 (simvastatin and midazolam), 
+CYP1A2 (caffeine), CYP2C9 (S-  warfarin), CYP2C19 (ome -
+prazole), and CYP2D6 (dextromethorphan) in subjects 
+with RA (steady-  state IL6 concentrations of 50 or 100 pg/
+mL were used) and compared with healthy subjects and 
+found reasonable agreement.73,74
+Xu et al.75 developed a PBPK model to predict the DDI 
+potential of blinatumomab, a TP with pro- inflammatory 
+activity which can transiently elevate multiple cytokines, 
+including IL- 6, IL- 10, and IFN-  gamma. The model focused 
+on IL- 6 mediated DDI and time-  concentration profile of 
+IL- 6 from patients with non- Hodgkin's lymphoma receiv -
+ing blinatumomab was simulated and in vitro IL- 6 CYP 
+suppression kinetics were incorporated into the model. 
+The predicted exposure increases for sensitive substrates 
+of CYP3A4 (simvastatin and midazolam), CYP1A2 (the -
+ophylline and caffeine), and CYP2C9 (S-  warfarin) ranged 
+from 1.2-  to 1.9- fold, and lasted less than 1 week, indicat -
+ing transient and weak DDI potential for blinatumomab.75
+The exposure of several CYP probe substrate drugs 
+were altered in patients with RA at pre-  and post- 
+sirukumab (an anti- IL- 6 monoclonal antibody) treat -
+ment.76 Midazolam, omeprazole, and S-  warfarin exposure 
+reduced about 33%, 40%, and 18%, respectively; whereas 
+caffeine exposure increased ~25%.76 A PBPK model was 
+used to predict the impact of elevated IL- 6 and sirukumab 
+on CYP enzymes in patients with RA. The predicted expo -
+sure of several CYP probe substrates, caffeine (CYP1A2), 
+S- warfarin (CYP2C9), omeprazole (CYP2C19), and mid-
+azolam (CYP3A4) in patients with RA pre-  and post- 
+sirukumab treatment (IL- 6 assumed to be 50 and 0 pg/mL 
+for pre-  and post-  sirukumab treatment, respectively) were 
+consistent with the observed from the sirukumab clinical 
+TP- DDI study.74
+The PBPK model was also used to simulate IL- 6 in-
+duced P-  gp activity reduction in BBB and examine its 
+impact on P-  gp substrate digoxin exposure in the brain.26 
+The simulation showed that the digoxin brain exposure is 
+marginally affected with IL- 6 treatment (a nonsignificant 
+4% increase of AUCinf).
+DISCUSSION
+There is an increasing number of TPs, including TPs with 
+pro- inflammatory activities in the different stages of drug 
+development. In this review, we examined the DDI poten-
+tial for TPs with pro- inflammatory activities via cytokine- 
+drug interaction. Specifically, several key cytokines and their impact on major CYP enzymes and P- gp, the clini-
+cal DDI information of TPs with pro- inflammatory ac-
+tivities, drug cocktails for clinical DDI studies, and in 
+silico methods for evaluating clinical DDI potential were 
+summarized.
+Among the pro- inflammatory cytokines examined, 
+IL- 6 exhibited consistent and profound effect in reduc-
+ing the major CYP enzymes mRNA and protein levels as 
+well as enzymatic activities across different assay systems, 
+except that CYP2D6 mRNA in cryopreserved human he -
+patocyte was increased and CYP2B6 and CYP3A4 mRNA 
+in hPBMCs were not changed. However, CYP2D6 activ -
+ity in cryopreserved human hepatocytes and CYP2B6 
+and CYP3A4 protein levels in hPBMCs were reduced 
+with IL- 6 treatment. Compared to IL- 6, IFN- γ and TNF- α 
+showed slightly less effect but also significantly reduced 
+the mRNA, protein levels, and enzymatic activities of 
+the major CYP enzymes in most assay systems. IL- 2 had 
+the least activity in suppression of CYP enzymes, and 
+the mechanism in suppression of CYP enzymes for IL- 2 
+might be different from IL- 6, IFN- γ, and TNF- α, because 
+IL- 2 had minor or only transient effect on CYP enzymes 
+in primary or cryopreserved human hepatocytes but sig -
+nificantly reduced CYP3A4 activity in primary human he -
+patocyte/Kupffer coculture; in contrast, IL- 6, IFN- γ, and 
+TNF- α had similar effect on CYP enzymes in primary or 
+cryopreserved human hepatocytes with/without Kupffer 
+coculture. Therefore, IL- 2 might suppress CYP enzymes 
+in hepatocytes indirectly through inducing IL- 6 and other 
+pro- inflammatory cytokines in Kupffer cells.11 In addition 
+to the in vitro assay systems, patients with hepatic metas -
+tases treated with IL- 2 resulted in CYP enzyme reduction 
+in a clinical study.13 For comparison purpose, we also ex -
+amined the effect of an anti- inflammatory cytokine, IL- 10, 
+on CYP enzymes. Not surprisingly, IL- 10 had negligible 
+effect on CYP enzymes in hPBMCs and in humans from 
+a clinical study.
+In addition to the CYP enzymes, the impact of cyto -
+kines on transporter P-  gp was also examined. The impact 
+of cytokines on transporter P-  gp is varied and depen-
+dent on assay systems. In general, the pro- inflammatory 
+cytokines IL- 2, IL- 6, IFN- γ, and TNF- α increased P-  gp 
+mRNA and protein levels in hPBMC; whereas the im-
+pact of different cytokines on the other assay systems, 
+including human colon carcinoma cell lines, Caco- 2 
+cells, hepatocyte, HepaG2 cells, and in vitro BBB model 
+cells were varied and could be a reduction, no change, 
+or increase. In addition, IL- 10 had no impact on P+gp. 
+In this review, we only focused on P-  gp as a prototypical 
+transporter. However, other transporters can also be af-
+fected by the pro- inflammatory cytokines. For instance, 
+IL- 6 and TNF- α significantly reduced BCRP mRNA level 
+and activity in the human hCMEC/D3 cell line.25 TNF- α 932 |   
+YU et al.
+and IL- 2 downregulated NTCP, OATP1B1, OATP1B3, 
+OATB2B1, OCT1, and OAT2 mRNA levels, and reduced 
+NTCP, OATP1B1 protein levels and NTCP, OATP, and 
+OCT1 transporter activities; IL- 6 decreased mRNA level 
+of MDR1, MRP2, and BCRP, and also MRP2 and BCRP 
+protein expression in primary human hepatocyte.24 TNF- α 
+but not IL- 6 reduced BSEP mRNA level and increased 
+BCRP protein expression, and TNF- α and IL- 6 increased 
+MRP3 protein level.24
+The current review focused on several key pro- 
+inflammatory cytokines (IL- 2, IL- 6, TNF- α, and IFN- γ) 
+and anti- inflammatory cytokine IL- 10 for comparison. 
+Other pro- inflammatory cytokines could also have impact 
+on the CYP enzymes and transporters. For example, the -
+ophylline (a CYP1A2 probe substrate) was shown to have 
+a reduced clearance by ~26% in patients with chronic hep -
+atitis C treated with interferon beta77; whereas, interferon 
+beta had no significant effect on exposure of mephenytoin 
+(CYP2C19 probe substrate) and debrisoquine (CYP2D6 
+probe substrate) in patients with multiple sclerosis.78 In 
+addition, incubation of Hepa- RG cells with IL- 1β resulted 
+in significant reduction of the mRNA levels (>80%) and 
+enzyme activities (>60%) for key CYP enzymes 1A2, 2B6, 
+2C19, 2C8, 2C9, and 3A4 as well as P-  gp mRNA level ~55%.
+Despite numerous reports indicating the impact of 
+pro- inflammatory cytokines on CYP enzymes and trans -
+porters, limited clinical DDI studies were conducted for 
+the approved TPs with pro- inflammatory activities, with 
+the exception for Peginterferon alfa- 2a and Peginterferon 
+alfa- 2b. However, most of the approved TPs with pro- 
+inflammatory activities had label languages regarding 
+the potential DDI due to suppression of CYP enzymes. 
+The clinical DDI studies for Peginterferon alfa- 2a and 
+Peginterferon alfa- 2b adopted cocktail approach, which 
+enables assessment of DDIs for multiple CYP enzymes 
+simultaneously to increase study efficiency and cost sav -
+ing.39,79 In addition, due to the cytokine effect on the CYP 
+enzymes, the CYP enzymes are suppressed in certain dis -
+eases with elevated pro- inflammatory cytokines, such as 
+plaque psoriasis and RA. Therefore, drugs used to treat 
+these diseases could often result in disease-  drug interac-
+tion as the treatment normalized the cytokines and the 
+CYP enzymes levels and thus altered the exposure of CYP 
+enzymes substrate drugs post- treatment compared to pre -
+treatment. Clinical DDI studies have been conducted to 
+evaluate such disease-  drug interactions, some using the 
+cocktail approach.71,76,80– 82
+In this review, we summarized the most up- to- date 
+validated cocktails for CYP enzymes and validated cock -
+tails involving transporters, as well as some other cocktails 
+used in the clinical DDI studies, although no validation 
+source can be identified. Almost all the validated cocktails were either for CYP enzymes or for transporters, except 
+that a microdose cocktail included CYP3A4 probe sub -
+strate and several transporters probe substrates.65 Efforts 
+have been made to combine the CYP cocktails with trans -
+porter cocktails. For example, Kwon et al.83 developed and 
+validated a 10- probe drug cocktail, including five major 
+CYP probe substrates and five transporters probe sub -
+strates in rat. Bosilkovska et al.84 explored the possibility 
+to combine the Geneva cocktail (6 CYP enzymes) with fex -
+ofenadine (P-  gp) and found that the Geneva cocktail co- 
+administration with 25 mg fexofenadine resulted in 49% 
+reduction in maximum concentration and 43% reduction 
+in AUC0- 8 for fexofenadine; hence, fexofenadine cannot 
+be combined with the Geneva cocktail. Currently, there 
+is no validated cocktail in the clinic involving major CYP 
+enzymes and transporters, although several unvalidated 
+cocktails consisting of several major CYP enzymes and 
+transporters were used in the clinical studies to assess the 
+clinical DDIs (Table S2).
+In silico methods have also been used to evaluate the 
+complicated DDIs, whereas the population PK approach 
+still needs clinical data to assess the DDIs, the bottom- up 
+approach PBPK can directly extrapolate the clinical DDI 
+with in vitro data. Current PBPK models for assessing 
+cytokine-  drug DDIs all focus on IL- 6, whereas most of 
+the models can reasonably predict the clinical DDIs based 
+on in vitro determined CYP suppression kinetics retro -
+spectively, Machavaram et al.70 showed that the PBPK 
+model underpredicted exposure of cyclosporine in certain 
+patients with BMT, which might be due to possible con-
+tribution of other cytokines (e.g., TNF- α) in the overall 
+suppression of CYP3A4 in these patients, and the PBPK 
+model incorporating IL- 6 CYP3A4 suppression alone may 
+underestimate the suppression effect. Therefore, addi-
+tional efforts may be needed to further evaluate the PBPK 
+models for the other pro- inflammatory cytokines and/or a 
+PBPK model incorporating multiple pro- inflammatory cy -
+tokines. Moreover, limited PBPK modeling is available to 
+evaluate the DDI potential of TPs with pro- inflammatory 
+activities with drugs via transporters, and such PBPK 
+models need further development.
+Considering the effect of pro- inflammatory cytokines 
+on the major CYP enzymes and P-  gp, for TPs with pro- 
+inflammatory activity, a clinical DDI study is recom-
+mended for those TPs that can persistently elevate the 
+cytokines and, in this case, the cocktail approach may be 
+used owing to its efficient study design and cost saving; 
+whereas for those TPs transiently elevating cytokines, a 
+clinical DDI study may not be conducted and an in silico 
+method may be used to assess such transient effect, and 
+label language should incorporate the potential DDIs due 
+to cytokine-  drug effect.   | 933
+DDI FOR THERAPEUTIC PROTEINS
+CONCLUSION
+Potential DDI risk for TPs with pro- inflammatory activities 
+via cytokine- drug interaction has been well- recognized. 
+Pro- inflammatory cytokines are generally associated with 
+suppression of CYP enzymes but have varied effects on 
+P- gp expression levels and activities. The approved TPs 
+with pro- inflammatory activities generally contain label 
+languages for potential DDI risks due to cytokine el-
+evation. Cocktail studies have been used to evaluate the 
+complicated DDIs involving multiple CYP enzymes and 
+transporters with the advantage of efficiency and cost sav-
+ing, and it is a viable approach to assess the DDI for TPs 
+with pro- inflammatory activities. In silico methods are 
+also viable approaches to assess the DDIs for TPs with pro- 
+inflammatory activities.
+FUNDING INFORMATION
+No funding was received for this work.
+CONFLICT OF INTEREST STATEMENT
+Y.Y. was employed at Pfizer when work was conducted 
+and received salary and stock; currently employed at 
+Genentech and owns stock in Roche. D.W. is an employee 
+of Pfizer, Inc. and owns stock in Pfizer Inc. C.H. has no 
+competing interests to declare.
+ORCID
+Yanke Yu   https://orcid.org/0000-0002-3276-0130 
+REFERENCES
+ 1. Janeway's Immunobiology. Garland Science; 2017.
+ 2. Haas CE. Drug-  cytokine interaction. In: Piscitelli SC, Rodvold 
+KA, eds. Drug interactions in infectious diseases. Humana Press 
+Inc; 2001:287- 310.
+ 3. Chang KC, Bell TD, Lauer BA, Chai H. Altered theophylline 
+pharmacokinetics during acute respiratory viral illness. Lancet. 
+1978;1:1132- 1133.
+ 4. Trenholme GM, Williams RL, Rieckmann KH, Frischer H, 
+Carson PE. Quinine disposition during malaria and during in-
+duced fever. Clin Pharmacol Ther. 1976;19:459- 467.
+ 5. Siewert E, Bort R, Kluge R, Heinrich PC, Castell J, Jover R. 
+Hepatic cytochrome P450 down- regulation during asep -
+tic inflammation in the mouse is interleukin 6 dependent. 
+Hepatology. 2000;32:49- 55.
+ 6. Jing X, Ji P, Schrieber SJ, Fletcher EP, Sahajwalla C. Update on 
+therapeutic protein-  drug interaction: information in labeling. 
+Clin Pharmacokinet. 2020;59:25- 36.
+ 7. Coutant DE, Boulton DW, Dahal UP, et al. Therapeutic protein 
+drug interactions: a white paper from the international con-
+sortium for innovation and quality in pharmaceutical develop -
+ment. Clin Pharmacol Ther. 2022. Online ahead of print.
+ 8. US FDA draft guidance: Drug-  drug interaction assessment for 
+therapeutic proteins. 2020. 9. Rosenberg SA. IL- 2: the first effective immunotherapy for 
+human cancer. J Immunol. 2014;192:5451- 5458.
+ 10. Dallas S, Sensenhauser C, Batheja A, et al. De- risking bio- 
+therapeutics for possible drug interactions using cryopreserved 
+human hepatocytes. Curr Drug Metab. 2012;13:923- 929.
+ 11. Sunman JA, Hawke RL, LeCluyse EL, Kashuba AD. Kupffer 
+cell- mediated IL- 2 suppression of CYP3A activity in human he -
+patocytes. Drug Metab Dispos. 2004;32:359- 363.
+ 12. Piscitelli SC, Vogel S, Figg WD, et al. Alteration in indinavir 
+clearance during interleukin- 2 infusions in patients infected 
+with the human immunodeficiency virus. Pharmacotherapy. 
+1998;18:1212- 1216.
+ 13. Elkahwaji J, Robin MA, Berson A, et al. Decrease in hepatic 
+cytochrome P450 after interleukin- 2 immunotherapy. Biochem 
+Pharmacol. 1999;57:951- 954.
+ 14. Walther W, Stein U. Influence of cytokines on mdr1 expres -
+sion in human colon carcinoma cell lines: increased cy -
+totoxicity of MDR relevant drugs. J Cancer Res Clin Oncol. 
+1994;120:471- 478.
+ 15. Stein U, Walther W, Shoemaker RH. Modulation of mdr1 ex -
+pression by cytokines in human colon carcinoma cells: an 
+approach for reversal of multidrug resistance. Br J Cancer. 
+1996;74:1384- 1391.
+ 16. Veau C, Faivre L, Tardivel S, et al. Effect of interleukin- 2 on 
+intestinal P-  glycoprotein expression and functionality in mice. 
+J Pharmacol Exp Ther. 2002;302:742- 750.
+ 17. Liptrott NJ, Penny M, Bray PG, et al. The impact of cytokines on 
+the expression of drug transporters, cytochrome P450 enzymes 
+and chemokine receptors in human PBMC. Br J Pharmacol. 
+2009;156:497- 508.
+ 18. Tsujimura S, Saito K, Nakayamada S, et al. Transcriptional reg -
+ulation of multidrug resistance- 1 gene by interleukin- 2 in lym-
+phocytes. Genes Cells. 2004;9:1265- 1273.
+ 19. Tanaka T, Narazaki M, Kishimoto T. IL- 6 in inflamma-
+tion, immunity, and disease. Cold Spring Harb Perspect Biol. 
+2014;6:a016295.
+ 20. Aitken AE, Morgan ET. Gene-  specific effects of inflammatory 
+cytokines on cytochrome P450 2C, 2B6 and 3A4 mRNA levels 
+in human hepatocytes. Drug Metab Dispos. 2007;35:1687- 1693.
+ 21. Klein M, Thomas M, Hofmann U, Seehofer D, Damm G, Zanger 
+UM. A systematic comparison of the impact of inflammatory 
+signaling on absorption, distribution, metabolism, and excre -
+tion gene expression and activity in primary human hepato -
+cytes and HepaRG cells. Drug Metab Dispos. 2015;43:273- 283.
+ 22. Bertilsson PM, Olsson P, Magnusson KE. Cytokines influence 
+mRNA expression of cytochrome P450 3A4 and MDRI in intes -
+tinal cells. J Pharm Sci. 2001;90:638- 646.
+ 23. Lee G, Piquette- Miller M. Cytokines alter the expression and 
+activity of the multidrug resistance transporters in human hep -
+atoma cell lines; analysis using RT- PCR and cDNA microarrays. 
+J Pharm Sci. 2003;92:2152- 2163.
+ 24. Le Vee M, Lecureur V, Stieger B, Fardel O. Regulation of drug 
+transporter expression in human hepatocytes exposed to the 
+proinflammatory cytokines tumor necrosis factor- alpha or in-
+terleukin- 6. Drug Metab Dispos. 2009;37:685- 693.
+ 25. Poller B, Drewe J, Krahenbuhl S, Huwyler J, Gutmann H. 
+Regulation of BCRP (ABCG2) and P-  glycoprotein (ABCB1) by 
+cytokines in a model of the human blood- brain barrier. Cell Mol 
+Neurobiol. 2010;30:63- 70.934 |   
+YU et al.
+ 26. Simon F, Guyot L, Garcia J, et al. Impact of interleukin- 6 on 
+drug transporters and permeability in the hCMEC/D3 blood- 
+brain barrier model. Fundam Clin Pharmacol. 2021;35:397- 409.
+ 27. Bhat MY, Solanki HS, Advani J, et al. Comprehensive network 
+map of interferon gamma signaling. J Cell Commun Signal. 
+2018;12:745- 751.
+ 28. Puddu P, Fais S, Luciani F, et al. Interferon-  gamma up- 
+regulates expression and activity of P-  glycoprotein in human 
+peripheral blood monocyte-  derived macrophages. Lab Investig. 
+1999;79:1299- 1309.
+ 29. Belliard AM, Lacour B, Farinotti R, Leroy C. Effect of tumor 
+necrosis factor- alpha and interferon-  gamma on intestinal P- 
+glycoprotein expression, activity, and localization in Caco- 2 
+cells. J Pharm Sci. 2004;93:1524- 1536.
+ 30. Dixit SG, Zingarelli B, Buckley DJ, Buckley AR, Pauletti GM. 
+Nitric oxide mediates increased P-  glycoprotein activity in 
+interferon- {gamma}-  stimulated human intestinal cells. Am J 
+Physiol Gastrointest Liver Physiol. 2005;288:G533-  G540.
+ 31. Lee NY, Rieckmann P, Kang YS. The changes of P-  glycoprotein 
+activity by interferon-  gamma and tumor necrosis factor- alpha 
+in primary and immortalized human brain microvascular en-
+dothelial cells. Biomol Ther (Seoul). 2012;20:293- 298.
+ 32. Palladino MA, Bahjat FR, Theodorakis EA, Moldawer LL. Anti- 
+TNF- alpha therapies: the next generation. Nat Rev Drug Discov. 
+2003;2:736- 746.
+ 33. Idriss HT, Naismith JH. TNF alpha and the TNF receptor su-
+perfamily: structure- function relationship(s). Microsc Res Tech. 
+2000;50:184- 195.
+ 34. Pestka S, Krause CD, Sarkar D, Walter MR, Shi Y, Fisher PB. 
+Interleukin- 10 and related cytokines and receptors. Annu Rev 
+Immunol. 2004;22:929- 979.
+ 35. Gorski JC, Hall SD, Becker P, Affrime MB, Cutler DL, Haehner- 
+Daniels B. In vivo effects of interleukin- 10 on human cyto -
+chrome P450 activity. Clin Pharmacol Ther. 2000;67:32- 43.
+ 36. PEGASYS® (peginterferon alfa- 2a): package insert. Genentech 
+In; 2021 https://www.gene.com/downl oad/pdf/pegas ys_presc 
+ribing.pdf
+ 37. Brennan BJ, Xu ZX, Grippo JF. Effect of peginterferon alfa- 2a 
+(40KD) on cytochrome P450 isoenzyme activity. Br J Clin 
+Pharmacol. 2013;75:497- 506.
+ 38. PEGINTRON® (peginterferon alfa- 2b): package insert. Merck 
+Inc.; 2019 https://www.merck.com/produ ct/usa/pi_circu lars/ 
+p/pegin tron/pegin tron_5ml_pi.pdf
+ 39. Gupta SK, Kolz K, Cutler DL. Effects of multiple-  dose pegylated 
+interferon alfa- 2b on the activity of drug- metabolizing enzymes 
+in persons with chronic hepatitis C. Eur J Clin Pharmacol. 
+2011;67:591- 599.
+ 40. Islam M, Frye RF, Richards TJ, et al. Differential effect of 
+IFNalpha- 2b on the cytochrome P450 enzyme system: a poten-
+tial basis of IFN toxicity and its modulation by other drugs. Clin 
+Cancer Res. 2002;8:2480- 2487.
+ 41. Infergen® (interferon alfacon- 1): package insert. 2010 https://
+www.acces sdata.fda.gov/drugs atfda_docs/label/ 2010/10366  
+3s506 9lbl.pdf
+ 42. Actimmune® (interferon gamma- 1b): USPI. Horizon Therapeutics 
+Inc; 2021. https://www.hzndo cs.com/ACTIM MUNE- Presc ribin  
+g- Infor mation.pdf
+ 43. Extavia® (interferon beta- 1b): USPI. Novartis; 2021. https://
+www.novar tis.com/us-  en/sites/ novar tis_us/files/ extav ia.pdf 44. Betaferon® (interferon beta- 1b): SmPC. Bayer AG; 2021. https://
+www.ema.europa.eu/en/docum ents/produ ct- infor matio n/
+betaf eron-  epar- produ ct- infor mation_en.pdf
+ 45. Beromun® (TNF-  alpha): SmPC. Belpharma; 2022 https://www.
+ema.europa.eu/en/docum ents/produ ct- infor matio n/berom un-  
+epar- produ ct- infor mation_en.pdf
+ 46. Proleukin® (aldesleukin): USPI. Clinigen Inc; 2019. https://prole 
+ukin.com/pi/prole ukin%20pre scrib ing%20inf ormat ion.pdf
+ 47. Ontak® (denileukin diftitox): USPI. Eisai Inc; 2008. https://www.
+acces sdata.fda.gov/drugs atfda_docs/label/ 2008/10376 7s509  
+4lbl.pdf
+ 48. Blincyto® (blinatumomab): USPI. Amgen; 2022. https://www.
+pi.amgen.com/- /media/ Proje ct/Amgen/ Repos itory/ pi- amgen  
+- com/blinc yto/blinc yto_pi_hcp_engli sh.pdf
+ 49. Kimmtrak® (tebentafusp- tebn): USPI. Immunocore Limited; 
+2022. https://www.acces sdata.fda.gov/drugs atfda_docs/label/ 
+2022/76122 8s000 lbl.pdf
+ 50. Lunsumio® (mosunetuzumab): SmPC. Roche; 2022. https://
+www.ema.europa.eu/en/docum ents/produ ct- infor matio n/
+lunsu mio-  epar- produ ct- infor mation_en.pdf
+ 51. Tecvayli® (teclistamab-  cqyv): USPI. Janssen Biotech; 2022. 
+https://www.acces sdata.fda.gov/drugs atfda_docs/label/  
+2022/76129 1s000 lbl.pdf
+ 52. Frye RF, Matzke GR, Adedoyin A, Porter JA, Branch RA. 
+Validation of the five-  drug "Pittsburgh cocktail" approach for 
+assessment of selective regulation of drug- metabolizing en-
+zymes. Clin Pharmacol Ther. 1997;62:365- 376.
+ 53. Zgheib NK, Frye RF, Tracy TS, Romkes M, Branch RA. 
+Validation of incorporating flurbiprofen into the Pittsburgh 
+cocktail. Clin Pharmacol Ther. 2006;80:257- 263.
+ 54. Zhu B, Ou-  Yang DS, Chen XP, et al. Assessment of cytochrome 
+P450 activity by a five-  drug cocktail approach. Clin Pharmacol 
+Ther. 2001;70:455- 461.
+ 55. Christensen M, Andersson K, Dalén P, et al. The Karolinska 
+cocktail for phenotyping of five human cytochrome P450 en-
+zymes. Clin Pharmacol Ther. 2003;73:517- 528.
+ 56. Streetman DS, Bleakley JF, Kim JS, et al. Combined phe -
+notypic assessment of CYP1A2, CYP2C19, CYP2D6, 
+CYP3A, N- acetyltransferase- 2, and xanthine oxidase 
+with the "Cooperstown cocktail". Clin Pharmacol Ther. 
+2000;68:375- 383.
+ 57. Chainuvati S, Nafziger AN, Leeder JS, et al. Combined phe -
+notypic assessment of cytochrome p450 1A2, 2C9, 2C19, 2D6, 
+and 3A, N- acetyltransferase- 2, and xanthine oxidase activities 
+with the "Cooperstown 5+1 cocktail". Clin Pharmacol Ther. 
+2003;74:437- 447.
+ 58. Blakey GE, Lockton JA, Perrett J, et al. Pharmacokinetic and 
+pharmacodynamic assessment of a five- probe metabolic cock -
+tail for CYPs 1A2, 3A4, 2C9, 2D6 and 2E1. Br J Clin Pharmacol. 
+2004;57:162- 169.
+ 59. Ryu JY, Song IS, Sunwoo YE, et al. Development of the "Inje 
+cocktail" for high- throughput evaluation of five human 
+cytochrome P450 isoforms in vivo. Clin Pharmacol Ther. 
+2007;82:531- 540.
+ 60. Turpault S, Brian W, van Horn R, et al. Pharmacokinetic assess -
+ment of a five- probe cocktail for CYPs 1A2, 2C9, 2C19, 2D6 and 
+3A. Br J Clin Pharmacol. 2009;68:928- 935.
+ 61. Donzelli M, Derungs A, Serratore MG, et al. The Basel cock -
+tail for simultaneous phenotyping of human cytochrome    | 935
+DDI FOR THERAPEUTIC PROTEINS
+P450 isoforms in plasma, saliva and dried blood spots. Clin 
+Pharmacokinet. 2014;53:271- 282.
+ 62. Bosilkovska M, Clement M, Dayer P, Desmeules J, Daali 
+Y. Incorporation of flurbiprofen in a 4-  drug cytochrome 
+p450 phenotyping cocktail. Basic Clin Pharmacol Toxicol. 
+2014;115:465- 466.
+ 63. Bosilkovska M, Samer C, Déglon J, et al. Evaluation of mutual 
+drug-  drug interaction within Geneva cocktail for cytochrome 
+P450 phenotyping using innovative dried blood sampling 
+method. Basic Clin Pharmacol Toxicol. 2016;119:284- 290.
+ 64. Miura M, Uchida S, Tanaka S, et al. Verification of a cocktail 
+approach for quantitative drug-  drug interaction assessment: a 
+comparative analysis between the results of a single drug and a 
+cocktail drug. Xenobiotica. 2021;51:404- 412.
+ 65. Prueksaritanont T, Tatosian DA, Chu X, et al. Validation of a 
+microdose probe drug cocktail for clinical drug interaction as -
+sessments for drug transporters and CYP3A. Clin Pharmacol 
+Ther. 2017;101:519- 530.
+ 66. Stopfer P, Giessmann T, Hohl K, et al. Pharmacokinetic eval-
+uation of a drug transporter cocktail consisting of digoxin, fu-
+rosemide, metformin, and Rosuvastatin. Clin Pharmacol Ther. 
+2016;100:259- 267.
+ 67. Stopfer P, Giessmann T, Hohl K, et al. Optimization of a 
+drug transporter probe cocktail: potential screening tool 
+for transporter- mediated drug-  drug interactions. Br J Clin 
+Pharmacol. 2018;84:1941- 1949.
+ 68. Wiebe ST, Giessmann T, Hohl K, et al. Validation of a drug trans -
+porter probe cocktail using the prototypical inhibitors rifampin, 
+probenecid, verapamil, and cimetidine. Clin Pharmacokinet. 
+2020;59:1627- 1639.
+ 69. Trueck C, Hsin CH, Scherf-  Clavel O, et al. A clinical drug-  drug 
+interaction study assessing a novel drug transporter phenotyp -
+ing cocktail with Adefovir, Sitagliptin, metformin, Pitavastatin, 
+and digoxin. Clin Pharmacol Ther. 2019;106:1398- 1407.
+ 70. Machavaram KK, Almond LM, Rostami- Hodjegan A, et al. A 
+physiologically based pharmacokinetic modeling approach to 
+predict disease-  drug interactions: suppression of CYP3A by IL- 
+6. Clin Pharmacol Ther. 2013;94:260- 268.
+ 71. Schmitt C, Kuhn B, Zhang X, Kivitz AJ, Grange S. Disease- 
+drug-  drug interaction involving tocilizumab and simvastatin 
+in patients with rheumatoid arthritis. Clin Pharmacol Ther. 
+2011;89:735- 740.
+ 72. Chen YL, Vraux VL, Leneveu A, et al. Acute- phase response, 
+interleukin- 6, and alteration of cyclosporine pharmacokinetics. 
+Clin Pharmacol Ther. 1994;55:649- 660.
+ 73. Machavaram KK, Endo-  Tsukude C, Terao K, et al. Simulating 
+the impact of elevated levels of Interleukin- 6 on the phar -
+macokinetics of various CYP450 substrates in patients with 
+Neuromyelitis Optica or Neuromyelitis Optica Spectrum disor -
+ders in different ethnic populations. AAPS J. 2019;21:42.
+ 74. Jiang X, Zhuang Y, Xu Z, Wang W, Zhou H. Development of 
+a physiologically based pharmacokinetic model to predict 
+disease- mediated therapeutic protein-  drug interactions: modu-
+lation of multiple cytochrome P450 enzymes by Interleukin- 6. 
+AAPS J. 2016;18:767- 776.
+ 75. Xu Y, Hijazi Y, Wolf A, Wu B, Sun YN, Zhu M. Physiologically 
+based pharmacokinetic model to assess the influence of 
+Blinatumomab- mediated cytokine elevations on cytochrome 
+P450 enzyme activity. CPT Pharmacometrics Syst Pharmacol. 
+2015;4:507- 515. 76. Zhuang Y, de Vries DE, Xu Z, et al. Evaluation of disease- 
+mediated therapeutic protein-  drug interactions between an 
+anti- interleukin- 6 monoclonal antibody (sirukumab) and cyto -
+chrome P450 activities in a phase 1 study in patients with rheu-
+matoid arthritis using a cocktail approach. J Clin Pharmacol. 
+2015;55:1386- 1394.
+ 77. Okuno H, Takasu M, Kano H, Seki T, Shiozaki Y, Inoue K. 
+Depression of drug- metabolizing activity in the human liver by 
+interferon- beta. Hepatology. 1993;17:65- 69.
+ 78. Hellman K, Roos E, Österlund A, et al. Interferon- beta treat -
+ment in patients with multiple sclerosis does not alter CYP2C19 
+or CYP2D6 activity. Br J Clin Pharmacol. 2003;56:337- 340.
+ 79. Brennan MJ. The clinical implications of cytochrome p450 in-
+teractions with opioids and strategies for pain management. J 
+Pain Symptom Manag. 2012;44:S15-  S22.
+ 80. Khalilieh S, Hussain A, Montgomery D, et al. Effect of til-
+drakizumab (MK- 3222), a high affinity, selective anti- IL23p19 
+monoclonal antibody, on cytochrome P450 metabolism in sub -
+jects with moderate to severe psoriasis. Br J Clin Pharmacol. 
+2018;84:2292- 2302.
+ 81. Zhu Y, Xu Y, Zhuang Y, et al. Evaluating potential disease- 
+mediated protein-  drug interactions in patients with moderate- 
+to- severe plaque psoriasis receiving subcutaneous Guselkumab. 
+Clin Transl Sci. 2020;13:1217- 1226.
+ 82. Khatri A, Cheng L, Camez A, Ignatenko S, Pang Y, Othman AA. 
+Lack of effect of 12-  week treatment with Risankizumab on the 
+pharmacokinetics of cytochrome P450 probe substrates in pa-
+tients with moderate to severe chronic plaque psoriasis. Clin 
+Pharmacokinet. 2019;58:805- 814.
+ 83. Kwon M, Jeon JH, Choi MK, Song IS. The development and 
+validation of a novel "dual cocktail" probe for cytochrome 
+P450s and transporter functions to evaluate pharmacoki-
+netic drug-  drug and herb-  drug interactions. Pharmaceutics. 
+2020;12:938- 963.
+ 84. Bosilkovska M, Magliocco G, Desmeules J, Samer C, Daali Y. 
+Interaction between fexofenadine and CYP phenotyping probe 
+drugs in Geneva cocktail. J Pers Med. 2019;9:45- 52.
+ 85. Adedoyin A, Frye RF, Mauro K, Branch RA. Chloroquine mod-
+ulation of specific metabolizing enzymes activities: investi-
+gation with selective five drug cocktail. Br J Clin Pharmacol. 
+1998;46:215- 219.
+ 86. Zhang X, Lalezari JP, Badley AD, et al. Assessment of drug- 
+drug interaction potential of enfuvirtide in human immuno -
+deficiency virus type 1- infected patients. Clin Pharmacol Ther. 
+2004;75:558- 568.
+ 87. Tran JQ, Othman AA, Wolstencroft P, Elkins J. Therapeutic 
+protein-  drug interaction assessment for daclizumab high-  yield 
+process in patients with multiple sclerosis using a cocktail ap -
+proach. Br J Clin Pharmacol. 2016;82:160- 167.
+ 88. Goh BC, Reddy NJ, Dandamudi UB, et al. An evaluation of the 
+drug interaction potential of pazopanib, an oral vascular endo -
+thelial growth factor receptor tyrosine kinase inhibitor, using a 
+modified Cooperstown 5+1 cocktail in patients with advanced 
+solid tumors. Clin Pharmacol Ther. 2010;88:652- 659.
+ 89. Derks M, Fowler S, Kuhlmann O. In vitro and in vivo assess -
+ment of the effect of dalcetrapib on a panel of CYP substrates. 
+Curr Med Res Opin. 2009;25:891- 902.
+ 90. Säll C, Alifrangis L, Dahl K, Friedrichsen MH, Nygård SB, 
+Kristensen K. In vitro CYP450 enzyme down- regulation by 
+GLP- 1/glucagon co- agonist does not translate to observed 936 |   
+YU et al.
+drug-  drug interactions in the clinic. Drug Metab Dispos. 
+2022;50:1087- 1097.
+ 91. Ermer J, Corcoran M, Martin P. Lisdexamfetamine Dimesylate 
+effects on the pharmacokinetics of cytochrome P450 substrates 
+in healthy adults in an open- label, randomized. Crossover Study 
+Drugs R D. 2015;15:175- 185.
+ 92. Ma JD, Nafziger AN, Villano SA, Gaedigk A, Bertino JS Jr. 
+Maribavir pharmacokinetics and the effects of multiple-  dose 
+maribavir on cytochrome P450 (CYP) 1A2, CYP 2C9, CYP 2C19, 
+CYP 2D6, CYP 3A, N- acetyltransferase- 2, and xanthine oxi-
+dase activities in healthy adults. Antimicrob Agents Chemother. 
+2006;50:1130- 1135.
+ 93. Johnson BM, Song IH, Adkison KK, et al. Evaluation of the drug 
+interaction potential of aplaviroc, a novel human immunodefi-
+ciency virus entry inhibitor, using a modified Cooperstown 5 + 
+1 cocktail. J Clin Pharmacol. 2006;46:577- 587.
+ 94. Inui N, Akamatsu T, Uchida S, et al. Chronological effects of 
+rifampicin discontinuation on cytochrome P450 activity in 
+healthy Japanese volunteers, using the cocktail method. Clin 
+Pharmacol Ther. 2013;94:702- 708.
+ 95. Williams D, Tao X, Zhu L, et al. Use of a cocktail probe to assess 
+potential drug interactions with cytochrome P450 after admin-
+istration of belatacept, a costimulatory immunomodulator. Br J 
+Clin Pharmacol. 2017;83:370- 380.
+ 96. Treijtel N, Collins C, Bruijnsvoort M, et al. A cocktail interac-
+tion study evaluating the drug-  drug interaction potential of the perpetrator drug ASP8477 at multiple ascending dose levels. 
+Clin Pharmacol Drug Dev. 2019;8:529- 540.
+ 97. Vassiliou D, Sardh E, Harper P, et al. A drug-  drug interaction 
+study evaluating the effect of Givosiran, a small interfering ri-
+bonucleic acid, on cytochrome P450 activity in the liver. Clin 
+Pharmacol Ther. 2021;110:1250- 1260.
+ 98. Rowland A, van Dyk M, Warncken D, Mangoni AA, Sorich MJ, 
+Rowland A. Evaluation of modafinil as a perpetrator of metabolic 
+drug-  drug interactions using a model informed cocktail reaction 
+phenotyping trial protocol. Br J Clin Pharmacol. 2018;84:501- 509.
+SUPPORTING INFORMATION
+Additional supporting information can be found online 
+in the Supporting Information section at the end of this 
+article.
+How to cite this article: Yu Y, Henrich C, Wang D. 
+Assessment of the drug– drug interaction potential 
+for therapeutic proteins with pro- inflammatory 
+activities. Clin Transl Sci. 2023;16:922-936. 
+doi:10.1111/cts.13507

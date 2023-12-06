@@ -1,0 +1,995 @@
+ADVERSE EFFECTS OF NUTRACEUTICALS AND DIETARY 
+SUPPLEMENTS
+Martin J. J. Ronis , Kim B. Pedersen , and James Watt
+Department of Pharmacology & Experimental Therapeutics, Louisiana State University Health 
+Sciences Center – New Orleans, Louisiana 70112
+Abstract
+Some form of dietary supplement is taken by over 70% of Americans every day and the 
+supplement industry is currently big business with a gross of over $28 billion. However, unlike 
+either foods or drugs, supplements do not need to be registered or approved by the FDA prior to 
+production or sales. Under the Dietary Supplement Health and Education Act of 1994 (DSHEA), 
+FDA is restricted to adverse report monitoring post-marketing. Despite widespread consumption, 
+there is limited evidence of health benefits related to nutraceutical or supplement use in well-
+nourished adults. In contrast, a small number of these products have the potential to produce 
+significant toxicity. In addition, it is rare that patients disclose supplement use to their physicians. 
+Therefore, the risk of adverse drug-supplement interactions is significant. An overview of the 
+major supplement and nutraceutical classes is presented here together with known toxic effects 
+and potential for drug interactions.
+Keywords
+Toxicity; multivitamin/multimineral; soy protein isolate; isoflavones; bodybuilding supplements; 
+herb-drug interaction
+INTRODUCTION
+Dietary supplements are products that are ingested in addition to the regular diet in order to 
+provide additional health-promoting nutrients. In the US, dietary supplements are defined 
+and regulated according to the Dietary Supplement Health and Education Act (DSHEA) of 
+1994 ( 1). According to the DSHEA, a dietary supplement is a product that is intended to 
+supplement the diet, contains dietary ingredients including vitamins, minerals, amino acids, 
+herbs and botanicals, is intended to be ingested as a pill, capsule, tablet, or liquid, and is 
+labeled as being a dietary supplement ( 1,2). Food items that are fortified with nutrients such 
+as vitamins and minerals to ensure proper nutrient levels are not considered dietary 
+Corresponding author contact information: Martin Ronis, Department of Pharmacology & Experimental Therapeutics, Louisiana State 
+University Health Sciences Center – New Orleans, Louisiana 70112, mronis@lsuhsc.edu, Phone: (504) 568-4740. kpeder@lsuhsc.edu, 
+and jwatt4@lsuhsc.edu, respectively.
+AUTHOR CONTRIBUTIONS
+M.R., K.P. and J.W. prepared the text and tables. M.R. supervised and finalized the manuscript.
+DISCLOSURE STATEMENT
+The authors are not aware of any biases that might be perceived as affecting the objectivity of this review.
+HHS Public Access
+Author manuscript
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Published in final edited form as:
+Annu Rev Pharmacol Toxicol . 2018 January 06; 58: 583–601. doi:10.1146/annurev-
+pharmtox-010617-052844.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptsupplements. The term “nutraceutical” is not defined by U.S. law, but is generally 
+understood to be a purified product derived from a human food source, which is purported to 
+provide extra health benefits beyond the basic nutritional value found in foods.
+The Food and Drug Administration (FDA) regulates dietary supplements in a markedly 
+different way than regular drugs. A manufacturer of a drug needs to document its 
+effectiveness and safety before it can be brought to the market. There is no requirement for 
+demonstrating the efficacy of a dietary supplement for any health condition. Manufacturers 
+of dietary supplements are not allowed to claim that the supplement can be used for treating 
+or preventing any particular disease. However, statements pertaining to general well-being, 
+function and health can be allowed provided a disclaimer is listed on the product with the 
+text: “This statement has not been evaluated by the FDA. This product is not intended to 
+diagnose, treat, cure, or prevent any disease” ( 2). The requirements for safety of dietary 
+supplements are much less stringent than for a drug. No clinical trials are required. 
+Ingredients sold in the US before October 15, 1994 do not need safety evaluation by the 
+FDA, as they are generally recognized as safe based on their historical use. For a new dietary 
+ingredient not sold before October 15, 1994, the manufacturer must notify the FDA and 
+provide reasonable evidence that it is safe for human consumption ( 2).
+Dietary supplements are widely used. Half of adults in the US report having used at least 
+one supplement in the past 30 days ( 3). The most cited reasons for taking the supplements 
+were to improve overall health, maintain health, and, especially among women, for bone 
+health. The most commonly used supplements were multivitamin/mineral supplements, 
+calcium supplements, and omega-3/fish oil ( 3). About a quarter of the supplements were 
+used based on advice by health care providers. Thus, most decisions to use supplements are 
+made by the consumers themselves.
+Despite their popularity, the health benefits of dietary supplements are questionable. Lack of 
+vitamins will certainly cause deficiency diseases such as scurvy, beriberi, pellagra, and 
+rickets. However, the vitamin content of normal well-balanced diets is sufficient to avoid 
+these diseases. Studies aimed at determining effects of supplements often give conflicting 
+results. There currently doesn’t seem to be any scientific consensus on whether vitamins ( 4) 
+or any other dietary supplements prevent disease or have health benefits in well-nourished 
+individuals.
+The intake of dietary supplements is generally safe, but not totally without risk. The current 
+review is not intended to be comprehensive report of all known adverse effect for all dietary 
+supplements. Instead, we have selected to discuss adverse events for the most commonly 
+used supplements such as vitamins, minerals, omega-3/fish oil, soy protein, and plant-
+derived antioxidant and anti-inflammatory nutraceuticals. We also discuss weight-loss and 
+body building supplements, and various botanical supplements which have been associated 
+with more severe adverse effects.
+Since dietary supplements can be brought to the market without the support of clinical trials, 
+there is a paucity of systematic studies of adverse effects. Case reports of symptoms 
+appearing after intake of a supplement often provide the first hint that there can be side Ronis et al. Page 2
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripteffects associated with the supplement. However, it is close to impossible to show causation 
+from a single case report. The link can be strengthened if symptoms disappear with cessation 
+of intake and reappear if the supplement is ingested again. Otherwise, an accumulation of 
+cases over time or the appearance of a cluster of cases can ultimately establish that intake of 
+a supplement can result in adverse effects.
+VITAMIN AND MINERAL SUPPLEMENTS
+By the early 20th century, it had become clear that nutrition consisting solely of 
+carbohydrates, fats, and proteins is insufficient for maintaining health. The term “vitamine” 
+was coined by Casimir Funk in 1912 to describe the micronutrients whose deficiencies cause 
+beriberi, scurvy, and pellagra ( 5). As the various vitamins were isolated and synthesized, a 
+market for vitamins quickly developed. Today, multivitamin/multimineral, vitamin and 
+mineral supplements are the most widely utilized dietary supplements by the American 
+population ( 3,6). It has been reported that 33% of US adults use multivitamin and/or 
+multimineral supplements ( 7) and that this is as high as 32–47% among male military 
+personnel and 40–63% among military women ( 8). Among long term cancer survivors, use 
+of vitamin or mineral supplements is even higher at 64–81% ( 7). Although adequate intake 
+of these micronutrients is required to maintain optimal health, the possibility of toxicity 
+increases with increasing dose ( 9). Since dietary micronutrient deficiency is increasingly 
+rare in developed counties, most supplement consumers actually have excess vitamin and 
+mineral intake. Despite widespread belief that vitamin and mineral supplements are health 
+beneficial, recent reviews of vitamin and mineral supplement trials in community-dwelling 
+adults with no nutritional deficiencies have concluded that there is no clear evidence of 
+beneficial health effects. These include primary or secondary prevention of chronic diseases 
+including cardiovascular disease, cancer, cognitive decline and effects on overall mortality 
+(10,11). Indeed, on the contrary, there is evidence for possible harm based on consumption 
+of individual vitamins and mineral in excess. Toxicity following consumption of water-
+soluble vitamins is rare. However, photosensitivity and neurotoxicity have been reported at 
+doses higher than 500 mg/d of pyridoxine (vitamin B6) ( 12) and cases of pyridoxine-
+associated chronic sensory polyneuropathy have been reported in elderly patients consuming 
+multivitamin supplements ( 13). Reports of toxicity associated with overconsumption of 
+supplemental antioxidant fat-soluble vitamins are more prevalent. Vitamin E is a family of 8 
+related tocopherols and tocotrienols of which α-tocopherol is the form generally used in 
+supplements. Doses of 800–1200 mg/d can result in bleeding associated with antiplatelet 
+action and doses above 1200 mg/d can result in diarrhea, weakness, blurred vision and 
+gonadal dysfunction ( 12). Moreover, vitamin E supplementation following radiation therapy 
+in a randomized trial of head and neck cancer patients was associated with increased cancer 
+recurrence in the first 3.5 years of follow-up ( 14) and meta-analysis has suggested an 
+increase in all-cause mortality after high dose vitamin E supplementation ( 15). Toxicity has 
+also been associated with consumption of supplemental vitamin A and its provitamin 
+carotenoid precursors. In two large clinical trials, the Retinol Efficacy Trial ( 16) and the 
+ATBC study ( 17), male smokers receiving β-carotene supplements had significantly 
+increased risk of lung cancer. The ABTC study further showed that prostate cancer incidence 
+and mortality were increased in male alcohol users consuming the supplement. An Ronis et al. Page 3
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptadditional two studies have suggested increased mortality in smokers consuming β-carotene 
+supplements ( 18,19). Excess vitamin A supplementation has been suggested to be associated 
+with adverse effects on bone health including low bone mineral density and increased 
+fracture risk ( 20). In addition, women consuming large amounts of vitamin A supplements 
+during pregnancy have been reported to have increased incidence of congenital 
+abnormalities ( 21). There is also a case report of intra-hepatic cholestasis in a patient with 
+chronic hypervitaminosis A after 12 years of supplement consumption which resolved after 
+supplements were ceased ( 22). In addition to toxicity from excess vitamin consumption, 
+toxicity can arise from excess consumption of minerals. In particular, there is an increasing 
+risk of hyperchromatosis, an iron storage disease associated with liver injury after excess 
+consumption of iron or multimineral supplements ( 23,24). This can be exacerbated by 
+alcohol consumption ( 24).
+FISH OIL AND OMEGA-3 FATTY ACIDS
+Omega-3 fatty acids are essential fatty acids that cannot be synthesized de novo  in humans 
+and therefore must be provided through the diet ( 25). A link between fish oil and ischemic 
+heart disease was suggested by a widely-publicized study from 1971 of Eskimos 
+(Greenlanders) from the west coast of Greenland ( 26). Greenlanders eating a traditional 
+meat and fish diet that is rich in polyunsaturated omega-3 fatty acids had significantly lower 
+levels of plasma total lipids, plasma cholesterol, plasma triglycerides and pre- β-lipoprotein 
+(= very low density lipoprotein) than both Danes and Greenlanders living in Denmark. The 
+authors hypothesized that this diet contributed to the low incidence of ischemic heart disease 
+and diabetes among Greenlanders. Since then, polyunsaturated omega-3 fatty acids taken in 
+the form of fish oils, krill oil or mixtures of docosahexaenoic and eicosapentaenoic acids 
+(DHA and EPA) purified from fish oils have become widely utilized dietary supplements. 
+These fatty acids have metabolites with anti-inflammatory properties and have electrical 
+stabilizing effects on ion channels in cardiac myocytes ( 27,28). They have been linked to 
+anti-cancer and cardioprotective effects ( 29,30). However, the therapeutic benefits on 
+cardiovascular diseases are still controversial due to disparate findings from different clinical 
+trials ( 31).
+It appears that fish oil and omega-3 fatty acids are well tolerated even at doses of 1–2,000 
+mg/d and there is little evidence of toxicity. However, simultaneous consumption of fish 
+liver oils which also contain vitamin A and multivitamin supplements could result in 
+hypervitaminosis A. Furthermore, fish oils and omega-3 fatty acid supplements may 
+exacerbate anticoagulation and promote bleeding in patients taking anticoagulant 
+medications such as warfarin ( 32,33).
+PROTEIN POWDERS AND INFANT FORMULA
+Protein powders consisting of the dairy proteins casein, whey and of vegetable proteins in 
+soy protein isolate (SPI) are popular supplements among athletes and body builders. These 
+proteins are also the basis of infant formulas fed to over 4 million U.S. infants each year. 
+The dairy proteins appear to have little toxicity except in individuals with allergies to cow’s 
+milk protein, although excessive consumption may result in ketosis. In contrast, there is an Ronis et al. Page 4
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptongoing debate with regard to the potential safety of SPI. This is related primarily to the 
+presence of weakly estrogenic compounds – the isoflavones genistein and daidzein which 
+are among the 100 phytochemicals which remain bound to the protein isolate ( 34). These 
+compounds can reach potentially estrogenic levels after SPI consumption in soy-formula fed 
+infants and in children, men and post-menopausal women taking soy protein supplements. 
+Concerns have focused on potential estrogenic effects in early development resulting in 
+reproductive toxicity, infertility, demasculinization and increased promotion of estrogen-
+responsive cancers such as breast and endometrial cancer ( 35–37). Several clinical studies of 
+SPI and soy formula toxicity have been conducted. Epigenome-wide DNA methylation 
+analysis of vaginal cells from cow- and soy-infant formula fed girls indicated differential 
+DNA methylation associated with decreased expression of the estrogen-responsive proline 
+rich 5-like (PRR5L) gene ( 38). In addition, epidemiological studies have suggested a slightly 
+earlier age of menarche (12.4 vs. 12.8 years) but less female-typical play in soy formula-fed 
+girls ( 39,40). In contrast, data from a longitudinal ultrasound study of breast, cow’s milk 
+formula and soy-formula-fed infants (The Beginnings Study) demonstrated no significant 
+effects on testis or prostate volumes or structural characteristics at ages 1 year and 5 years 
+(41,42). In addition, a retrospective cross-sectional study of adults fed soy formula or cow-
+milk formula as infants did not find significant differences in responses to questions about 
+health and reproduction ( 43). Moreover, in adult men, a recent meta-analysis showed no 
+significant effects of soy protein on male reproductive hormones ( 44). Animal studies of SPI 
+and soy formula toxicity have likewise been contradictory. Akingbemi et al. ( 45) reported 
+that perinatal exposure to diets made with soy resulted in suppressed steroidogenesis, 
+decreased testosterone secretion and increased Leydig cell proliferation in rats. Similarly, 
+Sharpe et al. ( 46,47) reported that marmoset monkeys fed soy infant formula had suppressed 
+serum testosterone concentrations. Increased testis size, and Leydig cell numbers/testis were 
+also observed in these monkeys at adulthood consistent with compensated Leydig cell 
+failure. In adult female ovariectomized mice, feeding SPI was shown to increase growth of 
+human breast cancer cell xenografts consistent with an estrogenic effect ( 48). These studies, 
+and concerns regarding estrogenicity, led to a recent review of the safety of soy infant 
+formula by a panel from the Center for the Evaluation of Risks to Human Reproduction 
+(CERHR) established by the National Toxicology Program (NTP) and the National Institute 
+for Environmental Health Sciences (NIEHS). However, the committee was unable to issue a 
+conclusive recommendation regarding developmental and reproductive toxicity as a result of 
+limitations in the available human data ( 49). In contrast to the small number of animal 
+studies with SPI suggesting estrogenicity, lifetime feeding studies in rats fed with soy 
+protein isolate (SPI), the sole protein source in soy formulas revealed no effects on sex organ 
+weights, no effects on serum sex steroids concentrations and no effects on fertility ( 36). 
+Moreover, chronic feeding studies with SPI in adult male cynomolgus macaque monkeys 
+also are reported to have had no effect on testis weight, morphology, serum testosterone or 
+estradiol concentrations, or sperm counts ( 50). In addition, our laboratory has conducted a 
+series of studies in ovariectomized adult female rats, in prepubertal male and female rats and 
+in neonatal piglets in which we have utilized genomics analysis either with Affymetrix chips 
+or using RNAseq to examine head to head gene expression profiles in the liver, bone, 
+mammary gland, uterus and testis after treatment with 17 β-estradiol (E2) or feeding SPI 
+(51–56). These studies revealed only minor overlap between E2 and SPI-regulated genes (3–Ronis et al. Page 5
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript10%) representing specific subsets of E2 regulated pathways, indicative of actions similar to 
+those of selective estrogen receptor modulators (SERMS), rather than weak estrogens, and 
+with either no effect or antagonist actions on reproductive and proliferative pathways.
+NUTRACEUTICALS
+Most commonly used nutraceuticals are compounds derived from fruits and vegetables. 
+They are often compounds with anti-oxidant or anti-inflammatory properties which are 
+suggested to provide protection against chronic diseases such as cardiovascular disease, 
+diabetes, cancer and osteoporosis ( 57). Widely consumed nutraceuticals include flavonoid 
+plant pigments such as anthocyanins from berries, flavonols from dark chocolate, 
+polyphenols such as resveratrol from red grapes, and catechins from tea and quercetin. There 
+is little data to suggest that these compounds are toxic. However, metabolites of EGCG – the 
+active catechol in green tea extract, typically considered to be responsible for green tea’s 
+antioxidant properties – are suspected to enhance oxidative stress and have been associated 
+with liver injury ( 58). It is also far from clear that consumption of these nutraceutical 
+supplements have true health benefits given a lack of large clinical trials ( 57). The most 
+intensively studied nutraceutical flavonoids are the soy derived isoflavones genistein and 
+daidzein, and the daidzein metabolite equol. Unlike other flavonoids, the isoflavones in their 
+purified form have been shown to possess estrogenic properties in vitro and in animal 
+models, including the ability to produce uterine hypertrophy or reproductive tract 
+malformations, reduce testis size, inhibit androgen production, reduce fertility, and stimulate 
+estrogen-dependent tumor growth ( 36,37,45,48,49,51,52,56). Since evidence emerged 
+demonstrating health risks following hormone replacement therapy in post-menopausal 
+women, menopausal women have increasingly turned to use of dietary supplements to treat 
+symptoms such as hot flashes, depression and bone loss. A recent survey indicated that as 
+many as 42% of such women were using soy products including isoflavone extracts and 
+purified isoflavones such as genistein ( 58). Since these are concentrated or purified products, 
+they can achieve far higher plasma levels than when isoflavones are consumed as part of SPI 
+or soy foods, which are complex mixtures of bioactive proteins, peptides and over one 
+hundred phytochemicals ( 34,36,51). There have been case reports of endometriosis in 
+women consuming isoflavone supplements ( 59) and, given the clear evidence of 
+estrogenicity, there is a likelihood of increased risk of estrogen sensitive cancers in 
+consumers of these products.
+WEIGHT-LOSS, SPORTS, AND BODYBUILDING SUPPLEMENTS
+As more and more of the world population becomes overweight and obese, there is a huge 
+market for weight-loss products, including dietary supplements. Among military service 
+members, athletes and bodybuilders it is also common to ingest dietary sports supplements 
+intended to burn fat and increase performance, muscle mass or strength. As examples, 53% 
+of active-duty US Army soldiers report using at least one dietary supplement per week ( 60), 
+and 64% of college students participating in athletics use dietary supplements to enhance 
+performance ( 61). The supplements are often proprietary blends of several supposedly 
+natural ingredients. They are not without risk of adverse effects. In a recent review, it is 
+estimated that the proportion of drug-induced liver injuries that are due to dietary Ronis et al. Page 6
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptsupplements is currently around 20%. Furthermore, bodybuilding and weight loss 
+supplements account for almost half of these injuries ( 62). Among emergency department 
+visits for adverse events related to dietary supplements in the US, around 25% were due to 
+weight loss products ( 63). There are two classes of adverse effects that may occur. 
+Supplements can have components according to the product description that cause certain 
+side effects. Supplements may also be intentionally spiked with unlisted or illegal 
+compounds, or drugs such as anabolic steroids. These are so-called adulterated supplements. 
+Supplements containing declared compounds that have not been adequately tested for safety 
+can also be declared adulterated by the US Food and Drug Administration (FDA). It has 
+been argued that adulterated supplements shouldn’t be considered real dietary supplements 
+(64). Yet, such supplements exist and can readily be obtained e.g. over the internet. 
+Furthermore, they may be more likely to give real physiological effects desired by the 
+consumer due to the pharmacological efficiency of anabolic steroids or other drugs 
+incorporated in the supplements. Medical providers and toxicologists should be therefore be 
+aware of symptoms elicited by these compounds.
+Body weight supplements with some documented weight-loss effects were those containing 
+extracts of the plant Ephedra , also known as Ma Huang. Extracts contain the 
+sympathomimetic alkaloids ephedrine, pseudoephedrine, methylephedrine, and 
+norephedrine. Some of these alkaloids are currently incorporated in common pharmaceutical 
+medications. For example, pseudoephedrine is included as a nasal decongestant in several 
+brands of cold and allergy medication in the US like Claritin-D and Sudafed. A 
+comprehensive meta-analysis of clinical trials showed that ephedra or ephedrine-containing 
+products overall led to modest short-term weight loss of approximately 0.9 kg/month better 
+than placebo ( 65). There were significant 2.2–3.6 fold increased risks of adverse effects in 
+the form of psychiatric symptoms, autonomic hyperactivity, heart palpitations, and upper 
+gastrointestinal symptoms ( 65). Autonomic hyperactivity including symptoms such as 
+tremors, jitteriness, insomnia and increased perspiration was very common, affecting more 
+than 20% of subjects taking ephedrine. However, caffeine may have contributed to some of 
+the side effects, as caffeine was included in most of the ephedrine-containing products. A 
+review of 140 adverse events reports submitted to the FDA between June 1, 1997 and March 
+31, 1999 resulted in 31% of cases considered to the definitely or probably related to the 
+intake of dietary supplements with ephedra alkaloids ( 66). The most common event was 
+hypertension, but they also included cases of arrhythmia, myocardial infarction, stroke, and 
+cardiac arrest with 3 deaths and 7 permanent disabilities. It led the authors to conclude that, 
+“dietary supplements that contain ephedra alkaloids pose a serious health risks to some 
+users”. More than a dozen cases of liver injury have also been reported after intake of 
+ephedra preparations ( 67). Dietary supplements with ephedra were banned by the FDA in 
+2004 ( 68).
+One of the compounds that has until recently been widely incorporated in sports 
+supplements is 1,3-dimethylamylamine (DMAA). It was used in roughly 200 supplements 
+with more than $100 million in sales in 2010 ( 69). DMAA is a pharmaceutical developed 
+and patented by Eli Lilly & Co. as a nasal inhaler for rhinitis with “the desirable properties 
+of both ephedrine and amphetamine” ( 70). It has sympathomimetic and vasoconstrictive 
+properties. Producers of dietary supplements have listed the compound as a natural Ronis et al. Page 7
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptcomponent of Geranium plants, e.g. as geranium extract ( 71). However, the presence of 
+DMAA in plants has not been verified, leading to the conclusion that DMAA in supplements 
+is generated by chemical synthesis ( 72). DMAA has further been banned as a performance 
+enhancing drug by the World Anti-Doping Agency ( 73). One version of the weight-loss 
+supplement OxyELITE Pro from USPlabs, LLC contained the compound 1,3-
+dimethylamylamine (DMAA) in addition to ingredients such as caffeine, Bauhinia purpurea , 
+Bacopa monniera , Cirsium oligophyllum , and rauwolscine (Yohimbe) extract. Studies that 
+were supported financially by USPlabs, LLC with a small number of healthy volunteers 
+suggested that this supplement formulation could increase lipolysis, metabolic rate, heart 
+rate and systolic blood pressure in the short term (2 h) as well as lead to small decreases in 
+appetite, body weight, and BMI after intake for 8 weeks ( 74). Accidental intake of 
+supplements with DMAA, mainly in children, have caused relatively mild adverse effects 
+such as tachycardia, nausea, and vomiting ( 75). However, serious cardiovascular events after 
+DMAA intake have also been reported. Recreational use of DMAA in New Zealand has 
+been associated with cases of cerebral hemorrhage ( 76,77). Furthermore, there are three 
+cases of cardiac arrest occurring during physical exercise in the military and in a gym 
+following intake of DMAA-containing supplements ( 71,78). Two of the events eventually 
+led to the deaths of US soldiers. While it cannot be proven that DMAA is the causative agent 
+for all the adverse events, it is clear that DMAA does indeed have cardiovascular effects 
+such as vasoconstriction and elevation of blood pressure ( 79,80). Following receipt of 42 
+adverse events reports on products with DMAA, the FDA in April 2012 sent warning letters 
+to 10 manufacturers of DMAA-containing supplements stating that since the safety of 
+DMAA had not been documented, the products were adulterated, according to US law ( 81).
+In 2013, a series of severe hepatic liver disease was observed in individuals from Hawaii 
+awaiitaking the weight-loss supplement OxyELITE Pro from USPlabs, LLC ( 82,83). Eight 
+previously healthy individuals presented with symptoms such as fatigue, nausea, abdominal 
+pain and jaundice. Levels of alanine transaminase and total bilirubin were elevated. Of three 
+patients developing fulminant hepatic failure, two required a liver transplant and one died. A 
+subsequent outbreak investigation conducted by the Hawaii Department of Health in 
+collaboration with the CDC and FDA identified a total of 36 cases of acute hepatitis in 
+individuals exposed to OxyELITE Pro ( 84). All had dark urine and most had jaundice, loss 
+of appetite and fatigue. Around 2013, additional cases of acute liver injury in patients that 
+had taken OxyELITE Pro were observed in the US in the Drug-Induced Liver Injury 
+Network (DILIN) prospective study and among military personnel in Southern California 
+(85,86). From January 2011 to February 2014, the FDA received adverse event reports for 
+114 consumers that had used OxyELITE Pro. 55 cases (48%) were classified as having liver 
+disease likely due to OxyELITE Pro ( 87). The incidence of liver disease seemed to spike 
+after February 2013. Tallying cases of acute hepatitis of unknown etiology occurring from 
+April 1, 2013 to December 5, 2013 in individuals who consumed OxyELITE Pro in the 60 
+days prior to illness resulted in 69 case patients, of whom 32 were hospitalized, 3 received 
+liver transplants and one died ( 88). The spike in liver disease coincided with a reformulation 
+of OxyELITE Pro to DMAA-free versions of OxyELITE Pro (“New Formula” and “Super 
+Thermo”) that, instead of DMAA, contained the compound aegeline ( 83). Aegeline is an 
+alkaloidal-amide occurring naturally in the bael tree ( Aegle marmelos ) with Ronis et al. Page 8
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptantihyperglycemic effects in a diabetic rat model ( 89). However, there do not appear to be 
+relevant studies on the effects of aegeline in humans. In a warning letter to USPlabs, the 
+FDA wrote that aegeline should be classified as a “new dietary ingredient” since it was not 
+marketed in the US before October 15, 1994. As the company further had failed “to provide 
+reasonable assurance that such ingredient does not present a significant or unreasonable risk 
+of illness or injury”, the FDA deemed the aegeline-containing supplements to be adulterated 
+(90). The aegeline-containing supplements were subsequently recalled ( 91).
+It is unclear if the aegeline in OxyELITE Pro was the hepatotoxic agent causing the outbreak 
+of liver disease. While feeding rats Aegle marmelos  plant material has resulted in liver 
+lesions in the form of centrilobular congestion and hydropic degeneration ( 92), it is 
+unknown whether this was due to aegeline or other compounds. The aegeline in OxyELITE 
+Pro may further have been a synthetic compound of unknown purity ( 93). As no other 
+known hepatotoxic agents was found in OxyELITE Pro, the specific causative agent remains 
+unidentified ( 88). The link between the observed cases of hepatitis and OxyELITE intake 
+has also been questioned. Teschke and Eickhoff argue that clinicians describing the first 
+cases were not sufficiently fastidious in excluding other causes of liver disease such as 
+acetaminophen toxicity, liver cirrhosis, and viral hepatitis, and that causality scores on the 
+Roussel Uclaf Causality Assessment Method (RUCAM) were inflated to show that 
+OxyELITE Pro was the probable cause for the cases ( 94).
+It is remarkable that OxyELITE Pro products have been adulterated with two different 
+compounds, DMAA and aegeline. There is even a recent notification from the FDA that a 
+batch of OxyELITE Pro Super Thermogenic was found to contain fluoxetine, also known as 
+Prozac ( 95). While USPlabs, LLC has claimed that this latter batch represented a counterfeit 
+product not manufactured by the company, it certainly underscores that segments of the 
+dietary supplement business employ shady or even criminal manufacturing and business 
+practices that result in consumers being exposed to untested or undeclared compounds.
+OxyELITE Pro is not the only multi-ingredient dietary supplement associated with liver 
+injury. The LiverTox database lists incidences of hepatotoxicity attributed to the brands 
+Slimquick, Herbalife, Hydroxycut and Move Free ( 67). Earlier versions of Hydroxycut 
+contained ephedra, but otherwise the exact mechanisms of injury are generally unknown, 
+even though some of the cases may be due to the content of green tea, Aloe vera , and 
+Chinese skullcap.
+The examples listed above represent adverse effects caused by ingredients listed by the 
+producers. More insidious is the addition of unlisted ingredients or drugs to dietary 
+supplements. Anti-obesity drugs rimonabant, orlistat, and sibutramine or analogues thereof 
+have been found in weight-loss supplements from Germany, Turkey, China, and Poland ( 96). 
+Side effects of these drugs, like panic attacks, psychotic episodes, and increases in blood 
+pressure and heart rate in the case of sibutramine may therefore also be encountered in 
+individuals using such adulterated supplements.
+Body-building supplements are quite often adulterated with anabolic steroids that are 
+modified variants of androgens designed to increase muscle mass. Studies from 2001 and Ronis et al. Page 9
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript2002 based on nutritional supplements purchased in 13 countries, including the US, 
+indicated that around 15% of nutritional supplements contained non-declared anabolic 
+androgenic steroids ( 97). Adverse effects of anabolic steroids include cardiomyopathy, 
+altered serum lipids, acne, swollen breast tissues in men and hepatotoxicity ( 98). Several 
+patients have developed hepatic cholestasis after intake of anabolic androgens ( 99,100). In 
+the US, the Drug-Induced Liver Injury Network (DILIN) was established in 2003 to identify 
+and characterize cases of hepatotoxicity caused by dietary supplements and drugs, with the 
+exception of acetaminophen. Among 847 cases whose liver injuries were confirmed to be 
+caused by drugs or supplements, 45 (5.3%) were due to use of bodybuilding supplements 
+(101). This latter group was characterized by consisting exclusively of males that all had 
+jaundice and where most (84%) had pruritus. The pattern of liver injury resembled that of 
+bland cholestasis. Compared to other cases, the levels of serum ALT, AST and ALP were 
+lower, but the levels of total bilirubin were higher, and they were jaundiced for longer 
+periods of time ( 101). The mechanism whereby the anabolic steroids induce hepatotoxicity 
+is poorly understood, but it has been hypothesized to be mediated by activation of the 
+androgen receptor in hepatic cells, leading to upregulation of the rate-limiting enzyme, 
+CPT1, in mitochondrial fatty acid β-oxidation, increased oxidative stress, and ultimately 
+mitochondrial degeneration and hepatotoxicity ( 98).
+BOTANICAL SUPPLEMENTS
+Traditional herbal medicine can be said to be the precursor for both drugs used in modern 
+medicine that are based on plant compounds (such as aspirin and morphine) and for 
+contemporary botanical dietary supplements. Herbal and botanical products have sustained 
+popularity given the fact that these natural (i.e. derived from plant root, leaves, or bark) 
+substances were among the oldest therapeutics. Estimates published by the CDC as part of 
+the National Health and Nutrition Examination Survey 2003–2006 reported that 20% of 
+adults use a supplement containing at least one botanical ingredient ( 102). A common 
+motivation for taking these substances is to “improve overall health” ( 3). Accordingly, the 
+US Food and Drug Administration regulates the majority of botanicals as dietary 
+supplements and not as drugs developed for the treatment or prevention of specific maladies 
+(103). Botanical use is correlated with non-smoking and higher self-reported health ( 3). 
+Alarmingly, patients frequently do not report herbal supplement use to primary care 
+physicians ( 104), a concern because many botanical supplements may interact with 
+prescribed medications. On their own, bioactive constituents of botanicals can have acute 
+adverse effects that require hospitalization. This review describes acute adverse effects and 
+herb-drug interactions of the most common botanical and herbal supplements.
+Because of their plant-based derivation, botanical supplements consist of a mixture of 
+organic compounds. Only a fraction of these compounds is biologically active, with a small 
+subset of the active compounds having therapeutic and/or toxic mechanisms of action. Table 
+1 presents a list of commonly used and researched botanical supplements, their primary 
+active constituents, typical use and dosage, and reported adverse effects.
+Concurrent exposure to other compounds (e.g. pharmaceuticals, smoking) and the 
+heterogeneity of herbal supplements often obfuscates the determination of toxic mechanisms Ronis et al. Page 10
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptin clinical cases, even where doses of the supplement are reported. As such, reports of 
+adverse effects directly attributable to botanicals are generally rare ( 105). In most such 
+cases, effects are mild (e.g. nausea, fatigue, and headache). However, more serious clinical 
+cases have appeared, most often relating to adverse effects falling under the general category 
+of drug induced liver injury (DILI) and its associated mechanisms, namely mitochondrial 
+dysfunction, oxidative stress, and alteration of bile acid homeostasis.
+Black cohosh ( Cimicifuga racemosa ) has been associated with jaundice and liver failure in 
+menopausal women ( 106). Immunohistochemistry of biopsy samples revealed pathological 
+oxidative stress. These results are consistent with in vivo  data showing increases in 
+mitochondrial reactive oxygen species and decreased catalase activity with C. racemosa 
+treatment in a rat menopausal model ( 107). Similarly, numerous case reports of kava kava 
+detail liver toxicity sometimes requiring transplants (reviewed in ( 108)). Candidate 
+mechanisms for kava kava liver toxicity include depletion of glutathione (increasing 
+oxidative stress) and inhibition of cyclooxygenases (mitochondrial dysfunction) ( 109). Saw 
+palmetto use has been associated with cholestatic hepatitis; subsequent alterations in bile 
+secretion have been linked to pancreatitis ( 110). Cholestatic symptoms were also seen in 
+patients with acute liver failure that had ingested Echinacea, although a specific mechanism 
+has not been hypothesized ( 111). Valerian use induced jaundice that was reversed by steroid 
+administration in a 57 year-old man ( 112). Case reports have presented a variety of other 
+non-hepatic symptoms following botanical use. A bodybuilder taking yohimbe prior to a 
+workout session suffered a seizure with tachycardia and hypertension, consistent with 
+yohimbine’s sympathomimetic properties ( 113). A 68 year-old woman taking milk thistle 
+presented with symptoms of exacerbated hemochromatosis (iron overload) that dissipated 
+when she stopped taking the supplement. However, this patient was genetically predisposed 
+to hemochromatosis and physicians withdrew excess iron via phlebotomy concomitant with 
+her cessation of milk thistle use ( 114). Ginseng use was implicated in a transient ischemia 
+attack in a 64 year-old man, though there was no evaluation as to the mechanism ( 115). In 
+other cardiovascular outcomes, Black cohosh was deemed “probably responsible” for 
+observed bradycardia in a 59 year-old woman. Slow heart rate is a reported side effect of 
+black cohosh ( 116). The wide variety of compounds identified in black cohosh make it 
+difficult to elucidate mechanisms, although the authors of the above case study speculated 
+that black cohosh regulates heart rate via activation of serotonin receptors, consistent with 
+experimental results ( 117). Both garlic and ginkgo biloba use have been involved in several 
+cases of excessive bleeding. For example, a 71 year-old man had persistent surgical bleeding 
+that was attributed to indulgent garlic ingestion prior to the operation ( 118). Furthermore, 
+aged garlic extract inhibits platelet aggregation ( 119). Gingkolide B, an active component of 
+gingko biloba, has been shown to inhibit platelet aggregating factor, and men and women 
+taking ginkgo biloba have suffered spontaneous bleeding ( 120).
+Compared to the above outcomes, more is known about potential herb-drug interactions. 
+Pharmacologically active compounds in botanicals are, like drugs, substrates of 
+metabolizing enzymes. As such, induction or suppression of relevant metabolizing enzymes 
+can affect the pharmacokinetics of drugs and may warrant contraindications by health care 
+providers. In vitro studies have implicated activation of the pregnane-X receptor (PXR) and 
+the aryl hydrocarbon receptor (AhR) as a common mechanisms among several botanicals in Ronis et al. Page 11
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptinducing cytochrome P450 (CYP) expression ( 121–123). Clinical trials aim to identify such 
+herb-drug pharmacokinetic interactions and their enzymatic targets via co-administration of 
+an enzyme-specific probe. Investigated targets include the CYP enzymes, organic anion 
+transporter (OAT) proteins, and the P-glycoprotein (P-gp) ATP binding cassette transporter. 
+Table 2 presents a representative list of several well-characterized herb-drug interactions 
+from clinical studies of human volunteers.
+CONCLUSIONS
+The market for dietary supplements and nutraceuticals taken to improve the health or well-
+being of the customer is enormous. However, they are not necessarily safe for everybody. 
+Like regular drugs, supplements with active ingredients that provide a physiological or 
+pharmacological effect are likely to also cause adverse effects in susceptible individuals. 
+More attention to adverse effects and potential interactions is needed in order to avoid 
+serious medical outcomes. Users and physicians alike should consult updated literature 
+before beginning or advising a regimen involving these substances. Medical providers 
+should be aware that a large fraction of general population take dietary supplements. They 
+should therefore request information from patients about their supplement intake in order to 
+provide optimal medical care.
+ACKNOWLEDGEMENTS
+M.R.is supported by NIH R37AA18282 and NIH R37AA009300.
+LITERATURE CITED
+1. Mueller C 1999 The regulatory status of medical foods and dietary supplements in the United States. 
+Nutrition 15:249–51 [PubMed: 10198926] 
+2. National Institutes of Health, Office of Dietary Supplements. 2011 Dietary Supplements. 
+Background information. National Institutes of Health, Office of Dietary Supplements, Bethesda, 
+MD https://ods.od.nih.gov/factsheets/DietarySupplements-HealthProfessional/
+3. Bailey RL, Gahche JJ, Miller PE, Thomas PR, Dwyer JT. 2013 Why US adults use dietary 
+supplements. JAMA Intern. Med 173:355–61 [PubMed: 23381623] 
+4. Moyer MW. 2014 Vitamins of trial. Nature 510:462–64 [PubMed: 24965635] 
+5. Funk C 1912 The etiology of the deficiency diseases. Beri-beri, polyneuritis in birds, epidemic 
+dropsy, scurvy, experimental scurvy in animals, infantile scurvy, ship beri-beri, pellagra. J. State 
+Med 20:341–68
+6. Woo JJY . 2007 Adverse event monitoring and multivitamin-multimineral dietary supplements. Am. 
+J. Clin. Nutr 85:323S–24S [PubMed: 17209219] 
+7. Velicer CM, Ulrich CM. 2008 Vitamin and mineral supplement use among US adults after cancer 
+diagnosis: a systematic review. J. Clin. Oncol 26:665–73 [PubMed: 18235127] 
+8. Knapik JJ, Steelman RA, Hoedebecke SS, Farina EK, Austin KG, Lieberman HR. 2014 A 
+systematic review and meta-analysis on the prevalence of dietary supplement use by military 
+personnel. BMC Complement. Altern. Med 14:143 [PubMed: 24884570] 
+9. Mulholland CA, Benford DJ. 2007 What is known about the safety of multivitamin-multimineral 
+supplements for the generally healthy population? Theoretical basis for harm. Am. J. Clin. Nutr 
+85:318S–22S [PubMed: 17209218] 
+10. Guallar E, Stranges S, Mulrow C, Appel LJ, Miller ER, III. 2013 Enough is enough: Stop wasting 
+money on vitamin and mineral supplements. Ann. Intern. Med 159:850–51 [PubMed: 24490268] Ronis et al. Page 12
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript11. Fortmann SP, Burda BU, Senger CA, Lin JS, Whitlock EP. 2013 Vitamin and mineral supplements 
+in the primary prevention of cardiovascular disease and cancer: An updated systematic evidence 
+review for the U.S. Preventive Services Task Force. Ann. Intern. Med 159:824–34 [PubMed: 
+24217421] 
+12. Ziegler EE, Filer LJ, Jr.. 1996 Present Knowledge in Nutrition 7th Edition, International Life 
+Sciences Institute-Nutrition Foundation 1996
+13. de Kruijk JR, Notermans NC. 2005 Gevoelsstoornissen veroorzaakt door multivitaminepreparaten 
+[Sensory disturbances caused by multivitamin preparations]. Ned. Tijdschr. Geneeskd 149:2541–
+44 [PubMed: 16320661] 
+14. Bairati I, Meyer F, Gélinas M, Fortin A, Nabid A, Brochet F, Mercier J-P, Têtu B, Harel F, Abdous 
+B, Vigneault É, Vass S, del Vecchio P, Roy J. 2005 Randomized trial of antioxidant vitamins to 
+prevent acute adverse effects of radiation therapy in head and neck cancer patients. J. Clin. Oncol 
+23:5805–13 [PubMed: 16027437] 
+15. Miller ER, III, Pastor-Barriuso R, Dalal D, Riemersma RA, Appel LJ, Guallar E. 2005 Meta-
+analysis: High-dosage vitamin e supplementation may increase all-cause mortality. Ann. Int. Med 
+142:37–46 [PubMed: 15537682] 
+16. Omenn GS, Goodman GE, Thornquist MD, Balmes J, Cullen MR, Glass A, Keogh JP, Meyskens 
+FL, Jr, Valanis B, Williams JH, Jr., Barnhart S, Hammar S. 1996 Effects of a combination of beta 
+carotene and vitamin A on lung cancer and cardiovascular disease. N. Engl. J. Med 334:1150–55 
+[PubMed: 8602180] 
+17. The Alpha-Tocopherol Beta Carotene Cancer Prevention Study Group. 1994 The effect of vitamin 
+E and beta carotene on the incidence of lung cancer and other cancers in male smokers. N. Engl. J. 
+Med 330:1029–35 [PubMed: 8127329] 
+18. Rapola JM, Virtamo J, Ripatti S, Haukka JK, Huttunen JK, Albanes D, Taylor PR, Heinonen OP. 
+1998 Effects of alpha tocopherol and beta carotene supplements on symptoms, progression, and 
+prognosis of angina pectoris. Heart 79:454–58 [PubMed: 9659191] 
+19. Rapola JM, Virtamo J, Haukka JK, Heinonen OP, Albanes D, Taylor PR, Huttunen JK. 1996 Effect 
+of vitamin e and beta carotene on the incidence of angina pectoris: A randomized, double-blind, 
+controlled trial. JAMA 275:693–98 [PubMed: 8594266] 
+20. Melhus H, Michaëlsson K, Kindmark A, Bergström R, Holmberg L, Mallmin H, Wolk A, 
+Ljunghall S. 1998 Excessive dietary intake of vitamin A is associated with reduced bone mineral 
+density and increased risk for hip fracture. Ann. Intern. Med 129:770–78 [PubMed: 9841582] 
+21. Rothman KJ, Moore LL, Singer MR, Nguyen U-SDT, Mannino S, Milunsky A. 1995 
+Teratogenicity of high vitamin A intake. N. Engl. J. Med 333:1369–73 [PubMed: 7477116] 
+22. Ramanathan VS, Hensley G, French S, Eysselein V , Chung D, Reicher S, Pham B. 2010 
+Hypervitaminosis A inducing intra-hepatic cholestasis--a rare case report. Exp. Mol. Pathol 
+88:324–25 [PubMed: 19944093] 
+23. Barton JC, Lee PL, West C, Bottomley SS. 2006 Iron overload and prolonged ingestion of iron 
+supplements: Clinical features and mutation analysis of hemochromatosis-associated genes in four 
+cases. Am. J. Hematol 81:760–67 [PubMed: 16838333] 
+24. Swanson CA. 2003 Iron intake and regulation: implications for iron deficiency and iron overload. 
+Alcohol 30:99–102 [PubMed: 12957292] 
+25. Spector AA, Kim H-Y . 2015 Discovery of essential fatty acids. J. Lipid Res 56:11–21 [PubMed: 
+25339684] 
+26. Bang HO, Dyerberg J, Nielsen AB. 1971 Plasma lipid and lipoprotein pattern in Greenlandic west-
+coast Eskimos. Lancet 297:1143–45
+27. Sierra S, Lara-Villoslada F, Olivares M, Jiménez J, Boza J, Xaus J. 2004 La expresión de IL-10 
+interviene en la regulación de la respuesta inflamatoria por los ácidos grasos omega 3 [Il-10 
+expression is involved in the regulation of the immune response by omega 3 fatty acids]. Nutr. 
+Hosp 19:376–82 [PubMed: 15672655] 
+28. Leaf A, Kang JX, Xiao Y-F. 2008 Fish oil fatty acids as cardiovascular drugs. Curr. Vasc. 
+Pharmacol 6:1–12 [PubMed: 18220934] 
+29. Gogos CA, Skoutelis A, Kalfarentzos F. 2000 The effects of lipids on the immune response of 
+patients with cancer. J. Nutr. Health Aging 4:172–75 [PubMed: 10936906] Ronis et al. Page 13
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript30. Harris WS, Isley WL. 2001 Clinical trial evidence for the cardioprotective effects of omega-3 fatty 
+acids. Curr. Atheroscler. Rep:174–79 [PubMed: 11177663] 
+31. Glück T, Alter P. 2016 Marine omega-3 highly unsaturated fatty acids: From mechanisms to 
+clinical implications in heart failure and arrhythmias. Vascul. Pharmacol 82:11–19 [PubMed: 
+27080538] 
+32. Gross BW, Gillio M, Rinehart CD, Lynch CA, Rogers FB. 2017 Omega-3 fatty acid 
+supplementation and warfarin: a lethal combination in traumatic brain injury. J. Trauma Nurs 
+24:15–18 [PubMed: 28033135] 
+33. Buckley MS, Goff AD, Knapp WE. 2004 Fish oil interaction with warfarin. Ann. Pharmacother 
+38:50–53 [PubMed: 14742793] 
+34. Fang N, Yu S, Badger TM. 2004 Comprehensive phytochemical profile of soy protein isolate. J. 
+Agric. Food Chem 52:4012–20 [PubMed: 15186131] 
+35. Messina M 2016 Soy and health update: evaluation of the clinical and epidemiologic literature. 
+Nutrients 8:pii E754 [PubMed: 27886135] 
+36. Badger TM, Gilchrist JM, Pivik RT, Andres A, Shankar K, Chen J-R, Ronis MJ. 2009 The health 
+implications of soy infant formula. Am. J. Clin. Nutr 89:1668S–72S [PubMed: 19357221] 
+37. Chen A, Rogan WJ. 2004 Isoflavones in soy infant formula: a review of evidence for endocrine and 
+other activity in infants. Annu. Rev. Nutr 24:33–54 [PubMed: 15189112] 
+38. Harlid S, Adgent M, Jefferson WN, Panduri V , Umbach DM, Xu Z, Stallings V A, Williams CJ, 
+Rogan WJ, Taylor JA. 2016 Soy formula and epigenetic modifications: analysis of vaginal 
+epithelial cells from infant girls in the IFED study. Environ. Health Perspect Epub ahead of print
+39. Adgent MA, Daniels JL, Rogan WJ, Adair L, Edwards LJ, Westreich D, Maisonet M, Marcus M. 
+2012 Early-life soy exposure and age at menarche. Paediatr. Perinat. Epidemiol 26:163–75 
+[PubMed: 22324503] 
+40. Adgent MA, Daniels JL, Edwards LJ, Siega-Riz AM, Rogan WJ. 2011 Early-life soy exposure and 
+gender-role play behavior in children. Environ. Health Perspect 119:1811–16 [PubMed: 
+21813368] 
+41. Andres A, Moore MB, Linam LE, Casey PH, Cleves MA, Badger TM. 2015 Compared with 
+feeding infants breast milk or cow-milk formula, soy formula feeding does not affect subsequent 
+reproductive organ size at 5 years of age. The Journal of Nutrition 145:871–75 [PubMed: 
+25761499] 
+42. Gilchrist JM, Moore MB, Andres A, Estroff JA, Badger TM. 2010 Ultrasonographic patterns of 
+reproductive organs in infants fed soy formula: comparisons to infants fed breast milk and milk 
+formula. J. Pediatr 156:215–20 [PubMed: 19846109] 
+43. Strom BL, Schinnar R, Ziegler EE, Barnhart KT, Sammel MD, Macones GA, Stallings V A, Drulis 
+JM, Nelson SE, Hanson SA. 2001 Exposure to soy-based formula in infancy and endocrinological 
+and reproductive outcomes in young adulthood. JAMA 286:807–14 [PubMed: 11497534] 
+44. Hamilton-Reeves JM, Vazquez G, Duval SJ, Phipps WR, Kurzer MS, Messina MJ. 2010 Clinical 
+studies show no effects of soy protein or isoflavones on reproductive hormones in men: results of a 
+meta-analysis. Fertil. Steril 94:997–1007 [PubMed: 19524224] 
+45. Akingbemi BT, Braden TD, Kemppainen BW, Hancock KD, Sherrill JD, Cook SJ, He X, Supko 
+JG. 2007 Exposure to phytoestrogens in the perinatal period affects androgen secretion by 
+testicular Leydig cells in the adult rat. Endocrinology 148:4475–88 [PubMed: 17569756] 
+46. Tan KAL, Walker M, Morris K, Greig I, Mason JI, Sharpe RM. 2006 Infant feeding with soy 
+formula milk: effects on puberty progression, reproductive function and testicular cell numbers in 
+marmoset monkeys in adulthood. Hum. Reprod 21:896–904 [PubMed: 16476680] 
+47. Sharpe RM, Martin B, Morris K, Greig I, McKinnell C, McNeilly AS, Walker M. 2002 Infant 
+feeding with soy formula milk: effects on the testis and on blood testosterone levels in marmoset 
+monkeys during the period of neonatal testicular activity. Hum. Reprod 17:1692–703. [PubMed: 
+12093826] 
+48. Allred CD, Allred KF, Ju YH, Virant SM, Helferich WG. 2001 Soy diets containing varying 
+amounts of genistein stimulate growth of estrogen-dependent (MCF-7) tumors in a dose-dependent 
+manner. Cancer Research 61:5045–50 [PubMed: 11431339] Ronis et al. Page 14
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript49. McCarver G, Bhatia J, Chambers C, Clarke R, Etzel R, Foster W, Hoyer P, Leeder JS, Peters JM, 
+Rissman E, Rybak M, Sherman C, Toppari J, Turner K. 2011 NTP-CERHR expert panel report on 
+the developmental toxicity of soy infant formula. Birth Defects Res. B Dev. Reprod. Toxicol 
+92:421–68 [PubMed: 21948615] 
+50. Perry DL, Spedick JM, McCoy TP, Adams MR, Franke AA, Cline JM. 2007 Dietary soy protein 
+containing isoflavonoids does not adversely affect the reproductive tract of male cynomolgus 
+macaques (Macaca fascicularis). J. Nutr 137:1390–94 [PubMed: 17513396] 
+51. Ronis MJ, Gomez-Acevedo H, Blackburn ML, Cleves MA, Singhal R, Badger TM. 2016 Uterine 
+responses to feeding soy protein isolate and treatment with 17 β-estradiol differ in ovariectomized 
+female rats. Toxicol. Appl. Pharmacol 297:68–80 [PubMed: 26945725] 
+52. Miousse IR, Sharma N, Blackburn M, Vantrease J, Gomez-Acevedo H, Hennings L, Shankar K, 
+Cleves MA, Badger TM, Ronis MJJ. 2013 Feeding soy protein isolate and treatment with estradiol 
+have different effects on mammary gland morphology and gene expression in weanling male and 
+female rats. Physiol. Genomics 45:1072–83 [PubMed: 24046281] 
+53. Zhang J, Lazarenko OP, Wu X, Tong Y , Blackburn ML, Gomez-Acevedo H, Shankar K, Badger 
+TM, Ronis MJJ, Chen J-R. 2012 Differential effects of short term feeding of a soy protein isolate 
+diet and estrogen treatment on bone in the pre-pubertal rat. PLoS One 7:e35736 [PubMed: 
+22536432] 
+54. Ronis MJJ, Chen Y , Shankar K, Gomez-Acevedo H, Cleves MA, Badeaux J, Blackburn ML, 
+Badger TM. 2011 Formula feeding alters hepatic gene expression signature, iron and cholesterol 
+homeostasis in the neonatal pig. Physiol. Genomics 43:1281–93 [PubMed: 21954453] 
+55. Singhal R, Shankar K, Badger TM, Ronis MJ. 2009 Hepatic gene expression following 
+consumption of soy protein isolate in female Sprague-Dawley rats differs from that produced by 
+17β-estradiol treatment. J. Endocrinol 202:141–52 [PubMed: 19372191] 
+56. Ronis M, Hennings L, Gomez-Acevedo H, Badger T. 2014 Different responses to soy and estradiol 
+in the reproductive system of prepubertal male rats and neonatal male pigs. FASEB J 28:3735 
+[PubMed: 24072781] 
+57. Weaver CM, Alekel DL, Ward WE, Ronis MJ. 2012 Flavonoid intake and bone health. J. Nutr. 
+Gerontol. Geriatr 31:239–53 [PubMed: 22888840] 
+58. Mazzanti G, Menniti-Ippolito F, Moro PA, Cassetti F, Raschetti R, Santuccio C, Mastrangelo S. 
+2009 Hepatotoxicity from green tea: a review of the literature and two unpublished cases. Eur. J. 
+Clin. Pharmacol 65:331–41 [PubMed: 19198822] 
+59. Mahady G, Parrot J, Lee C, Yun G, Dan A. 2003 Botanical dietary supplement use in peri- and 
+postmenopausal women. Menopause 10:65–72 [PubMed: 12544679] 
+60. Lieberman HR, Stavinoha TB, McGraw SM, White A, Hadden LS, Marriott BP. 2010 Use of 
+dietary supplements among active-duty US Army soldiers. Am. J. Clin. Nutr 92:985–95 [PubMed: 
+20668050] 
+61. Hoyte CO, Albert D, Heard KJ. 2013 The use of energy drinks, dietary supplements, and 
+prescription medications by United States college students to enhance athletic performance. J. 
+Community Health 38:575–80 [PubMed: 23371823] 
+62. Navarro VJ, Khan I, Björnsson E, Seeff LB, Serrano J, Hoofnagle JH. 2017 Liver injury from 
+herbal and dietary supplements. Hepatology 65:363–73 [PubMed: 27677775] 
+63. Geller AI, Shehab N, Weidle NJ, Lovegrove MC, Wolpert BJ, Timbo BB, Mozersky RP, Budnitz 
+DS. 2015 Emergency department visits for adverse events related to dietary supplements. New 
+Engl. J. Med 373:1531–40 [PubMed: 26465986] 
+64. Brown AC. 2016 An overview of herb and dietary supplement efficacy, safety and government 
+regulations in the United States with suggested improvements. Part 1 of 5 series. Food Chem. 
+Toxicol Epub ahead of print:1–23
+65. Shekelle PG, Hardy ML, Morton SC, Maglione M, Mojica WA, Suttorp MJ, Rhodes SL, Jungvig 
+L, Gagné J. 2003 Efficacy and safety of ephedra and ephedrine for weight loss and athletic 
+performance: a meta-analysis. JAMA 289:1537–45 [PubMed: 12672771] 
+66. Haller CA, Benowitz NL. 2000 Adverse cardiovascular and central nervous system events 
+associated with dietary supplements containing ephedra alkaloids. N. Engl. J. Med 343:1833–38 
+[PubMed: 11117974] Ronis et al. Page 15
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript67. US National Library of Medicine, National Institute of Diabetes and Digestive and Kidney 
+Diseases. 2016 LiverTox. Clinical and Research Information on Drug-Induced Liver Injury U.S. 
+National Library of Medicine, Bethesda, MD National Institutes of Health, U.S. Department of 
+Health & Human Services https://livertox.nlm.nih.gov/index.html
+68. US Food & Drug Administration (FDA). 2004 FDA issues regulation prohibiting sale of dietary 
+supplements containing ephedrine alkaloids and reiterates its advice that consumers stop using 
+these products U.S. Food and Drug Administration, Silver Spring, MD http://www.fda.gov/
+newsevents/newsroom/pressannouncements/2004/ucm108242.htm
+69. Cohen PA. 2012 DMAA as a dietary supplement ingredient. Arch. Intern. Med 172:1038–39 
+[PubMed: 22566490] 
+70. Shonle HA, Ewald R. 1944 Aminoalkanes US Patent No. 2350318
+71. Eliason MJ, Eichner A, Cancio A, Bestervelt L, Adams BD, Deuster PA. 2012 Case reports: Death 
+of active duty soldiers following ingestion of dietary supplements containing 1,3-
+dimethylamylamine (DMAA). Mil. Med 177:1455–59 [PubMed: 23397688] 
+72. Di Lorenzo C, Moro E, Dos Santos A, Uberti F, Restani P. 2013 Could 1,3 dimethylamylamine 
+(DMAA) in food supplements have a natural origin? Drug Test. Anal 5:116–21 [PubMed: 
+22941904] 
+73. World Anti Doping Agency. 2016 The world anti-doping code International Standard. Prohibited 
+list January 2017 World Anti-Doping Agency (WADA), Montreal (Quebec), Canada https://
+www.wada-ama.org/sites/default/files/resources/files/2016-09-29_-
+_wada_prohibited_list_2017_eng_final.pdf
+74. McCarthy CG, Canale RE, Alleman RJ, Jr, Reed JP, Bloomer RJ. 2012 Biochemical and 
+anthropometric effects of a weight loss dietary supplement in healthy men and women. Nutr. 
+Metab. Insights 5:13–22 [PubMed: 23882144] 
+75. Forrester MB. 2013 Exposures to 1,3-dimethylamylamine-containing products reported to Texas 
+poison centers. Hum. Exp.Toxicol 32:18–23 [PubMed: 23060409] 
+76. Gee P, Tallon C, Long N, Moore G, Boet R, Jackson S. 2012 Use of recreational drug 1,3 
+Dimethylamylamine (DMAA) associated with cerebral hemorrhage. Ann. Emerg. Med 60:431–34 
+[PubMed: 22575212] 
+77. Gee P, Jackson S, Easton J. 2010 Another bitter pill: a case of toxicity from DMAA party pills. N. 
+Z. Med. J 123:124–27
+78. Karnatovskaia LV , Leoni JC, Freeman ML. 2015 Cardiac arrest in a 21-year-old man after 
+ingestion of 1,3-DMAA-containing workout supplement. Clin. J. Sport Med 25:e23–25 [PubMed: 
+24878759] 
+79. Swanson EE, Chen KK. 1946 Comparison of pressor action of aliphatic amines. J. Pharmacol. Exp. 
+Ther 88:10–13 [PubMed: 20274519] 
+80. Bloomer RJ, Harvey IC, Farney TM, Bell ZW, Canale RE. 2011 Effects of 1,3-dimethylamylamine 
+and caffeine alone or in combination on heart rate and blood pressure in healthy men and women. 
+Phys. Sportsmed 39:111–20 [PubMed: 22030947] 
+81. US Food & Drug Administration (FDA). 2012 FDA challenges marketing of DMAA products for 
+lack of safety evidence U.S. Food and Drug Administration, Silver Spring, MD http://
+www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm302133.htm
+82. Centers for Disease Control and Prevention (CDC). 2013 Notes from the field: acute hepatitis and 
+liver failure following the use of a dietary supplement intended for weight loss or muscle building-
+May-October 2013. MMWR Morb. Mortal Wkly. Rep 62:817–19 [PubMed: 24113901] 
+83. Roytman MM, Pörzgen P, Lee CL, Huddleston L, Kuo TT, Bryant-Greenwood P, Wong LL, Tsai 
+N. 2014 Outbreak of severe hepatitis linked to weight-loss supplement OxyELITE Pro. Am. J. 
+Gastroenterol 109:1296–98 [PubMed: 25091255] 
+84. Johnston DI, Chang A, Viray M, Chatham-Stephens K, He H, Taylor E, Wong LL, Schier J, Martin 
+C, Fabricant D, Salter M, Lewis L, Park SY . 2014 Hepatotoxicity associated with the dietary 
+supplement OxyELITE Pro™ — Hawaii, 2013. Drug Test. Anal 8:319–27
+85. Heidemann LA, Navarro VJ, Ahmad J, Hayashi PH, Stolz A, Kleiner DE, Fontana RJ. 2016 Severe 
+acute hepatocellular injury attributed to OxyELITE Pro: a case series. Dig. Dis. Sci 61:2741–48 
+[PubMed: 27142670] Ronis et al. Page 16
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript86. Foley S, Butlin E, Shields W, Lacey B. 2014 Experience with OxyELITE pro and acute liver injury 
+in active duty service members. Dig. Dis. Sci 59:3117–21 [PubMed: 24916713] 
+87. Klontz KC, DeBeck HJ, LeBlanc P, Mogen KM, Wolpert BJ, Sabo JL, Salter M, Seelman SL, 
+Lance SE, Monahan C, Steigman DS, Gensheimer K. 2015 The role of adverse event reporting in 
+the FDA response to a multistate outbreak of liver disease associated with a dietary supplement. 
+Public Health Rep 130:526–32 [PubMed: 26327730] 
+88. Chatham-Stephens K, Taylor E, Chang A, Peterson A, Daniel J, Martin C, Deuster P, Noe R, 
+Kieszak S, Schier J, Klontz K, Lewis L. 2017 Hepatotoxicity associated with weight loss or sports 
+dietary supplements, including OxyELITE Pro™ — United States, 2013. Drug Test. Anal 9:68–74 
+[PubMed: 27367536] 
+89. Narender T, Shweta S, Tiwari P, Papi Reddy K, Khaliq T, Prathipati P, Puri A, Srivastava AK, 
+Chander R, Agarwal SC, Raj K. 2007 Antihyperglycemic and antidyslipidemic agent from Aegle 
+marmelos. Bioorg. Med. Chem. Lett 17:1808–11 [PubMed: 17197179] 
+90. US Food & Drug Administration (FDA). 2013 Warning letter U.S. Food and Drug Administration, 
+Silver Spring, MD https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2013/
+ucm371203.htm
+91. US Food & Drug Administration (FDA). 2013 OxyElite Pro supplements recalled U.S. Food and 
+Drug Administration, Silver Spring, MD http://www.fda.gov/ForConsumers/ConsumerUpdates/
+ucm374742.htm
+92. Arseculeratne SN, Gunatilaka AAL, Panabokke RG. 1985 Studies on medicinal plants of Sri 
+Lanka. Part 14: toxicity of some traditional medicinal herbs. J. Ethnopharmacol 13:323–35 
+[PubMed: 4058035] 
+93. US National Library of Medicine, National Institute of Diabetes and Digestive and Kidney 
+Diseases. 2016 LiverTox. Clinical and Research Information on Drug-Induced Liver Injury. Drug 
+record: OxyELITE Pro U.S. National Library of Medicine, Bethesda, MD National Institutes of 
+Health, U.S. Department of Health & Human Services. https://livertox.nlm.nih.gov/
+OxyELITEPro.htm
+94. Teschke R, Eickhoff A. 2016 The Honolulu liver disease cluster at the Medical Center: its 
+mysteries and challenges. Int. J. Mol. Sci 17:476 [PubMed: 27043544] 
+95. Tritten TJ. (2015) Pulled twice from exchanges, OxyElite Pro supplement now found to contain 
+Prozac drug. in Stars and Stripes https://www.stripes.com/news/pulled-twice-from-exchanges-
+oxyelite-pro-supplement-now-found-to-contain-prozac-drug-1.332350
+96. Skalicka-Woźniak K, Georgiev MI, Orhan IE. 2016 Adulteration of herbal sexual enhancers and 
+slimmers: The wish for better sexual well-being and perfect body can be risky. Food Chem. 
+Toxicol Epub ahead of print
+97. Geyer H, Parr MK, Koehler K, Mareck U, Schänzer W, Thevis M. 2008 Nutritional supplements 
+cross-contaminated and faked with doping substances. J. Mass Spectrom 43:892–902 [PubMed: 
+18563865] 
+98. Bond P, Llewellyn W, Van Mol P. 2016 Anabolic androgenic steroid-induced hepatotoxicity. Med. 
+Hypotheses 93:150–53 [PubMed: 27372877] 
+99. Krishnan PV , Feng Z-Z, Gordon SC. 2009 Prolonged intrahepatic cholestasis and renal failure 
+secondary to anabolic androgenic steroid-enriched dietary supplements. J. Clin. Gastroenterol 
+43:672–75 [PubMed: 19238093] 
+100. Shah NL, Zacharias I, Khettry U, Afdhal N, Gordon FD. 2008 Methasteron-associated cholestatic 
+liver injury: clinicopathologic findings in 5 cases. Clin. Gastroenterol. Hepatol 6:255–58 
+[PubMed: 18187367] 
+101. Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, Seeff LB, 
+Serrano J, Sherker AH, Stolz A, Talwalkar J, Vega M, Vuppalanchi R. 2014 Liver injury from 
+herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 
+60:1399–408 [PubMed: 25043597] 
+102. Bailey RL, Gahche JJ, Lentino CV , Dwyer JT, Engel JS, Thomas PR, Betz JM, Sempos CT, 
+Picciano MF. 2011 Dietary supplement use in the United States, 2003–2006. J. Nutr 141:261–66 
+[PubMed: 21178089] Ronis et al. Page 17
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript103. US Food & Drug Administration (FDA). 2016 Botanical Drug Development. Guidance for 
+Industry U.S. Department of Health and Human Services, Food and Drug Administration, Center 
+for Drug Evaluation and Research (CDER), Silver Spring, MD http://www.fda.gov/downloads/
+Drugs/Guidances/UCM458484.pdf
+104. Wu C-H, Wang C-C, Kennedy J. 2011 Changes in herb and dietary supplement use in the U.S. 
+adult population: a comparison of the 2002 and 2007 National Health Interview Surveys. Clin. 
+Ther 33:1749–58 [PubMed: 22030445] 
+105. Di Lorenzo C, Ceschi A, Kupferschmidt H, Lude S, De Souza Nascimento E, Dos Santos A, 
+Colombo F, Frigerio G, Nørby K, Plumb J, Finglas P, Restani P. 2015 Adverse effects of plant 
+food supplements and botanical preparations: A systematic review with critical evaluation of 
+causality. Br. J. Clin. Pharmacol 79:578–92 [PubMed: 25251944] 
+106. Enbom ET, Le MD, Oesterich L, Rutgers J, French SW. 2014 Mechanism of hepatotoxicity due to 
+black cohosh (Cimicifuga racemosa): Histological, immunohistochemical and electron 
+microscopy analysis of two liver biopsies with clinical correlation. Exp. Mol. Pathol 96:279–83 
+[PubMed: 24657312] 
+107. Campos LB, Gilglioni EH, Garcia RF, Brito MdN, Natali MRM, Ishii-Iwamoto EL, Salgueiro-
+Pagadigorria CL. 2012 Cimicifuga racemosa impairs fatty acid β-oxidation and induces oxidative 
+stress in livers of ovariectomized rats with renovascular hypertension. Free Radic. Biol. Med 
+53:680–89 [PubMed: 22684021] 
+108. Teschke R 2010 Kava hepatotoxicity--a clinical review. Ann. Hepatol 9:251–65 [PubMed: 
+20720265] 
+109. Clouatre DL. 2004 Kava kava: Examining new reports of toxicity. Toxicol. Lett 150:85–96 
+[PubMed: 15068826] 
+110. Hamid S, Rojter S, Vierling J. 1997 Protracted cholestatic hepatitis after the use of prostata. Ann. 
+Intern. Med 127:169–70 [PubMed: 9230022] 
+111. Gabranis I, Koufakis T, Papakrivos I, Batala S. 2015 Echinacea-associated acute cholestatic 
+hepatitis. J. Postgrad. Med 61:211–12
+112. Kia YH, Alexander S, Dowling D, Standish R. 2016 A case of steroid-responsive valerian-
+associated hepatitis. Intern. Med. J 46:118–19 [PubMed: 26813905] 
+113. Giampreti A, Lonati D, Locatelli C, Rocchi L, Campailla MT. 2009 Acute neurotoxicity after 
+yohimbine ingestion by a body builder. Clin. Toxicol. (Phila) 47:827–29 [PubMed: 19640235] 
+114. Whittington C 2007 Exacerbation of hemochromatosis by ingestion of milk thistle. Can. Fam. 
+Physician 53:1671–73 [PubMed: 17934030] 
+115. Martínez-Mir I, Rubio E, Morales-Olivas FJ, Palop-Larrea V . 2004 Transient ischemic attack 
+secondary to hypertensive crisis related to Panax ginseng. Ann. Pharmacother 38:1970
+116. McKenzie SC, Rahman A. 2010 Bradycardia in a patient taking black cohosh. Med. J. Aust 
+193:479–81 [PubMed: 20955128] 
+117. Burdette JE, Liu J, Chen S-n, Fabricant DS, Piersen CE, Barker EL, Pezzuto JM, Mesecar A, van 
+Breemen RB, Farnsworth NR, Bolton JL. 2003 Black cohosh acts as a mixed competitive ligand 
+and partial agonist of the serotonin receptor. J. Agric. Food Chem 51:5661–70 [PubMed: 
+12952416] 
+118. Woodbury A, Sniecinski R. 2016 Garlic-induced surgical bleeding: How much is too much? A A 
+Case Rep 7:266–69 [PubMed: 27782907] 
+119. Rahman K, Lowe GM, Smith S. 2016 Aged garlic extract inhibits human platelet aggregation by 
+altering intracellular signaling and platelet shape change. J Nutr 146:410S–15S [PubMed: 
+26764324] 
+120. Bent S, Goldberg H, Padula A, Avins AL. 2005 Spontaneous bleeding associated with Ginkgo 
+biloba: A case report and systematic review of the literature. J. Gen. Intern. Med 20:657–61 
+[PubMed: 16050865] 
+121. Tirona RG, Bailey DG. 2006 Herbal product-drug interactions mediated by induction. Br. J. Clin. 
+Pharmacol 61:677–81 [PubMed: 16722828] 
+122. Pang X, Cheng J, Krausz KW, Guo D-a, Gonzalez FJ. 2011 Pregnane X receptor-mediated 
+induction of Cyp3a by black cohosh. Xenobiotica 41:112–23 [PubMed: 20979450] Ronis et al. Page 18
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript123. Chang TKH. 2009 Activation of pregnane X receptor (PXR) and constitutive androstane receptor 
+(CAR) by herbal medicines. AAPS J 11:590–601 [PubMed: 19688601] 
+124. Hermann R, von Richter O. 2012 Clinical evidence of herbal drugs as perpetrators of 
+pharmacokinetic drug interactions. Planta Med 78:1458–77 [PubMed: 22855269] 
+125. Mayo Clinic. 2013 Drugs and Supplements. Ginkgo (Ginkgo biloba). Dosing Mayo Foundation 
+for Medical Education and Research (MFMER) http://www.mayoclinic.org/drugs-supplements/
+ginkgo/dosing/hrb-20059541
+126. Chen IJ, Liu C-Y , Chiu J-P, Hsu C-H. 2016 Therapeutic effect of high-dose green tea extract on 
+weight reduction: A randomized, double-blind, placebo-controlled clinical trial. Clin. Nutr 
+35:592–99 [PubMed: 26093535] 
+127. Mayo Clinic. 2013 Drugs and Supplements. Saw palmetto (Serenoa repens, Serenoa serrulata) 
+Dosing. Mayo Foundation for Medical Education and Research (MFMER) http://
+www.mayoclinic.org/drugs-supplements/saw-palmetto/dosing/hrb-20059958
+128. Mayo Clinic. 2013 Drugs and Supplements. St. John’s wort (Hypericum perforatum). Dosing 
+Mayo Foundation for Medical Education and Research (MFMER) http://www.mayoclinic.org/
+drugs-supplements/st-johns-wort/dosing/hrb-20060053
+129. Mayo Clinic. 2013 Drugs and Supplements. Milk Thistle (Silybum marianum). Dosing Mayo 
+Foundation for Medical Education and Research (MFMER) http://www.mayoclinic.org/drugs-
+supplements/milk-thistle/dosing/hrb-20059806
+130. Mayo Clinic. 2013 Drugs and Supplements. Black cohosh (Cimicifuga racemosa, Actaea 
+racemosa). Dosing Mayo Foundation for Medical Education and Research (MFMER) http://
+www.mayoclinic.org/drugs-supplements/black-cohosh/dosing/hrb-20058861
+131. Gharib M, Samani LN, Panah ZE, Naseri M, Bahrani N, Kiani K. 2015 The effect of valeric on 
+anxiety severity in women undergoing hysterosalpingography. Glob. J. Health Sci 7:358–63
+132. Drugs.com  2009 Yohimbe Drugs.com . https://www.drugs.com/npp/yohimbe.html
+133. Wu X, Li Q, Xin H, Yu A, Zhong M. 2005 Effects of berberine on the blood concentration of 
+cyclosporin A in renal transplanted recipients: Clinical and pharmacokinetic study. Eur. J. Clin. 
+Pharmacol 61:567–72 [PubMed: 16133554] 
+134. Gorski JC, Huang SM, Pinto A, Hamman MA, Hilligoss JK, Zaheer NA, Desai M, Miller M, Hall 
+SD. 2004 The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo. 
+Clin. Pharmacol. Ther 75:89–100 [PubMed: 14749695] 
+135. Whitten DL, Myers SP, Hawrelak JA, Wohlmuth H. 2006 The effect of St John’s wort extracts on 
+CYP3A: A systematic review of prospective clinical trials. Br. J. Clin. Pharmacol 62:512–26 
+[PubMed: 17010103] 
+136. Malati CY , Robertson SM, Hunt JD, Chairez C, Alfaro RM, Kovacs JA, Penzak SR. 2012 
+Influence of Panax ginseng on cytochrome P450 (CYP)3A and P-glycoprotein (P-gp) activity in 
+healthy participants. J. Clin. Pharmacol 52:932–9 [PubMed: 21646440] 
+137. Chow HHS, Hakim IA, Vining DR, Crowell JA, Cordova CA, Chew WM, Xu M-J, Hsu C-H, 
+Ranger-Moore J, Alberts DS. 2006 Effects of repeated green tea catechin administration on 
+human cytochrome P450 activity. Cancer Epidemiol. Biomarkers Prev 15:2473–76 [PubMed: 
+17164372] 
+138. Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Khan IA, Shah A. 2005 In vivo 
+effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 
+2D6, 2E1, and 3A4/5 phenotypes. Clin. Pharmacol. Ther 77:415–26 [PubMed: 15900287] 
+139. Gurley BJ, Swain A, Hubbard MA, Hartsfield F, Thaden J, Williams DK, Gentry WB, Tong Y . 
+2008 Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper 
+methysticum), inhibits human CYP3A activity in vivo. Clin. Pharmacol. Ther 83:61–69 
+[PubMed: 17495878] 
+140. Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Carrier J, Khan IA, Edwards 
+DJ, Shah A. 2004 In vivo assessment of botanical supplementation on human cytochrome P450 
+phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin. 
+Pharmacol. Ther 76:428–40 [PubMed: 15536458] Ronis et al. Page 19
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript141. Russmann S, Lauterburg BH, Barguil Y , Choblet E, Cabalion P, Rentsch K, Wenk M. 2005 
+Traditional aqueous kava extracts inhibit cytochrome P450 1A2 in humans: Protective effect 
+against environmental carcinogens? Clin. Pharmacol. Ther 77:453–54 [PubMed: 15900292] 
+142. Gurley BJ, Gardner SF, Hubbard MA, Williams DK, Gentry WB, Cui Y , Ang CYW. 2005 
+Clinical assessment of effects of botanical supplementation on cytochrome P450 phenotypes in 
+the elderly: St John’s Wort, garlic oil, Panax ginseng and Ginkgo biloba. Drugs Aging 22:525–39 
+[PubMed: 15974642] 
+143. Yin OQP, Tomlinson B, Waye MMY , Chow AHL, Chow MSS. 2004 Pharmacogenetics and herb-
+drug interactions: experience with Ginkgo biloba and omeprazole. Pharmacogenetics 14:841–50 
+[PubMed: 15608563] 
+144. Wang L-S, Zhu B, Abd El-Aty AM, Zhou G, Li Z, Wu J, Chen G-L, Liu J, Tang ZR, An W, Li Q, 
+Wang D, Zhou H-H. 2004 The influence of St John’s Wort on CYP2C19 activity with respect to 
+genotype. J. Clin. Pharmacol 44:577–81 [PubMed: 15145964] 
+145. Han Y , Guo D, Chen Y , Chen Y , Tan ZR, Zhou HH. 2009 Effect of silymarin on the 
+pharmacokinetics of losartan and its active metabolite E-3174 in healthy Chinese volunteers. Eur. 
+J. Clin. Pharmacol 65:585–91 [PubMed: 19221727] 
+146. Guo Y , Chen Y , Tan ZR, Klaassen CD, Zhou HH. 2012 Repeated administration of berberine 
+inhibits cytochromes P450 in humans. Eur. J. Clin. Pharmacol 68:213–17 [PubMed: 21870106] 
+147. Misaka S, Yatabe J, Müller F, Takano K, Kawabe K, Glaeser H, Yatabe MS, Onoue S, Werba JP, 
+Watanabe H, Yamada S, Fromm MF, Kimura J. 2014 Green tea ingestion greatly reduces plasma 
+concentrations of nadolol in healthy subjects. Clin. Pharmacol. Ther 95:432–38 [PubMed: 
+24419562] 
+148. Hajda J, Rentsch KM, Gubler C, Steinert H, Stieger B, Fattinger K. 2010 Garlic extract induces 
+intestinal P-glycoprotein, but exhibits no effect on intestinal and hepatic CYP3A4 in humans. 
+Eur. J. Pharm. Sci 41:729–35 [PubMed: 20933082] 
+149. Fan L, Tao G-Y , Wang G, Chen Y , Zhang W, He Y-J, Li Q, Lei H-P, Jiang F, Hu D-L, Huang Y-F, 
+Zhou H-H. 2009 Effects of Ginkgo biloba extract ingestion on the pharmacokinetics of talinolol 
+in healthy Chinese volunteers. Ann. Pharmacother 43:944–49 [PubMed: 19401473] 
+150. Mueller SC, Uehleke B, Woehling H, Petzsch M, Majcher-Peszynska J, Hehl EM, Sievers H, 
+Frank B, Riethling AK, Drewelow B. 2004 Effect of St John’s wort dose and preparations on the 
+pharmacokinetics of digoxin. Clin. Pharmacol. Ther 75:546–57 [PubMed: 15179409] Ronis et al. Page 20
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptAuthor Manuscript Author Manuscript Author Manuscript Author ManuscriptRonis et al. Page 21
+TABLE 1.
+Usage and dose information for selected botanicals
+Botanical Scientific name Popular use Active componentsTypical dose (day−1)a
+Echinacea Genus Echinacea  (9 
+known species)Immunostimulant Chicoric acid, alkylamids 900–1000 mg ( 124)
+Garlic Allium sativum Antioxidant; anti-hypertension Allicin, adenocine 4000 mg fresh; 600–
+900 mg powder ( 124)
+Ginkgo biloba Ginkgo biloba Memory improvement; lowering 
+blood pressureTerpenoids (ginkolides) 120–600 mg ( 125)
+Ginseng Panax ginseng Overall health; anti-stress Ginsenosides 150–200 mg ( 124)
+Green tea extract Camellia sinensis Anti-proliferative; antioxidant Catechins (ECGC, ECC) 1300 mg (catechols) 
+(126)
+Saw Palmetto Serenoa repens Treatment of benign prostatic 
+hypertrophyVarious phytosterols 100–900 mg ( 127)
+St. John’s Wort Hypericum perforatum Anti-depressant Hyperforin, hypericin 900–1800 mg ( 128)
+Milk Thistle Silybum marianum DILI; high cholesterol Silymarin 160–800 mg ( 129)
+Kava kava Piper methysticum Reducing anxiety Kavalactones 45–1200 mg ( 108)
+Black cohosh Cimicifuga racemosa, 
+Actaea racemosaAlleviating postmenopausal symptoms Triterpene glycosides 6.5–160 mg ( 130)
+Valerian Valeriana officinalis Reducing anxiety Valepotriates (terpine alcohols) 1500 mg ( 131)
+Yohimbe Pausinystalia johimbe Stimulant; erectile dysfunction 
+treatmentYohimbine 30–50 mg ( 132)
+Goldenseal Hydrastis canadensis Treatment of cold/respiratory 
+infection; alleviate menstrual 
+complicationsHydrastine, berberine 750–6000 mg ( 124)
+aExample doses listed are from clinical studies or medical information websites (where noted), as recommended for indicated use. Doses may vary 
+depending on usage.
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.Author Manuscript Author Manuscript Author Manuscript Author ManuscriptRonis et al. Page 22
+TABLE 2.
+Notable pharmacokinetic herb-drug interactions
+Enzyme Botanical Dose (day−1), durationProbe;a effectb
+CYP3A4 Goldenseal 600 mg, 12 d CsA; inhibition ( 133)
+Echinacea 1600 mg, 8 d MDZ; induction of hepatic 3A4, inhibition of 
+intestinal 3A4 ( 134)
+St. John’s Wort Various Various; induction ( 135)
+Ginseng 2000 mg, 28 d MDZ; induction ( 136)
+Green Tea extract 800 mg, 4 wk Buspirone; inhibition ( 137)
+CYP2D6 Goldenseal 2700 mg, 28 d Debrisoquine; inhibition ( 138)
+3210 mg, 14 d Debrisoquine; inhibition ( 139)
+CYP1A2 Echinacea 1600 mg, 8 d Caffeine; inhibition ( 134)
+1600 mg, 28 d Caffeine; inhibition (p = 0.07, not clinically 
+relevant) ( 140)
+Kava kava 1000–4000 mg, >6 years (analysis following 30-day 
+cessation)Caffeine; inhibition ( 141)
+CYP2E1 Garlic 1500 g, 28 d CZX; inhibition ( 142)
+Kava kava 2000 mg, 28 d CZX; inhibition ( 138)
+CYP2C19 Ginkgo biloba 280 mg, 12 d OPZ; induction (genotype effect) ( 143)
+St. John’s Wort 900 mg, 14 d S-mephenytoin; induction (genotype effect) 
+(144)
+CYP2C9 Milk thistle 420 mg, 14 d Losartan; inhibition (genotype effect) ( 145)
+Goldenseal 900 mg, 14 d Losartan; inhibition ( 146)
+Echinacea 1600 mg, 8 d Tolbutamide; inhibition ( 134)
+OATP1A2 Green Tea extract 637 mg, 14 d Nadolol; inhibition ( 147)
+P-glycoprotein Garlic 1200 mg, 21 d Saquinavir; induction ( 148)
+Ginkgo biloba 360 mg, 14 d Talinolol; inhibition ( 149)
+St. John’s Wort 2000–4000 mg, 14 d Digoxin; induction ( 150)
+aMDZ: midazolam; CZX: chlorzoxazone; OPZ: omeprazole; CsA: cyclosporin A.
+bGenotype effect: Effect seen in high-efficiency metabolizers but not in low-efficiency.
+Annu Rev Pharmacol Toxicol . Author manuscript; available in PMC 2019 February 19.

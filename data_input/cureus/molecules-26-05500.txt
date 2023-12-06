@@ -1,0 +1,942 @@
+molecules
+Review
+Endogenous Biomarkers for SLC Transporter-Mediated
+Drug-Drug Interaction Evaluation
+Yang Li
+ , Zahra Talebi, Xihui Chen, Alex Sparreboom and Shuiying Hu *
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045 /gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Citation: Li, Y.; Talebi, Z.; Chen, X.;
+Sparreboom, A.; Hu, S. Endogenous
+Biomarkers for SLC
+Transporter-Mediated Drug-Drug
+Interaction Evaluation. Molecules
+2021 ,26, 5500. https://doi.org/
+10.3390/molecules26185500
+Academic Editors: Kristiina Huttunen
+and Santosh Kumar Adla
+Received: 17 August 2021
+Accepted: 7 September 2021
+Published: 10 September 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).Division of Pharmaceutics and Pharmacology, College of Pharmacy & Comprehensive Cancer Center, The Ohio
+State University, Columbus, OH 43210, USA; li.10991@osu.edu (Y.L.); talebi.9@osu.edu (Z.T.);
+chen.9570@buckeyemail.osu.edu (X.C.); sparreboom.1@osu.edu (A.S.)
+*Correspondence: hu.1333@osu.edu; Tel.: +1-614-685-8028
+Abstract: Membrane transporters play an important role in the absorption, distribution, metabolism,
+and excretion of xenobiotic substrates, as well as endogenous compounds. The evaluation of
+transporter-mediated drug-drug interactions (DDIs) is an important consideration during the drug
+development process and can guide the safe use of polypharmacy regimens in clinical practice. In
+recent years, several endogenous substrates of drug transporters have been identiﬁed as potential
+biomarkers for predicting changes in drug transport function and the potential for DDIs associated
+with drug candidates in early phases of drug development. These biomarker-driven investigations
+have been applied in both preclinical and clinical studies and proposed as a predictive strategy that
+can be supplanted in order to conduct prospective DDIs trials. Here we provide an overview of this
+rapidly emerging ﬁeld, with particular emphasis on endogenous biomarkers recently proposed for
+clinically relevant uptake transporters.
+Keywords: membrane transporters; endogenous biomarkers; drug-drug interactions; drug developmen t
+1. Introduction
+Membrane transporters of the ATP-binding cassette (ABC) and solute carrier (SLC)
+super families are now widely recognized as important determinants of the absorption,
+distribution, metabolism, and excretion of many xenobiotic compounds, and for many
+of these transporters, physiological substrates have been identiﬁed [ 1,2]. The increasing
+application of polypharmacy regimens, in conjunction with current regulatory require-
+ments, demands that new investigational drugs are evaluated as substrates or inhibitors
+of select transporters in the early stages of development in order to predict the liability
+for drug-drug interactions (DDIs) [ 3]. In the last few years, signiﬁcant progress has been
+made in evaluating endogenous metabolites as potential clinical biomarkers to predict
+transporter-mediated DDIs, in particular those in which the drug of interest is a suspected
+perpetrator [ 4]. This is based on the tenet that such drugs, once administered, can reach
+levels sufﬁciently high to inhibit transporters that fulﬁll a role in the movement of known
+endogenous substrates, and that this inhibition is accompanied by measurable, acute,
+and temporal increases in the systemic concentration of those substrates. Metabolomics,
+a systems-wide omics analysis of endogenous metabolites in biological samples, is one
+commonly used approach to identify the endogenous substrates of drug transporters
+that could serve as a biomarker in humans and other species [ 5]. In combination with
+the use of animals with a genetic deﬁciency of a transporter or human subjects with
+genetic predisposition of altered transporter function, these metabolomics studies can
+facilitate the discovery of novel endogenous substrates of drug transporters [ 6,7]. Follow-
+ing appropriate in vitro and in vivo validation, such substrates can then be explored as
+a potential predictive biomarker and be further used in vivo to assess the potential for
+transporter-mediated DDIs. In the current article, we provide an overview of this rapidly
+emerging ﬁeld of endogenous transporter biomarkers, focus on its application to predict
+Molecules 2021 ,26, 5500. https://doi.org/10.3390/molecules26185500 https://www.mdpi.com/journal/moleculesMolecules 2021 ,26, 5500 2 of 16
+drug transporter-mediated DDIs in humans associated with established organic anion and
+cation transporters (Figure 1), and address current challenges and limitations in this ﬁeld.
+Molecules 2021 , 26, x FOR PEER REVIEW 2 of 17 
+ 
+ mediated DDIs. In the current article, we pr ovide an overview of this rapidly emerging 
+field of endogenous transporter biomarkers, fo cus on its application to predict drug trans-
+porter-mediated DDIs in humans  associated with establish ed organic anion and cation 
+transporters (Figure 1), and address current challenges and limitations in this field. 
+ 
+Figure 1. Summary of various drug transporters and th eir potential endogenous biomarkers. CP-I, 
+coproporphyrin I; CP-III, coprop orphyrin III; TDA, te tradecanedioate; HDA, hexadecanedioate; 
+NMN, N1-Methylnicotinamide; m1A, N1-Methyladenosine; GCDCA-S, glycochenodeoxycholate-3-
+sulfate; PDA, pyridoxic acid; HVA, homovanillic acid. 
+2. Organic Anion Transporters 
+Organic anion transporters (OATs), along with organic anion-transporting polypep-
+tides (OATPs), organic cation transporter (O CTs), organic cation and carnitine transport-
+ers (OCTNs), and multidrug and toxin extrusions proteins (MATEs) [8], are a SLC family 
+of transporters that have been most commonly  associated with the transport of xenobiotic 
+drugs. These transporters are expressed in ke y organs of elimination such as kidney and 
+liver, as well as in other organs such as the intestine and brain, and play an important role 
+in maintaining normal homeostasis, mediatin g drug absorption and disposition proper-
+ties [9]. OATPs and OATs are the major or ganic anion-type transporters, where OATPs 
+typically transport relatively large and fairly hydrophobic organic anions, while OATs 
+transport smaller and more hydrophilic organic anions [9]. Recent preclinical and clinical 
+studies have identified and validated severa l endogenous substrates as potential bi-
+omarkers for organic anion-type transporters (Table 1). 
+Table 1. List of endogenous biomarkers (candidates)  of drug transporters for DDI evaluation. 
+Compounds Pathway Transporters In Vitro Results Clinical DDI with Known Inhibitors 
+References Expression 
+System Transport  
+Kinetics Inhibitors/Genotype PK Change 
+Bilirubin 
+Direct biliru-
+bin (D)/total 
+bilirubin (T) Haemo-
+globin and 
+Porphyrin OATP1B1 
+OATP1B3 HEK293 Km = 0.16 μΜ 
+Rifampicin 300 mg, sd, 
+p.o. AUCR: 2.3 (D), 1.6 (T) [10–13] 
+X. laevis oo-
+cytes  Km = 0.0391 μΜ 
+Figure 1. Summary of various drug transporters and their potential endogenous biomarkers. CP-I,
+coproporphyrin I; CP-III, coproporphyrin III; TDA, tetradecanedioate; HDA, hexadecanedioate;
+NMN, N1-Methylnicotinamide; m1A,N1-Methyladenosine; GCDCA-S, glycochenodeoxycholate-3-
+sulfate; PDA, pyridoxic acid; HVA, homovanillic acid.
+2. Organic Anion Transporters
+Organic anion transporters (OATs), along with organic anion-transporting polypep-
+tides (OATPs), organic cation transporter (OCTs), organic cation and carnitine transporters
+(OCTNs), and multidrug and toxin extrusions proteins (MATEs) [ 8], are a SLC family of
+transporters that have been most commonly associated with the transport of xenobiotic
+drugs. These transporters are expressed in key organs of elimination such as kidney and
+liver, as well as in other organs such as the intestine and brain, and play an important role in
+maintaining normal homeostasis, mediating drug absorption and disposition properties [ 9].
+OATPs and OATs are the major organic anion-type transporters, where OATPs typically
+transport relatively large and fairly hydrophobic organic anions, while OATs transport
+smaller and more hydrophilic organic anions [ 9]. Recent preclinical and clinical studies
+have identiﬁed and validated several endogenous substrates as potential biomarkers for
+organic anion-type transporters (Table 1).
+Table 1. List of endogenous biomarkers (candidates) of drug transporters for DDI evaluation.
+Compounds Pathway TransportersIn Vitro Results Clinical DDI with Known Inhibitors
+ReferencesExpression
+SystemTransport
+KineticsInhibitors/Genotype PK Change
+Bilirubin
+Direct bilirubin (D)/total
+bilirubin (T)Haemoglobin
+and Porphyrin
+MetabolismOATP1B1
+OATP1B3HEK293 Km= 0.16M Rifampicin 300 mg, sd, p.o. AUCR: 2.3 (D), 1.6 (T)
+[10–13]
+X. laevis oocytes Km= 0.0391 MRifampicin 600 mg, sd, p.o. AUCR: 3.5 (D), 1.7 (T)
+Rifampicin 150, 300,
+600 mg, sd, p.o.AUCR0–24h(D): 1.26, 1.99, 2.77
+Coproporphyrin I
+(CPI)/Corproporphyrin III
+(CPIII)Haemoglobin
+and Porphyrin
+MetabolismOATP1B1 CHOKm= 0.13M (CPI) and
+0.22M (CPIII)Rifampicin 300 mg, sd, p.o. CPI AUCR: 3.0
+[12–19]Rifampicin 600 mg, sd, p.o.CPI AUCR: 4.0
+CPIII AUCR: 3.3
+Rifampicin 150, 300,
+600 mg, sd, p.o.CPI AUCR0–24h: 1.54, 2.33, 3.67
+OATP1B3 HEK293Km= 3.95M (CPI) and
+1.55M (CPIII)Cyclosporine A
+100 mg, dd, p.o.CPI AUCR: 1.7
+CPIII AUCR: 1.9
+Paclitaxel 200 mg/m2, sd, i.v.CPI AUCR: 2.8
+CPIII AUCR: 3.1
+OATP2B1 CHO Km= 0.31M (CPIII)Glecaprevir/pibrentasvir
+300/120 mg ﬁxed doseCPI AUCR0–16h: 1.39
+CPIII AUCR0–16h: 1.01Molecules 2021 ,26, 5500 3 of 16
+Table 1. Cont.
+Compounds Pathway TransportersIn Vitro Results Clinical DDI with Known Inhibitors
+ReferencesExpression
+SystemTransport
+KineticsInhibitors/Genotype PK Change
+GCDCA-S
+CDCA-24G
+Other Bile AcidsBile Acid
+MetabolismOATP1B1 HEK293GCDCA-S: Km= 9.95M
+CDCA-24G:
+Km= 11.5MOATP1B1/OATP1B3
+Rifampicin 600 mg, sd, p.o.AUCR: 20.3 (GCDCA-S)
+[12,13,17,20–22]Rifampicin 300 and
+600 mg, sd, p.o.AUCR: 4.3 and 10 (GCDCA-S), 1.5
+and 1.7 (CDCA-24G)
+OATP1B3 HEK293GCDCA-S: Km= 5.23M
+CDCA-24G:
+Km= 16.5MRifampicin 150, 300,
+600 mg, sd, p.o.AUCR0–24h: 2.28, 5.87, 15.9
+(GCDCA-S); 2.18, 5.41, 14.6
+(GCDCA-G); 1.49, 2.00, 3.43
+(CDCA-24G)
+Paclitaxel 200 mg/m2, sd, i.v.AUCR: GCDCA-S: 2.9
+GDCA-S: 4.0
+LCA-S: 2.0
+GLCA-S: 2.2
+TLCA-S: 2.0
+GCDCA-G: 2.5
+GDCA-G: 2.5
+CDCA-24G: 3.0
+OAT3 HEK293 GCDCA-S: Km= 64.3MOAT1/OAT3
+Probenecid 500, 750,
+and1500 mg, sd, p.o.AUCR: 1.06, 1.00, and 1.37
+(GCDCA-S)
+Probenecid 500 mg qid, p.o. AUCR0–24h: 1.9 (GCDCA-S)
+Tetradecanedioate
+(TDA)/Hexadecanedioate
+(HDA)Fatty Acid
+MetabolismOATP1B1 HEK293IC50= 4.0M (TDA) and
+1.6M (HDA)Rifampicin 600 mg, sd, p.o.AUCR (TDA): 3.2
+AUCR (HDA): 2.2
+[7,12,19,23]Cyclosporine A
+100 mg, dd, p.o.AUCR (TDA): 1.8
+AUCR (HDA): 1.9
+OAT1/OAT3 HEK293 PositiveRifampicin 150, 300,
+600 mg, sd, p.o.AUCR (TDA): 1.36, 2.01, 2.30
+AUCR (HDA): 1.58, 2.30, 2.98
+TaurineTaurine
+MetabolismOAT1 HEK293 Km= 379M Probenecid 500, 750,
+and1500 mg, sd, p.o.AUCR: 0.97, 0.98, 1.02[21,22]OAT3 HEK293 NegativeProbenecid 500 mg qid, p.o. AUCR0–24h: 1.1
+Pyridoxic acid (PDA)Vitamin B6
+MetabolismOAT1/OAT3 HEK293 PositiveProbenecid 1000 mg, sd, p.o. AUCR: 3.3[22,24,25]Probenecid 500 mg qid, p.o. AUCR0–24h: 3.7
+Homovanillic acid (HVA)Tyrosine
+metabolismOAT1/OAT3 HEK293 PositiveProbenecid 1000 mg, sd, p.o. AUCR: 2.0[22,24,25]Probenecid 500 mg qid, p.o. AUCR0–24h: 2.1
+ThiamineThiamine
+MetabolismOCT1 HEK293 Km= 780M
+OCT2/MATEs
+Pyrimethamine 50 mg, sd, p.o.AUCR: 1.0 [26–29]OCT2 HEK293 Km= 59.9–750 M
+OCT3 HEK293 Km= 443M
+MATE1 HEK293 Km= 3.9–44.7 M
+MATE2-K HEK293 Km= 3.9–5.2 M
+N1-Methylnicotinamide
+(NMN)Nicotinate and
+Nicotinamide
+MetabolismOCT2 HEK293 Km= 318M OCT2/MATEs
+Pyrimethamine 50 mg, sd, p.o.AUCR: 0.84
+[30–32] MATE1 HEK293 Km= 301M
+Trimethoprim 200 mg, bid, p.o. AUCR: 1.00MATE2-K HEK293 Km= 422M
+N1-Methyladenosine
+(m1A)OCT1/2, MATE2-K HEK293 Positive DX-619 AUCR: 1.72 [6]
+Carnitine/
+AcetylcarnitineAmino acid
+derivativeOCT2, OCTN1,
+OCTN2Pyrimethamine 50 mg, sd, p.o. Reduced renal clearance by 90% [29]
+CreatinineCreatine
+MetabolismOCT2S2, HEK293,
+MDCKIIKm= 1.86–18.8 mMOCT2/MATEs
+Cimetidine 400 mg, bid, p.o.AUCR: 1.1
+[33–38]MATE1HEK293,
+MDCKIIKm= 10.2 mM
+MATE2-K HEK293, MDCKI Km= 21.6 mMPyrimethamine
+50–100 mg, sd, p.o.AUCR: 1.2–1.3
+OAT2HEK293,
+MDCKIIKm= 795–986 MDolutegravir
+50 mg, qd/bid, p.o.AUCR: 1.1
+DX-619 800 mg, qd, p.o. AUCR: 1.3
+OCT3 MDCKII Km= 1.32 mMTrimethoprim 200 mg, bid, p.o. AUCR: 1.2OAT3/OAT4 S2 Positive
+DopamineTyrosine
+MetabolismMATE1 HEK293 Km= 0.56 mM
+[39,40]MATE2-K HEK293 Km= 2.48 mM
+MATE1 HEK293 Km= 0.53 mM
+OCT2 X. laevis oocytes K m= 0.39 mM
+TryptophanTryptophan
+MetabolismOCT2 X. laevis oocytes IC50= 6.11 mMSLC22A1 c.808G > T(rs316019)
+homoCLr Ratio: 0.64 [41]
+AUCR, ratio of area under the plasma concentration time curve; CLr, renal clearance; sd, single dose; dd, double dose; qd, quaque die; bid,
+bis in die; qid, quater in die; Positive, signiﬁcant activities compared with control; Negative, no signiﬁcant activities compared with control.
+2.1. OATP1B1 and OATP1B3
+Organic anion-transporting polypeptides comprise a family of transporters expressed
+in various tissues [ 42]. In humans, OATP1B1 [ SLCO1B1 ] and OATP1B3 [ SLCO1B3 ] (col-
+lectively referred to as OATP1B hereafter) are partially redundant transporters that are
+highly expressed on the sinusoidal membrane of hepatocytes and play key roles in the
+hepatic uptake of drugs [ 43–45]. Inhibition of OATP1B can lead to defective elimination,
+result in increases in plasma concentration of drugs that are substrates of these transporters,
+delayed clearance, and ultimately increase the risk of therapy-related side effects [ 45,46].
+Both the US Food and Drug Administration (FDA) and European Medicines Agency (EMA)
+guidelines require under certain conditions that in vitro studies are performed to evaluate
+whether investigational new drugs are potential substrates or inhibitors of OATP1B [ 47,48].
+A multitude of endogenous substrates of OATP1B have been identiﬁed in the past fewMolecules 2021 ,26, 5500 4 of 16
+years and some of these have been proposed as potential biomarkers in conjunction with
+clinical evaluations of OATP1B-mediated DDIs [4,5,49].
+2.1.1. Bilirubin
+Bilirubin is the end product of heme breakdown and its hepatocellular uptake is
+at least partially dependent on OATP1B1 and OATP1B3 [ 50]. After bilirubin enters the
+liver, it is detoxiﬁed by UGT1A1-mediated conjugation to form bilirubin-glucuronide and
+bilirubin-di-glucuronide. Most of the bilirubin glucuronides are subsequently excreted into
+bile by MRP2 [ ABCC2 ], but some of the conjugated bilirubin is efﬂuxed back into the sinu-
+soidal blood by MRP3 [ ABCC3 ] and enter a shuttling-loop (called ‘hepatocyte-hopping’)
+and be taken up by neighbouring hepatocytes in an OATP1B-dependent manner [ 50,51].
+The role of OATP1B1 and OATP1B3 in the hepatic uptake of conjugated and unconju-
+gated bilirubin has been conﬁrmed by several preclinical and clinical studies. In vitro
+studies showed that OATP1B1 and OATP1B3 substantially contribute to unconjugated
+bilirubin uptake in adult hepatocytes [ 10,11].In vivo studies using a Slco1b2 knockout
+(Oatp1b2-null) mouse model further revealed that Oatp1b2, the single murine orthologue
+of human OATP1B1 and OATP1B3, is important in the hepatic uptake of unconjugated and
+conjugated bilirubin [ 52,53]; studies using humanized OATP1B1, OATP1B3 transgenic mice
+showed partial or complete rescue of increased plasma bilirubin levels [ 54,55]. Consistent
+with these preclinical observations, it has been reported that carriers of impaired function
+variants in the genes encoding OATP1B1 and OATP1B3 have signiﬁcantly elevated levels of
+unconjugated bilirubin [ 56,57]. More interestingly, subjects with rotor syndrome manifest
+clinically with extensive hyperbilirubinemia, and this phenotype has been causally con-
+nected with a rare condition associated with a complete loss of function of both OATP1B1
+and OATP1B3 [58–60].
+The utility of using bilirubin and its conjugated forms as endogenous biomarkers
+to assess OATP1B-mediated DDIs potential has been extensively evaluated. In rats ad-
+ministered 20 or 80 mg/kg rifampin, a known OATP1B inhibitor, the plasma levels of
+total bilirubin and conjugated bilirubin were signiﬁcantly and dose-dependently elevated
+compared with rats receiving vehicle alone [ 61]. In cynomolgus monkeys, after single
+oral administration of 18 mg/kg rifampin, a 2.4-, and 3.0-fold elevation of unconjugated
+and conjugated bilirubin has been observed [ 62]. Furthermore, administration of rifampin
+(300 or 600 mg) in healthy volunteers increased the concentrations of direct bilirubin in a
+dose-dependent manner; the AUC 0–24h of direct bilirubin was 2.3- and 3.5-times higher
+than the control values [ 13]. This ﬁnding was independently veriﬁed in another study
+involving healthy subjects receiving 150, 300, or 600 mg rifampicin [ 12]. Although bilirubin
+has been shown to be sensitive to OATP1B inhibitors and the alteration in bilirubin level
+correlates well with changes observed in other xenobiotic OATP1B substrates, such as
+the drugs atorvastatin, pitavastatin, and valsartan [ 12], it remains unclear to what extent
+other transporters (ABCC2, ABCC3) and enzymes (UGT1A1) of relevance contribute to
+the elimination of bilirubin, which therefore diminishes its speciﬁcity as a biomarker. It
+is worth pointing out that serum bilirubin levels are also used as a biomarker for liver
+injury, and any changes in bilirubin levels must be carefully evaluated, and the data need
+to be analysed in a manner that can distinguish between reversible inhibition of hepatic
+OATP1B, ABCC2, ABCC3, and/or UGT1A1 versus liver injury [49].
+2.1.2. Coproporphyrin I and III
+Coproporphyrins (CPs) are by-products of heme synthesis, and two of these, CP-I
+and CP-III, are of particular interest in the context of functional OATP1B modulation; CP-I
+and CP-III are metabolically stable and eliminated in bile and urine, respectively, as intact
+forms in humans [ 63]. CP-I and CP-III are relatively selective substrates for OATP1B1
+and OATP1B3 [ 14,64]. In mice study, CPs level in plasma and urine were signiﬁcantly
+increased in Oatp1a/1b gene cluster knockout mice (Oatp1a/1b–/–), compared with wild-
+type animals (7.1- to 18.4-fold) [ 64]. In cynomolgus monkey, administration of OATP1BMolecules 2021 ,26, 5500 5 of 16
+inhibitors cyclosporin A (100 mg/kg, oral) or rifampicin (15 mg/kg, oral) increased plasma
+levels of CP-I and CP-III by 2.6- and 5.2-fold, 2.7- and 3.6-fold, respectively [ 64]. Although
+CP-I and CP-III are relative speciﬁc OATP1B substrates, none of them are transported
+by OCT1 [ SLC22A1 ], OCT2 [ SLC22A2 ], OAT3 [ SLC22A8 ], or NTCP [ SLC10A1 ]; CP-III is
+identiﬁed to be OATP2B1 substrate [ 14], which leads to the hypothesis that CP-I might
+reﬂect OATP1B function more precisely. This concept is further supported by data obtained
+from healthy volunteers, in which the plasma concentration of CP-I was increased most in
+subjects with homozygous carriers of the OATP1B1*15 [ 18,65]. Consistently, CP-I plasma
+level were not altered by administration of agents not known to inhibit OATP1B, such as
+itraconazole and diltiazem [66,67].
+The utility of CP-I and CP-III as suitable endogenous clinical biomarkers of OATP1B
+function has been evaluated in several studies. In healthy subjects with a South Asian
+Indian background, the administration of 600 mg of rifampicin in combination with 5 mg
+of rosuvastatin, resulted in 4.0- and 3.3-fold increase in plasma AUC levels of CP-I and
+CP-III, respectively, when compared with rosuvastatin given alone [ 16], these changes
+in response to rifampin were consistent with observations obtained from another study
+with mixed ethnicities [ 66]. It is important to note that the increase in CP-I in response to
+rifampin in healthy subjects was greater than several other potential OATP1Bs biomarkers
+measured simultaneously [ 12,23,68]. The magnitude effect of CP-I alteration suggests that
+it is sensitive to differentiate weak, moderate, and strong OATP1B inhibitors reﬂected by
+altered plasma level of CP-I. This hypothesis was independently veriﬁed by Kunze et al. in
+which strong ( 5 fold AUC increases; e.g., rifampicin), moderate (2–3 fold AUC increase;
+e.g., simeprevir), and weak (no change; e.g., the investigational agent JNJ-A) OATP1B
+inhibitors were used to test CP-I sensitivity [69]. The superiority of CP-I over CP-III as an
+OATP1B1 endogenous biomarker was recently supported in a clinical study where CP-I
+Cmaxratio and AUC ratio relative to baseline were correlated with increasing exposure of
+glecaprevir (GLE), a drug known to cause clinical inhibition of OATP1B1/1B3, whereas
+only modest correlation between GLE exposure and CP-III C maxratio but no correlation
+with CP-III AUC ratio were observed [ 15]. More recently, CPs have been applied as
+endogenous OATP1B biomarkers to elucidate in vivo inhibition potency of the anticancer
+drug, paclitaxel, a known inhibitor of OATP1B1 and OATP1B3, in patients with non–small
+cell lung cancer [ 17]. These collective studies have provided compelling evidence that CP-I
+is an emerging promising endogenous biomarker with higher selectivity and sensitivity to
+predict the risk of OATP1B transporter-mediated DDIs in humans.
+2.1.3. Bile Acids
+Bile acids emulsify dietary fats, eliminate cholesterol, and clear hepatic catabolites.
+Bile acids are synthesized in the liver by cytochrome P450-mediated oxidation of cholesterol
+and are stored in the gall bladder and released into the intestinal lumen via the bile duct,
+reabsorbed in the ileum, and returned to the liver, thus completing the enterohepatic
+circulation [ 70,71]. The primary bile acids are synthesized and conjugated in the liver,
+subsequently secreted into the bile. In the intestine, primary bile acids are deconjugated
+and dehydroxylated by enzymes originating from the gut microﬂora to form the secondary
+bile acids. Via enterohepatic circulation, the secondary bile acids are transported to the
+liver and recycled. Hepatic uptake, the last step in enterohepatic circulation, is a key
+process in regulating the amount of circulating bile acids. Several primary and secondary
+bile acids have been identiﬁed as OATP1B transporter substrates. As shown from a
+metabolomics study using Oatp1b2-null mice, levels of unconjugated bile acids were 3-
+to 45-fold higher than in wild-type mice, including -muricholic acid ( MCA, 45-fold),
+cholic acid (CA, 38-fold), -muricholic acid ( MCA, 25-fold), hyodeoxycholic acid (HDCA,
+15-fold), ursodeoxycholic acid (UDCA, 11-fold), chenodeoxycholic acid (CDCA, 3-fold),
+and deoxycholic acid (DCA, 2.3-fold) [ 72].In vitro studies conﬁrmed that CA, CDCA, and
+DCA are OATP1Bs substrates, as well as their respective glycine and taurine conjugates,
+and the conjugated bile acids (glycine and taurine) are superior to unconjugated bileMolecules 2021 ,26, 5500 6 of 16
+acids as substrates for OATP1B1 and OATP1B3 [ 73]. In cynomolgus monkeys, rifampin
+treatment (18 mg/kg single oral dose) resulted in signiﬁcantly elevated plasma levels of
+several bile acids, such as glycolic acid (GCA), glycochenodeoxycholic acid (GCDCA), and
+glycodeoxycholate (GDCA) compared with the vehicle control [ 62]. Similarly, plasma AUC
+of sulphate conjugates of BAs including GDCA-S, GCDCA-S, taurochenodeoxycholate
+(TCDCA-S), DCA-S, and taurodeoxycholate (TDCA-S) presented a robust dose-response to
+oral rifampicin (1, 3, 10, and 30 mg/kg) in cynomolgus monkeys [ 74]. The clinical use of
+bile acids as surrogate endogenous biomarkers for DDIs involving OATP1B1 and OATP1B3
+has been explored in healthy volunteers. One study reported 20.3 fold increase of GCDCA-
+S after the single dose administration of rifampicin (600 mg, oral) [ 20], a ﬁnding that is
+in line with a study in which dose-dependent effects of rifampicin (150, 300, or 600 mg)
+on several putative biomarkers (bilirubin, CP-I, and bile acids) was examined [ 12]. These
+investigations suggest that a number of bile acids, including GCDCA-S, GCDCA-G, GDCA-
+G, GDCA-S, CDCA-24G, lithocholate sulfate (LCA-S), glycolithocholate sulfate (GLCA-
+S), and taurolithocholate sulfate (TLCA-S), can be further explored for the quantitative
+assessment of potential OATP1B-mediated DDIs in humans [ 13,17,18]. It is worth noting
+that bile acids are also substrates for other transporters (e.g., GCDCA-S is substrate of
+NTCP and OAT3), and often altered by disease conditions, which together attenuated the
+use of bile acids as a potential speciﬁc OATP1Bs function.
+2.1.4. Tetradecanedioate (TDA) and Hexadecanedioate (HDA)
+The fatty acid dicarboxylates tetradecanedioate (TDA) and hexadecanedioate (HDA)
+have been identiﬁed as substrates of OATP1B1 as well as OAT1 and OAT3, and could
+potentially serve as endogenous biomarkers of OATP1B [ 7]. In rats, probenecid (a weak
+OATP1B inhibitor) increased plasma concentrations of HDA, and the tissue uptake clear-
+ance of deuterium-labelled HDA ( d-HDA) in the liver was 16-fold higher than that in the
+kidney. The hepatic uptake clearance was reduced by 80% by probenecid, suggesting that
+HDA might be a biomarker for OATP1B that is minimally affected by urinary and biliary
+elimination in rats [ 75]. In healthy subjects, the administration of the OATP1B inhibitors
+rifampin (600 mg) or cyclosporin A (100 mg) also signiﬁcantly increased plasma AUC of
+TDA and HDA [ 19,23,68], and the effects on HDA were dependent on the rifampicin dose
+(150, 300, or 600 mg) [12].
+2.2. OAT1 and OAT3
+The organic anion transporter OAT1 [ SLC22A6 ] and OAT3 [ SLC22A8 ] are mainly
+expressed on the basolateral membrane of renal proximal tubular cells and mediate cellular
+uptake of substrates from the blood into the kidney [ 1]. Inhibition of these transporters
+reduces drug renal clearance and can lead to DDIs. Taurine and GCDCA-S have been
+identiﬁed as endogenous OAT1/3 substrates using metabolomics analysis and DDI studies
+in healthy subjects receiving probenecid, a potent inhibitor of OATs. Along with in vitro
+evidence, taurine and GCDCA-S may potentially serve as endogenous biomarkers for
+assessing DDIs with these transporters [ 21]. However, the selectively of taurine and
+GCDCA-S as OAT1/3 endogenous biomarker is limited because of involvement of urine
+reabsorption with taurine and the interaction with other transporters (OATP1B1 and
+OATP1B3) for GCDCA-S. Recently, pyridoxic acid (PDA) and homovanillic acid (HVA)
+were identiﬁed as endogenous substrates of OAT1/3 using untargeted metabolomics
+analysis and DDI studies in cynomolgus monkeys receiving 40 mg/kg probenecid. In vitro
+study further conﬁrmed PDA and HVA are substrates for human OAT1 and OAT3 [ 25].
+Several most recent studies from healthy subjects suggested that PDA was a promising
+endogenous biomarker for OAT1/3 function sensitivity in response to weak, moderate, and
+strong OAT1/3 inhibitors [ 24,76]. In a recent study, Willemin et al. systemically tested the
+selectivity of PDA, HVA, GCDCA-S and taurine towards different renal transporters [ 22].
+Using in vitro transporter overexpressing cell lines, this study demonstrated that PDA
+and HVA are substrates of OAT1/2/3, OAT4 [ SLC22A11 ] (PDA only), MRP4 [ ABCC4 ],Molecules 2021 ,26, 5500 7 of 16
+GCDCA-S was a substrate of OAT3 and MRP2, and taurine was not a substrate of the tested
+transporters. In addition, the same study found that PDA was the most sensitive plasma
+biomarker in response to strong and selective OAT inhibitor probenecid (500 mg every
+6 h), while GCDCA-S was the most sensitive OAT biomarker based on renal clearance [ 22].
+Taken together, the fact that the inhibition of OATP1B1 and OATP1B3 by probenecid is
+unlikely to be remarkable [ 21], this study suggests that the combined monitoring of PDA
+and GCDCA-S from both urine and plasma should be recommended to tease out the
+involvement of OAT1/3 in DDIs [ 22]. Recently, metabolomics analyses of the serum of
+Oat1 and Oat3 knockout mice revealed remarkable changes in tryptophan derivatives
+involved in metabolism and signalling, suggesting that these metabolites can potentially
+be used as endogenous biomarkers to determine if drug candidates interact with OAT1
+and/or OAT3 [77].
+3. Organic Cation Transporters
+The organic cation transporters (OCTs) are a group of poly-speciﬁc transporters
+with largely overlapping substrate selectivity, which include OCT1 [ SLC22A1 ], OCT2
+[SLC22A2 ], OCT3 [ SLC22A3 ], OCTN1 [ SLC22A4 ], OCTN2 [ SLC22A5 ], MATE1 [ SLC47A1 ],
+and MATE2-K [ SLC47A2 ]. Their function is to transport organic cations, zwitterions, and
+some uncharged compounds as facilitated diffusion systems and/or antiporters, and they
+modulate the distribution of many endogenous compounds such as thiamine, creatinine,
+and neurotransmitters [ 78]. However, organic cation transporters also play an important
+role in the absorption, distribution, and excretion of hydrophilic drugs and therefore can
+be critically important contributors to DDIs [ 79]. Among the tested potential biomarkers of
+OCTs, N1-Methylnicotinamide (NMN) has been most extensively evaluated as endogenous
+biomarkers for the assessment of changes in the activity of renal OCT2/MATEs, while
+thiamine is widely discussed for OCT1 [ 29,31,32,80]. Given the overlapping substrate
+speciﬁcity of OCT2 and MATEs, many endogenous substrates proposed as biomarkers
+cannot be easily discriminated between these respective transporters (Table 1).
+3.1. Thiamine
+Thiamine, or vitamin B1, is an essential vitamin that is found at low levels in most
+foods [ 81]. Under physiologic conditions, elimination of thiamine is mainly extrarenal,
+although when given at high doses, renal excretion may become the principal path of
+elimination due to the saturation of other pathways [ 82,83]. The urinary elimination is pre-
+dominantly associated with glomerular ﬁltration, consistent with its low molecular weight
+and the lack of protein binding, although tubular secretion and reabsorption processes may
+also be probably involved. At physiologic conditions, the result is net reabsorption of thi-
+amine [ 29,84], whereas under thiamine-deﬁcient conditions, the renal excretion rate drops
+toward zero due to reabsorption [ 83]. When thiamine plasma concentrations are increased
+(>200 nM by i.v. administration) clearance increases to values close to estimated renal
+blood ﬂow, which could be a sign of saturation of reabsorption while secretion processes
+remain unsaturated [83].
+Thiamine is reported to be a substrate of MATE1 ( Km= 0.83–3.5 M), MATE2K
+(Km= 3.9 M) [ 27,29,85], OCT1 ( Km= 0.78 M), OCT2 ( Km= 0.75–59.9 M) [ 27,86], thi-
+amine transporter (THTR) 1 [ SLC19A2 ] and THTR2 [ SLC19A3 ] (Km= 2.5 M and 27 nM,
+respectively) [ 86,87] through in vitro transport studies. Its renal clearance is non-linear in
+humans and under normal conditions below the glomerular ﬁltration rate (GFR), suggest-
+ing it undergoes active tubular reabsorption, possibly mediated by THTR1 and THTR2 [ 49].
+Clinical evidence supporting thiamine as an endogenous biomarker to any of the above
+transporters is very limited, though multiple studies using transporter deﬁcient mice
+suggested the role of transporters in thiamine disposition. An untargeted metabolomics
+study from healthy subjects revealed that renal clearance of thiamine was substantially
+reduced (70–84%) in the subjects treated with MATEs inhibitor pyrimethamine compared
+with the control group, which suggests that MATEs account for the efﬂux of thiamine [ 29].Molecules 2021 ,26, 5500 8 of 16
+Of note, thiamine was also evaluated in a preclinical transporter deﬁcient mice model for
+the inhibitory potential of drugs toward OCT1 and OCT2, however, human data for this
+hypothesis are not yet available [ 80]. Compared to wild-type mice, levels of endogenous
+thiamine were 5.8-fold higher in Oct1/Oct2 double-knockout mice, while renal clear-
+ance of high-dose infusion of exogenous thiamine (intended to eliminate effects of renal
+reabsorption) was almost 79% lower [ 80].-oxidation and adenosine monophosphate-
+activated protein kinase activity were increased in the livers in Oct1(–/–)mice, which could
+be indicative of OCT1 involvement in thiamine disposition [ 88]. In wild-type mice, the
+MATE inhibitor pyrimethamine reduced urinary excretion of endogenous thiamine by
+almost 70% [ 29] and renal clearance of exogenous thiamine by 58% [ 27,80]. The various
+transporters involved in the in vivo handling of thiamine suggests its clinical utility as an
+endogenous biomarker to mechanistically support for any particular DDI is very limited.
+3.2. N1-Methylnicotinamide
+N1-Methylnicotinamide (NMN) is produced as a result of tryptophan and niacin
+metabolism [ 89], and was previously identiﬁed as a substrate of OCT2 ( Km=300–318 M),
+MATE1 ( Km= 301 M), and MATE2K ( Km= 422 M) in overexpressed HEK293 cells or
+Xenopus laevis oocytes [ 31,32,90,91]. The uptake of NMN in overexpressed HEK293 cells
+was inhibited by pyrimethamine with Ki values of 9.4 M (OCT2), 83 nM (MATE1), and
+56 nM (MATE2K) and by trimethoprim with IC 50values of 134 M (OCT2), 29 M (MATE1),
+and 0.61 M (MATE2K) as well as by other OCT2/MATE substrates and inhibitors such as
+metformin, tetraethyl ammonium (TEA), quinine, and cimetidine [32].
+The contribution of transporters to the uptake of NMN is species-dependent [ 31], and
+plasma concentrations of NMN follow a circadian rhythm with higher plasma concentra-
+tions being observed in the morning and lower concentrations in the evening [ 92]. This
+could be a limitation in exploring the utility of NMN as a transporter biomarker, especially
+since studies involving the collection of single plasma samples commonly do not take
+into account the diurnal changes of NMN levels. Since NMN is not bound to plasma
+proteins in humans [ 93], it may be ﬁltered freely in the glomerulus. In humans, NMN
+renal clearance is higher than the GFR, suggesting signiﬁcant tubular secretion. Renal
+tubular reabsorption seems to also affect the clearance of NMN, in a saturable manner.
+Nonetheless, as a potential biomarker for renal OCT2/MATEs, renal clearance of NMN is
+of particular interest [84].
+NMN has been explored as a potential endogenous OCT2/MATEs transporter bioma-
+rker in several human DDI studies [ 31,32]. In a study involving healthy subjects, renal
+clearance of NMN was signiﬁcantly reduced in groups treated with pyrimethamine, in
+comparison to the control group, to the levels similar to GFR, suggesting that the active
+secretion of NMN was completely suppressed by pyrimethamine [ 49]. Other studies in-
+volving pyrimethamine and metformin in healthy subjects as a crossover study reported
+that NMN renal clearance was reduced in the presence of pyrimethamine in a way compa-
+rable to metformin renal clearance [ 31,32,36,94]. A positive correlation between the relative
+extent of the effect of trimethoprim on NMN renal clearance correlated positively, and
+the effect of trimethoprim on metformin renal clearance was also reported, which adds to
+the credibility that NMN serves as a biomarker of renal MATE function [ 31,32]. Although
+renal clearance of NMN was reduced, its plasma concentrations were not increased by
+pyrimethamine or trimethoprim. This suggests that pyrimethamine and trimethoprim may
+affect NMN formation or metabolism through different pathways. It is recommended to
+control known confounders such as study design, relevant concomitant medication, and
+standardized food and water intake, as well as physical activity, when using NMN for the
+assessment of a new molecular entity [84,95].
+3.3. N1-Methyladenosine
+Metabolomics data using wild-type and Oct1/2 double knockout mice identiﬁed
+N1- Methyladenosine (m1A) as a novel OCT2 substrate [ 6].In vitro transport studiesMolecules 2021 ,26, 5500 9 of 16
+conﬁrmed that m1A is a substrate of mouse Oct1, Oct2, Mate1, human OCT1, OCT2, and
+MATE2-K, but not human MATE1 [ 6]. Urinary excretion is responsible for 77% of the
+systemic elimination of m1A in mice and renal clearance of exogenously administered m1A
+is decreased in Oct1/2 double knockout or by Mate1 inhibition by pyrimethamine to near
+the glomerular ﬁltration rates while plasma concentrations are increased [ 6]. In cynomolgus
+monkeys, a single dose of DX-619, an OCT2/MATE2K inhibitor increased the AUC of
+m1A (1.72-fold) as well as metformin (2.18-fold) [ 6]. In humans, renal clearance of m1A in
+healthy individuals is higher than the GFR, which supports the signiﬁcant contribution of
+tubular secretion to urinary excretion. With low diurnal and inter-individual variation in
+plasma concentrations in healthy volunteers, m1A could be further explored as a surrogate
+probe for the evaluation of DDIs involving OCT2/MATE2K [5].
+3.4. Carnitine
+Carnitine, and its derivatives acetylcarnitine and propionyl carnitine showed a sub-
+stantial and consistent decrease of urinary excretion in both mice and healthy volunteers in
+untargeted metabolomics analysis when pyrimethamine was given as a MATE inhibitor. In
+healthy volunteers treated with metformin at a micro dose or therapeutic dose, renal clear-
+ance of carnitine and acetylcarnitine was decreased by 90–94% and 87–91%, respectively,
+when pyrimethamine was co-administered [ 29], and pyrimethamine also reduced carnitine
+renal clearance by 62% in mice [ 29]. However, since in vitro studies with HEK293 cells
+overexpressing MATE1 or MATE2K did not show an increase in carnitine uptake compared
+with control [ 85,91], the molecular mechanisms responsible for the effect of pyrimethamine
+on clearance of carnitine and its metabolites remains unclear.
+The urinary excretion of both carnitine and acetylcarnitine is reduced in Oct1/Oct2
+double-knockout mice in comparison with wild-type mice, and carnitine was found to be
+a substrate of OCT2, which suggests the involvement of OCT2 in the renal secretion of
+carnitine and possibly acetylcarnitine [ 84]. Nonetheless, in vivo data on this role in humans
+is lacking [ 4]. For acylcarnitine, an association with OCTN1, UGT1A1, and carnitine palmi-
+toyltransferase 1 genes have been reported and acylcarnitine is also an in vitro substrate of
+OCTN2, taken together, these results limit the selectivity of acylcarnitine as a biomarker
+for OCT2 [96].
+Isobutyryl-carnitine (IBC) has also been recently suggested as a potential OCT1
+biomarker from this family, and while genomic data in mouse and humans with active
+OCT1 genotypes suggests that is a substrate of OCT1 with carriers of high-activity OCT1
+genotypes having almost 3-fold higher IBC concentrations in blood and 2-fold higher in
+urine compared to deﬁcient OCT1, more speciﬁc data for IBC are lacking [97,98].
+3.5. Creatinine
+Creatinine is produced during muscle metabolism and excreted primarily through
+glomerular ﬁltration in the kidney. In vitro , creatinine has low afﬁnity as a substrate
+of OCT2, MATE1, MATE2K, and OCT3 [ 99–101], and about 10  40% of creatinine is ex-
+creted through active tubular secretion in kidneys involving OCT2, OAT2, MATE1, and
+MATE2K. Based on in vitro and in vivo studies on correlation analyses of the inhibition of
+OCT2, MATE1, and MATE2K and clinically observed changes in serum creatinine (SCr) or
+creatinine clearance, several compounds were positively predicted to cause OCT2/MATE-
+mediated DDIs. However, the changes in serum creatinine associated with OCT2/MATE
+interactions are usually not signiﬁcant enough to justify its use as a biomarker. For example,
+in the case of cimetidine co-administered with metformin, and ranitidine co-administered
+with procainamide or triamterene, interactions were observed with no apparent change
+in serum creatinine levels. Furthermore, numerous confounding factors such as weight,
+health condition, gender, age, muscle metabolism, and diet affect creatinine clearance,
+which collectively limit its use as a biomarker for OCT2/MATE-mediated DDIs [49].Molecules 2021 ,26, 5500 10 of 16
+3.6. Others
+Dopamine is a MATE substrate. As an in vitro MATE inhibitor, its renal excretion is
+reduced in Mate1 knockout mice or with the administration of imatinib [ 40,102]. Dopamine
+is also a substrate of OCT2 in vitro [39], but since it is synthesized in renal proximal tubule
+cells, the relationship between OCT2 activity and urinary dopamine excretion might be
+limited [40]. Human data on dopamine use as a MATE biomarker is lacking.
+The amino acid, tryptophan, is an OCT1 and OCT2 substrate, which was identiﬁed
+in an untargeted metabolomics analysis of urinary samples of 21 subjects who had partic-
+ipated in the clinical trial on metformin pharmacokinetics, in subjects carrying different
+functional variants in the OCT2 gene, SLC22A2 [103]. A positive linear association was
+previously observed between urinary tryptophan and pharmacokinetic parameters of
+metformin, such as renal clearance and renal secretory clearance. In vivo data in humans
+and more DDI data on inhibitors are needed to justify the use of tryptophan as a potentially
+useful biomarker [49].
+4. Conclusions and Future Directions
+The family of solute carriers is increasingly recognized as having an important role in
+the pharmacokinetics and pharmacodynamics proﬁles of many prescription drugs, and as
+a site of relevance to DDIs. Mechanistically, most of these DDIs can be linked directly to
+effects of a select set of xenobiotic transporters that are critically important in mediating
+drug disposition patterns. These transporters include OATPs, OATs, OCTs, and MATEs,
+and current regulatory requirements [ 104] propose an integrated approach to assess DDIs
+and the potential of a new molecular entity, however, the current in vitro approach is rather
+conservative and may result in false-positive prediction and subsequently large number
+of traditional clinical DDIs studies using probe drugs. There is a need to an efﬁcient and
+cost-effective solution and identify alternative approaches that could help facilitate the
+prediction of DDIs in early stages of drug development. Measurement of endogenous
+biomarkers could be a practical and affordable approach as a substitute for traditional DDI
+studies using probe drugs, especially when clinically efﬁcacious doses are not yet known.
+Such potential biomarkers should be thoroughly investigated and validated and
+should include considerations related to selectivity and speciﬁcity (determining exactly
+which transporters are involved in a biomarker’s distribution), sensitivity (the magnitude
+of effect should be signiﬁcant enough to allow differentiation between weak, moderate,
+and strong inhibitors), reliability, and reproducibility (the observed change should be
+predictive of clinically relevant DDIs, and not due to inter and intra-individual variabilities
+due to sex, age, disease state, circadian rhythm, diet or exercise) [ 49,105]. Although many
+potential biomarker candidates for transporters have been identiﬁed in recent years using
+various approaches and some have even been tested in clinical studies, none have yet
+conclusively demonstrated utility as a substitute for clinical DDIs studies. One reason
+for this is that most potential biomarkers have not been tested in connection with weak
+transporter inhibitors, where anticipated biomarker changes are lower compared with
+more sensitive exogenous probe substrates. These considerations demand special attention
+to the time course of response of a perpetrator drug on a biomarker to generate reliable
+data. The use of a standard cut-off value to determine the change in biomarker exposure
+may not be possible to all the tested transporters due to variability in the magnitude of
+interaction, instead, a dose dependent increase of exposure of the biomarker in response to
+a test inhibitor is recommended as a positive implementation of an interaction with the
+transporter of interest. Another reason might be the relatively low selectivity/speciﬁcity of
+presently identiﬁed endogenous biomarkers. A better mechanistic understanding of the
+formation, disposition, and elimination of the biomarker, such as contribution of genetic
+polymorphisms to the biomarker disposition, would greatly facilitate interpretation of the
+biomarker DDIs data.
+One particularly fruitful area of research that could help resolve the above problems
+is related to the implementation of a bottom-to-top approach that involves the selec-Molecules 2021 ,26, 5500 11 of 16
+tion of endogenous transporter substrates from untargeted metabolomics approaches in
+transporter-deﬁcient and humanized transgenic mice in the presence and absence of spe-
+ciﬁc inhibitors. This would allow for the identiﬁcation of putative biomarkers in a more
+unbiased manner that does not depend on top-to-bottom strategies that are initiated by
+observations in human subjects where the likelihood of identifying selective and speciﬁc
+biomarkers is intrinsically compromised. In such bottom-up approaches, substrates with
+the most robust differences can be more easily identiﬁed and subsequently used to ensure
+that a sufﬁcient degree of sensitivity is achieved. Another useful tool that requires further
+investigation is the application of endogenous biomarker cocktails to highlight the indi-
+vidual and collective importance of multiple transporters simultaneously in the context
+of DDIs prediction [ 49]. Careful consideration of clinical trial design is also required in
+order to ensure sufﬁcient reliability of the generated data and, generally, studies should
+be designed in a manner that minimizes confounding factors and increases statistical
+power, for example by employing randomized crossover designs. Unfortunately, many
+biomarker-driven clinical DDIs studies published to date suffer from small sample sizes in
+relation to anticipated or observed effect sizes, as well as from a host of other potentially
+confounding factors that may have inﬂuenced their outcome. Most important among these
+are (unknown) environmental variables and physiologic factors that may affect expression
+of the transporters of interest, the use of healthy volunteers that may not adequately repre-
+sent the target population of patients, and confounding links to other transporter genes or
+variants of putative relevance to drug disposition pathways.
+Although the use of cocktail strategies together with multiple biomarkers opposed to
+testing single biomarkers to predict certain DDIs has been proposed and may have clinical
+importance, this remains to be clariﬁed for most perpetrator drugs. In addition, more
+detailed investigations into the inﬂuence of ethnicity and racial ancestry on the functional
+utility of particular transporter biomarkers, and on the basal function and expression of
+relevant transporters, is urgently required. Despite these reservations, it is anticipated
+that, over the next decade, the importance of transporter biomarkers and their role in
+DDI prediction will be more clearly deﬁned, and that continued investigation in this area
+will likely have a profound impact on attempts to reﬁne treatment regimens involving
+polypharmacy with transporter substrates.
+Author Contributions: Conceptualization, Y.L. and Z.T.; Manuscript writing: Y.L., Z.T., X.C., A.S.
+and S.H.; Supervision, A.S. and S.H. All authors have read and agreed to the published version of
+the manuscript.
+Funding: The study was supported in part by NIH grants R01CA238946 (S.H.), and by the OSU Com-
+prehensive Cancer Center Pelotonia Fellowship Program (Y.L.). The content is solely the responsibility
+of the authors and does not necessarily represent the ofﬁcial views of the funding agencies.
+Data Availability Statement: Not available.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Consortium, I.T. Membrane transporters in drug development. Nat. Rev. Drug Discov. 2010 ,9, 215.
+2. Liang, Y.; Li, S.; Chen, L. The physiological role of drug transporters. Protein Cell 2015 ,6, 334–350. [CrossRef]
+3. Gessner, A.; König, J.; Fromm, M.F. Clinical Aspects of Transporter-Mediated Drug–Drug Interactions. Clin. Pharmacol. Ther. 2019 ,
+105, 1386–1394. [CrossRef]
+4. Chu, X.; Liao, M.; Shen, H.; Yoshida, K.; Zur, A.A.; Arya, V .; Galetin, A.; Giacomini, K.M.; Hanna, I.; Kusuhara, H. Clinical probes
+and endogenous biomarkers as substrates for transporter drug-drug interaction evaluation: Perspectives from the international
+transporter consortium. Clin. Pharmacol. Ther. 2018 ,104, 836–864. [CrossRef]
+5. Mochizuki, T.; Mizuno, T.; Kazuya, M.; Kusuhara, H. Current progress in identifying endogenous biomarker candidates for
+drug transporter phenotyping and their potential application to drug development. Drug Metab. Pharmacokinet. 2021 ,37, 100358.
+[CrossRef]
+6. Miyake, T.; Mizuno, T.; Takehara, I.; Mochizuki, T.; Kimura, M.; Matsuki, S.; Irie, S.; Watanabe, N.; Kato, Y.; Ieiri, I. Elucidation of
+N1-methyladenosine as a potential surrogate biomarker for drug interaction studies involving renal organic cation transporters.
+Drug Metab. Dispos. 2019 ,47, 1270–1280. [CrossRef]Molecules 2021 ,26, 5500 12 of 16
+7. Yee, S.W.; Giacomini, M.M.; Hsueh, C.H.; Weitz, D.; Liang, X.; Goswami, S.; Kinchen, J.M.; Coelho, A.; Zur, A.A.; Mertsch, K.
+Metabolomic and genome-wide association studies reveal potential endogenous biomarkers for OATP1B1. Clin. Pharmacol. Ther.
+2016 ,100, 524–536. [CrossRef] [PubMed]
+8. Liu, X. Overview: Role of drug transporters in drug disposition and its clinical signiﬁcance. In Drug Transporters in Drug
+Disposition, Effects and Toxicity ; Spring Nature: Singapore, 2019; pp. 1–12.
+9. Liu, X. SLC Family Transporters. Drug Transporters in Drug Disposition, Effects and Toxicity ; Springer: Singapore, 2019; pp. 101–202.
+10. Briz, O.; Serrano, M.A.; MacIas, R.I.; Gonzalez-Gallego, J.; Marin, J.J. Role of organic anion-transporting polypeptides, OATP-A,
+OATP-C and OATP-8, in the human placenta-maternal liver tandem excretory pathway for foetal bilirubin. Biochem. J. 2003 ,371,
+897–905. [CrossRef]
+11. Cui, Y.; König, J.r.; Leier, I.; Buchholz, U.; Keppler, D. Hepatic uptake of bilirubin and its conjugates by the human organic anion
+transporter SLC21A6. J. Biol. Chem. 2001 ,276, 9626–9630. [CrossRef] [PubMed]
+12. Mori, D.; Kimoto, E.; Rago, B.; Kondo, Y.; King-Ahmad, A.; Ramanathan, R.; Wood, L.S.; Johnson, J.G.; Le, V .H.; Vourvahis, M.
+Dose-dependent inhibition of OATP1B by rifampicin in healthy volunteers: Comprehensive evaluation of candidate biomarkers
+and OATP1B probe drugs. Clin. Pharmacol. Ther. 2020 ,107, 1004–1013. [CrossRef] [PubMed]
+13. Takehara, I.; Yoshikado, T.; Ishigame, K.; Mori, D.; Furihata, K.-i.; Watanabe, N.; Ando, O.; Maeda, K.; Sugiyama, Y.; Kusuhara, H.
+Comparative study of the dose-dependence of OATP1B inhibition by rifampicin using probe drugs and endogenous substrates in
+healthy volunteers. Pharm. Res. 2018 ,35, 1–13. [CrossRef]
+14. Bednarczyk, D.; Boiselle, C. Organic anion transporting polypeptide (OATP)-mediated transport of coproporphyrins I and III.
+Xenobiotica 2016 ,46, 457–466. [CrossRef]
+15. Kalluri, H.V .; Kikuchi, R.; Coppola, S.; Schmidt, J.; Mohamed, M.E.F.; Bow, D.A.; Salem, A.H. Coproporphyrin I Can Serve as an
+Endogenous Biomarker for OATP1B1 Inhibition: Assessment Using a Glecaprevir/Pibrentasvir Clinical Study. Clin. Transl. Sci.
+2021 ,14, 373–381. [CrossRef] [PubMed]
+16. Lai, Y.; Mandlekar, S.; Shen, H.; Holenarsipur, V .K.; Langish, R.; Rajanna, P .; Murugesan, S.; Gaud, N.; Selvam, S.; Date, O.
+Coproporphyrins in plasma and urine can be appropriate clinical biomarkers to recapitulate drug-drug interactions mediated by
+organic anion transporting polypeptide inhibition. J. Pharmacol. Exp. Ther. 2016 ,358, 397–404. [CrossRef] [PubMed]
+17. Mori, D.; Ishida, H.; Mizuno, T.; Kusumoto, S.; Kondo, Y.; Izumi, S.; Nakata, G.; Nozaki, Y.; Maeda, K.; Sasaki, Y. Alteration in the
+Plasma Concentrations of Endogenous Organic Anion–Transporting Polypeptide 1B Biomarkers in Patients with Non–Small Cell
+Lung Cancer Treated with Paclitaxel. Drug Metab. Dispos. 2020 ,48, 387–394. [CrossRef]
+18. Mori, D.; Kashihara, Y.; Yoshikado, T.; Kimura, M.; Hirota, T.; Matsuki, S.; Maeda, K.; Irie, S.; Ieiri, I.; Sugiyama, Y. Effect of
+OATP1B1 genotypes on plasma concentrations of endogenous OATP1B1 substrates and drugs, and their association in healthy
+volunteers. Drug Metab. Pharmacokinet. 2019 ,34, 78–86. [CrossRef]
+19. Yee, S.W.; Giacomini, M.M.; Shen, H.; Humphreys, W.G.; Horng, H.; Brian, W.; Lai, Y.; Kroetz, D.L.; Giacomini, K.M. Organic
+anion transporter polypeptide 1B1 polymorphism modulates the extent of drug–drug interaction and associated biomarker levels
+in healthy volunteers. Clin. Transl. Sci. 2019 ,12, 388–399. [CrossRef]
+20. Takehara, I.; Terashima, H.; Nakayama, T.; Yoshikado, T.; Yoshida, M.; Furihata, K.; Watanabe, N.; Maeda, K.; Ando, O.; Sugiyama,
+Y. Investigation of glycochenodeoxycholate sulfate and chenodeoxycholate glucuronide as surrogate endogenous probes for drug
+interaction studies of OATP1B1 and OATP1B3 in healthy Japanese volunteers. Pharm. Res. 2017 ,34, 1601–1614. [CrossRef]
+21. Tsuruya, Y.; Kato, K.; Sano, Y.; Imamura, Y.; Maeda, K.; Kumagai, Y.; Sugiyama, Y.; Kusuhara, H. Investigation of Endogenous
+Compounds Applicable to Drug–Drug Interaction Studies Involving the Renal Organic Anion Transporters, OAT1 and OAT3, in
+Humans. Drug Metab. Dispos. 2016 ,44, 1925–1933. [CrossRef] [PubMed]
+22. Willemin, M.-E.; Van Der Made, T.K.; Pijpers, I.; Dillen, L.; Kunze, A.; Jonkers, S.; Steemans, K.; Tuytelaars, A.; Jacobs, F.;
+Monshouwer, M. Clinical Investigation on Endogenous Biomarkers to Predict Strong OAT-Mediated Drug–Drug Interactions.
+Clin. Pharmacokinet. 2021 ,60, 1187–1199. [CrossRef] [PubMed]
+23. Shen, H.; Chen, W.; Drexler, D.M.; Mandlekar, S.; Holenarsipur, V .K.; Shields, E.E.; Langish, R.; Sidik, K.; Gan, J.; Humphreys, W.G.
+Comparative evaluation of plasma bile acids, dehydroepiandrosterone sulfate, hexadecanedioate, and tetradecanedioate with
+coproporphyrins I and III as markers of OATP inhibition in healthy subjects. Drug Metab. Dispos. 2017 ,45, 908–919. [CrossRef]
+[PubMed]
+24. Shen, H.; Holenarsipur, V .K.; Mariappan, T.T.; Drexler, D.M.; Cantone, J.L.; Rajanna, P .; Gautam, S.S.; Zhang, Y.; Gan, J.; Shipkova,
+P .A. Evidence for the validity of pyridoxic acid (PDA) as a plasma-based endogenous probe for OAT1 and OAT3 function in
+healthy subjects. J. Pharmacol. Exp. Ther. 2019 ,368, 136–145. [CrossRef]
+25. Shen, H.; Nelson, D.M.; Oliveira, R.V .; Zhang, Y.; Mcnaney, C.A.; Gu, X.; Chen, W.; Su, C.; Reily, M.D.; Shipkova, P .A. Discovery
+and validation of pyridoxic acid and homovanillic acid as novel endogenous plasma biomarkers of organic anion transporter
+(OAT) 1 and OAT3 in cynomolgus monkeys. Drug Metab. Dispos. 2018 ,46, 178–188. [CrossRef]
+26. Bi, Y.-a.; Costales, C.; Mathialagan, S.; West, M.; Eatemadpour, S.; Lazzaro, S.; Tylaska, L.; Scialis, R.J.; Zhang, H.; Umland, J.
+Quantitative contribution of six major transporters to the hepatic uptake of drugs:“SLC-phenotyping” using primary human
+hepatocytes. J. Pharmacol. Exp. Ther. 2019 ,370, 72–83. [CrossRef]
+27. Chen, L.; Shu, Y.; Liang, X.; Chen, E.C.; Yee, S.W.; Zur, A.A.; Li, S.; Xu, L.; Keshari, K.R.; Lin, M.J. OCT1 is a high-capacity
+thiamine transporter that regulates hepatic steatosis and is a target of metformin. Proc. Natl. Acad. Sci. USA 2014 ,111, 9983–9988.
+[CrossRef]Molecules 2021 ,26, 5500 13 of 16
+28. Jensen, O.; Matthaei, J.; Blome, F.; Schwab, M.; Tzvetkov, M.V .; Brockmöller, J. Variability and heritability of thiamine pharmacoki-
+netics with focus on OCT1 effects on membrane transport and pharmacokinetics in humans. Clin. Pharmacol. Ther. 2020 ,107,
+628–638. [CrossRef]
+29. Kato, K.; Mori, H.; Kito, T.; Yokochi, M.; Ito, S.; Inoue, K.; Yonezawa, A.; Katsura, T.; Kumagai, Y.; Yuasa, H. Investigation of
+endogenous compounds for assessing the drug interactions in the urinary excretion involving multidrug and toxin extrusion
+proteins. Pharm. Res. 2014 ,31, 136–147. [CrossRef] [PubMed]
+30. Bergagnini-Kolev, M.C.; Hebert, M.F.; Easterling, T.R.; Lin, Y.S. Pregnancy increases the renal secretion of N1-methylnicotinamide,
+an endogenous probe for renal cation transporters, in patients prescribed metformin. Drug Metab. Dispos. 2017 ,45, 325–329.
+[CrossRef]
+31. Ito, S.; Kusuhara, H.; Kumagai, Y.; Moriyama, Y.; Inoue, K.; Kondo, T.; Nakayama, H.; Horita, S.; Tanabe, K.; Yuasa, H. N-
+methylnicotinamide is an endogenous probe for evaluation of drug–drug interactions involving multidrug and toxin extrusions
+(MATE1 and MATE2-K). Clin. Pharmacol. Ther. 2012 ,92, 635–641. [CrossRef] [PubMed]
+32. Müller, F.; Pontones, C.A.; Renner, B.; Mieth, M.; Hoier, E.; Auge, D.; Maas, R.; Zolk, O.; Fromm, M.F. N 1-methylnicotinamide as
+an endogenous probe for drug interactions by renal cation transporters: Studies on the metformin–trimethoprim interaction. Eur.
+J. Clin. Pharmacol. 2015 ,71, 85–94. [CrossRef]
+33. Ishigami, M.; Sezai, Y.; Shimada, Y.; Maeda, T.; Yabuki, S. Effects of famotidine, a new histamine H2-receptor antagonist, on renal
+function. Jpn. J. Nephrol. 1989 ,31, 687–691.
+34. Johnson, M.; Borland, J.; Chen, S.; Savina, P .; Wynne, B.; Piscitelli, S. Effects of boceprevir and telaprevir on the pharmacokinetics
+of dolutegravir. Br. J. Clin. Pharmacol. 2014 ,78, 1043–1049. [CrossRef]
+35. Kastrup, J.; Petersen, P .; Bartram, R.; Hansen, J. The effect of trimethoprim on serum creatinine. Br. J. Urol. 1985 ,57, 265–268.
+[CrossRef]
+36. Kusuhara, H.; Ito, S.; Kumagai, Y.; Jiang, M.; Shiroshita, T.; Moriyama, Y.; Inoue, K.; Yuasa, H.; Sugiyama, Y. Effects of a MATE
+protein inhibitor, pyrimethamine, on the renal elimination of metformin at oral microdose and at therapeutic dose in healthy
+subjects. Clin. Pharmacol. Ther. 2011 ,89, 837–844. [CrossRef] [PubMed]
+37. Opravil, M.; Keusch, G.; Lüthy, R. Pyrimethamine inhibits renal secretion of creatinine. Antimicrob. Agents Chemother. 1993 ,37,
+1056–1060. [CrossRef] [PubMed]
+38. Sarapa, N.; Wickremasingha, P .; Ge, N.; Weitzman, R.; Fuellhart, M.; Yen, C.; Lloyd-Parks, J. Lack of effect of DX-619, a novel
+des-ﬂuoro (6)-quinolone, on glomerular ﬁltration rate measured by serum clearance of cold iohexol. Antimicrob. Agents Chemother.
+2007 ,51, 1912–1917. [CrossRef]
+39. Busch, A.E.; Karbach, U.; Miska, D.; Gorboulev, V .; Akhoundova, A.; Volk, C.; Arndt, P .; Ulzheimer, J.C.; Sonders, M.S.; Baumann,
+C. Human neurons express the polyspeciﬁc cation transporter hOCT2, which translocates monoamine neurotransmitters,
+amantadine, and memantine. Mol. Pharmacol. 1998 ,54, 342–352. [CrossRef] [PubMed]
+40. Kajiwara, M.; Ban, T.; Matsubara, K.; Nakanishi, Y.; Masuda, S. Urinary dopamine as a potential index of the transport activity of
+multidrug and toxin extrusion in the kidney. Int. J. Mol. Sci. 2016 ,17, 1228. [CrossRef]
+41. Song, I.-S.; Lee, D.Y.; Shin, M.-H.; Kim, H.; Ahn, Y.G.; Park, I.; Kim, K.H.; Kind, T.; Shin, J.-G.; Fiehn, O. Pharmacogenetics meets
+metabolomics: Discovery of tryptophan as a new endogenous OCT2 substrate related to metformin disposition. PLoS ONE 2012 ,
+7, e36637. [CrossRef]
+42. Hagenbuch, B.; Meier, P .J. Organic anion transporting polypeptides of the OATP/SLC21 family: Phylogenetic classiﬁcation as
+OATP/SLCO superfamily, new nomenclature and molecular/functional properties. Pﬂügers Archiv 2004 ,447, 653–665. [CrossRef]
+43. Honore, S.; Pasquier, E.; Braguer, D. Understanding microtubule dynamics for improved cancer therapy. Cell. Mol. Life Sci. CMLS
+2005 ,62, 3039–3056. [CrossRef]
+44. Kalliokoski, A.; Niemi, M. Impact of OATP transporters on pharmacokinetics. Br. J. Pharmacol. 2009 ,158, 693–705. [CrossRef]
+[PubMed]
+45. Shitara, Y. Clinical importance of OATP1B1 and OATP1B3 in drug-drug interactions. Drug Metab. Pharmacokinet. 2011 ,26, 220–227.
+[CrossRef]
+46. Garrison, D.A.; Talebi, Z.; Eisenmann, E.D.; Sparreboom, A.; Baker, S.D. Role of OATP1B1 and OATP1B3 in Drug-Drug Interactions
+Mediated by Tyrosine Kinase Inhibitors. Pharmaceutics 2020 ,12, 856. [CrossRef] [PubMed]
+47. European Medicines Agency (EMA). Guideline on the Investigation of Drug Interactions ; European Medicines Agency: London, UK,
+2012. Available online: https://www.ema.europa.eu/en/investigation-drug-interactions (accessed on 6 July 2012).
+48. US Food and Drug Administration (FDA). In Vitro Drug Interaction Studies-Cytochrome P450 Enzyme-and Transporter-Mediated
+Drug Interactions Guidance for Industry. 2020. Available online: https://www.fda.gov/regulatory-information/search-fda-
+guidance-documents/vitro-drug-interaction-studies-cytochrome-p450-enzyme-and-transporter-mediated-drug-interactions (ac-
+cessed on 5 July 2020).
+49. Chu, X.; Chan, G.H.; Evers, R. Identiﬁcation of endogenous biomarkers to predict the propensity of drug candidates to cause
+hepatic or renal transporter-mediated drug-drug interactions. J. Pharm. Sci. 2017 ,106, 2357–2367. [CrossRef] [PubMed]
+50. Sticova, E.; Jirsa, M. New insights in bilirubin metabolism and their clinical implications. World J. Gastroenterol. 2013 ,19, 6398.
+[CrossRef]
+51. Iusuf, D.; Van De Steeg, E.; Schinkel, A. Hepatocyte hopping of OATP1B substrates contributes to efﬁcient hepatic detoxiﬁcation.
+Clin. Pharmacol. Ther. 2012 ,92, 559–562. [CrossRef]Molecules 2021 ,26, 5500 14 of 16
+52. Lu, H.; Choudhuri, S.; Ogura, K.; Csanaky, I.L.; Lei, X.; Cheng, X.; Song, P .-z.; Klaassen, C.D. Characterization of organic anion
+transporting polypeptide 1b2-null mice: Essential role in hepatic uptake/toxicity of phalloidin and microcystin-LR. Toxicol. Sci.
+2008 ,103, 35–45. [CrossRef]
+53. Zaher, H.; zu Schwabedissen, H.E.M.; Tirona, R.G.; Cox, M.L.; Obert, L.A.; Agrawal, N.; Palandra, J.; Stock, J.L.; Kim, R.B.; Ware,
+J.A. Targeted disruption of murine organic anion-transporting polypeptide 1b2 (Oatp1b2/Slco1b2) signiﬁcantly alters disposition
+of prototypical drug substrates pravastatin and rifampin. Mol. Pharmacol. 2008 ,74, 320–329. [CrossRef]
+54. van de Steeg, E.; van Esch, A.; Wagenaar, E.; Kenworthy, K.E.; Schinkel, A.H. Inﬂuence of human OATP1B1, OATP1B3, and
+OATP1A2 on the pharmacokinetics of methotrexate and paclitaxel in humanized transgenic mice. Clin. Cancer Res. 2013 ,19,
+821–832. [CrossRef]
+55. van de Steeg, E.; Wagenaar, E.; van der Kruijssen, C.M.; Burggraaff, J.E.; de Waart, D.R.; Elferink, R.P .O.; Kenworthy, K.E.;
+Schinkel, A.H. Organic anion transporting polypeptide 1a/1b–knockout mice provide insights into hepatic handling of bilirubin,
+bile acids, and drugs. J. Clin. Investig. 2010 ,120, 2942–2952. [CrossRef] [PubMed]
+56. Sanna, S.; Busonero, F.; Maschio, A.; McArdle, P .F.; Usala, G.; Dei, M.; Lai, S.; Mulas, A.; Piras, M.G.; Perseu, L. Common variants
+in the SLCO1B3 locus are associated with bilirubin levels and unconjugated hyperbilirubinemia. Hum. Mol. Genet. 2009 ,18,
+2711–2718. [CrossRef] [PubMed]
+57. Zhang, W.; He, Y.J.; Gan, Z.; Fan, L.; Li, Q.; Wang, A.; Liu, Z.Q.; Deng, S.; Huang, Y.F.; Xu, L.Y. OATP1B1 polymorphism is a
+major determinant of serum bilirubin level but not associated with rifampicin-mediated bilirubin elevation. Clin. Exp. Pharmacol.
+Physiol. 2007 ,34, 1240–1244. [CrossRef] [PubMed]
+58. Campbell, S.D.; de Morais, S.M.; Xu, J.J. Inhibition of human organic anion transporting polypeptide OATP 1B1 as a mechanism
+of drug-induced hyperbilirubinemia. Chem. Biol. Interact. 2004 ,150, 179–187. [CrossRef]
+59. Chiou, W.J.; de Morais, S.M.; Kikuchi, R.; Voorman, R.L.; Li, X.; Bow, D.A. In vitro OATP1B1 and OATP1B3 inhibition is associated
+with observations of benign clinical unconjugated hyperbilirubinemia. Xenobiotica 2014 ,44, 276–282. [CrossRef]
+60. van de Steeg, E.; Str ánecký, V .; Hartmannov á, H.; Noskov á, L.; Hˇ reb íˇ cek, M.; Wagenaar, E.; van Esch, A.; de Waart, D.R.; Elferink,
+R.P .O.; Kenworthy, K.E. Complete OATP1B1 and OATP1B3 deﬁciency causes human Rotor syndrome by interrupting conjugated
+bilirubin reuptake into the liver. J. Clin. Investig. 2012 ,122, 519–528. [CrossRef]
+61. Watanabe, T.; Miyake, M.; Shimizu, T.; Kamezawa, M.; Masutomi, N.; Shimura, T.; Ohashi, R. Utility of bilirubins and bile acids
+as endogenous biomarkers for the inhibition of hepatic transporters. Drug Metab. Dispos. 2015 ,43, 459–466. [CrossRef]
+62. Chu, X.; Shih, S.-J.; Shaw, R.; Hentze, H.; Chan, G.H.; Owens, K.; Wang, S.; Cai, X.; Newton, D.; Castro-Perez, J. Evaluation of
+cynomolgus monkeys for the identiﬁcation of endogenous biomarkers for hepatic transporter inhibition and as a translatable
+model to predict pharmacokinetic interactions with statins in humans. Drug Metab. Dispos. 2015 ,43, 851–863. [CrossRef]
+63. Kaplowitz, N.; Javitt, N.; Kappas, A. Coproporphyrin I and III excretion in bile and urine. J. Clin. Investig. 1972 ,51, 2895–2899.
+[CrossRef] [PubMed]
+64. Shen, H.; Dai, J.; Liu, T.; Cheng, Y.; Chen, W.; Freeden, C.; Zhang, Y.; Humphreys, W.G.; Marathe, P .; Lai, Y. Coproporphyrins I
+and III as functional markers of OATP1B activity: In vitro and in vivo evaluation in preclinical species. J. Pharmacol. Exp. Ther.
+2016 ,357, 382–393. [CrossRef]
+65. Suzuki, Y.; Sasamoto, Y.; Koyama, T.; Yoshijima, C.; Nakatochi, M.; Kubo, M.; Momozawa, Y.; Uehara, R.; Ohno, K. Substantially
+Increased Plasma Coproporphyrin-I Concentrations Associated With OATP1B1* 15 Allele in Japanese General Population. Clin.
+Transl. Sci. 2021 ,14, 382–388. [CrossRef] [PubMed]
+66. Shen, H.; Christopher, L.; Lai, Y.; Gong, J.; Kandoussi, H.; Garonzik, S.; Perera, V .; Garimella, T.; Humphreys, W.G. Further
+studies to support the use of coproporphyrin I and III as novel clinical biomarkers for evaluating the potential for organic anion
+transporting polypeptide 1B1 and OATP1B3 inhibition. Drug Metab. Dispos. 2018 ,46, 1075–1082. [CrossRef] [PubMed]
+67. Yoshikado, T.; Maeda, K.; Furihata, S.; Terashima, H.; Nakayama, T.; Ishigame, K.; Tsunemoto, K.; Kusuhara, H.; Furihata,
+K.-i.; Sugiyama, Y. A clinical cassette dosing study for evaluating the contribution of hepatic OATPs and CYP3A to drug-drug
+interactions. Pharm. Res. 2017 ,34, 1570–1583. [CrossRef]
+68. Barnett, S.; Ogungbenro, K.; Menochet, K.; Shen, H.; Humphreys, W.G.; Galetin, A. Comprehensive evaluation of the utility of 20
+endogenous molecules as biomarkers of OATP1B inhibition compared with rosuvastatin and coproporphyrin I. J. Pharmacol. Exp.
+Ther. 2019 ,368, 125–135. [CrossRef] [PubMed]
+69. Kunze, A.; Ediage, E.N.; Dillen, L.; Monshouwer, M.; Snoeys, J. Clinical investigation of coproporphyrins as sensitive biomarkers
+to predict mild to strong OATP1B-mediated drug–drug interactions. Clin. Pharmacokinet. 2018 ,57, 1559–1570. [CrossRef]
+[PubMed]
+70. Dawson, P .A.; Lan, T.; Rao, A. Bile acid transporters. J. Lipid Res. 2009 ,50, 2340–2357. [CrossRef]
+71. Meier, P .J.; Stieger, B. Bile salt transporters. Annu. Rev. Physiol. 2002 ,64, 635–661. [CrossRef]
+72. Csanaky, I.L.; Lu, H.; Zhang, Y.; Ogura, K.; Choudhuri, S.; Klaassen, C.D. Organic anion–transporting polypeptide 1b2 (Oatp1b2)
+is important for the hepatic uptake of unconjugated bile acids: Studies in Oatp1b2-null mice. Hepatology 2011 ,53, 272–281.
+[CrossRef]
+73. Suga, T.; Yamaguchi, H.; Sato, T.; Maekawa, M.; Goto, J.; Mano, N. Preference of conjugated bile acids over unconjugated bile
+acids as substrates for OATP1B1 and OATP1B3. PLoS ONE 2017 ,12, e0169719. [CrossRef]Molecules 2021 ,26, 5500 15 of 16
+74. Thakare, R.; Gao, H.; Kosa, R.E.; Bi, Y.-A.; Varma, M.V .; Cerny, M.A.; Sharma, R.; Kuhn, M.; Huang, B.; Liu, Y. Leveraging of
+rifampicin-dosed cynomolgus monkeys to identify bile acid 3-O-sulfate conjugates as potential novel biomarkers for organic
+anion-transporting polypeptides. Drug Metab. Dispos. 2017 ,45, 721–733. [CrossRef]
+75. Futatsugi, A.; Masuo, Y.; Kato, Y. Effects of Probenecid on Hepatic and Renal Disposition of Hexadecanedioate, an Endogenous
+Substrate of Organic Anion Transporting Polypeptide 1B in Rats. J. Pharm. Sci. 2021 ,110, 2274–2284. [CrossRef]
+76. Ahmad, A.; Ogungbenro, K.; Kunze, A.; Jacobs, F.; Snoeys, J.; Rostami-Hodjegan, A.; Galetin, A. Population pharmacokinetic
+modeling and simulation to support qualiﬁcation of pyridoxic acid as endogenous biomarker of OAT1/3 renal transporters. CPT
+Pharmacomet. Syst. Pharmacol. 2021 ,10, 467–477. [CrossRef] [PubMed]
+77. Granados, J.C.; Richelle, A.; Gutierrez, J.M.; Zhang, P .; Zhang, X.; Bhatnagar, V .; Lewis, N.E.; Nigam, S.K. Coordinate regulation
+of systemic and kidney tryptophan metabolism by the drug transporters OAT1 and OAT3. J. Biol. Chem. 2021 ,296, 100575.
+[CrossRef]
+78. Koepsell, H. Organic Cation Transporters in Health and Disease. Pharmacol. Rev. 2020 ,72, 253–319. [CrossRef]
+79. Koepsell, H.; Lips, K.; Volk, C. Polyspeciﬁc organic cation transporters: Structure, function, physiological roles, and biopharma-
+ceutical implications. Pharm. Res. 2007 ,24, 1227–1251. [CrossRef] [PubMed]
+80. Kato, K.; Moriyama, C.; Ito, N.; Zhang, X.; Hachiuma, K.; Hagima, N.; Iwata, K.; Yamaguchi, J.-i.; Maeda, K.; Ito, K. Involvement
+of organic cation transporters in the clearance and milk secretion of thiamine in mice. Pharm. Res. 2015 ,32, 2192–2204. [CrossRef]
+[PubMed]
+81. Brown, G. Defects of thiamine transport and metabolism. J. Inherit. Metab. Dis. 2014 ,37, 577–585. [CrossRef] [PubMed]
+82. Alexander, B.; Landwehr, G.; Mitchell, F. Studies of thiamine metabolism in man. II. Thiamine and pyrimidine excretion with
+special reference to the relationship between injected and excreted thiamine in normal and abnormal subjects. J. Clin. Investig.
+1946 ,25, 294–303. [CrossRef] [PubMed]
+83. Weber, W.; Nitz, M.; Looby, M. Nonlinear kinetics of the thiamine cation in humans: Saturation of nonrenal clearance and tubular
+reabsorption. J. Pharmacokinet. Biopharm. 1990 ,18, 501–523. [CrossRef]
+84. Müller, F.; Sharma, A.; König, J.; Fromm, M.F. Biomarkers for in vivo assessment of transporter function. Pharmacol. Rev. 2018 ,70,
+246–277. [CrossRef]
+85. Tanihara, Y.; Masuda, S.; Sato, T.; Katsura, T.; Ogawa, O.; Inui, K.-i. Substrate speciﬁcity of MATE1 and MATE2-K, human
+multidrug and toxin extrusions/H+-organic cation antiporters. Biochem. Pharmacol. 2007 ,74, 359–371. [CrossRef]
+86. Dutta, B.; Huang, W.; Molero, M.; Kekuda, R.; Leibach, F.H.; Devoe, L.D.; Ganapathy, V .; Prasad, P .D. Cloning of the human
+thiamine transporter, a member of the folate transporter family. J. Biol. Chem. 1999 ,274, 31925–31929. [CrossRef]
+87. Said, H.M.; Balamurugan, K.; Subramanian, V .S.; Marchant, J.S. Expression and functional contribution of hTHTR-2 in thiamin
+absorption in human intestine. Am. J. Physiol. -Gastrointest. Liver Physiol. 2004 ,286, G491–G498. [CrossRef]
+88. Liang, X.; Yee, S.W.; Chien, H.-C.; Chen, E.C.; Luo, Q.; Zou, L.; Piao, M.; Mifune, A.; Chen, L.; Calvert, M.E. Organic cation
+transporter 1 (OCT1) modulates multiple cardiometabolic traits through effects on hepatic thiamine content. PLoS Biol. 2018 ,16,
+e2002907. [CrossRef] [PubMed]
+89. Hiratsuka, C.; Sano, M.; Fukuwatari, T.; Shibata, K. Time-dependent effects of L-tryptophan administration on urinary excretion
+of L-tryptophan metabolites. J. Nutr. Sci. Vitaminol. 2014 ,60, 255–260. [CrossRef] [PubMed]
+90. Gorboulev, V .; Ulzheimer, J.C.; Akhoundova, A.; Ulzheimer-Teuber, I.; Karbach, U.; Quester, S.; Baumann, C.; Lang, F.; Busch,
+A.E.; Koepsell, H. Cloning and characterization of two human polyspeciﬁc organic cation transporters. DNA Cell Biol. 1997 ,16,
+871–881. [CrossRef] [PubMed]
+91. Masuda, S.; Terada, T.; Yonezawa, A.; Tanihara, Y.; Kishimoto, K.; Katsura, T.; Ogawa, O.; Inui, K.-i. Identiﬁcation and functional
+characterization of a new human kidney–speciﬁc H+/organic cation antiporter, kidney-speciﬁc multidrug and toxin extrusion 2.
+J. Am. Soc. Nephrol. 2006 ,17, 2127–2135. [CrossRef]
+92. Musfeld, C.; Biollaz, J.; B élaz, N.; Kesselring, U.W.; Decosterd, L.A. Validation of an HPLC method for the determination of
+urinary and plasma levels of N1-methylnicotinamide, an endogenous marker of renal cationic transport and plasma ﬂow. J.
+Pharm. Biomed. Anal. 2001 ,24, 391–404. [CrossRef]
+93. Weber, W.; Toussaint, S.; Looby, M.; Nitz, M.; Kewitz, H. System analysis in multiple dose kinetics: Evidence for saturable tubular
+reabsorption of the organic cationN 1-methylnicotinamide in humans. J. Pharmacokinet. Biopharm. 1991 ,19, 553–574. [CrossRef]
+94. Thomas, M.C.; Jerums, G.; Tsalamandris, C.; MacIsaac, R.; Panagiotopoulos, S.; Cooper, M.E.; Group, M.S. Increased tubular
+organic ion clearance following chronic ACE inhibition in patients with type 1 diabetes. Kidney Int. 2005 ,67, 2494–2499. [CrossRef]
+95. Bergagnini-Kolev, M.C.; Hebert, M.F.; Easterling, T.R.; Lin, Y.S. Factors Impacting the Estimation of Renal Clearance of N1-
+methylnicotinamide, an Endogenous Probe for Renal Cation Transporters. FASEB J. 2017 ,31, 1062.11.
+96. Suhre, K.; Shin, S.-Y.; Petersen, A.-K.; Mohney, R.P .; Meredith, D.; Wägele, B.; Altmaier, E.; Deloukas, P .; Erdmann, J.; Grundberg,
+E. Human metabolic individuality in biomedical and pharmaceutical research. Nature 2011 ,477, 54–60. [CrossRef] [PubMed]
+97. Luo, L.; Ramanathan, R.; Horlbogen, L.; Mathialagan, S.; Costales, C.; Vourvahis, M.; Holliman, C.L.; Rodrigues, A.D. A
+multiplexed HILIC-MS/HRMS assay for the assessment of transporter inhibition biomarkers in phase i clinical trials: Isobutyryl-
+carnitine as an organic cation transporter (OCT1) biomarker. Anal. Chem. 2020 ,92, 9745–9754. [CrossRef] [PubMed]
+98. Jensen, O.; Matthaei, J.; Klemp, H.G.; Meyer, M.J.; Brockmöller, J.; Tzvetkov, M.V . Isobutyrylcarnitine as a Biomarker of OCT1
+Activity and Interspecies Differences in its Membrane Transport. Front. Pharmacol. 2021 ,12, 1110. [CrossRef] [PubMed]Molecules 2021 ,26, 5500 16 of 16
+99. Urakami, Y.; Kimura, N.; Okuda, M.; Inui, K.-i. Creatinine transport by basolateral organic cation transporter hOCT2 in the
+human kidney. Pharm. Res. 2004 ,21, 976–981. [CrossRef]
+100. Imamura, Y.; Murayama, N.; Okudaira, N.; Kurihara, A.; Okazaki, O.; Izumi, T.; Inoue, K.; Yuasa, H.; Kusuhara, H.; Sugiyama, Y.
+Prediction of Fluoroquinolone-Induced Elevation in Serum Creatinine Levels: A Case of Drug–Endogenous Substance Interaction
+Involving the Inhibition of Renal Secretion. Clin. Pharmacol. Ther. 2011 ,89, 81–88. [CrossRef]
+101. Ciarimboli, G.; Lancaster, C.S.; Schlatter, E.; Franke, R.M.; Sprowl, J.A.; Pavenstädt, H.; Massmann, V .; Guckel, D.; Mathijssen,
+R.H.; Yang, W. Proximal tubular secretion of creatinine by organic cation transporter OCT2 in cancer patients. Clin. Cancer Res.
+2012 ,18, 1101–1108. [CrossRef]
+102. Minematsu, T.; Giacomini, K.M. Interactions of tyrosine kinase inhibitors with organic cation transporters and multidrug and
+toxic compound extrusion proteins. Mol. Cancer Ther. 2011 ,10, 531–539. [CrossRef]
+103. Song, I.; Shin, H.; Shim, E.; Jung, I.; Kim, W.; Shon, J.; Shin, J. Genetic variants of the organic cation transporter 2 inﬂuence the
+disposition of metformin. Clin. Pharmacol. Ther. 2008 ,84, 559–562. [CrossRef]
+104. Jala, A.; Ponneganti, S.; Devi, S.V .; Bhuvanam, G.; Mekala, P .R.; Varghese, B.; Pullapanthula, R.; Adela, R.; Murty, U.S.; Borkar,
+R.M. Transporter-mediated drug-drug interactions: Advancement in models, analytical tools and regulatory perspective. Drug
+Metab. Rev. 2021 , 1–87. [CrossRef]
+105. Lee, S.-C.; Arya, V .; Yang, X.; Volpe, D.A.; Zhang, L. Evaluation of transporters in drug development: Current status and
+contemporary issues. Adv. Drug Del. Rev. 2017 ,116, 100–118. [CrossRef] [PubMed]

@@ -1,0 +1,691 @@
+Yanetal. BMCBioinformatics 2019,20(Suppl15):538
+https://doi.org/10.1186/s12859-019-3093-x
+RESEARCH OpenAccess
+DDIGIP:predictingdrug-drug
+interactionsbasedonGaussianinteraction
+profilekernels
+ChengYan1,2,GuihuaDuan1,YiPan3,Fang-XiangWu4andJianxinWang1*
+From14thInternationalSymposiumonBioinformaticsResearchandApplications(ISBRA’18)
+Beijing,China.8-11June2018
+Abstract
+Background: Adrug-drug interaction(DDI)isdefinedasadrugeffectmodifiedbyanotherdrug,whichisvery
+commonintreatingcomplexdiseasessuchascancer.ManystudieshaveevidencedthatsomeDDIscouldbean
+increaseoradecreaseofthedrugeffect.However,theadverseDDIsmayberesultinseveremorbidityandeven
+moralityofpatients,whichalsocausesomedrugstowithdrawfromthemarket.Asthemulti-drugtreatmentbecomes
+moreandmorecommon,identifyingthepotentialDDIshasbecomethekeyissueindrugdevelopmentanddisease
+treatment.However,traditionalbiologicalexperimentalmethods,includinginvitroandvivo,areverytime-consuming
+andexpensivetovalidatenewDDIs.Withthedevelopmentofhigh-throughputsequencingtechnology,many
+pharmaceuticalstudiesandvariousbioinformaticsdataprovideunprecedentedopportunitiestostudyDDIs.
+Result:Inthisstudy,weproposeamethodtopredictnewDDIs,namelyDDIGIP,whichisbasedonGaussian
+InteractionProfile(GIP)kernelonthedrug-druginteractionprofilesandtheRegularizedLeastSquares(RLS)classifier.
+Inaddition,wealsousethek-nearestneighbors(KNN)tocalculatetheinitialrelationalscoreinthepresenceofnew
+drugsviathechemical,biological,phenotypicdataofdrugs.WecomparethepredictionperformanceofDDIGIPwith
+othercompetingmethodsviathe5-foldcrossvalidation,10-crossvalidationanddenovodrugvalidation.
+Conlusion: In 5-foldcrossvalidationand10-crossvalidation,DDRGIPmethodachievestheareaundertheROC
+curve(AUC)of0.9600and0.9636whicharebetterthanstate-of-the-artmethod(L1Classifierensemblemethod)of
+0.9570and0.9599.Furthermore,fornewdrugs,theAUCvalueofDDIGIPindenovodrugvalidationreaches0.9262
+whichalsooutperformstheotherstate-of-the-artmethod(Weightedaverageensemblemethod)of0.9073.Case
+studiesandtheseresultsdemonstratethatDDRGIPisaneffectivemethodtopredictDDIswhilebeingbeneficialto
+drugdevelopmentanddiseasetreatment.
+Keywords: Drug,Drug-druginteraction,Gaussianinteractionprofile,RLS
+*Correspondence: jxwang@mail.csu.edu.cn
+1SchoolofComputerScienceandEngineering,CentralSouthUniversity,932
+SouthLushanRd,410083,ChangSha,China
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2019 OpenAccess ThisarticleisdistributedunderthetermsoftheCreativeCommonsAttribution4.0
+InternationalLicense( http://creativecommons.org/licenses/by/4.0/ ),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedyougiveappropriatecredittotheoriginalauthor(s)andthesource,providealinktothe
+CreativeCommonslicense,andindicateifchangesweremade. TheCreativeCommonsPublicDomainDedicationwaiver
+(http://creativecommons.org/publicdomain/zero/1.0/ )appliestothedatamadeavailableinthisarticle,unlessotherwisestated.Yanetal. BMCBioinformatics 2019,20(Suppl15):538 Page2of10
+Background
+Drug-drug interactions (DDI) is defined as that a drug
+affects the efficacy of another drug when multi-drugs are
+adopted in the treatment of a disease [ 1]. DDIs can lead
+to change systemic exposure and result in variations in
+drug responses, which can improve the drugs efficiency
+andthelifequalityofillnesses[ 2].However,DDIsalsocan
+cause serious adverse effects, drug withdrawal from the
+market and even the patient morality [ 3,4]. Meanwhile,
+with the medical technology development and personal-ized medical requirements, more and more patients were
+simultaneously treated by multi-drugs and between 2009
+and2012,38.1%ofU.S.adultsaging18-44yearsusedthree
+or more prescription drugs during a 30 day time period
+[5–7]. Therefore, identifying the potential DDIs has
+become a major issue in drug development and practice
+process.
+With the high-throughput sequencing technology
+development, many databases related to drugs have been
+constructed.DrugBankdatabasecanprovidedrugtargets,
+drug enzymes, drug transporters and DDIs, which arewidelyusedinstudyingdrug-targetassociationsanddrug
+repositioning [ 8–10]. PubChem Compound database
+contains the chemical substructures and their biologi-c a lt e s tr e s u l t s[ 11]. In addition, SIDER and OFFSIDES
+databases include drug side effects and "off-label" side
+effects, respectively [ 12,13]. KEGG database contains
+drug pathways and chemical substructures [ 14]. TWO-
+SIDES database contains the DDIs based on the adverse
+event reports in the AERS (adverse effect reactions)
+[13,15].
+The above mentioned databases related to drugs were
+extracted from the published literature and reports with
+experimental validation, and could provide the basis to
+the development of computational methods to predictnew DDIs. Recently, many computational methods have
+been proposed to predict potential DDIs based on the
+assumptionthatsimilardrugstendtointeractwithsimilarother drugs. These approaches usually used the biolog-
+ical network data, chemical substructure data and phe-
+notypic data. Based on MACCS substructures of drugs,Vilar et al. developed a similarity-based model to pre-
+dict new DDIs [ 16]. Liu et al. proposed a model to
+predictpotentialDDIsviarandomforest-basedclassifica-tion model, which also adopted a feature selection tech-
+nique over the chemical substructures, protein-protein
+interactions between targets of drugs and target enrich-
+ment of KEGG pathways [ 17]. Cheng et al. proposed a
+method to infer novel DDIs via machine learning classi-fiers, whose major feature is integrating drug chemical,
+phenotypic and genomic properties [ 18]. IPFs (interac-
+tionprofilefingerprints)methodwasproposedtopredicthidden DDIs [ 19]. Logistic regression model was used
+to predict new DDIs by Takeda et al., which analyzedthe effects of 2D structural similarities of drugs on DDI
+prediction with other pharmacokinetics (PK) and phar-
+macodynamics(PD)knowledge[ 20].Viaconstructingthe
+drug similarity based on their 2D and 3D molecular sub-structures, targets, side effects and known DDIs, Vilar et
+al. further proposed a method to predict new DDIs on
+a large scale data, where the key feature is capturing thecharacteristicsofdrugsby3Dsubstructureswhen2Dsub-
+structures are missing [ 21]. Herrero-Zazo et al. provided
+a computational method to predict DDIs by differenttypes of DDIs and their mechanisms [ 22]. By integrat-
+ingsimilaritiesfromdrugmolecularandpharmacological
+phenotypes, Li et al. used a Bayesian network to providelarge-scale exploration and analysis of drug combinations
+[23]. Through calculating the functional similarity from
+drug carriers, drug transporters, drug enzymes and drugtargets, Ferdousi et al. developed an approach to dis-
+cover new DDIs [
+24]. Based on the Probabilistic Soft
+Logicmethod,acomputationalframeworkwasdeveloped
+to discover new DDIs by integrating the multiple drug
+similarities and known DDIs [ 25]. The label propagation
+approachwasalsodevelopedtodiscovernewDDIs,which
+used drug chemical structures, side effects and off side
+effects [26]. In order to predict drug adverse drug reac-
+tions (ADRs), a systems pharmacology model called MEF
+(multiple evidence fusion) has been developed by inte-
+grating known DDIs and other similarities of drugs [ 27].
+Based on the assumption that synergistic effects of drugs
+are usually similar, Network-based Laplacian regularized
+Least Square Synergistic (NLLSS) method was developedto predict novel DDIs [ 28]. Via calculating the similari-
+ties of chemical, biological, phenotypic and known DDIs
+of drugs, Zhang et al. proposed three ensemble methodsto predict novel DDIs, which included a weight average
+ensemble method and two classifier ensemble methods
+(L1andL2)[ 29].
+In addition, many other approaches used quantita-
+tive structure-activity relationship (QSAR) model, clin-ical data and data mining to study DDIs. Matthews
+et al. developed 14 QSAR models to predict the car-
+diacadverseeffectsforgenericpharmaceuticalsubstances[30]. Zakharov et al. developed QSAR models to predict
+thelikelihoodofDDIsforanypairofdrugsbyradialbasis
+functions with self-consistent regression (RBF-SCR) andrandomforest(RF)[ 31].Camietal.proposedaPredictive
+Pharmacointeraction Networks (PPINs) to predict novel
+DDIs by exploiting the known DDIs and other intrinsicand taxonomic properties of drugs and AEs [ 32]. Huang
+et al. developed a method to predict DDIs using protein-
+protein interaction network and clinical side effects [ 33].
+Based on information of drug metabolism, text-mining
+andreasoningmethodsweredevelopedtoinfernewDDIs
+[34]. Iyer et al. used the textual portion Electronic health
+records(EHRs)todirectlydiscovernewDDIs[ 35].BandaYanetal. BMCBioinformatics 2019,20(Suppl15):538 Page3of10
+et al. also adopted a data mining method to predict
+new DDIs from the EHRs [ 36]. Based on the k-nearest
+neighbor algorithm, Chen et al. proposed a model to
+predict DDIs which integrated nine predictors by major-ity voting [ 37]. Furthermore, the drug response predic-
+tion and drug-target interaction prediction are also the
+important research topics about drugs. By integratinggenomic/pharmaceutical data, protein-protein interac-
+tionnetwork,andpriorknowledgeofdrug-targetinterac-
+tions with the techniques of network propagation, Wanget al. have developed a dNetFS method to prioritize
+genetic and gene expression features of cancer cell lines
+that predict drug response [ 38]. Based on the massively
+collected drug-kinase interactions and drug sensitivity
+datasets, Liu et al. employed a sparse linear model to
+infer essential kinases governing the cellular responses todrugtreatmentsincancercells[ 39].Basedonthesequence
+information of both targets and drugs, DeepDTA is used
+topredictdrug-targetinteractionbindingaffinities,which
+isadeep-learningbasedmodel(convolutionalneuralnet-
+works)[40].
+Although the above DDI prediction methods have
+achieved some good prediction results of novel DDIs and
+provided useful information for drug development andpractice process. However, these methods did not pay
+enough attention to new drugs which do not have any
+DDIs with other drugs or cannot predict novel DDIs fornewdrugsbecauseknownDDIsaremissing.
+In this study, we develop a computational method
+(called DDIGIP) to predict novel DDIs based on drugGaussian interaction profile (GIP) kernel similarity and
+regularized least squares (RLS) classifier. We calculate
+the GIP similarity of drugs by known DDIs, and thenadopt the RLS method to compute the related scores of
+any drug pairs. In addition, when predicting DDIs for
+new drugs, we use the KNN method to compute the ini-
+tial relational scores by similarity calculated from some
+important chemical, biological and phenotypic informa-tion of drugs. The drug chemical structures, drug-target
+interactions, drug enzymes, drug transports, drug path-
+ways, drug indications, drug side effects and drug offside effects are all used to calculate similarity of drugs.
+5-fold cross validation (5CV), 10-fold cross validation
+(10CV) and de novo drug validation are used to systemi-callyassesspredictionperformanceofDDIGIP,compared
+with other methods. In 5-fold cross validation, the area
+under the ROC curve (AUC) value of DDIGIP is 0.9600which is slightly better than the state-of-the-art method
+L1 classifier ensemble (L1E) method results of 0.9570. In
+addition, the experimental results of 10-fold cross valida-tion also demonstrate that DDIGIP outperforms the L1E
+method.Indenovodrugvalidation,DDIGIPachievesthe
+AUC of 0.9262, which is also better than the weighted
+average ensemble (WAE) method result of 0.9073. Casestudies further validate the prediction ability of DDIGIP
+method.
+Materials
+In this study, the benchmark dataset of DDIs composes
+of 548 drugs and 48,584 DDIs. This dataset is obtained
+from the TWOSIDES database. In addition, because weneed to calculate the relational scores of new drugs, we
+also download other chemical, biological and phenotypic
+data from other databases to compute the similarity ofdrugs. The chemical data are PubChem substructures
+which are downloaded from the PubChem Compound
+database.Biologicaldataincludedrugtargets,drugtrans-
+ports, drug enzymes and drug pathways, the first three
+types are obtained from the DrugBank database and thelast one is from the KEGG database. Furthermore, the
+phenotypic data composes of drug indications, drug side
+effects and drug off side effects. The SIDER databaseprovided the drug indications and drug side effects, and
+OFFSIDESprovidedthedrugoffsideeffects.
+Previous studies also provided the download links for
+thesedatasets[ 29].Table1showstherelevantinformation
+whichincludesdatatype,datasourceanddimensionality.
+Methods
+GIPkernelsimilarityofdrugs
+The GIP kernel similarity has widely been used in otherprediction issues of similar areas and achieved effective
+prediction performances [ 41–46]. RLS-Kron is provided
+topredictdrug-targetinteractionsbasedonRLSclassifier
+of Kronecker product kernel and GIP kernel similarities
+of drugs and targets [ 41]. SDTRLS is provided to predict
+drug-targetinteractionsbasedonintegrationsimilarityof
+drugGIPkernelsimilarityandchemicalsubstructuresim-
+ilaritybytheSNFmethod[ 42,47].LDAPisusedtopredict
+lncRNA-disease associations by using a bagging SVM
+Table1Thedescriptionofbenchmarkdataset
+Data
+typeData Database dimensionality
+chemical Chemical
+substructuresPubChem 881
+Biological Drug-targets DrugBank 780
+Drugtransporters DrugBank 18Drugenzymes DrugBank 129Drugpathways KEGG 253
+Phenotypic Drugindications SIDER 4897
+Drugsideeffects SIDER 4897Drugoff
+sideeffectsOFFSIDES 9496
+Interaction Drug-drug
+interactionsTWOSIDES Drugs:548,DDIs:48,584Yanetal. BMCBioinformatics 2019,20(Suppl15):538 Page4of10
+classifier based on lncRNA and disease similarities which
+include GIP kernel similarity [ 43]. DNRLMF-MDA is an
+miRNA-disease associations prediction method based on
+dynamicneighborhoodregularizedlogisticmatrixfactor-ization,whichalsousestheGIPkernelsimilarity.
+WecomputetheGIPsimilarityofdrugsviaknownDDIs
+in this study. We denote D={d
+1,d2,......,dN}as the set
+ofNdrugs. The known DDIs can be represented by an
+adjacency matrix Y∈N∗N. The value of yijis 1 ifdi
+anddjhaveaknowninteraction,and0otherwise.TheGIP
+kernelsimilaritybetweendrugs dianddjcanbecalculated
+asfollows:
+Gsim/parenleftbig
+di,dj/parenrightbig
+=exp/parenleftbig
+−γd||ydi−ydj||2/parenrightbig
+(1)
+γd=γ,
+d//parenleftBigg
+1
+NN/summationdisplay
+i=1||ydi||2/parenrightBigg
+(2)
+where γdis the regularization parameter of kernel band-
+width and γ,
+dis set to be 1 according to previous studies
+[42,44],ydi={yi1,yi2,......,yiN}is the interaction profile
+ofdrugdi.
+RLSclassifierandpredictiondDIs
+The (kernel) RLS classifier is based on the assumption
+thatsimilarprincipal(adjuvant)drugsaretendedtointer-
+act with the same adjuvant (principal) drug and has beenwidely used in other areas [ 42,48,49]. After calculating
+theGIPkernelsimilarity G
+sim,weadopttheRLSclassifier
+tocomputetheinteractionprobabilityscoresofdrugpairsasfollows:
+ˆY
+p=Gsim(Gsim+σI)−1Y (3)
+YP=ˆYp+ˆYT
+p
+2(4)
+where σis the regularization parameter and set to be 1
+according to previous study [ 41]. Furthermore, the Gsim
+andIaretheGIPsimilaritymatrixandtheidentitymatrix,
+respectively. The Ypis the final prediction result matrix,
+which is symmetric. The interacted probabilities of drugpairs are ranked in descending order. A candidate drug
+pairwiththerank1isofthemostpossibledrugpair.
+KNNfornewdrugs
+New drugs have no any known interaction with other
+drugs, which makes prediction DDIs for these drugs isimpossible by existing methods. Therefore, we adopt the
+KNN method to calculate their initial relational scores
+based on the integrated feature similarity of chemical
+structure,biologicalandphenotypicinformation.
+In order to calculate the integrated feature similarity
+S
+sim∈N∗N,weadoptthePearsoncorrelationcoefficient
+tocomputesimilaritybasedonthebinaryvectorsofdrug
+chemical substructures, drug targets, drug transporters,drugenzymes,drugpathways,drugindications,drugsideeffects and drug off side effects. We can see from Table
+1 that the total dimensionality of a binary vector of any
+drug is 21,351, whose value is 1 when the related feature
+ispresentandotherwiseis0.Specifically,thesimilarityofdrugpair d
+ianddjiscalculatedasfollows:
+Si,j
+sim=Cov/parenleftBig
+vdi,vdj/parenrightBig
+D/parenleftbig
+vdi/parenrightbig
+D/parenleftBig
+vdj/parenrightBig=E/parenleftBig/parenleftbig
+vdi−Evdi/parenrightbig/parenleftBig
+vdj−Evdj/parenrightBig/parenrightBig
+D/parenleftbig
+vdi/parenrightbig
+D(vdj)(5)
+wherevdiandvdjarethefeaturevectorsofdrugs dianddj,
+respectively. Covis the covariance. EandDare the math-
+ematicalexpectationandstandarddeviation,respectively.
+After obtaining the integrated feature similarity Ssim,
+we calculate the initial scores of new drugs by the KNN
+method. Specifically, the interaction scores YKNN(di,dj)
+between new drug diand another drug djcan be calcu-
+latedasfollows:
+YKNN/parenleftbig
+di,dj/parenrightbig
+=/summationtextS(i,l)
+simylj/summationtextS(i,l)
+sim,dl∈Kset (6)
+whereS(i,l)
+simis the (i,l)-th element of the integrated simi-
+laritymatrixand yljisthe(l,j)-thelementofknownDDIs
+matrixY∈N∗N.Ksetrepresentsthesetoftop Knearnest
+neighbors according to the Ssimmatrix. In this study, we
+setthevalueof Kbydenovodrugvalidation.
+Algorithm 1 is the description of our DDIGIP method.
+As the 0 vectors in the DDIs adjacency matrix Ycorre-
+spond to unknown cases, we firstly compute the initialrelational interaction scores for new drugs via the KNN
+method which uses the feature similarity S
+simof drugs by
+integratingchemical,biologicalandphenotypicdata.The
+Algorithm1 DDIGIP
+Input:Drug set DS, DDIs adjacency matrix Y,a n d
+parameter K
+Output: predictedassociationmatrix Yp
+DDIGIP( DS,Y,K)
+1:Searchfordrugset DNew(0vector)thateachdrughas
+noknownDDIs;
+2:ifDNewisnotnull
+3:Calculatefeaturesimilarity SsimofdrugsbyPearson
+correlationcoefficient;
+4:foriinDNew
+5:Calculatethe YKNN(i,:)bytheKNNmethod;
+6:Setinitialscoresofdrug dibyYKNN(i,:);
+7:end
+8:end
+9:CalculateGIPsimilarity Gdofdrugs;
+10:Basedon GdandY,obtainthepredictionresult Ypby
+theRLSmethod;
+11:ReturnYp;Yanetal. BMCBioinformatics 2019,20(Suppl15):538 Page5of10
+feature similarity Ssimis calculated by Pearson correla-
+tioncoefficient.AftercomputingtheGIPsimilarity Gdof
+drugs, we take the RLS classifier to calculate the interac-
+tionscoresofdrugpairs.ThefinalpredictionresultmatrixisY
+p.F igure1demonstratestheworkflowofDDIGIP.
+RESULTSaNDdISCUSSIONS
+Benchmarkevaluationandevaluationindices
+5CV and 10CV are widely used to evaluate the per-
+formance for predicting drug-drug interactions [ 28,29],
+drug-target interactions [ 42,50], drug-disease inter-
+actions [ 51–53], lncRNA-disease associations [ 43,54],
+miRNA-disease associations [ 44,55]a n ds oo n .I nt h i s
+study, we evaluate the predictive performance of DDIGIP
+using5CVand10CV.In5CV,allknownDDIsaredividedinto 5 folds, and each fold, in turn, was left out as the
+test set while the rest 4 folds as the training set. In 10CV,
+we also divide known DDIs into 10 folds, and each fold istreated as test set in turn, while the remaining 9-folds are
+asthetrainingset.Weadopt10repeatsin5CVand10CV.
+Furthermore, the actual generalization ability of predict-ing potential DDIs for new drugs is also an important
+aspecttoassessthepredictionperformance.Wethuscon-
+duct de novo drug validation to evaluate the predictiveperformance of DDIGIP. In de novo drug validation, we
+takeknownDDIsofeachdrug,inturn,andtherestDDIs
+ofotherdrugsasthetrainingset.
+From a prediction method, each drug pair obtains a
+prediction score. Then each known interaction betweentwo drugs in the test is ranked relative to the candidateinteractions (all unknown interactions). On a specified
+rank threshold, TPR (true positive rate) is the fraction of
+known interactions that are correctly predicted, and FPR
+(falsepositiverate)isthefractionofunknowninteractionsthat are predicted to be true interactions. The receiver
+operatingcharacteristiccurve(ROC)canbedrawnbased
+on various TPR and FPR values with various rank thresh-olds.Thenwealsousetheareaunderthereceiveroperat -
+ing curve (AUC) to measure the prediction performance
+of DDIGIP and other methods. The higher its AUC valueis,thebetterpredictionperformanceamethodachieves.
+Comparisonwithpreviousmethods
+In this study, we compare our method with other fourmethods: weighted average ensemble (WAE) method, L1
+classifier ensemble (L1E) method, L2 classifier ensemble
+(L2E) method [ 29] and label propagation (LP) method
+[26], with the same validation method in the benchmark
+dataset.
+5CV
+Table2shows that the prediction performances of five
+methodsin5CV.BasedontheAUCvaluesofthesemeth-
+ods, DDIGIP is slightly better than other methods. Itshows that the GIP similarity is reasonable to use known
+DDIs because DDIGIP only uses known DDIs in 5CV.
+In addition, three integrating methods (WAE, L1E, L2E)
+were also achieved the good results because they inte-
+grated the neighbor recommender method, random walkmethodandmatrixperturbationmethod.
+Fig.1TheworkflowofDDIGIPYanetal. BMCBioinformatics 2019,20(Suppl15):538 Page6of10
+Table2Thepredictionperformancesin5CV,10CVanddenovo
+validation,thebestresultsareintheboldface
+Theprediction
+performances(AUC)
+Method Feature 5CV 10CV Denovo
+WAE Chemicaldata,
+biologicaldata,phenotypicdata0.9502 0.9530 0.9073
+L1E Chemicaldata,
+biologicaldata,phenotypicdata0.9570 0.9599 ∅
+L2E Chemicaldata,
+biologicaldata,phenotypicdata0.9561 0.9594 ∅
+LPDrug-sub 0.9356 0.9359 0.8993
+Drug-Label 0.9364 0.9368 0.8994Drug-OffLabel 0.9374 0.9378 0.8997
+DDIGIP Chemicaldata,
+biologicaldata,phenotypicdata0.9600 0.9636 0.9262
+The∅representsthatwedidnotcomputethepredictionperformancebecausethe
+predictionlimitfornewdrugs.
+10CV
+Table2also shows the prediction performances of five
+methods in 10CV. DDIGIP also achieved the best predic-tion result and its AUC value is 0.9636 which is larger
+thanothermethodsWAE:0.9530,L1E:0.9599,L2E:0.9594
+and LP (max): 0.9378, respectively. By comparing the
+prediction performances of DDIGIP in 5CV and 10CV,
+DDIGIPismoreeffectivetopredictDDIsin10CVthanin5CV. It proves that DDIGIP has better prediction ability
+whentherearemanyknownDDIs.
+Denovodrugvalidation
+In de novo drug validation, we compare DDIGIP with
+LP and WAE. We do not perform the de novo drugvalidationonotherexistingmethodsbecauseoftheirpre-
+dictionlimitfornewdrugs.Similartopreviousstudies,we
+also obtain the weights of integrated methods (neighborrecommender method and random walk method) with
+drug chemical data, biological data and phenotypic data.
+Table2shows that DDIGIP also obtains the best predic-
+tion performance in terms of AUC (0.9262), compared
+with other methods (WAE: 0.9073, LP (max):0.8997). It
+alsofurtherindicatesthattheGIPsimilarityiseffectivetouseknownDDIs.
+Computationtimecomparison
+The computation time is also an important aspect toassesstheperformanceofcomputationalmethods.Inthisstudy, we also compare the average computation time
+o ff i v em e t h o d si n5 C V .F i g u r e 2shows that the run-
+time of DDIGIP is less than those of other methods. Inaddition, since WAE, L1E and L2E are the integrationmethod, their computation times are longer than those
+of LP and DDIGIP. We can see from Fig. 2that DDIGIP
+runs the fastest and its computation time is 6.61 seconds
+in5CV.
+Parameteranalysisfor K
+In order to verify the robustness of DDIGIP, we ana-
+lyze the parameters Kthat is the number of the near-
+est neighbors in de novo drug validation. The optimal
+parameter value of Kis selected by the grid search.
+Figure3shows the AUC values of DDIGIP under vari-
+ation of K ranging from 1 to 15 in de novo validation.
+We can see from Fig. 3that the prediction performance
+has the ascending trend when K ranges from 1 to 7,
+while has the descending trend when K ranges from 11to 15. In addition, DDIGIP has a relatively stable predic-
+tion performance and achieves the best prediction result
+(AUC:0.9262) when K is 9. It indicates that a reasonablevalue of K can improve the prediction performance of
+DDIGIP.
+Casestudies
+To illustrate the prediction performance of DDIGIP
+method, we conduct two types of case studies. The oneincludesthetop20predictedDDIsunderallknownDDIs,
+in which the benchmark dataset is obtained from the
+TWOSIDES database while the confirmed database is
+DrugBanK database. Another includes top 20 the new
+DDIsindenovovalidationofdrugRanolazine(DB00243)whose confirmed database composes of TWOSIDES
+databaseandDrugBanKdatabase.
+We can see from Table 3that 9 out of top 20 DDIs
+predictedbyDDIGIParevalidatedinDrugBank.Thever-
+ification success rate is 45%. Zafirlukast (DB00549) is an
+oral leukotriene receptor antagonist (LTRA) drug usu-ally used in the maintenance treatment of asthma, its
+metabolism can be decreased by Rabeprazole (DB01129)
+[56,57]. Atazanavir (DB01072) is an antiretroviral drug
+of the protease inhibitor (PI) class, which is used to treat
+infection of human immunodeficiency virus (HIV) and
+its metabolism can be decreased when combining withAmlodipine (DB00381) [ 8,58]. In addition, Pantoprazole
+(DB00213) also decreases the metabolism of Methadone
+(DB00333)[ 59] .T h er i s ko rs e v e r i t yo fa d v e r s ee f f e c t s
+can be increased when Atenolol (DB00335) is combined
+withNadolol(DB01203),Clotrimazole(DB00257)iscom-bined with Pregabalin (DB00230) or Enalapril (DB00584)
+is combined with Perindopril (DB00790) [ 9,10,60,61].
+The hypotensive activities of Nadolol (DB01203) can beincreased by Propranolol (DB00571) [ 62]. The absorp-
+tion of Cefpodoxime (DB01416) can be decreased when
+combining with Ranitidine (DB00863) [ 63]. Acebutolol
+(DB01193) also increases the serum concentration of
+Metoprolol(DB00264)[ 64].Yanetal. BMCBioinformatics 2019,20(Suppl15):538 Page7of10
+Fig.2Theaveragecomputationtimesoffivemethodsin5-foldcrossvalidation
+Ranolazine is an antianginal medication used in the
+treatment of chronic angina [ 10]. Table 4shows that
+top 20 predicted DDIs of Ranolazine are validated in
+TWOSIDES database or DrugBanK database. In addi-tion, 12 out of top 20 DDIs are simultaneously confirmed
+by TWOSIDES database and DrugBanK database, while
+the rest are confirmed by one of them. For example,the metabolism of Levothyroxine (DB00451) and Zolpi-
+dem (DB00425) can be decreased when combining with
+Ranolazine [ 15,56]. Clopidogrel is an antiplatelet agent
+structurally and pharmacologically similar to ticlopi-dine, which is used to inhibit blood clots in a vari-
+ety of conditions such as peripheral vascular disease,
+coronary artery disease, and cerebrovascular disease [ 8].
+Fig.3TheAUCofDDIGIPunderdifferentsettingsof Kindenovodrugvalidation,thesign∗representsthedefaultvalueYanetal. BMCBioinformatics 2019,20(Suppl15):538 Page8of10
+Table3Top20newDDIspredictedbyDDIGIPmethod
+Rank DrugID1 DrugID2 Evidence
+1 DB00448 DB01059 Unknown
+2 DB00549 DB01129 DrugBank3 DB00991 DB00231 Unknown4 DB00470 DB00331 Unknown5 DB00630 DB00346 Unknown6 DB00863 DB01416 DrugBank7 DB01203 DB00335 DrugBank8 DB00813 DB00535 Unknown9 DB00257 DB00230 DrugBank10 DB00806 DB01036 Unknown11 DB00927 DB01193 Unknown12 DB00333 DB00213 DrugBank13 DB00987 DB00758 Unknown14 DB01595 DB01137 Unknown15 DB06151 DB01068 Unknown16 DB00328 DB00218 Unknown17 DB00264 DB01193 DrugBank18 DB01072 DB00381 DrugBank19 DB01203 DB00571 DrugBank20 DB00584 DB00790 DrugBank
+Table4Thevalidationresultoftop20newDDIsofdrug
+Ranolazine(DB00243)predictedbyDDIGIPmethodindenovovalidation
+Rank DrugID1 DrugID2 Evidence
+1 DB00243 DB00451 TWOSIDES,DrugBanK
+2 DB00338 TWOSIDES,DrugBanK3 DB00641 TWOSIDES,DrugBanK4 DB00945 TWOSIDES,DrugBanK5 DB00758 TWOSIDES,DrugBanK6 DB00316 DrugBanK7 DB00264 TWOSIDES8 DB00695 TWOSIDES9 DB00722 TWOSIDES10 DB00390 TWOSIDES,DrugBanK11 DB00448 TWOSIDES,DrugBanK12 DB00999 TWOSIDES13 DB00863 TWOSIDES,DrugBanK14 DB00630 TWOSIDES15 DB00635 DrugBanK16 DB00213 TWOSIDES,DrugBanK17 DB00678 TWOSIDES,DrugBanK18 DB00425 TWOSIDES,DrugBanK19 DB00177 TWOSIDES20 DB00331 TWOSIDES,DrugBanKThe serum concentration of Clopidogrel (DB00758) can
+be increased when combining with Ranolazine [ 15]. Sim-
+ilarly,theserumconcentrationofSimvastatin(DB00641),
+Acetylsalicylic (DB00945) or Metformin (DB00331) alsocan be increased when combining with Ranolazine
+[56,65]. In addition, when Ranolazine is combined with
+Omeprazole(DB00338)orAcetaminophen(DB00316),itsserumconcentrationalsocanbeincreased[ 15,66].
+Conclusion
+In this study, we have proposed a computational method,
+calledDDIGIP,forDDIsprediction.TheGIPsimilarityof
+drugs is calculated by the known DDIs, which makes full
+u s eo fk n o w nD D I s .T oo u rk n o w l e d g e ,i nt h ep r e v i o u s
+studies the RLS-Kron method is used to predict interac-tionofbipartitenetworks,suchasdrug-targetinteraction
+networks, drug-disease interaction network and so on.
+Experiments are conducted using two different types ofcrossvalidations:5-foldcrossvalidationand10-foldcross
+validation. The prediction ability of DDIGIP has been
+illustrated by comparing it with four other competingstate-of-the-artmethods.
+Furthermore, based on Pearson correlation coefficient,
+we obtain a comprehensive feature similarity of drugs byintegrating the chemical, biological and phenotypic data
+into a high dimension binary vector. In order to more
+effectively predict DDIs for new drugs, we also conductde novo drug validation. We add a preprocessing step,
+KNN, to compute the initial relational scores according
+to the feature similarity of drugs. Because the vector 0
+in the matrix corresponding to unknown cases or miss-
+ing values rather than confirmed non-interactions, thepreprocessingcanimprovethepredictionperformance.
+Despite the advantages of DDIGIP as discussed above,
+it still has some limitations. The more effective methodshould be developed to integrate known DDIs with other
+chemical, biological and phenotypic data. In addition,
+othernewpredictionmethodssuchasmatrixcompletion[67], deep learning [ 68] and interpretable boosting model
+[69]couldbeconsidered.Finally,inthisstudy,thebench-
+mark dataset of DDIs only includes the positive samplesand is an imbalanced dataset, we will also consider some
+other methods (SVM [ 70],LibD3C [ 71],extreme learning
+machine [ 72] and collaborative metric learning [ 73]) to
+predict DDIs when we obtain reliable negative samples in
+thefuture.Weexpecttodevelopamoreeffectivemethod
+to predict DDIs by overcoming these limitations in thefuture.
+Abbreviations
+10CV:10-foldcrossvalidation;5CV:5-foldcrossvalidation;AUC:Areaunderthereceiveroperatingcurve;DDI:Drug-druginteraction;GIP:Gaussianinteractionprofile;KNN:K-nearestneighbors;L1E:L1Classifierensemblemethod;L2E:L2Classifierensemblemethod;LP:Labelpropagation;RLS:Regularizedleastsquaresclassifier;WAE:WeightedaverageensemblemethodYanetal. BMCBioinformatics 2019,20(Suppl15):538 Page9of10
+Acknowledgements
+Theauthorsareverygratefultotheanonymousreviewersfortheirconstructivecommentswhichhavehelpedsignificantlyinrevisingthiswork.TheauthorswouldliketoexpresstheirgratitudeforthesupportfromtheNationalNaturalScienceFoundationofChina(No.61772552,No.61420106009andNo.61832019),111Project(No.B18059)andHunanProvinvialScienceandTechnologyProgram(No.2018WK4001).
+Aboutthissupplement
+ThisarticlehasbeenpublishedaspartofBMCBioinformatics,Volume20Supplement15,2019:Selectedarticlesfromthe14thInternationalSymposiumonBioinformaticsResearchandApplications(ISBRA-18):bioinformatics.Thefullcontentsofthesupplementareavailableat https://bmcbioinformatics.
+biomedcentral.com/articles/supplements/volume-20-supplement-15
+Authors’contributions
+JWconceivedtheproject;CYandGDdesignedtheexperiments;CYperformedtheexperiments;CY,GDandFXWwrotethepaper.Allauthorsreadandapprovedthefinalmanuscript.
+Funding
+PublicationcostsarefundedbyNationalNaturalScienceFoundationofChinaunderGrantNo.61420106009.
+Availabilityofdataandmaterials
+TheuseddataisprovidedbyZhang etal.[29].Pleasedownloadthedatafrom
+https://github.com/zw9977129/drug-drug-interaction/ orcontacttheauthors
+fordatarequests.
+Ethicsapprovalandconsenttoparticipate
+Notapplicable.
+Consentforpublication
+Notapplicable.
+Competinginterests
+Theauthorsdeclarethattheyhavenocompetinginterests.
+Authordetails
+1SchoolofComputerScienceandEngineering,CentralSouthUniversity,932
+SouthLushanRd,410083,ChangSha,China.2SchoolofComputerand
+Information,QiannanNormalUniversityforNationalities,LongshanRoad,558000,DuYun,China.
+3DepartmentofComputerScience,GeorgiaState
+University, GA30302,Atlanta,USA.4BiomedicalEngineeringandDepartment
+ofMechanicalEngineering,UniversityofSaskatchewan, SKS7N5A9,Saskatoon,Canada.
+Received:31August2019 Accepted:10September2019
+Published:24December2019
+References
+1. CrowtherNR, HolbrookAM, KenwrightR, KenwrightM.Drug
+interactionsamongcommonlyusedmedications.chartsimplifiesdatafromcriticalliteraturereview.CanFamPhys.1997;43:1972.
+2. VenkatakrishnanK, vonMoltkeLL, ObachR, GreenblattDJ.Drug
+metabolismanddruginteractions:applicationandclinicalvalueofinvitromodels.CurrDrugMetabolism.2003;4(5):423–59.
+3. QuinnD, DayR.Druginteractionsofclinicalimportance.DrugSafety.
+1995;12(6):393–452.
+4. OnakpoyaIJ, HeneghanCJ, AronsonJK.Post-marketingwithdrawalof
+anti-obesitymedicinalproductsbecauseofadversedrugreactions:asystematicreview.BMCMed.2016;14(1):191.
+5. CDC.Health,UnitedStates,2014(5/2015)-hus14.pdf. http://www.cdc.
+gov/nchs/data/hus/hus14.pdf .Accessed15Nov2017.
+6. NahtaR, HungM-C, EstevaFJ.Theher-2-targetingantibodies
+trastuzumabandpertuzumabsynergisticallyinhibitthesurvivalofbreastcancercells.CancerRes.2004;64(7):2343–6.
+7. ChouT-C.Drugcombinationstudiesandtheirsynergyquantification
+usingthechou-talalaymethod.CancerRes.2010;70(2):440–6.8. WishartDS, KnoxC, GuoAC, ShrivastavaS, HassanaliM, StothardP,
+ChangZ, WoolseyJ.Drugbank:acomprehensiveresourceforinsilicodrugdiscoveryandexploration.NucleicAcidsRes.2006;34(suppl_1):668–72.
+9. KnoxC, LawV, JewisonT, LiuP, LyS, FrolkisA, PonA, BancoK, MakC,
+NeveuV,etal.Drugbank3.0:acomprehensiveresourcefor’omics’researchondrugs.NucleicAcidsRes.2010;39(suppl_1):1035–41.
+10. LawV, KnoxC, DjoumbouY, JewisonT, GuoAC, LiuY, MaciejewskiA,
+ArndtD, WilsonM, NeveuV,etal.Drugbank4.0:sheddingnewlightondrugmetabolism.NucleicAcidsRes.2013;42(D1):1091–7.
+11. WangY, XiaoJ, SuzekTO, ZhangJ, WangJ, BryantSH.Pubchem:a
+publicinformationsystemforanalyzingbioactivitiesofsmallmolecules.NucleicAcidsRes.2009;37(suppl_2):623–33.
+12. KuhnM, CampillosM, LetunicI, JensenLJ, BorkP.Asideeffectresource
+tocapturephenotypiceffectsofdrugs.MoleSystBiol.2010;6(1):343.
+13. TatonettiNP, PatrickPY, DaneshjouR, AltmanRB.Data-drivenprediction
+ofdrugeffectsandinteractions.SciTransMed.2012;4(125):125–31.
+14. KanehisaM, GotoS, FurumichiM, TanabeM, HirakawaM.Keggfor
+representationandanalysisofmolecularnetworksinvolvingdiseasesanddrugs.NucleicAcidsRes.2009;38(suppl_1):355–60.
+15. PoluzziE, RaschiE, MorettiU, DePontiF.Drug-inducedtorsadesdepointes:
+dataminingofthepublicversionofthefdaadverseeventreportingsystem(aers).PharmacoepidemiolDrugSafety.2009;18(6):512–8.
+16. VilarS, HarpazR, UriarteE, SantanaL, RabadanR, FriedmanC.
+Drug-druginteractionthroughmolecularstructuresimilarityanalysis.JAmMedInfAssoc.2012;19(6):1066–74.
+17. LiuL, ChenL, ZhangY.-H., WeiL, ChengS, KongX, ZhengM, HuangT,
+CaiY-D.Analysisandpredictionofdrug–druginteractionbyminimumredundancymaximumrelevanceandincrementalfeatureselection.JBiomoleStructDynamics.2017;35(2):312–29.
+18. ChengF, ZhaoZ.Machinelearning-basedpredictionofdrug–drug
+interactionsbyintegratingdrugphenotypic,therapeutic,chemical,andgenomicproperties.JAmMedInfAssoc.2014;21(e2):278–86.
+19. VilarS, UriarteE, SantanaL, TatonettiNP, FriedmanC.Detectionof
+drug-druginteractionsbymodelinginteractionprofilefingerprints.PloSone.2013;8(3):58321.
+20. TakedaT, HaoM, ChengT, BryantSH, WangY.Predictingdrug–drug
+interactionsthroughdrugstructuralsimilaritiesandinteractionnetworksincorporatingpharmacokineticsandpharmacodynamicsknowledge.JCheminforma.2017;9(1):16.
+21. VilarS, UriarteE, SantanaL, FriedmanC, PTatonettiN.Stateoftheartand
+developmentofadrug-druginteractionlargescalepredictorbasedon3dpharmacophoricsimilarity.CurrDrugMetabolism.2014;15(5):490–501.
+22. Herrero-ZazoM, Segura-BedmarI, HastingsJ, MartínezP.Dinto:using
+owlontologiesandswrlrulestoinferdrug–druginteractionsandtheirmechanisms.JChemInfModeling.2015;55(8):1698–707.
+23. LiP, HuangC, FuY, WangJ, WuZ, RuJ, ZhengC, GuoZ, ChenX,
+ZhouW,etal.Large-scaleexplorationandanalysisofdrugcombinations.Bioinformatics.2015;31(12):2007–16.
+24. FerdousiR, SafdariR, OmidiY.Computationalpredictionofdrug-drug
+interactionsbasedondrugsfunctionalsimilarities.JBiomedInforma.2017;70:54–64.
+25. SridharD, FakhraeiS, GetoorL.Aprobabilisticapproachforcollective
+similarity-baseddrug–druginteractionprediction.Bioinformatics.2016;32(20):3175–82.
+26. ZhangP, WangF, HuJ, SorrentinoR.Labelpropagationpredictionof
+drug-druginteractionsbasedonclinicalsideeffects.SciRep.2015;5:12339.
+27. CaoD-S, XiaoN, LiY-J, ZengW-B, LiangY-Z, LuA-P, XuQ-S, ChenA.
+Integratingmultipleevidencesourcestopredictadversedrugreactionsbasedonasystemspharmacologymodel.CPT:PharmacomSystPharmacol.2015;4(9):498–506.
+28. ChenX, RenB, ChenM, WangQ, ZhangL, YanG.Nllss:predicting
+synergisticdrugcombinationsbasedonsemi-supervisedlearning.PLoSComputBiol.2016;12(7):1004975.
+29. ZhangW, ChenY, LiuF, LuoF, TianG, LiX.Predictingpotential
+drug-druginteractionsbyintegratingchemical,biological,phenotypicandnetworkdata.BMCbioinformatics.2017;18(1):18.
+30. MatthewsEJ, FridAA.Predictionofdrug-relatedcardiacadverseeffects
+inhumans-a:Creationofadatabaseofeffectsandidentificationoffactorsaffectingtheiroccurrence.RegToxicolPharmacol.2010;56(3):247–75.Yanetal. BMCBioinformatics 2019,20(Suppl15):538 Page10of10
+31. ZakharovAV, VarlamovaEV, LaguninAA, DmitrievAV, MuratovEN,
+FourchesD, Kuz’minVE, PoroikovVV, TropshaA, NicklausMC.Qsarmodelingandpredictionofdrug–druginteractions.MolePharma.2016;13(2):545–56.
+32. CamiA, ManziS, ArnoldA, ReisBY.Pharmacointeractionnetworkmodels
+predictunknowndrug-druginteractions.PloSone.2013;8(4):61468.
+33. HuangH, ZhangP, QuXA, SanseauP, YangL.Systematicpredictionof
+drugcombinationsbasedonclinicalside-effects.SciRep.2014;4:7160.
+34. TariL, AnwarS, LiangS, CaiJ, BaralC.Discoveringdrug–drug
+interactions:atext-miningandreasoningapproachbasedonpropertiesofdrugmetabolism.Bioinformatics.2010;26(18):547–53.
+35. IyerSV, HarpazR, LePenduP, Bauer-MehrenA, ShahNH.Miningclinical
+textforsignalsofadversedrug-druginteractions.JAmMedInformaAssoc.2014;21(2):353–62.
+36. BandaJM, CallahanA, WinnenburgR, StrasbergHR, CamiA, ReisBY,
+VilarS, HripcsakG, DumontierM, ShahNH.Feasibilityofprioritizingdrug–drug-eventassociationsfoundinelectronichealthrecords.DrugSafety.2016;39(1):45–57.
+37. ChenL, ChuC, ZhangY-H, ZhengM, ZhuL, KongX, HuangT.
+Identificationofdrug-druginteractionsusingchemicalinteractions.CurrBioinforma.2017;12(6):526–34.
+38. WangJ, KribelbauerJ, RabadanR.Networkpropagationrevealsnovel
+featurespredictingdrugresponseofcancercelllines.CurrBioinforma.2016;11(2):203–10.
+39. LiuH, LuoL, ChengZ, SunJ, GuanJ, ZhengJ, ZhouS.Group-sparse
+modelingdrug-kinasenetworksforpredictingcombinatorialdrugsensitivityincancercells.CurrBioinforma.2018;13(5):437–43.
+40. ÖztürkH, ÖzgürA, OzkirimliE.Deepdta:deepdrug–targetbinding
+affinityprediction.Bioinformatics.2018;34(17):821–9.
+41. vanLaarhovenT, NabuursSB, MarchioriE.Gaussianinteractionprofile
+kernelsforpredictingdrug–targetinteraction.Bioinformatics.2011;27(21):3036–43.
+42. YanC, WangJ, LanW, WuF-X, PanY.Sdtrls:Predictingdrug-target
+interactionsforcomplexdiseasesbasedonchemicalsubstructures.Complexity.2017;2017(ArticleID2713280):10.
+43. LanW, LiM, ZhaoK, LiuJ, WuF-X, PanY, WangJ.Ldap:awebserverfor
+lncrna-diseaseassociationprediction.Bioinformatics.2016;33(3):458–60.
+44. YanC, WangJ, NiP, LanW, WuFX, PanY.Dnrlmf-mda:predicting
+microrna-diseaseassociationsbasedonsimilaritiesofmicrornasanddiseases.IEEE/ACMTransComputBiolBioinforma.2019;16(1):233–43.
+45. YanC, DuanG, WuF, PanY, WangJ.Brwmda:Predicting
+microbe-diseaseassociationsbasedonsimilaritiesandbi-randomwalkondiseaseandmicrobenetworks.IEEE/ACMTransComputBiolBioinforma.2019.https://doi.org/10.1109/TCBB.2019.2907626 .(tobepublished).
+46. YanC, DuanG, WuF, PanY, WangJ.Mchmda:Predicting
+microbe-diseaseassociationsbasedonsimilaritiesandlow-rankmatrixcompletion.IEEE/ACMTransComputBiolBioinforma.2019. https://doi.
+org/10.1109/TCBB.2019.2926716 .(tobepublished).
+47. WangB, MezliniAM, DemirF, FiumeM, TuZ, BrudnoM, Haibe-KainsB,
+GoldenbergA.Similaritynetworkfusionforaggregatingdatatypesonagenomicscale.NatMethods.2014;11(3):333.
+48. XiaZ, WuL-Y, ZhouX, WongST.Semi-superviseddrug-protein
+interactionpredictionfromheterogeneousbiologicalspaces.BMCSystBiol.2010;4(2):S6.
+49. YanC, WangJ, WuF-X.Dwnn-rls:regularizedleastsquaresmethodfor
+predictingcircrna-diseaseassociations.BMCbioinformatics.2018;19(19):520.
+50. WuZ, ChengF, LiJ, LiW, LiuG, TangY.Sdtnbi:anintegratednetwork
+andchemoinformaticstoolforsystematicpredictionofdrug–targetinteractionsanddrugrepositioning.BriefBioinforma.2016;18(2):333–47.
+51. LuoH, WangJ, LiM, LuoJ, PengX, WuF-X, PanY.Drugrepositioning
+basedoncomprehensivesimilaritymeasuresandbi-randomwalkalgorithm.Bioinformatics.2016;32(17):2664–71.
+52. LuoH, LiM, WangS, LiuQ, LiY, WangJ.Computationaldrug
+repositioningusinglow-rankmatrixapproximationandrandomizedalgorithms.Bioinformatics.2018;34(11):1904–12.
+53. LuoH, WangJ, LiM, LuoJ, NiP, ZhaoK, WuFX, PanY.Computational
+drugrepositioningwithrandomwalkonaheterogeneousnetwork.IEEE/ACMTransComputBiolBioinforma.2018. https://doi.org/10.1109/
+TCBB.2018.2832078 .(tobepublished).54. LuC, YangM, LuoF, WuF-X, LiM, PanY, LiY, WangJ.Predictionof
+lncrna-diseaseassociationsbasedoninductivematrixcompletion.Bioinformatics.2018;34(19):3357–64.
+55. LanW, WangJ, LiM, LiuJ, WuF-X, PanY.Predictingmicrorna-disease
+associationsbasedonimprovedmicrornaanddiseasesimilarities.IEEE/ACMTransComputBiolBioinforma.2018;15(6):1774–82.
+56. WishartDS, FeunangYD, GuoAC, LoEJ, MarcuA, GrantJR, SajedT,
+JohnsonD, LiC, SayeedaZ,etal.Drugbank5.0:amajorupdatetothedrugbankdatabasefor2018.NucleicAcidsRes.2017;46(D1):1074–82.
+57. BhattacharyaA, BandichhorR.Greentechnologiesinthegeneric
+pharmaceuticalindustry.GreenChemPharmaInd.2010304–6.
+58. MaussS, KlinkerH.Drug-druginteractionsinthetreatmentofhcvamong
+peoplewhoinjectdrugs.ClinInfdiseases.2013;57(suppl_2):125–8.
+59. WelageLS, BerardiRR.Evaluationofomeprazole,lansoprazole,
+pantoprazole,andrabeprazoleinthetreatmentofacid-relateddiseases.JAmPharmaAssoc1996.2000;40(1):52–62.
+60. VítovecJ, ŠpinarJ.First-dosehypotensionafterangiotensin-converting
+enzyme(ace)inhibitorsinchronicheartfailure:acomparisonofenalaprilandperindopril.EurJHeartFail.2000;2(3):299–304.
+61. BurmeisterWE, ReynoldsRD, LeeRJ.Limitationofmyocardialinfarctsize
+byatenolol,nadololandpropranololindogs.EurJPharmacol.1981;75(1):7–10.
+62. ReevesRA, FromGL, PaulW, LeenenFH.Nadolol,propranolol,and
+thyroidhormones:Evidenceforamembrane-stabilizingactionofpropranolol.ClinPharmacolTherap.1985;37(2):157–61.
+63. UCHIDAE, OGUCHIK, HISAOKAM, KOBAYASHIS, KAIK, YASUHARAH.
+Effectsofranitidine,metoclopromide,andanisotropinemethylbromideontheavailabilityofcefpodoximeproxetil(cs-807)injapanesehealthysubjects.Rinshoyakuri/JapanJClinPharmacolTherap.1988;19(3):573–9.
+64. El-BeqqaliA, KussakA, BlombergL, Abdel-RehimM.Microextractionin
+packedsyringe/liquidchromatography/electrospraytandemmassspectrometryforquantificationofacebutololandmetoprololinhumanplasmaandurinesamples.JLiquidChromatogrRelTechnol.2007;30(4):575–86.
+65. FlorentinM, ElisafMS.Simvastatininteractionswithotherdrugs.Exp
+OpinDrugSafety.2012;11(3):439–44.
+66. TreygerG, SilverSA, SakharovaAA.Pheochromocytomadiagnosisafter
+anabnormalstresstest:Casereportandreviewoftheliterature.J.2015;115(7):3.
+67. YangM, LuoH, LiY, WangJ.Drugrepositioningbasedonbounded
+nuclearnormregularization.Bioinformatics.2019;35(14):i455–63. https://
+doi.org/10.1093/bioinformatics/btz331 .(tobepublished).
+68. LiuJ, PanY, LiM, ChenZ, TangL, LuC, WangJ.Applicationsofdeep
+learningtomriimages:Asurvey.BigDataMiningAnal.2018;1(1):1–18.
+69. LiuL, YuY, FeiZ, LiM, WuF-X, LiH-D, PanY, WangJ.Aninterpretable
+boostingmodeltopredictsideeffectsofanalgesicsforosteoarthritis.BMCSystBiol.2018;12(6):105.
+70. ChangC-C, LinC-J.Libsvm:alibraryforsupportvectormachines.ACM
+TransIntellSystTechnol(TIST).2011;2(3):27.
+71. LinC, ChenW, QiuC, WuY, KrishnanS, ZouQ.Libd3c:ensemble
+classifierswithaclusteringanddynamicselectionstrategy.Neurocomputing.2014;123:424–35.
+72. WangH, WangJ, ZhouL.Asurvivalensembleofextremelearning
+machine.ApplIntell.2018;48(7):1846–58.
+73. LuoH, WangJ, YanC, LiM, FangxiangW, YiP.Anoveldrug
+repositioningapproachbasedoncollaborativemetriclearning.IEEE/ACMTransComputBiolBioinforma.2019. https://doi.org/10.1109/TCBB.2019.
+2926453.(tobepublished).
+Publisher’sNote
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffiliations.

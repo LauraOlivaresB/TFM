@@ -1,0 +1,1417 @@
+Commentary
+Drug –Drug Interaction Studies: Regulatory Guidance and An Industry
+Perspective
+Thomayant Prueksaritanont,1,3Xiaoyan Chu,2Christopher Gibson,1Donghui Cui,1Ka Lai Yee,1
+Jeanine Ballard,1Tamara Cabalu,1and Jerome Hochman1
+Received 27 November 2012; accepted 25 February 2013; published online 30 March 2013
+Abstract. Recently, the US Food and Drug Administration and European Medicines Agency have issued
+new guidance for industry on drug interaction studies, which outline comprehensive recommendations ona broad range of in vitro andin vivo studies to evaluate drug –drug interaction (DDI) potential. This
+paper aims to provide an overview of these new recommendations and an in-depth scienti ﬁcally based
+perspective on issues surrounding some of the recommended approaches in emerging areas, particularly,transporters and complex DDIs. We present a number of theoretical considerations and several caseexamples to demonstrate complexities in applying (1) the proposed transporter decision trees and
+associated criteria for studying a broad spectrum of transporters to derive actionable information and (2)
+the recommended model-based approaches at an early stage of drug development to prospectivelypredict DDIs involving time-dependent inhibition and mixed inhibition/induction of drug metabolizing
+enzymes. We hope to convey the need for conducting DDI studies on a case-by-case basis using a holistic
+scienti ﬁcally based interrogative approach and to communicate the need for additional research to ﬁll in
+knowledge gaps in these areas where the science is rapidly evolving to better ensure the safety andefﬁcacy of new therapeutic agents.
+KEY WORDS: drug –drug interaction studies; industry perspective; regulatory guidance.
+INTRODUCTION
+Drug –drug interactions (DDI) can cause profound clinical
+effects, either by reducing therapeutic ef ﬁcacy or enhancing
+toxicity of drugs. DDIs are one of the major causes for drugwithdrawal from the market ( 1). These factors when considered
+together with an increasing frequency in polypharmacy has
+prompted regulatory agencies, including the Food and DrugAdministration (FDA) and European Medicines Agency
+(EMA), to publish guidance documents for industry that are
+designed to help pharmaceutical researchers characterize andbetter understand DDI potential for a new molecular entity
+(1,2). While DDI can result in alterations of either drug
+pharmacokinetics (PK), pharmacodynamics (PD) or both, it isthe PK interactions that have been the main focus for both the
+US and EU DDI guidelines. PK drug interactions, typicallycharacterized by alterations of plasma concentration –time
+proﬁles, could be mediated viamechanistic changes in processes
+of absorption, distribution, metabolism, and/or excretion
+(ADME) of a drug substance (victim) by another compound(perpetrator) when they are given concomitantly. In both theEU and USA, the ﬁrst DDI guidance was published in 1997
+(1,3), and the most recent guidance version has been issued as a
+draft in 2010 (EMA) or 2012 (USA) ( 4). Compared to earlier
+editions, both of the new draft guidance documents contain
+much more extensive recommendations on in vitro andin vivo
+studies. They suggest approaches to evaluate DDIs mediated via
+cytochromes P450 (CYPs) as well as non CYP enzymes, and
+including those in emerging areas of science such as modeling
+approaches and transporters. The latest revisions are conceiv-ably based on the considerable scienti ﬁc progress made over the
+last two decades towards understanding the role of drug
+metabolizing enzymes in DDIs, as well as increasing numbersof reports on effects related to transporters. The EMA ﬁnal
+version has recently been issued in July 2012, with an effective
+date of January 2013 ( 5). The US guidance has yet to be
+ﬁnalized; reviews of public comments from the due date May
+2012 are presumably in progress, and therefore it is possible that
+the recommendations in the current draft may not be part of the
+ﬁnal recommendations. Nevertheless, the newer aspects of the
+draft guidance seems to have already been implemented at the
+FDA, as Merck Research Laboratories has already received
+several speci ﬁc recommendations from FDA reviewers that
+referenced the latest draft guidance.Electronic supplementary material The online version of this article
+(doi:10.1208/s12248-013-9470-x) contains supplementary material,
+which is available to authorized users.
+1Department of Pharmacokinetics, Pharmacodynamics, and DrugMetabolism, Merck Sharp and Dohme Corp., WP 75A-203, West
+Point, Pennsylvania 19486, USA.
+2Department of Pharmacokinetics, Pharmacodynamics, and DrugMetabolism, Merck Sharp and Dohme Corp., Rahway, New Jersey
+07065, USA.
+3To whom correspondence should be addressed. (e-mail:
+thomayant_prueksaritanont@merck.com)The AAPS Journal, Vol. 15, No. 3, July 2013 ( #2013)
+DOI: 10.1208/s12248-013-9470-x
+629 1550-7416/13/0300-0629/0 #2013 American Association of Pharmaceutical ScientistsThe primary objectives of this paper are to (1) provide an
+overview on the new draft of the US and ﬁnal EU guidance
+documents, with respect to their similarities/differences in the
+recommended DDI studies and associated approaches, and (2)
+highlight potential complications associated with aspects of theproposed emerging approaches to evaluate transporter-mediat-
+ed DDIs and application of model-based predictions in early
+drug development for predicting potential for DDIs arising fromtime-dependent inhibitors (TDI) and mixed TDI/inducers. We
+exemplify our concerns with case examples gathered from the
+literature and our own internal drug development programs.Finally, we put forward an approach from an industry perspec-tive in applying the regulatory guidance to support drug
+development. It is our intention that this paper would promote
+a continued scienti ﬁc dialog on the optimal means for imple-
+menting DDI research and be helpful in molding guidance
+recommendations in the aforementioned evolving areas.
+OVERVIEW OF THE LATEST REGULATORY
+GUIDANCE ON DDI STUDIES: WHAT IS NEW
+Both US and EU guidance documents contain many new
+features and are similar in concepts. The key common
+updates can be summarized as follows:
+&An increased emphasis on transporter-based DDI
+evaluations, involving both in vitro andin vivo studies
+of many different transporters.
+&A more detailed guidance on how to incorporateresults from in vitro enzyme/transporter studies to
+inform the nature and extent of clinical DDI studies.
+Application of model-based approaches, and espe-cially physiologically based pharmacokinetic (PBPK),
+are highly recommended. Results from PBPK analy-
+sis carries more weight than other models.
+&An expansion of the guidance on DDI evaluations to
+include metabolites.
+&An emphasis on the need to understand and charac-
+terize the impact of various enzyme/transporter
+genotypes and other complex DDIs
+Some speci ﬁcs are described below.
+FDA Draft Guidance
+Compared to the 2006 Guidance version, many more
+studies have been added in this new guidance (Table I). With
+respect to studies on drug metabolizing enzymes, key changes
+include recommendations on approaches to studying DDIs forsubstrates of UDP-glucuronosyltransferases (UGTs; Fig. 2 of
+the draft guidance). Surprisingly, guidance does not mention
+DDI evaluations for UGT inhibitors. For in vitro evaluations of
+CYPs, there were no signi ﬁcant changes except explicit inclusion
+of time-dependent inhibition to be studied for all major CYPs.
+For enzyme induction studies, an evaluation of the change inmRNA levels is now the recommended end point replacing theprevious recommendation of using enzyme activity measure-
+ment. Other major changes center around recommended
+model-based approaches and associated criteria in using in vitro
+CYP inhibition and induction results to determine the need for
+in vivo DDI studies. These approaches are recommended for
+not only CYP inhibitors or inducers, but also compoundsdemonstrating time-dependent inhibition and those with mixed
+inhibition and induction effects (Fig. 4 of the draft guidance).The models included are both basic and mechanistic (static and
+PBPK) in nature. In particular, mechanistic PBPK models have
+been emphasized and mentioned numerous times in theguidance. Indeed, while the agency recommends a stepwise,
+model-based evaluation of metabolism-based interactions start-
+ing from a basic model for initial assessment, the criteria set forthe basic (based on total C
+max) and mechanistic static models
+(with “AUCR ”values; fold changes in area under plasma
+concentration –time curve, AUC, of a probe substrate in the
+presence and absence of a perpetrator, of 0.8 –1.25) are so
+conservative such that PBPK will ultimately be needed. There
+are also speci ﬁc recommendations with respect to testing DDI
+potential due to metabolites, especially those with circulatinglevels of ≥25% or more of the parent compounds ’exposures.
+On the transporter front, six additional transporters (organ-
+ic anion transporting polypeptides OATP1B1 ( SLCO1B1 ),
+OATP1B3 ( SLCO1B3 ), organic cation transporter OCT2
+(SLC22A2 ), organic anion transporters OAT1 ( SLC22A6 )a n d
+OAT3 ( SLC22A8 ), and breast cancer resistance protein BCRP
+(ABCG2 )) have been included on the list to be studied, on top of
+the existing P-glycoprotein (Pgp, ABCB1 ). The guidance on
+transporters is rather detailed w ith many decision trees, mirror-
+ing what had been proposed by the International TransporterConsortium (ITC) with respect to considerations as to when toconduct in vitro andin vivo transporter studies, and including a
+listing of recommended inhibitors and probe substrates ( 6), but
+with somewhat more stringent criteria. Speci ﬁcally, a more
+stringent cutoff of 25% for the involvement of hepatic eliminationor renal secretion is recommended by FDA, to trigger evaluation
+of drugs as substrates of OATP1B or OCT/OAT, instead of 30%
+or 50% cutoff, respectively, recommended by the ITC.Additionally, the FDA recommends using total C
+max(vs
+unbound Cmaxby ITC) to estimate the value for inhibitor
+concentration “I1”for BCRP and Pgp inhibitors, and the cut-off
+“R”(fold change in exposure of s tatins, OATP1B substrates)
+value of 1.25 calculated based on an absorption rate constant kaof 0.1 min
+−1(vs“R”value of 2 calculated based on the kavalue of
+0.03 min−1by ITC) for OATP1B inhibitors (see additional details
+in the “Transporter-based DDIs ”section below).
+With respect to in vivo DDI studies, one key change
+involves recommendations to include a third arm in clinicalstudies to evaluate the time required for activity to return to
+baseline when evaluating an enzyme inducer or TDI. For
+compounds with concurrent inhibition/induction (such as rifam-pin which is a known OATP1B inhibitor and CYP3A inducer),
+additional study arms may be needed to determine appropriate
+timing of administration of substrate and duration of interactioneffect. Additionally, both UGT1A1 and OATP1B1 have nowbeen included on the recommended list for genotyping or
+phenotyping studies, expanding the original panel of poly-
+morphic enzymes CYP2C9, 2C19, and 2D6. For the ﬁrst time,
+the guidance also includes recommendations to conduct drug
+interaction studies for therapeutic proteins, with primary focuses
+onin vivo (much less on in vitro ) clinical studies for cytokines or
+cytokine modulators. The changes include recommended stud-
+ies for these protein-based drug products that will be used in
+combination therapy with other drug products (small moleculeor proteins) or those with the potential for PK- or PD-related630 Prueksaritanont et al.DDIs based on prior experience/known mechanisms. The
+recommendation to conduct clinical DDI studies are particularly
+important if speci ﬁc labeling language is sought. In an absence
+of the studies, general labeling language indicating potential forinteractions with CYPs or transporters is allowed for cytokines/
+cytokine modulators.
+EMA Guidance
+Similarly, there are numerous changes in the latest EMA
+guidance as compared to the 1997 version (Table I). While
+the latest EMA guidance is similar in concept to the 2012
+draft US guidance, it contains some major differences. Keydifferences summarized in Table IIinclude overall style, the
+type of recommended in vitro studies, approaches and criteria
+to help determine whether in vivo clinical studies are needed.
+Notably, the EU, and not the USA, provides guidance on
+timing as to when studies should be performed (e.g., most of
+in vitro studies before phase II start). In addition, the criteria
+used for CYP inhibition, especially for the basic model, totrigger in vivo clinical studies are quite different between thetwo agencies. The EU favors the use of unbound plasma
+concentrations to re ﬂect the concentration of the inhibitor at
+the site where the enzymes reside, whereas the USA
+recommends total plasma concentrations be used for thefront line predictions, conceivably to force further consider-
+ations to the proposed funneling system with mechanistic-
+based models as the next in line. Such differences in guidancerecommendation can pose a dif ﬁcult challenge to drug
+developers especially when the same experimental data may
+give rise to different predictions and interpretations of the
+potential for drug interactions based upon these differentspeciﬁcations by the authorities. For example, a compound
+with a very low plasma protein binding value may be
+considered exhibiting low potential for DDIs not requiring aclinical DDI study based on the US but not the EU guidance,
+andvice versa . Additionally, while the US provides speci ﬁc
+recommendations on the use of predictive models based on in
+vitro data for compounds with mixed inhibitory and induction
+effects on CYPs, the EU speci ﬁcally states that in vivo clinical
+studies need to be conducted for these compounds, givenlimited experience in DDI predictions for the mixedTable I. List of New In Vitro Studies Recommended by the Latest Regulatory (US and EU) Guidance
+Enzymes Transporters
+Substrate UGTs decision tree for substrates
+with≥25% contribution of total clearance (US only)Pgpa, BCRP for all NCEs
+OATP1B1; 1B3 ( ≥25% hepatic elimination);
+OCT2, OAT1; OAT3 ( ≥25% renal secretion)
+BCS class I waived (US only)
+Inhibitor UGT1A1; UGT2B7 (EU only) Pgpa, BCRP, OATP1B1/3; OCT2; OAT1/3
+(all NCEs); BSEP (EU only)
+Inducer Emphasis on mRNA end point In vitro studies not recommended; in vivo
+studies maybe required on a case by case basis
+Metabolite considerations Metabolites with ≥25% of parent AUC
+(and≥10% of total for EU)Metabolites with ≥25% of parent AUC
+(and≥10% of total for EU)
+BSEP human bile salt export pump
+aNot new for US
+Table II. Key Differences Between US and EU Recommendations
+USA EU
+Styles Overall Prescriptive More conceptual
+Decision tree Many (12 total) Limited
+Table-substrate/inhibitor/inducer Laundry list of possible Distilled list
+Study timing No guidance (ultimately
+before NDA ﬁling)Most in vitro before PhII
+Enzymes CYP inhibition
+(basic criteria)Cmaxtotal (10-x factor) Cmax, free (fu ≥1%, 50-x factor)
+CYP Induction No mention on RIS Include RIS (unbound Cinlet)
+Mixed inhibitor/inducer Mechanistic model In vitro not recommended
+Other enzymes- substrate UGT decision tree No speci ﬁcs
+Other enzymes- inhibitor None Include UGT1A1 and 2B7
+Transporters Substrate BCS class I waiver Not mention
+Inhibitor (OATP1B criteria) 10x-total Cmax; R value 25-x unbound Cinlet
+Metabolites Victim 25% of parent AUC Active (50% of total activity)
+Perpetrator 25% of parent AUC 25% of parent+10% total
+Protein binding Displacement study No guidance Highly bound compounds (fu<1%)
+Therapeutic protein Decision tree for
+immunomodulators+othersNone (a separate guidance
+speciﬁes immunomoderator related DDI)
+BSEP human bile salt export pump631 Perspectives on Drug Interaction Studiesinhibitors/inducers. Interestingly, unlike the USA, the EU
+provides no speci ﬁc guidance on evaluation of UGT sub-
+strates, but instead explicitly recommends testing compounds
+for inhibition of UGT1A1 and 2B7.
+Other major differences are in the area of transporters.
+The EU guidance includes human bile salt export pump
+(BSEP) as another transporter to be studied, primarily for
+safety reasons, and provides only a more general guidance ontransporter studies versus a prescriptive decision tree ap-
+proach proposed in the US draft guidance. Similar to the
+criteria used for drug metabolizing enzymes, the EU usesunbound plasma concentration (vs total concentrations by theUS) for establishing the transporter criteria (see additional
+details in the “Transporter-based DDIs ”section below). The
+EU also provides more clarity on the need to conduct in vitro
+andin vivo DDI studies related to metabolites. Furthermore,
+the EU, but not the USA, includes guidance on protein
+binding displacement. In contrast, the EU guidance focusesonly on small molecule drugs; the EU provides more limited
+guidance on DDIs related to therapeutic proteins, primarily
+immunomodulators, in a separate guidance document ( 7).
+POTENTIAL COMPLICATIONS ASSOCIATED
+WITH SOME OF THE RECOMMENDED
+DDI STUDY ASPECTS
+In this section, we present a number of theoretical
+considerations and speci ﬁc examples, on issues surrounding
+some of the proposed recommendations in emerging areas.
+Speci ﬁcally, potential complications associated with transport-
+er-based DDIs and model-based approaches for predictingtime-dependent effects, including mixed enzyme inhibition –
+induction, are highlighted and discussed in depth.
+Transporter-Based DDIs
+In contrast to CYP-mediated DDIs where knowledge
+gained over the past 20 –30 years has established a foundation
+for more quantitative predictions of drug clearance and
+potential for DDI, our understanding of the potential for
+DDI arising from interactions with transporters is still in itsinfancy. Indeed, the EU guidance, while emphasizing the
+importance of transporter-based DDI evaluations, only
+provides a more general recommendation on studyapproaches, acknowledging that in vitro /in vivo extrapolation
+of drug transporter interactions is currently less mature and
+requires additional experience and continued scienti ﬁc devel-
+opment. Presented below are four key scienti ﬁc consider-
+ations to help illustrate the complications associated with
+evaluations of transporter-mediated DDIs in general and
+pertaining to the regulatory guidance, supportive of our viewthat given the current stage of knowledge in this ﬁeld, it is
+premature to provide and apply a detailed guidance on
+transporter studies and associated criteria on a broad basis.
+Complications Related to Multiplicity of Transporters
+Unique to transporters is their multiplicity nature, which
+poses one of the greatest challenges to our understanding of the
+role of a speci ﬁc transporter in drug disposition and its impact on
+DDIs. Transporters, uptake or ef ﬂux, are directional, havebroad tissue distribution, and are involved in multiple drug
+disposition processes. Many transporters have overlappingsubstrate speci ﬁcity which causes the functional redundancy.
+These transporters may work in sequential transport steps,
+parallel directions, or countercurrent (opposite) directions. Forsequential transport activities, the impact of transporter inhibi-
+tion on drug disposition will depend on whether the transporter
+is rate limiting to the overall disposition process. In the case ofparallel or countercurrent transport processes, the impact of
+individual transporters will be dependent on their relative
+contributions to the overall process. Further complicating this,inhibition of one transporter can be compensated for by anothersuch that there are no measurable effects on drug disposition
+(examples are provided in subsequent sections below; additional
+examples can be found from references 15and27in Table III).
+In such cases, extrapolating in vitro
+inhibition studies to in vivo
+PK implications can be misleading. Moreover, if both the
+perpetrator and the victim interact with multiple transporters,the effects can be unpredictable, dose-dependent, and highly
+variable, particularly in cases where transporters function in
+opposite directions. These complexities limit direct extrapola-tion of in vitro results to the in vivo situation based simply on
+whether a compound is a substrate or inhibitor of an individual
+transporter of interest, and highlight the need for a comprehen-sive holistic understanding of transporters involved in drugdisposition. Considering the large number (over 400) of gene
+products from the human ABC and SLC transporter gene
+families ( 6), comprehensive understanding of the contribution
+of each individual transporter to drug disposition is not readily
+achievable with currently available tools.
+The complexities introduced by th e transporter multiplicity
+can be further highlighted by several in vivo studies. Recent
+results ( 16) showed that in comparison to a small impact of
+Oatp1b2 knockout on pravastatin pharmacokinetics, a mores u b s t a n t i a la l t e r a t i o ni ni t sP Kw a so b s e r v e di nO a t p 1 a / 1 bknockout mice in which elimination of both Oatp1a and 1b
+activities resulted in a sevenfold increase in systemic exposure.
+However, inhibition of activities of multiple transporters withactivities counter to each othe r can also have a compensatory
+effect such that the net effect on PK cancel each other out. In thecase of oral administration of methotrexate ( 17), individual
+knockout of Mrp2, Mrp3, and Bcrp resulted in 1.4, 0.8, and 1.7-fold changes in the systemic exposure. Dual knockout of Mrp2and Bcrp resulted in three-fold increase in methotrexate systemicexposure (measured by AUC). H owever, additional knockout of
+Mrp3 reduced the systemic expos ure back to levels in wild-type
+(wt) mice (AUC in the triple knockout mice was 90% of that in wt
+mice). While the observations ca n easily be understood based on
+the orientation of Mrp3 transport relative to Mrp2 and Bcrpefﬂux, prospective predictions, based on the inhibition of
+individual transporters is dif ﬁcult in the absence of a more holistic
+understanding of the elimination process.
+An added important barrier to this comprehensive view
+is the fact that new information on transporters continues to
+rapidly evolve. In this regard, recent publications ( 18,19)
+suggested that multidrug an d toxin extrusion proteins
+MATE1 and MATE2-K may be more important renal trans-
+porters than OCT2, one of the renal transporters recommen-ded to be studied by both the ITC and regulatory agencies.
+Cimetidine, currently recommended by the draft FDA
+guidance as an in vivo inhibitor for OCT2, is a more potent632 Prueksaritanont et al.inhibitor of MATE1 and MATE2-K. Similarly, metformin, the
+recommended in vivo OCT2 probe, is not as sensitive a probe
+for OCT2 as OCT1 and MATE1/MATE2-K, which also
+contribute to its hepatic and renal disposition. It is worthmentioning that this rapidly evolving science could make
+many prescriptive aspects related to transporter-based DDI
+described in the draft US guidance outdated soon after it isﬁnalized. Additionally, the cimetidine case study illustrates
+the importance of demonstrating whether the transporter of
+interest is rate limiting to the overall disposition, whichunfortunately cannot simply be obtained from an in vitro
+determination of a transporter substrate as commonly prac-
+ticed. Consistent with this, a single dose of the widelyaccepted clinically potent OATP1B inhibitor rifampin hadsigniﬁcant impact on the pharmacokinetics of atorvastatin
+and glyburide, but not warfarin, in spite of the fact that
+all three compounds have been shown in vitro to be a
+substrate of OATP1B and susceptible to inhibition by
+rifampin ( 28–30).Complications Due to Lack of Specific Inhibitors and Probes
+for Transporters
+Another important obstacle to our understanding of the
+role of transporters in drug disposition and DDIs is the lack
+of speci ﬁc inhibitors/probes for transporters, including those
+on the recommended list in the current US draft guidance. Inthis regard, the ﬁndings of the ITC ( 6) indicate methotrexate
+as a “selected substrate ”forﬁve transporters while cyclo-
+sporine is listed as a “selected inhibitor ”for seven trans-
+porters. The lack of speci ﬁc probes is largely a result of the
+multiplicity of transporters, which in theory can be addressed
+to some extent if speci ﬁc inhibitors were to be available.
+Without speci ﬁc inhibitors/probes, result interpretations with
+respect to the transporter roles and impact on DDIs can be
+ambiguous, and there are severe limitations in extrapolating
+the results from in vitro toin vivo and from one DDI study
+with one transporter substrate/inhibitor to another. This
+particular issue is fundamental to an ongoing debate withTable III. Pharmacokinetics and Tissue Levels of Drugs in Wild-Type Animals and Transporter Knock-Out (ko) Rodents
+% Bioavailability Fold change of plasma or tissue levels (ko/wt)
+Transporter Drug ko wt Plasma Liver Kidney Brain Reference
+Mdr-1a/b Topotecan 0.7 0.8 1.5 ( 20)
+Digoxin 2.5 2.4 2.3 38.5 ( 21)
+Quinidine 3.7 4.3 2.5 29.2 ( 21)
+Digoxin 2.9 2.5 2.6 27.2 ( 21)
+Taxol 1.1 ( 21)
+Bcrp Methotrexate 15.6 14.0 1.7a(17)
+1.6 1.72 ( 17)
+Topotecan 2.4 2.1 1.6 ( 20)
+Digoxin 33 37 0.6 ( 13)
+Nitrofurantoin 1.3 ( 13)
+94 83 1.5 ( 13)
+Sulfasalazine 1.8 ( 13)
+18.9 1.1 33.1 ( 13)
+Compound A 3.0 ( 13)
+4.4 1.1 9.8 ( 13)
+Bcrp/Mdr-1a/b Dasatinib 1.4 10.0 ( 23)
+Erlotinib 1.0 ( 24)
+60 40 1.5 ( 24)
+Oatp1b2 Rifampin 1.7 0.4 ( 25)
+Rifampicin 1.9 0.4 ( 26)
+Rifamycin SV 6.3 1.8 ( 26)
+Cerivastatin 1.0 0.9 ( 26)
+Lovastatin acid 1.4 1.0 ( 26)
+Pravastatin 0.4 1.3 ( 26)
+Pravastatin 1.8 0.6 ( 26)
+Simvastatin acid 0.9 0.6 ( 26)
+Mrp2 Methotrexate 9.8 14.0 1.4 ( 17)
+2.0 ( 17)
+Mrp3 Methotrexate 13.1 14.0 0.8 ( 17)
+0.8 0.5 ( 17)
+Oct2 Tetraethylammonium 1.1 0.9 0.7 1.0 ( 27)
+Oct1 Tetraethylammonium 0.5 0.1 1.4 1.3 ( 15)
+Oct1 Methyl-4-phenylpyridinium 1.3 0.3 1.0 ( 15)
+Oct1 Metaiodobenzylguanidine 0.9 0.2 0.9 ( 15)
+Oct1 Cimetidine 1.0 0.8 0.8 ( 15)
+Oct1 Choline 0.9 1.1 0.9 ( 15)
+All studies were performed in mice with the exception of Huang et al.(13) which were performed in rats
+aTissue levels at 2 h post-oral dose633 Perspectives on Drug Interaction Studiesrespect to how important transporter-based DDIs are and to
+general concerns regarding how to derive meaningful andactionable information based on the recommended in vivo
+clinical DDI studies using a single probe or inhibitor as
+described in the current draft FDA guidance.
+Much of what is known today about the transporter
+involvement in drug disposition is extrapolated from in vitro
+studies using cells expressing endogenous transporters (e.g.,Caco-2 cells) or transfected with speci ﬁc transporters. Many of
+these cell lines unfortunately also express signi ﬁcant background
+levels of other transporters, requiring use of speci ﬁc inhibitors to
+aid in proper identi ﬁcation of the role a given transporter may
+play. However, given the de ﬁciency of speci ﬁc inhibitors,
+interpretation of in vitro transport results in some cases may be
+ambiguous and misleading. Similarly, the lack of selective
+inhibitors poses a signi ﬁcant issue for determination of the in
+vivo impact of speci ﬁc transporters on exposure. Even with
+relatively speci ﬁc inhibitors, interpretation of in vivo studies
+aimed at determining the impact of speci ﬁc transporters is not
+straightforward. Early studies showed increased exposure (3.8-
+fold) of imatinib when administered with the Pgp inhibitorvalspodar or the dual Pgp/Bcrp inhibitor elacridar in wt mice(31). These results were interpreted to support Pgp and Bcrp in
+limiting imatinib exposure. Ho wever in a study by Oostendorp et
+al. (32), coadministration with elacri dar or pantoprazole resulted
+in a threefold higher systemic exposure and reduced clearance ofimatinib in both wt and Mdr1a/1b /Bcrp triple knockout mice.
+Elacridar was speci ﬁc a l l yd e s i g n e dt ob e ,a n di sc o n s i d e r e da s ,a
+Pgp/Bcrp inhibitor. Imatinib is a Pgp/Bcrp dual substrate which is
+extensively metabolized by CY P s( C Y P 3 A ,1 A 1 / 2 ,1 B 1 ,2 C 8 / 9 ,
+and 2D6) ( 33). Given that the knockout mice are de ﬁcient in both
+Pgp and Bcrp activity, the changes in imatinib PK were ascribedto unanticipated inhibition of other elimination mechanisms
+potentially mediated by Oatps or O cts. These results highlight
+the lack of speci ﬁcity of even the best characterized transporter
+inhibitors and are particularly concerning since unanticipated
+effects on other drug elimination processes may compromise thecause –effect relationship needed for meaningful extrapolation of
+in vitro inhibition data to avoid DDIs.
+More concerning is that clinic a lr e l e v a n c eo fd r u gt r a n s -
+porters in DDIs has been mainly derived based on studies withnonselective inhibitors and substrates. Cyclosporine (CsA) and
+statins, commonly used as model inhibitors and substrates,
+respectively, in clinical studies as well as in the draft FDAguidance have broad interactions with transporters and metab-
+olism enzymes. Clinical DDIs r e p o r t e dw i t hC s A( a sp e r p e t r a -
+tor) and organic anion transporting polypeptide (OATP)substrates were commonly cited to underscore the in vivo impact
+of OATP inhibition. It is important to point out that as a known
+immunosuppressant, clinical DDI studies with CsA have been
+mostly performed in transplant patients who were on multipledrugs, and the clinical DDI data were often compared to historic
+pharmacokinetic data in healthy volunteers resulting in generally
+high DDI magnitude (Electronic Supplementary Material(ESM) Table S 1). As such, the results of these comparisons
+may not accurately re
+ﬂect interaction potential based simply
+upon a mechanism of OATP inhibition. Only 4 out of 18 studieswere conducted in healthy subjects in an open-label, randomized,
+cross-over or one-sequence design (ESM Table S 1). The results
+from these healthy volunteer studies showed disparate effects ofCsA on the fold change of plasma AUC of atorvastatin (15.3-
+fold; 34), pitavastain (4.5-fold, NDA #022363), bosentan (1.9-
+fold;35), and repaglinide (2.5-fold; 36).In vitro , OATP-mediated
+uptake has been shown as a major contributor for hepatic uptake
+of these compounds ( 37,38). Nonetheless, differences in the
+magnitude of the CsA impact in vivo among the four drugs likely
+reﬂect the effects on multiple transporters (e.g., OATP1B1, -1B3,
+Pgp, BCRP) and drug metabolizing enzymes (CYP3A).Furthermore, inhibition of transporters and enzymes by CsA
+may occur either in the liver or gut. Thus, the wide-ranging
+magnitude of DDI changes among these four drugs is a complexreﬂection of differences in the anatomical location and involve-
+ment of multiple enzymes and tr ansporters involved in the
+elimination of the drugs that are affected by CsA ( 39). It is also
+important to note that CsA is known to have nephrotoxic andother undesirable effects ( 40), which might be additional
+contributing factors to alterations in plasma exposure of victim
+drugs, independent of its effect on drug transporters or enzymes.
+These complications dampen the notion put forth in the US draft
+guidance that CsA is a broad inhibitor of transporters and CYPs
+and therefore the results from clinical DDI studies with CsAcould serve as the worst case scenario for substrates of trans-
+porters and enzymes. In this regard, rifampin may serve as a
+better alternative OATP1B1, -1B 3 inhibitor, provided that it is
+given as a single dose and preferably intravenously to reducepotential complicatio ns due to its inhibitory effects on Pgp and
+MRP2 at the intestinal level ( 28). Nevertheless, more research is
+needed to con ﬁrm whether a single dose rifampin is indeed an in
+vivoselective inhibitor of hepati c OATP1B, with minimal effects
+on other yet to be identi ﬁed transporters.
+Likewise, many clinically relevant DDIs mediated viadrug
+transporters have been reported with nonspeci ﬁc substrates, and
+the scarcity of selective inhibi tors presents a major barrier in
+determining a relative contribut ion of an individual transporter to
+overall uptake or secretion processes in a given tissue, critical
+information linking to DDI poten tial. Rosuvastatin, recommen-
+ded by the FDA draft guidance as a probe substrate for bothOATP1B1 and BCRP in the clinic, is generally believed not toundergo signi ﬁcant metabolism ( 41), and instead its elimination
+and disposition mechanism is largely driven by transporters
+including OATP1B ( 42)a n dB C R P( 43). Interestingly, the
+magnitude of DDIs between rosuvastatin and several knownOATP inhibitors was at most twofold (fold changes of AUC was1.6-, 1.8-, 2.1-, and 1.4-fold for eltrombopag, gem ﬁbrozil,
+lopinavir/ritonavir, and tipran avir/ritonavir, respectively) ( 11,44–
+46
+). The only exception is with CsA, with the fold change in AUC
+of 7.1-fold, but this was observed in heart transplant patients
+when compared with historical data in healthy controls (ESMTable S 1). A similarly modest change in rosuvastatin exposure
+(fold change in AUC and C
+maxwas 1.2 and 2.9, respectively) has
+also been recently observed in a clinical DDI study with one of
+our internal candidates (compound B in Table IV)w h e ng i v e na t
+300 mg twice daily (BID) for 10 days with a single 5-mg oral dose
+of rosuvastatin in healthy subjects. This compound was classi ﬁed
+as a relatively potent in vitro inhibitor of OATP1B1 (IC 500
+0.3μM, pitavastain as a probe s ubstrate), OATP1B3 (IC 500
+0.3μM; bromosulfophthalein as a probe substrate) and BCRP
+(IC50∼13μM; methotrexate as a probe substrate). The modest
+changes reported thus far raise a question as to whether
+rosuvastatin disposition is limited by these transporters and634 Prueksaritanont et al.therefore its suitability for being a recommended probe
+substrate. In this regard, the current FDA transporter decisiontrees assume that a single transporter-mediated uptake/ef ﬂux
+accounts for 100% of the elimination of a probe substrate orvictim drug, which is not the case for rosuvastatin and most, ifnot all, clinically used drugs. It is also noteworthy that
+rosuvastatin undergoes renal elimination to some extent
+(∼28% of total clearance) in humans ( 47), and that the notion
+that rosuvastatin is eliminated mainly unchanged should beinterpreted with caution. Rosuvastatin is capable of undergoingglucuronidation and lactonization similar to other statins ( 47),
+and rosuvastatin lactone has been observed in excreta and inplasma in humans ( 48–50), raising the possibility of an additional
+complicating factor resulting from reversible metabolism. It
+would be of high interest to conduct a clinical DDI study usingan intravenous single dose of rifampin to better assess the in vivo
+relevance of OATP impact on rosuvastatin pharmacokineticswhile avoiding a potential complication due to gut Pgp-mediatedDDI (rosuvastatin has also been reported as a Pgp substrate
+(39)). Additionally, since pitavastatin possess similarities to
+rosuvastatin with respect to its interactions with transportersOATP1B1, -1B3, BCRP, Pgp and MRP2, and UGT enzymes,but with much less dependency on renal elimination pathway(39), we are currently conducting a clinical DDI study to
+determine the relative impact of a single dose rifampin on the
+PK of pitavastatin versus that of rosuvastatin. The outcome of
+our ongoing clinical DDI study should provide valuableinformation regarding the clinical relevance of OATP1B andhelp determine whether pitavastatin, a currently employed in
+vitro probe, may also be used as an in vivo probe for OATP1B.
+Impact of Individual Transporters Alone on DDI is Usually
+Small
+Thus far, the magnitude of DDIs reported in clinical studies
+with inhibitors or substrates of transporters other than OATP1B(see above), and particularly for the renal transporters OCTs
+and OATs, is generally less than threefold ( 6). In principle, gene
+knockout animals represent the most extreme case for DDI inwhich complete inhibition of transporter activity is achievable.
+Although loss of one transporter may result in a compensatory
+increased gene expression for complementary transporters andmetabolism enzymes, gene pro ﬁling results in Mrp2 ( 51)a n d
+Oatp1b2 ( 26) do not show a clear gene expression pattern that
+would compensate for the transporter knockout (e.g., in case of
+Mrp2 knockout mice, loss of Mrp2 activity, and increase of Mrp4activity in liver would both contribute to increased systemic
+exposure). Results to date in transporter knockout animals
+showed changes in systemic exposure generally within twofoldin knockout animals in the absence of transporters commonly
+cited as important in drug disposition, including Oatp1
+(Table III). The only exception is with Bcrp knockout and
+sulfasalazine where a much more dramatic impact on oralexposure (33-fold increase) was observed in the knockout rats
+(13). Interestingly, this was not duplicated in humans, where
+ABCG2 421 C>A SNP led to only a 2- to 3.5-fold increase inoral exposure of sulfasalazine ( 13and references therein).
+Consistent with this notion, clinical data in subjects with genetic
+mutations of transporters reported thus far with OATP1B1(SLCO1B1 ) and BCRP ( ABCG2 ) and other transporters also
+showed less than or equal to threefold change in systemicexposure of substrate compounds. In a series of clinical studies
+with the same group of subjects, the plasma AUC of simvastatin
+acid, atorvastatin, pravastatin, rosuvastatin, and ﬂuvastatin in
+subjects with the SLCO1B1 c.521CC genotype was 3.2-, 2.4-,
+1.9-, 1.6-, and 1.2-fold greater than in those with the SLCO1B1 c.
+521TT genotype, respectively ( 52–54). The ABCG2 c.421C>A
+(rs2231142) SNP also affects the PK of several statins, including
+rosuvastatin (2.0- and 2.4-fold greater in rosuvastatin AUC in
+the c.421AA homozygote compared with c.421CA or c.421CCgenotypes, respectively), and atorvastatin, ﬂuvastatin, and
+simvastatin lactone (increased exposure by about 1.7-, 1.7-,
+and 2.1-fold, respectively, in subjects with the c. 421AA
+genotype compared with c. 421CC reference genotype)(55,56
+). As a comparison, changes in the exposure reported in
+CYP knockout animals or human subjects with polymorphic
+enzymes are much higher often >20-fold ( 57–59). The relatively
+modest impact of genetic variation in drug transporters, when
+compared to transporter DDI studies, in which the majority of
+perpetrators, such as CsA, are inhibitors for multiple trans-porters/enzymes further supports that the magnitude of DDIs
+reported with OATP inhibitors is likely overestimated, due to
+multiple process/mechanisms involved in vivo .
+The relatively small magnitude of transporter-mediated
+DDIs or transporter polymorphisms prompts a larger question
+of whether routine studies on many drug transporters, as
+recommended by the recent guidance, are justi ﬁable. Given
+the relatively small magnitude of DDI reportedly associated
+with the renal transporters OCT and OAT, together with no
+clear evidence thus far related to the impact of their genemutations on drug exposures, it would be more reasonable to
+limit in vitro and in vivo studies of transporters only to
+compounds that have, or to those likely to be prescribed withdrugs with, narrow therapeutic index. It is worth noting thatalthough the impacts of transporters on systemic exposure are
+relatively modest, their effects on drug distribution or tissue
+exposure could theoretically be more dramatic. Thus far, thishas been documented for mouse Mdr1 in which Mdr1 activity in
+the blood –brain barrier minimized CNS exposure to Pgp
+substrates. Knock-out of Mdr1 can lead to >10-fold increase inCNS exposure (Table III), while having little if any impact on
+systemic exposure ( 21,60). In general, high systemic levels of
+Pgp inhibitors are needed to signi ﬁcantly alter brain exposure,
+and this has been shown not to be achievable with therapeutic
+doses of commonly known transporter inhibitors, including the
+most potent inhibitor CsA ( 61). Although it could be argued
+that for some compounds changes in distribution can haveadverse effects, routine transporter substrate/inhibition studies
+are unlikely to provide prospective predictions of distribution
+and altered pharmacology. In such cases, more focused studiesaligned with preclinical safety studies to address whether
+changes in tissue exposure correspond with observed toxicity.
+Transporter Data are Dependent on In Vitro Model Systems
+and Methodology Used
+Recent work by a Pgp IC
+50working group consisting of
+22 participating pharmaceutical and contract research labo-
+ratories and one academic institution showed substantial
+inter-laboratory variability of Pgp IC 50values (18- to 796-635 Perspectives on Drug Interaction StudiesTable IV. In Vitro Evaluation of Compounds as a Potential Perpetrator for OATP1B1-Mediated DDIs
+Perpetrator
+(dose, regimen)IC50(μM)a
+OATP1B1 Cmax(μM)Cmax/IC50
+(FDA)b(≥0.1)Rvalue
+(ITC)c(≥2)Rvalue
+(FDA)b
+(≥1.25)Iin, max, u /IC50
+(EMA)d
+(≥0.04)Victim
+(clinical
+DDIs)Fold changes
+of victim AUCFold changes
+of victim CmaxReferences
+for clinical
+DDI data
+Boceprevir(800mg TID) 18±2.4 3.0 0.17 1.5 2.6 1.6 Atorvastatin 2.3 2.7 ( 8)
+Pravastatin 1.6 1.25
+Compound A (500mg) 0.4±0.09 5.5 12.5 1.5 2.4 1.4 Simvastatin 1.9e2.2eData on ﬁle
+Compound A (500mg)f0.4±0.09 5.2 11.8 1.5 2.4 1.4 Simvastatin 2.8e2.4eData on ﬁle
+Compound B
+(300mg BID)0.3±0.01 5.4 18.1 1.8 2.8 1.8 Rosuvastatin
+(5mg SD)1.2 2.9 Data on ﬁle
+Compound C (150mg QD,
+low fat food)>50 2.0 <0.04 <1.0 <1.0 <0.004 Simvastatin
+(40mg SD)1.34 1.26 Data on ﬁle
+Compound C (100mg QD,
+high fat food)>50 3.4 <0.07 <1.0 <1.0 <0.003 Atorvastatin
+(10mg SD)1.07 1.17 Data on ﬁle
+CsA (100mg) 0.3±0.1 0.6 2.0 1.8 3.1 2.1 Pitavastatin 4.5 NA ( 9)
+Rifampin (600mg) 1.4±0.2 7.9 5.81 2.8 5.6 4.6 Atorvastatin 8.5 14.9 ( 10)
+Lopinavir (400mg) 0.4±0.1 20 55.6 2.4 3.6 2.6 Rosuvastatin 2.1 4.7 ( 11)
+Telaprevir (750mg TID) 3.4±0.1 2.5 0.74 3.9 9.95 8.95 Atorvastatin 7.9 10.6 ( 12)
+Amprenavir (600mg)g10.0±1.6 12 1.2 1.4 1.91 0.91 Rosuvastatin 1.08
+(P00.86)1.45
+(P00.76)(48)
+Ritonavirh(100mg BID) 0.8±0.2 1.73 2.06 1.1 1.26 0.26 Rosuvastatin 1.08
+(P00.86)1.45
+(P00.76)(48)
+Gemﬁbrozil
+(600mg BID)89.5±17.5 100 1.12 1.1 1.09 0.09 Pitavastatin 1.25 NA (NDA#
+022363,
+2009) ( 14)Atorvastatin 1.24 1.17
+aIn-house data obtained using pitavastatin (0.1 μM) as a probe substrate and OATP1B1 transfected MDCKII cells
+bFDA Guidance criteria ( 4)
+cITC criteria ( 6)
+dEMA guidance criteria ( 5)
+eMeasured simvastatin acid
+fSimvastatin administered 12 h later
+gThe prodrug fosamprenavir was used in the study
+hCo-administered with fosamprenavir
+NA-Data are not available636 Prueksaritanont et al.fold difference) obtained using various in vitro assay systems
+(62). Such large differences have been ascribed to interlabor-
+atory differences in the behavior of Pgp expression systems,
+assay protocols, and the methods used to calculate IC 50
+values. Similar in vitro system-dependent IC 50values have
+also been observed with boceprevir; minimal inhibition
+(<10% decrease in net transport) of Pgp-mediated digoxin
+transport was observed using MDCKII-MDR1 cells, whilestudies in Caco-2 cells indicated that boceprevir as an
+inhibitor of Pgp-mediated transport of digoxin, with IC
+500
+25μM(63). The reason for the discrepancy between these
+two assay systems is unclear, but it may suggest thatboceprevir affects other uptake or ef ﬂux transporter
+expressed in Caco-2 cells which are involved in the transport
+of digoxin.
+Substrate-dependent inhibition of OATP transporters has
+also been reported, with different IC
+50orKivalues with
+different substrates, suggesting that OATPs have multiple
+binding sites ( 64,65). Consistent with this, our recent studies
+(63) using estrone sulfate and estropipate, potent prototypical
+inhibitors for OATP1B1 ( 66), also yielded different IC 50values
+for the uptake of pitavastatin (IC 50, 0.6 and 0.8 μM, respectively)
+as compared to that of atorvastatin (IC 50>50, >10 μM, respec-
+tively). Further complicating this is the fact that currently we
+have little understanding of the kinetics of drug –transporter
+interactions. The current assumption of a simple competitive
+inhibition is commonly used to explain DDIs related to trans-
+porters. However, recently emerging information suggests thatthis may not be the case. For example, CsA has been shown to
+exhibit a long lasting inhibition on hepatic uptake of bromo-
+sulfophthalein, a probe substrate for OATPs, in rats ( 67), and on
+OATP1B1 and -1B3 mediated uptake in vitro (68,69).
+Conceivably, this may be a contributing factor, amongseveral others, to the unusually high magnitude of DDIs
+associated with CsA.
+The complexities associated with assay systems and
+methodologies highlight the need to develop better toolsand approaches to appropriately model in vitro transport-
+er data for IC
+50determination. Indeed, this is an area of
+focus by the ITC ( 62). Furthermore, assay methodology,
+including clinically relevant probes or inhibitors, must be
+harmonized in order for a single cutoff criterion as
+currently suggested in both the EU and US guidancedocuments to provide meaningful information indicative ofDDI potential. It is also worth noting that the current
+FDA criteria based on an Rvalue of 1.25 has been shown
+to yield an unacceptably high false-positive (100%) shownfor OATP1B ( 70). This is concerning considering that
+using the proposed criterion in vivo clinical DDI will need
+to be conducted regardless of the in vitro outcome. In this
+regard, our internal data based on IC
+50values for limited
+set of OATP1B inhibitors from a single in vitro assay
+system (OATP1B1 transfected MDCKII cells with pita-vastatin as a probe substrate) also showed many falsepositives using the criteria proposed by both agencies,
+either based on a ratio between inhibitor concentrations
+(total for the US or free for the EU) and IC
+50,o rRvalue
+(US only), and many false negatives with the ITC criteria
+Rvalue of 2 (Table IV), supportive of continued research
+in this area, including searches for a more suitable in vivo
+probe, to aid in a more rationale-based criteria setting.Model-Based Predictions of DDIs
+Recently, there have been an increasing number of
+publications on mechanistic modeling, including PBPK to
+predict DDI mediated viaenzyme and/or transporter inhibition,
+induction or both. Understandably, given the knowledge gained
+with CYPs over the last few decades, many successful quanti-
+tative predictions have been reported for the DDI magnitude inhumans due particularly to either inhibition or induction of
+CYPs, although not without some false predictions ( 71–73).
+Thus far, most of the reports on more complex DDIs, includingtime-dependent inhibition and mixed inhibition and induction,and enzyme-transporter interplays, are retrospective ( 74–76),
+and successes in prospective predictions have not been well
+established. Indeed, the EMA guidance explicitly excludes theuse of mechanistic modeling for quantitative prediction of the
+interaction resulting from both induction and inhibition (revers-
+ible or mechanism-based), citing limited experience as a reason.These modeling approaches, while theoretically sound, are
+dependent heavily on quality inputs and fundamental knowl-
+edge of the system, as well as comprehensive information aboutthe compound itself. While much is known about the former as
+compared to transporters, the latter will not be easily obtained
+in the early stages of drug development and will usually requirefurther support or validation with additional clinical experien-ces. In this section, we present arguments supported with case
+examples to highlight complications associated with modeling
+approaches for prediction of TDI and particularly mixed TDIand induction as described in the regulatory guidance. We hope
+to convey that more research is needed even for CYP3A, the
+most studied enzyme, as well as other enzymes, before therecommended model-based approach and associated criteria
+can be reliably applied for these complex DDIs.
+Predictions Using the Mechanistic Static Model for TDIs
+and Mixed Inhibitors/Inducers
+The so-called “mechanistic static model ”or“net effect ”
+described in the US FDA guidance to assess investigational
+drugs as inhibitors (reversible inhibitors or TDIs), inducers and
+mixed inhibitors and inducers (Fig. 4 of the US draft guidance) isprimarily based on a model described by Fahmi et al.(77). The
+proposed model relies on using a single maximum inhibitor
+concentration at both the gut ( I
+gut—total drug concentration in
+the gut) and hepatic ( Ih—estimated maximum unbound liver
+concentration) levels. In the original work ( 77),Ihwas based on
+free systemic Cmaxfor the inactivation and induction portions
+and free portal Cmaxfor the reversible inhibition portion of the
+model. It remains unclear why different surrogates for the
+perpetrator concentration (free systemic versus portal Cmax)
+were required to optimize the model performance. The FDA ismore conservative in this regard recommending the use of free
+portal C
+maxforIhfor all inhibitor concentrations in the model.
+Based on the database totaling 30 drugs, Fahmi et al.(77)
+showed that while the predictions were within twofold of theobserved values for DDI mediated viaCYP inhibition (revers-
+ible or mechanism-based) or CYP3A4 induction alone, the
+success rate was low for compounds anticipated to be bothinhibitors and inducers. Of the ﬁve compounds tested that
+belong to this class, only one compound was predicted well with
+the mechanistic static model; all other predictions were at least637 Perspectives on Drug Interaction Studiestwo- to three-fold off (either false positive or negatives) the
+observed values ( 77). It is important to point out that a twofold
+cut off is commonly used as a criterion judging the success rate of
+prediction models, and that the success rate was still low even
+with a twofold cutoff for predicting mixed inhibition induction.The criteria proposed for an initial cutoff in the latest US
+guidance is much more conservative, with predicted relative
+AUC values of 80 –125%. Not surprisingly, a recent poster at the
+2012 ASCPT meeting ( 78) shows up to a 90% false-positive rate,
+with the higher end associated with TDI or compounds with
+mixed inhibition and induction of CYP3A ( n012).
+Similarly, we have experienced overpredictions with the
+mechanistic static model based either on the free portal or
+systemic C
+maxfor all compounds ( n09) in our database that
+qualiﬁed as TDIs and mixed inhibitors/inducers of CYP3A. In
+fact, up to 10-fold and three- to ﬁve-fold overpredictions were
+observed with the recommended free portal Cmax(calculated
+based on the recommended default absorption rate constantvalue of 0.1 min
+−1) and systemic Cmax(clinically observed Cmax
+at steady-state, adjusted for free fraction), respectively
+(Table V). In both cases, the predictions gave no false
+negatives (Table V). In this analysis, an enzyme turnover rate
+(kdeg) for CYP3A of 0.03 h−1was used; this kdegvalue has
+recently been shown to yield more accurate predictions for timedependent inhibition of diltiazem and other TDIs on midazolam(74,79). Although limited, our data suggest that the results fromthe mechanistic static model m ay provide a more reasonable
+estimate for DDI risk if clinically observed unbound C
+max,
+instead of the agency ’s recommended unbound portal Cmaxis
+used. It is noteworthy that the default ka value of 0.1 min−1was
+partly responsible for the difference observed between the twoapproaches, and that the previously recommended ka value of
+0.03 min
+−1by Ito et al.(80) would narrow, although not eliminate,
+the difference (data not shown), and therefore may be a bettervalue of choice. Additionally, although the results thus far
+support what appears to be the main intent from the regulatory
+perspective of using the static model for ruling out the need to doclinical DDI studies, from a drug industry perspective thisperceived bene ﬁt is minimized by the hig h likelihood that the
+predictions will suggest that essen tially no clinical studies can be
+excluded, regardless of in vitro study outcomes.
+Predictions Using Mechanistic Dynamic Models for TDIs
+and Mixed Inhibitors/Inducers
+The high incidence for overprediction by the static model is
+not surprising given the fact that this model only captures the
+maximum plasma concentration of the perpetrator. In theory,the next-in-line dynamic PBPK modeling approach recommen-
+ded by both the agencies, which accounts for temporal change in
+the perpetrator plasma concentrations, should improve theprediction, provided that the model incorporates all necessary
+Table V. In Vitro Evaluations and Model-Based Predictions of Compounds as a Potential Perpetrator for CYP3A-Mediated DDIs
+PerpetratorInput parameters of perpetratorMidazolam exposure
+changes (AUCR)a
+Dose (mg)
+regimenObserved
+Cmax,ss
+(μM)Plasma
+free
+fractionReversible
+inhibition
+IC50(μM)Time-
+dependent
+inhibition
+KI (μM)Time-
+dependent
+inhibition
+kinact
+(hr−1)Induction
+EC50
+(μM)Induction
+Emax
+(fold)Predicted
+Net
+EffectbPredicted
+PBPKcObserved
+Compound 1 80 1.6 0.005 4 12 8.4 14 11 4.9 (2.0) 1.3 1.5
+QD
+Compound 2 20 0.54 0.025 100 17 7 1.3 15 1.9 (1.6) 1.3 0.82
+QD
+Compound 3 200 8.0 0.030 7.9 3.6 1.7 0.5 15.5 2.8 (1.4) 2.8 0.8
+BID
+Aprepitant 160 3.0 0.003 0.84 2.23 6.0 0.275 4.05 3.0 (2.7) 2.8 1.6
+QD
+Compound 4 150 3.0 0.030 28 9.5 6.6 –– 17.0 (4.7) 3.9 1.4
+QD
+Compound 5 500 5.8 0.041 75 2.3 1.4 –– 17.0 (7.2) 3.8 3.8
+QD
+Compound 6 600 2.4 0.016 19 42 8.4 –– 7.3 (2.2) N/A 1.8
+QD
+Boceprevir 800 3.3 0.300 7.7 6.1 7.2 –– 24.6 (18.5) 6.8 5.3
+TID
+Teleprevir 750 4.5 0.300 1.2 0.5 4.5 –– 24.9 (23.7) 10.2 9.0
+TID
+Allin vitro data were generated in-house. Clinical data are internal data, except for Boceprevir and Teleprevir are from references ( 81) and
+(82), respectively
+aAll predictions for AUCR were based on kdeg00.03 h−1. Additional information is included in the ESM S 2
+bPredicted net effect values were based on free hepatic portal concentrations, while values in parentheses were obtained using free plasma
+CmaxcPBPK was simulated using SimCYP with clinical PK data of perpetrators. Additional information used in the simulation is included in the
+ESM S 2638 Prueksaritanont et al.and adequately characterized system and drug parameters.
+Indeed, a general trend of improvement was observed with aPBPK model using the same in vitro dataset (Table V; see also
+ESM S 2)a n da k
+degvalue as for the static model, but with
+clinically observed plasma concentration-time pro ﬁles for the
+perpetrators at steady-state (Table V). Notably, by using the
+clinically observed perpetrator concentrations at steady-state,
+our PBPK model results represent the best case scenario byreducing uncertainty in extrapolating the inhibitor concentra-
+tions using translational bottom-up approaches. Despite this, a
+2- to 3.5-fold over prediction was observed for compound 3(mixed inhibitor/inducer) and compound 4 (a TDI), suggestingsome limitations of the current model.
+The model limitations are also supported by a recent
+industry/FDA/academia collaboration that was recently com-pleted evaluating current static and time-based models for
+induction DDI (C. Gibson, personal communication). Two
+perpetrators included in the study were pioglitazone andtroglitazone, each of which has been shown in vitro andin vivo
+to be inducers but also have clearly observable time-dependant
+inhibition of CYP3A in vitro in a human liver microsomal
+model. A summary of the PBPK model parameters for
+pioglitazone and troglitazone and model validation using
+existing clinical data are shown in ESM S 3. After incorporation
+of all the observed in vitro induction and time-dependent
+inhibition parameters for both perpetrators (ESM S 3), they
+were both simulated to be net inhibitors rather than inducers, at
+steady-state. With the k
+degvalue of 0.03 h−1, the modeled GMR
+(95% CI) for the pioglitazone/midazolam DDI was 1.87 (1.78 –
+1.97) versus the observed GMR of 0.74, and the corresponding
+value for the troglitazone/simvastatin DDI was 6.47 (6.10 –6.86)
+versus the observed interaction of 0.59 ( 83). Interestingly, these
+predicted results are the best-case outcome, given that the
+prediction became worse using a kdegvalue of either 0.019 h−1
+(predicted GMR 02.1 and 7.0 for pioglitazone/simvastatin and
+troglitazone/simvastatin, respectively) or 0.008 h−1(predicted
+GMR 02.8 and 8.8 for pioglitazone/simvastatin and troglitazone/
+simvastatin, respectively); both kdegvalues have also been
+commonly employed for CYP3A in many reportedlysuccessful DDI predictions resulting from CYP3A inhibition
+(74,79,84). Furthermore, correction of the Ki and KI values of
+pioglitazone and troglitazone using the measured nonspeci ﬁc
+binding (0.11 and 0.07, respectively —data not shown) caused
+the prediction to be even worse (i.e., predicted a greatermagnitude of net inhibition). These poor predictions, with
+respect to both the magnitude and the direction of DDI
+(predicted net inhibition vs observed net induction) weremade in spite of using clinically observed perpetrator
+concentrations at steady-state of both troglitazone and
+pioglitazone. Such examples strongly suggest de ﬁciencies in
+the current model approaches and limiting their use inpredicting DDI liability of compounds with mixed time-
+dependent inhibition and induction.
+Complications Associated with Using a Single Value
+of CYP3A4 Degradation Rate (k
+deg) to Describe
+Both Induction and Inhibition
+While the kdegvalue of 0.03 h−1has provided reasonable
+predictions for the magnitude of DDIs for many CYP3A-mediated TDIs, including several of our compounds, our
+experience using the PBPK models to study the time course of
+return to baseline for midazolam PK following 28 days ofrifampin administration to healthy volunteers suggest aCYP3A4 k
+degof 0.008 h−1is required to describe the time
+course of the “de-induction ”(85). For presentation in this
+manuscript, the aforementioned studies were re-evaluated usingthe same version of simCYP (v11.1) and were modeled using
+both k
+degvalues (0.03 h−1and 0.008 h−1) for comparison to the
+clinical observations. Additionally, the reversible and time-dependent inactivation parame ters of CYP3A4 by diltiazem
+were modi ﬁed to Ki 036.1μM, KI 02.97μM and kinact 04.2 h
+−1,
+consistent to those previously published ( 79). All other model
+parameters for midazolam, rifampin and diltiazem were used astheir default values in simCYP v11.1. As shown in Fig. 1a,t h e
+CYP3A k
+degv a l u eo f0 . 0 3h−1reported by Friedman et al.t ob e s t
+describe the time-course of CYP3A inhibition by diltiazemperformed relatively poorly compared to using a k
+degvalue of
+Weeks Following 28 Day Rifampin Administration012345Midazolam AUC (ng*hr/mL)
+0510152025
+Days of Diltiazem Dosin g25AUC GMR (90% CI)
+12345678
+Fig. 1. a Plot of midazolam AUC following 28 day once daily (QD) oral administration of 600 mg of
+Rifampin showing the washout of the induction effect in midazolam PK modeled using to different values
+ofkdeg(0.03 and 0.008 h−1). Observed midazolam exposure shown in filled circles , modeled midazolam
+exposure using CYP3A4 kdeg00.03 h−1shown in filled squares , modeled midazolam exposure using
+CYP3A4 kdeg00.008 h−1shown in open circles . Observed data extracted from Reitman et al.(85). See
+additional details in ESM S 3.bPlot of observed and simulated drug interaction, expressed as geometric
+mean AUC ratio (GMR) of 240 mg QD diltiazem (sustained released, SR) for 5 days on midazolam usingtwo different values of the CYP3A4 k
+deg(0.03 and 0.008 h−1). Observed GMR with 90% CI shown in
+closed circles, simulated GMR (90% CI) using kdeg00.03 h−1shown in open circles , simulated GMR (90%
+CI) using kdeg00.008 h−1shown in closed triangles . See additional details in ESM S 3639 Perspectives on Drug Interaction Studies0.008 h−1, for describing the time-course of the washout of
+rifampin ’s inductive effect on midazolam exposure.
+Interestingly, although the temporal aspects of the rifampin
+DDI were not well captured using a CYP3A4 kdegof 0.03 h−1,
+the magnitude of the observed steady-state interaction onmidazolam was reasonably modeled using either value (0.03 or
+0.008 h
+−1). The diltiazem/midazolam DDI study published by
+Friedman et al.(79) was evaluated similarly to test the sensitivity
+to the CYP3A4 kdeg(Fig. 1b). In this case, the model using a
+CYP3A4 kdegvalue of 0.03 h−1was able to simulate both the
+temporal aspects and the magnitude of the observed DDI. As acomparison, a k
+degof 0.008 h−1resulted in an overestimation of
+the magnitude of the observed DDI as well as not capturing the
+temporal aspects. Although it is possible that interstudy
+variability may be the cause for the apparent difference in theCYP3A4 k
+degvalue needed to describe the observed
+interactions mentioned above, based on our experience it can
+be reasonably concluded that in the current simCYP dynamicmodel of DDI there is not one value for the hepatic CYP3A4
+k
+degthat will account for both magnitude and temporal aspects
+of time-dependant inhibition and induction. These exampleshighlight the complexities in prospectively predicting DDIs and
+suggest a need for further model and/or parameter re ﬁnement.
+Other Complications in Predicting DDIs due to TDIs
+and Mixed Inhibition/Induction
+In this section, we present three retrospective case
+examples to further illustrate complicating factors associated
+with the PBPK model-based predictions for compounds with
+mixed inhibition/induction ( n02), and with only time-depen-
+dent inhibition on CYP3A ( n01). Unlike the earlier exam-
+ples, where clinically observed perpetrator concentrations at
+steady-state were used to predict their effects on midazolam
+exposure, these cases were based on PBPK models thatincorporated observed single dose and multiple dose clinical
+phase I perpetrator PK data, along with other relevant model
+parameters (CYP reaction phenotyping data and inhibition/induction parameters, physicochemical properties, etc.), to
+simulate perpetrator concentrations at steady-state, and
+predict subsequent effects on midazolam exposure (detailsprovided in ESM S 4). Although requiring a more extensive
+data set, these models are considered more mechanistic,
+leveraging the model to incorpora te changes in clearance for the
+perpetrator drug as a result of its auto-inhibition/inductionpotential after multipl e dosing. This is an especially important
+aspect of the model considering that the majority of compounds
+are substrates of CYP3A, includi ng most of the compounds listed
+in Table V. We conclude from these and the aforementioned case
+examples that there is a signi ﬁcant knowledge gap to enable
+reliable DDI predictions for com pounds of this nature (i.e., auto-
+induction and/or auto-inhibition), and that clinical DDI studies
+maybe unavoidable until more knowledge, on both the CYP
+system, including the synthesis and degradation rates, and thedrug properties, is gained to help re ﬁne and validate the model.
+Compound 3-Midazolam DDI. As indicated earlier, the PBPK
+model based on clinically obs erved PK of compound 3 and its in
+vitro CYP3A inhibition and induction properties, signi ﬁcantly
+over predicted the in vivo impact resulting from the chronic
+dosing of compound 3, with midazolam exposure re ﬂecting its netinhibitory effect on CYP3A (Table V). Preclinical in vitro studies
+suggest that compound 3 may both inhibit and induce of CYP3A.B a s e do nac o m p r e h e n s i v es e to f in vitro andin vivo studies,
+including ADME studies using a ra diolabeled tracer, compound 3
+is expected to be eliminated by me tabolism in humans, primarily
+by CYP3A4 with fraction metabolized by CYP3A (fm
+CYP3A )o f
+∼0.8. When the parameters describing these attributes were
+incorporated into the PBPK model, an overprediction ofcompound 3 exposure was observe d following bid dosing for
+28 days (Table VI), indicating again the net inhibitory effect on
+CYP3A. This prediction was i nconsistent with the observed
+multiple dose clinical PK pro ﬁle of this compound, which
+suggested no net change in its clearance over this dosing period
+(i.e., the accumulation ratio of ∼1.5 is expected based on its day 1
+PK; ESM S 4). Although the over-prediction of exposure at
+steady-state was minimized when the fm
+CYP3A was arbitrarily
+changed to ∼0.4, the prediction of its effect on midazolam
+exposure was not improved (Table VI). It is worth noting that
+in these simulations, the kdegv a l u eo f0 . 0 3h−1was used and the
+results were better than t hose obtained with other kdegvalues,
+including 0.019 h−1(Table VI). Additionally, the model provided
+a reasonable prediction for mi dazolam exposure as a result of
+reversible inhi bition after a single dose (day1) of compound 3
+(Table VI), suggesting that the limitation of the current PBPK
+models is primarily on a more complex time-dependent DDIaspect, involving simultane ous induction and inhibition.
+Aprepitant-Midazolam DDI. Aprepitant is another drug which
+has been shown in vitro to be a reversible ( 84) and time-
+dependent inhibitor of CYP3A4 as well as inducer of CYP3A4(Table V). Furthermore, the apparent effects of autoinhibition
+with subsequent autoinduction are apparent in the multiple dose
+clinical PK pro ﬁle of the compound (Aprepitant, Summary of
+Clinical Pharmacology Studies, Rahway (NJ), Merck, 2004, data
+onﬁle). Increasing AUC is observed between days1 and 7 of
+aprepitant dosing (160 mg QD), followed by a decreasing trendin exposure on day28 and back to baseline on day56 of chronic
+dosing (Fig. 2). A minimal accumulation would have been
+anticipated based simply on the day1 PK pro ﬁle with a linear
+kinetic assumption (i.e., no changes in aprepitant clearance dueto auto inhibition or induction over the entire dosing period; the
+aprepitant PK would remain relatively constant over the 56-day
+dosing period). While our PBPK model (ESM S 4) reasonably
+captured the increased exposure of aprepitant on day7 relative
+to day1 as a net inhibitory effect on CYP3A activity, it was
+unable to simulate the decrease in aprepitant exposure on days28 and 56, an apparent steady-state after chronic dosing (Fig. 2,
+Table VI). The model predicted a net auto-inhibitory effect
+through steady-state after 28 days of drug dosing although itwould appear that auto-induction had occurred. The inability to
+accurately simulate the exposure of aprepitant on day56 was
+accompanied by a poor simulation of the observed midazolamDDI on day56, regardless of which k
+degvalue (0.03 h−1
+(Table VI) or 0.008 h−1(data not shown)). Interestingly, on
+day7, when the simulated aprepitant exposure was consistent
+with observed clinical exposure, the midazolam AUC ratio wasaccurately predicted with a hepatic CYP3A4 k
+degvalue of
+0.019 h−1applied to the model. The kdegvalue 0.03 h−1resulted
+in underprediction of aprepitant exposure on day7, and likewiseunderprediction of the observed midazolam DDI (Table VI).
+This sensitivity of the PBPK model to the hepatic CYP3A4640 Prueksaritanont et al.parameter and its uncertainty, observable across several
+disparate examples, suggest that it may be dif ﬁcult, even in the
+most straightforward cases, to expect the level of precision
+required to perform within traditional bioequivalence boundssuggested as cutoffs in the draft US guidance.
+It is worth noting that the model was unable to predict
+correctly, with regard to the directional effect (predicted net
+inhibition vs observed net induction) on the perpetratorexposure, and that in spite of apparent autoinduction on itsown metabolism after 56-day dosing, aprepitant caused an
+inhibitory effect on midazolam exposure (Table VI). The reason
+for this is unclear and could not be due simply to inaccuratedetermination of fm
+CYP3A for aprepitant as changing its
+fmCYP3A from 0.9 to 0.7 did not improve the prediction (datanot shown). Additionally, a clinical DDI study conducted with
+ketoconazole, a potent CYP3A inhibitor, caused ﬁvefold
+increase in aprepitant ( 85), consistent with CYP3A being the
+major metabolizing enzyme for aprepitant. The observedtemporal changes in the aprepitant exposure (increase on day7
+then decrease on day28), but not of midazolam, suggest a
+possibility for changes over time in the relative contribution ofCYP3A to overall metabolism of aprepitant that was not
+replicated with midazolam. Although the underlying mechanism
+remains to be investigated, this hypothesis is consistent with thefact that aprepitant is also metabolized, albeit to a very limited
+extent by CYP2C in vitro , is not a potent inhibitor of CYP2C
+(86), and that an inducer of CYP3A can also induce CYP2C
+(87,88). This example highlights a kn owledge gap requiring moreTable VI. PBPK Model Predictions of Multiple Dose Pharmacokinetics and Drug-Drug Interaction with Oral Midazolam (2mg)
+Perpetrator Dosing day kdeg(h−1)Perpetrator Midazolam
+fm,3A4Cmax(μM) AUC ( μM·h) AUC GMR (90% CI)
+Simulated Observed Simulated Observed Simulated Observed
+Compound 3
+(200 mg BID)1 0.03 0.4 4.4 5.5 38.6 46.0 1.3 (1.3, 1.3) 1.1 (0.8, 1.3)
+0.8 4.3 37.4 1.3 (1.3, 1.3)
+28 0.03 0.4 8.4 8.0 77.5 69.8 2.8 (2.5, 3.1) 0.8 (0.6, 1.0)
+0.8 11.2 109.9 3.1 (2.8, 3.5)
+0.019 0.8 13.7 139.4 4.3 (3.7, 4.9)
+Aprepitant
+(160 mg QD)1 0.03 0.9 2.4 2.3 40.5 36.7 ––
+0.019 2.4 42.3
+7 0.03 0.9 5.6 7.5 110.6 120.9 3.4 (2.9, 3.9) 4.4 (3.1, 6.3)
+0.019 6.9 140.3 4.8 (4.1, 5.6)
+56 0.03 0.9 6.0 3.0 119.2 47.9 3.5 (3.0, 4.0) 1.6 (1.1, 2.3)
+0.019 7.5 154.0 4.9 (4.2, 5.8)
+Compound 4
+(150 mg QD)1 0.03 0.9 6.1 7.2 46.6 39.6 ––
+6.0a41.0a
+10 0.03 0.9 14.1 9.2 201.5 51 6.5 (5.5, 7.6) 1.4 (1.3, 1.6)
+12.1a151.0a4.9(4.2,5.7)a
+aTDI kinetics from hepatocytes; additional details can be found in ESM S 4
+Time (hr)
+Day 10 5 10 15 20Plasma Concentration (µM)
+0246810
+Time (hr)
+Day 7145 150 155 160 165
+Time (hr)
+Day 28650 655 660 665 670
+Time (hr)
+Day 561320 1325 1330 1335 1340Observed
+Simulated (kdeg = 0.019 hr-1)
+Simulated (kdeg = 0.03 hr-1)
+Fig. 2. Plasma concentration –time pro ﬁles of aprepitant (observed vs simulated) following aprepitant oral administration at
+160 mg QD for 56 days. Observed data were obtained from aprepitant summary of clinical pharmacology studies, Rahway
+(NJ), Merck (data on ﬁle). Simulated data were based on kdegvalues of 0.019 and 0.03 h−1(see additional details in ESM S 4)641 Perspectives on Drug Interaction Studiestargeted studies to better understand the underlying mechanisms
+for the observed unpredictable time-dependent outcome, whichcould be incorporated into a more re ﬁned PBPK model that
+better captures all potenti al contributing factors.
+Compound 4-Midazolam DDI. Unlike the above two cases,
+compound 4, is a substrate and TDI of CYP3A but isunresponsive in human hepato cyte cultures for mRNA
+CYP3A4 induction suggesting it is not an inducer. Using asimilar PBPK modeling approach as described above (ESMS4), about a threefold over prediction of the accumulation
+ratio of its own exposure was simulated following 10 days ofonce daily dosing (Table VI). This overprediction is sugges-
+tive of autoinhibition, which was not observed clinically; theobserved PK on day10 was consistent with no change in
+clearance from day1. The overpredicted accumulation was
+reduced, but not eliminated even with fm
+CYP3A set to 0.5
+(data not shown); this fm CYP3A value was thought to be
+unlikely as it is in contrast with the in vitro reaction
+phenotyping studies with human liver microsomes andclearance mechanisms in ani mals, which suggested an
+fm
+CYP3A of∼0.9. While the approximately ﬁvefold over-
+prediction in midazolam interaction is not unexpected giventhe overprediction in compound 4 steady state exposure, itwas surprising that there was still a 2.8-fold overprediction ofthe midazolam interaction even when the clinically observedsteady state PK pro ﬁle of compound 4 was well-matched by
+specifying a time-independent apparent clearance based onthat observed in vivo (Table V). Thus, the model over
+predicted the clinical consequence of the in vitro time-
+dependent inhibition of CYP3A-mediated metabolism ofboth the perpetrator compound 4 and the victim midazolam.
+Several experiments were conducted to investigate potential
+causes for these signi ﬁcant over predictions, including inves-
+tigating reversibility of the inhibition. Such mechanisticunderstanding is required for modeling TDI since bothcurrent static and PBPK approaches to model DDI forcompounds are based on an assumption that there is a time-dependent irreversible loss of enzyme activity. The inhibitoryeffect of compound 4 was con ﬁrmed to be irreversible (data
+not shown), ruling out this as a major contributing factor tothe poor modeled result. Results from studies in a humanhepatocyte model, which is a more complete system and hasbeen shown to yield in vitro inhibition parameters more
+predictive of an in vivo system for some compounds ( 89,90),
+showed that the inhibitory potency (kinact/KI ratio) was onlymarginally reduced (less than twofold), and the reduction hadminimal effect on improving the simulation of PK and DDI ofcompound 4 (Table VI). In addition, the predicted results
+became slightly worse when simulations were conducted using
+thek
+degvalue of 0.019 h−1, instead of 0.03 h−1(data not shown),
+suggesting that the overprediction is not due to the assumed kdeg
+value. The disconnect between in vitro TDI and the in vivo effect
+for compound 4 is not entirely clear at the current time, althoughsimilar observations have been published to highlight thecomplexity in obtaining accurate in vitro TDI parameters and
+in DDI prediction for compounds behaving as TDIs in vitro
+(91,92). This provides further support to the notion that
+prospective PK and DDI modeling of time-dependent effectsusing PBPK is complex with the current knowledge of thesystem, even with availability of human PK data.CONCLUSIONS
+The goal of regulatory gui dance is to ensure safe and
+effective use of approved medicines. However, given thecomplications highlighted above a nd considering that the major-
+ity of drug candidates will fail after a ﬁrst in human trials (>90%)
+or after a proof of concept (POC) study (>60%) ( 93), the
+recommendations and associated criteria proposed in the DDI
+guidance, if not appropriately a pplied during drug development,
+may result in increased unnecessary studies which add to the
+already costly process of drug discovery and development ( 22).
+This is particularly the case for th e transporter related studies,
+where focus should be primarily on the more established trans-
+porters Pgp and OATP1B1. Furthermore, we believe that these
+transporter-related DDIs should be evaluated on a case-by-case
+basis using approaches supported by current scienti ﬁc knowledge
+in the ﬁeld and with a holistic vie w considering the overall
+properties of a drug candidate including the safety pro ﬁle of the
+candidate and/or concomitant drugs. For the majority of com-
+pounds, we question the need to conduct in vitro studies on a
+routine basis or in vivo clinical DDI studies using the currently
+recommended probe substrates /inhibitors in the US draft DDI
+guideline, especially on drug transporters for which the role andimpact on drug disposition are presently less well established
+relative to Pgp and OATP1B1.
+Considering the complexities associated with predictions
+of time- and concentration-dependent effects, clinical DDI
+studies of TDIs and mixed inhibitors/inducers may beinevitable, and should be done after the clinical dose and
+efﬁcacious exposure have been determined (i.e., after POC).
+Given the current state-of-the-art, the recommended mecha-nistic model-based approaches (including PBPK) based solely
+onin vitro results (bottom-up approach) are not recommen-
+ded for prospective DDI prediction of these compounds.Instead, the dynamic PBPK models should be applied afteravailability of phase I human PK data. The PBPK-based
+simulations which accurately capture the steady-state human
+PK pro ﬁles may help ﬂag potential DDI issues in early
+development and together with other considerations (e.g.,
+anticipated safety margin, commonly prescribed medications
+in targeted clinical trial populations) can be used to determinepotential risks and aid in prioritization/planning of a clinical
+DDI strategy, but should not serve as an automatic trigger for
+a clinical DDI study. When applicable, the regulatory criteriashould be used to rule out the need for conducting clinicalDDIs, although given the conservative nature of the guid-
+ance, this maybe a rare occasion. With at least one properly
+designed clinical DDI study from which the results can beused to validate a PBPK model and its assumptions, the
+model may then be used to explore potential outcomes of
+various “untested ”clinical situations (i.e., “what ifs ”), and
+potentially in some cases, the predicted results could be used
+to justify waiving certain clinical DDI studies. This important
+role of PBPK will be increasingly realized during later stagesof drug development when much more information, including
+a mechanistic understanding of a compound from targeted
+issue-driven studies would have already been gained to help
+parameterize and validate the model.
+Overall, the new guidance documents contain many
+helpful recommendations for assessing a new drug candidate
+for its DDI potential mediated viadrug transporters and drug642 Prueksaritanont et al.metabolizing enzymes. However, there are signi ﬁcant knowl-
+edge gaps necessitating continued research in the aforemen-tioned emerging areas to aid in developing and re ﬁning the
+recommendations before implementation.
+ACKNOWLEDGMENTS
+We would like to thank Drs. Ying-Hong Wang, Jairam
+Palamanda, Prajakti Kothare, Raymond Evers, and David
+Cutler for their help and valuable inputs, and Drs. Jane Croft
+Harrelson, Nancy Agrawal, Richard Morrison, and JamesYergey for their critical review of the manuscript.
+REFERENCES
+1. Huang SM, Strong JM, Zhang L, Reynolds KS, Nallani S,
+Temple R, et al. New era in drug interaction evaluation: US Food
+and Drug Administration update on CYP enzymes, transporters,
+and the guidance process. J Clin Pharmacol. 2008;48:662 –70.
+2. European Medicines Agency (EMA), Committee for Human
+Medicinal Products for Human use (CHMP). Concept paper/recommendation on the need for revision of (CHMP) Note forguidance on the investigation of drug interactions. July 2008.
+3. The European Agency for the Evaluation of Medicinal Products
+(EMEA), Committee for Proprietary Medicinal Products(CPMP). Note for guidance on the investigation on druginteractions. December 1997.
+4. U.S. Department of Health and Human Services, Food and Drug
+Administration, Center for Drug Evaluation and Research(CDER). Guidance for industry, drug interaction studies —study
+design, data analysis, implications for dosing, and labeling
+recommendations. February 2012.
+5. European Medicine Agency (EMA), Committee for Human
+Medicinal Products (CHMP). Guideline on the investigation ofdrug interactions. 21 June 2012.
+6. Giacomini KM, Huang SM, Tweedie DJ, Benet LZ, Brouwer
+KL, Chu X, et al. Membrane transporters in drug development.
+Nat Rev Drug Discov. 2010;9:215 –36.
+7. European Medicines Agency (EMA), Committee for Medicinal
+Products for Human Use (CHMP). Guideline on the clinicalinvestigation of the pharmacokinetics of therapeutic proteins.January 2007.
+8. Hulskotte EGJ, Xuan F, van Zutven MGJA, O ’Mara E, Galitz
+L. Pharmacokinetic evaluation of the interaction between the
+HCV protease inhibitor boceprevir and the HMG-CoA reduc-tase inhibitors atorvastatin and pravastatin. 16th Annual Meetingof HEP DART; December 4 –8, 2011; Koloa, Hawaii.
+9. Shitara Y, Sugiyama Y. Pharmacokinetic and pharmacodynamic
+alterations of 3-hydroxy-3-methylglutaryl coenzyme A (HMG-
+CoA) reductase inhibitors: drug –drug interactions and interindi-
+vidual differences in transporter and metabolic enzyme func-tions. Pharmacol Ther. 2006;112:71 –105.
+10. He YJ, Zhang W, Chen Y, Guo D, Tu JH, Xu LY, et al.
+Rifampicin alters atorvastatin plasma concentration on the basisof SLCO1B1 521T>C polymorphism. Clin Chim Acta.2009;405:49 –52.
+11. Kiser JJ, Gerber JG, Predhomme JA, Wolfe P, Flynn DM,
+Hoody DW. Drug/drug interaction between lopinavir/ritonavirand rosuvastatin in healthy volunteers. J Acquir Immune De ﬁc
+Syndr. 2008;47:570 –8.
+12. Lee JE, van Heeswijk R, Alves K, Smith F, Garg V. Effect of the
+hepatitis C virus protease inhibitor telaprevir on the pharmaco-
+kinetics of amlodipine and atorvastatin. Antimicrob Agents
+Chemother. 2011;55:4569 –74.
+13. Huang L, Be X, Tchaparian EH, Colletti AE, Roberts J, Langley
+M,et al. Deletion of Abcg2 has differential effects on excretion
+and pharmacokinetics of probe substrates in rats. J PharmacolExp Ther. 2012;343:316 –24.14. Backman JT, Luurila H, Neuvonen M, Neuvonen PJ. Rifampin
+markedly decreases and gem ﬁbrozil increases the plasma con-
+centrations of atorvastatin and its metabolites. Clin PharmacolTher. 2005;78:154 –67.
+15. Jonker JW, Wagenaar E, Mol CA, Buitelaar M, Koepsell H, Smit JW,
+et al. Reduced hepatic uptake and in testinal excretion of organic
+cations in mice with a targeted d isruption of the organic cation
+transporter 1 (Oct1 [Slc22a1]) gene. Mol Cell Biol. 2001;21:5471 –7.
+16. Iusuf D, Sparidans RW, van Esch A, Hobbs M, Kenworthy KE,
+van de Steeg E, et al. Organic anion-transporting polypeptides
+1a/1b control the hepatic uptake of pravastatin in mice. MolPharm. 2012;9:2497 –504.
+17. Vlaming ML, Pala Z, van Esch A, Wagenaar E, de Waart DR,
+van de Wetering K, et al. Functionally overlapping roles of
+Abcg2 (Bcrp1) and Abcc2 (Mrp2) in the elimination ofmethotrexate and its main toxic metabolite 7-hydroxymethotrex-atein vivo . Clin Cancer Res. 2009;15:3084 –
+93.
+18. Tsuda M, Terada T, Ueba M, Sato T, Masuda S, Katsura T, et al.
+Involvement of human multidrug and toxin extrusion 1 in the
+drug interaction between cimetidine and metformin in renal
+epithelial cells. J Pharmacol Exp Ther. 2009;329:185 –91.
+19. Ito S, Kusuhara H, Yokochi M, Toyoshima J, Inoue K, Yuasa H,
+et al. Competitive inhibition of the luminal ef ﬂux by multidrug
+and toxin extrusions, but not basolateral uptake by organiccation transporter 2, is the likely mechanism underlying the
+pharmacokinetic drug –drug interactions caused by cimetidine in
+the kidney. J Pharmacol Exp Ther. 2012;340:393 –403.
+20. de Vries NA, Zhao J, Kroon E, Buckle T, Beijnen JH, van
+Tellingen O. P-glycoprotein and breast cancer resistance protein:two dominant transporters working together in limiting the brainpenetration of topotecan. Clin Cancer Res. 2007;13:6440 –9.
+21. Fromm MF, Kim RB, Stein CM, Wilkinson GR, Roden DM.
+Inhibition of P-glycoprotein-mediated drug transport: a unifying
+mechanism to explain the interaction between digoxin andquinidine. Circulation. 1999;99:552 –7.
+22. Paul SM, Mytelka DS, Dunwiddie CT, Persinger CC, Munos BH,
+Lindborg SR, et al. How to improve R&D productivity: the
+pharmaceutical industry ’s grand challenge. Nat Rev Drug
+Discov. 2010;9:203 –14.
+23. Agarwal S, Mittapalli RK, Zellmer DM, Gallardo JL, Donelson
+R, Seiler C, et al. Active ef ﬂux of dasatinib from the brain limits
+efﬁcacy against murine glioblastoma: broad implications for the
+clinical use of molecularly targeted agents. Mol Cancer Ther.2012;11:2183 –92.
+24. Marchetti S, de Vries NA, Buckle T, Bolijn MJ, van Eijndhoven
+MA, Beijnen JH, et al. Effect of the ATP-binding cassette drug
+transporters ABCB1, ABCG2, and ABCC2 on erlotinib hydro-chloride (Tarceva) disposition in in vitro andin vivo pharmacoki-
+netic studies employing Bcrp1 −/−/Mdr1a/1b −/−(triple-knockout)
+and wild-type mice. Mol Cancer Ther. 2008;7:2280 –7.
+25. Zaher H, Meyer zu Schwabedissen HE, Tirona RG, Cox ML,
+Obert LA, Agrawal N, et al. Targeted disruption of murine
+organic anion-transporting polypeptide 1b2 (Oatp1b2/Slco1b2)signiﬁcantly alters disposition of prototypical drug substrates
+pravastatin and rifampin. Mol Pharmacol. 2008;74:320 –9.
+26. Chen C, Stock JL, Liu X, Shi J, Van Deusen JW, DiMattia DA,
+et al. Utility of a novel Oatp1b2 knockout mouse model for
+evaluating the role of Oatp1b2 in the hepatic uptake of model
+compounds. Drug Metab Dispos. 2008;36:1840 –5.
+27. Jonker JW, Wagenaar E, Van Eijl S, Schinkel AH. De ﬁciency in
+the organic cation transporters 1 and 2 (Oct1/Oct2 [Slc22a1/Slc22a2]) in mice abolishes renal secretion of organic cations.Mol Cell Biol. 2003;23:7902 –8.
+28. Lau YY, Huang Y, Frassetto L, Benet LZ. Effect of OATP1B
+transporter inhibition on the pharmacokinetics of atorvastatin in
+healthy volunteers. Clin Pharmacol Ther. 2007;81:194 –204.
+29. Zheng HX, Huang Y, Frassetto LA, Benet LZ. Elucidating
+rifampin ’s inducing and inhibiting effects on glyburide pharma-
+cokinetics and blood glucose in healthy volunteers: unmaskingthe differential effects of enzyme induction and transporter
+inhibition for a drug and its primary metabolite. Clin
+Pharmacol Ther. 2009;85:78 –85.
+30. Frymoyer A, Shugarts S, Browne M, Wu AHB, Frassetto L, Benet
+LZ. Effect of single-dose rifampin on the pharmacokinetics ofwarfarin in healthy volunteers. Clin Pharmacol Ther. 2010;88:540 –7.643 Perspectives on Drug Interaction Studies31. Bihorel S, Camenisch G, L emaire M, Scherrmann JM.
+Modulation of the brain distr ibution of imatinib and its
+metabolites in mice by valspodar, zosuquidar and elacridar.Pharm Res. 2007;24:1720 –8.
+32. Oostendorp RL, Buckle T, Beijnen JH, van Tellingen O, Schellens
+JHM. The effect of Pgp (Mdr1a/1b), BCRP (Bcrp1) and Pgp/BCRP
+inhibitors on the in vivo absorption, distribution, metabolism and
+excretion of imatinib. Investig New Drugs. 2009;27:31 –40.
+33. van Erp NP, Gelderblom H, Guchelaar HJ. Clinical pharmaco-
+kinetics of tyrosine kinase inhibitors. Cancer Treat Rev.2009;35:692 –706.
+34. Lemahieu WP, Hermann M, Asberg A, Verbeke K, Holdaas H,
+Vanrenterghem Y, et al. Combined therapy with atorvastatin and
+calcineurin inhibitors: no interactions with tacrolimus. Am JTransplant. 2005;5:2236 –43.
+35. Binet I, Wallnofer A, Weber C, Jones R, Thiel G. Renal
+hemodynamics and pharmacokinetics of bosentan with andwithout cyclosporine A. Kidney Int. 2000;57:224 –31.
+36. Kajosaari LI, Niemi M, Neuvonen M, Laitila J, Neuvonen PJ,
+Backman JT. Cyclosporine markedly raises the plasma concen-
+trations of repaglinide. Clin Pharmacol Ther. 2005;78:388 –99.
+37. Menochet K, Kenworthy KE, Houston JB, Galetin A.
+Simultaneous assessment of uptake and metabolism in rathepatocytes: a comprehensive mechanistic model. J PharmacolExp Ther. 2012;341:2 –15.
+38. Menochet K, Kenworthy KE, Houston JB, Galetin. Use of
+mechanistic modeling to assess interindividual variability andinterspecies differences in active uptake in human and rathepatocytes. Drug Metab Dispos. 2012;40:1744 –56.
+39. Yoshida K, Maeda K, Sugiyama Y. Transporter-mediated drug –
+drug interactions involving OATP substrates: predictions based onin vitro inhibition studies. Clin Pharmacol Ther. 2012;91:1053 –64.
+40. Naesens M, Kuypers DR, Sarwal M. Calcineurin inhibitor
+nephrotoxicity. Clin J Am Soc Nephrol. 2009;4:481 –508.
+41. Martin PD, Warwick MJ, Dane AL, Hill ST, Giles PB, Phillips
+PJ,et al . Metabolism, excretion, and pharmacokinetics of
+rosuvastatin in healthy adult male volunteers. Clin Ther.2003;25:2822 –35.
+42. Kitamura S, Maeda K, Wang Y, Sugiyama Y. Involvement of
+multiple transporters in the hepatobiliary transport of rosuvas-tatin. Drug Metab Dispos. 2008;36:2014 –23.
+43. Tomlinson B, Hu M, Lee VWY, Lui SSH, Chu TTW, Poon
+EWM, et al. ABCG2 Polymorphism is associated with the low-
+density lipoprotein cholesterol response to rosuvastatin. ClinPharmacol Ther. 2010;87:558 –62.
+44. Schneck DW, Birmingham BK, Zalikowski JA, Mitchell PD, Wang
+Y , Martin PD, et al. The effect of gem ﬁbrozil on the pharmacoki-
+netics of rosuvastatin. Clin Pharmacol Ther. 2004;75:455 –63.
+45. Allred AJ, Bowen CJ, Park JW, Peng B, Williams DD, Wire MB,
+et al. Eltrombopag increases plasma rosuvastatin exposure in
+healthy volunteers. Br J Clin Pharmacol. 2011;72:321 –9.
+46. Pham PA, la Porte CJ, Lee LS, van Heeswijk R, Sabo JP, Elgadi
+MM, et al. Differential effects of tipranavir plus ritonavir on
+atorvastatin or rosuvastatin pharmacokinetics in healthy volun-teers. Antimicrob Agents Chemother. 2009;53:4385 –92.
+47. Martin PD, Warwick MJ, Dane AL, Brindley C, Short T.
+Absolute oral bioavailability of rosuvastatin in healthy white
+adult male volunteers. Clin Ther. 2003;25:2553 –653.
+48. Busti AJ, Bain AM, Hall 2nd RG, Bedimo RG, Leff RD, Meek
+C,et al
+. Effects of atazanavir/ritonavir or fosamprenavir/ritonavir
+on the pharmacokinetics of rosuvastatin. J CardiovascPharmacol. 2008;51:605 –10.
+49. Prueksaritanont T, Subramanian R, Fang X, Ma B, Qiu Y, Lin
+JH,et al. Glucuronidation of statins in animals and humans: a
+novel mechanism of statin lactonization. Drug Metab Dispos.
+2002;30:505 –12.
+50. Prueksaritanont T, Tang C, Que Y, Mu L, Subramanian R, Lin
+JH. Effects of ﬁbrates on metabolism of statins in human
+hepatocytes. Drug Metab Dispos. 2002;30:1280 –7.
+51. Chu XY, Strauss JR, Mariano MA, Li J, Newton DJ, Cai X, et al.
+Characterization of mice lacking the multidrug resistance protein
+MRP2 (ABCC2). J Pharmacol Exp Ther. 2006;317:579 –89.
+52. Niemi M, Pasanen MK, Neuvonen PJ. Organic anion transporting
+polypeptide 1B1: a gene tically polymorphic transporter of major
+importance for hepatic drug upta ke. Pharmacol Rev. 2011;63:157 –81.53. Pasanen MK, Neuvonen M, Neuvonen PJ, Niemi M. SLCO1B1
+polymorphism markedly affects the pharmacokinetics of simvas-tatin acid. Pharmacogenet Genomics. 2006;16:873 –9.
+54. Pasanen MK, Fredrikson H, Neuvonen PJ, Niemi M. Different
+effects of SLCO1B1 polymorphism on the pharmacokinetics ofatorvastatin and rosuvastatin. Clin Pharmacol Ther. 2007;82:726 –33.
+55. Keskitalo JE, Pasanen MK, Neuvonen PJ, Niemi M. Different
+effects of the ABCG2 c.421C>A SNP on the pharmacokineticsofﬂuvastatin, pravastatin and simvastatin. Pharmacogenomics.
+2009;10:1617 –24.
+56. Keskitalo JE, Zolk O, Fromm MF, Kurkinen KJ, Neuvonen PJ,
+Niemi M. ABCG2 polymorphism markedly affects the pharma-
+cokinetics of atorvastatin and rosuvastatin. Clin Pharmacol Ther.
+2009;86:197 –203.
+57. Ingelman-Sundberg M. Pharmacogenetics of cytochrome P450
+and its applications in drug therapy: the past, present and future.Trends Pharmacol Sci. 2004;25:193 –200.
+58. Zhou SF, Liu JP, Chowbay B. Polymorphism of human
+cytochrome P450 enzymes and its clinical impact. Drug Metab
+Rev. 2009;41:89 –295.
+59. Wang Y-H, Trucksis M, McElwee JJ, Wong PH, Maciolek C,
+Thompson CD, et al. UGT2B17 genetic polymorphisms dra-
+matically affect the pharmacokinetics of MK-7246 in healthysubjects in a ﬁrst-in-human study. Clin Pharmacol Ther.
+2012;92:96 –102.
+60. Schinkel AH, Mayer U, Wagenaar E, Mol CA, van Deemter L,
+Smit JJ, et al. Normal viability and altered pharmacokinetics in
+mice lacking mdr1-type (drug-transporting) P-glycoproteins.Proc Natl Acad Sci U S A. 1997;94:4028 –33.
+61. Sugimoto H, Hirabayashi H, Kimura Y, Furuta A, Amano N,
+Moriwaki T. Quantitative investigation of the impact of P-glyco-protein inhibition on drug transport across blood –brain barrier in
+rats. Drug Metab Dispos. 2011;39:8 –14.
+62. Zamek-Gliszczynski MJ, Hoffmaster KA, Tweedie DJ,
+Giacomini KM, Hillgren KM. Highlights from the InternationalTransporter Consortium second workshop. Clin PharmacolTher. 2012;92:553 –6.
+63. Chu X, Cai X, Cui D, Tang C, Ghosal A, Chan G, et al.In vitro
+assessment of drug –drug interaction potential of boceprevir
+associated with drug metabolizing enzymes and transporters.Drug Metab Dispos. 2013. doi: 10.1124/dmd.112.049668
+.
+64. Noe J, Portmann R, Brun ME, Funk C. Substrate-dependent
+drug –drug interactions between gem ﬁbrozil, ﬂuvastatin and
+other organic anion-transporting peptide (OATP) substrates onOATP1B1, OATP2B1, and OATP1B3. Drug Metab Dispos.
+2007;35:1308 –14.
+65. Kindla J, Muller F, Mieth M, Fromm MF, Konig J. In ﬂuence of
+non-steroidal anti-in ﬂammatory drugs on organic anion trans-
+porting polypeptide (OATP) 1B1-and OATP1B3-mediated drugtransport. Drug Metab Dispos. 2011;39:1047 –53.
+66. Gui C, Obaidat A, Chaguturu R, Hagenbuch B. Development of
+a cell-based high-throughput assay to screen for inhibitors of
+organic anion transporting polypeptides 1B1 and 1B3. CurrChem Genomics. 2010;4:1 –8.
+67. Shitara Y, Nagamatsu Y, Wada S, Sugiyama Y, Horie T. Long-
+lasting inhibition of the transporter-mediated hepatic uptake ofsulfobromophthalein by cyclosporin a in rats. Drug Metab
+Dispos. 2009;37:1172 –8.
+68. Amundsen R, Christensen H, Zabihyan B, Asberg A.
+Cyclosporine A, but not tacrolimus, shows relevant inhibitionof organic anion-transporting protein 1B1-mediated transport ofatorvastatin. Drug Metab Dispos. 2010;38:1499 –504.
+69. Shitara Y, Takeuchi K, Nagamatsu Y, Wada S, Sugiyama Y,
+Horie T. Long-lasting inhibitory effects of cyclosporin A, but not
+tacrolimus, on OATP1B1- and OATP1B3-mediated uptake.
+Drug Metab Pharmacokinet. 2012;27:368 –78.
+70. Vaidyanathan J, Arya V, Agarwal S, de LT VM, Zhao P, Huang
+S-M, et al. What criteria may be appropriate in determining the
+need for in vivo evaluation of a new molecular entity ’s (NME ’S)
+potential to inhibit OATP1B (organic anion transporting poly-
+peptide 1B1). Clin Pharmacol Ther. 2012;91(Suppl1):S53 –3.
+71. Einolf HJ. Comparison of different approaches to predict
+metabolic drug –drug interactions. Xenobiotica. 2007;37:1257 –94.
+72. Kato M, Shitara Y, Sato H, Yoshisue K, Hirano M, Ikeda T, et al.
+The quantitative prediction of CYP-mediated drug interaction by644 Prueksaritanont et al.physiologically based pharmacokinetic modeling. Pharm Res.
+2008;25:1891 –901.
+73. Almond LM, Yang J, Jamei M, Tucker GT, Rostami-Hodjegan
+A. Towards a quantitative framework for the prediction of DDIsarising from cytochrome P450 induction. Curr Drug Metab.2009;10:420 –32.
+74. Wang Y-H. Con ﬁdence assessment of the Simcyp time-based
+approach and a static mathematical model in predicting clinicaldrug –drug interactions for mechanism-based CYP3A inhibitors.
+Drug Metab Dispos. 2010;38:1094 –104.
+75. Shardlow CE, Generaux GT, MacLauchlin CC, Pons N, Skordos
+KW, Bloomer JC. Utilizing drug –drug interaction prediction
+tools during drug development: enhanced decision making based
+on clinical risk. Drug Metab Dispos. 2011;39:2076 –84.
+76. Fenneteau F, Poulin P, Nekka F. Physiologically based predic-
+tions of the impact of inhibition of intestinal and hepaticmetabolism on human pharmacokinetics of CYP3A substrates.J Pharm Sci. 2010;99:486 –514.
+77. Fahmi OA, Hurst S, Plowchalk D, Cook J, Guo F, Youdim K, et
+al. Comparison of different algorithms for predicting clinical
+drug –drug interactions, based on the use of CYP3A4 in vitro
+data: predictions of compounds as precipitants of interaction.Drug Metab Dispos. 2009;37:1658 –66.
+78. Vieira MLT, Kirby B, Ragueneau-Majlessi I, Galetin A, Grime
+K, Obach RS, et al. Evaluation of FDA and EMA models ’cut-
+off values for predicting CYP3A inhibition: a collaborative effort
+between academic, regulatory, and IQC pharmaceutical scien-tists. Clin Pharmacol Ther. 2012;91(Suppl1):S48 –8.
+79. Friedman EJ, Fraser IP, Wang YH, Bergman AJ, Li CC, Larson
+PJ,et al . Effect of different durations and formulations of
+diltiazem on the single-dose pharmacokinetics of midazolam:how long do we go? J Clin Pharmacol. 2011;51:1561 –70.
+80. Ito K, Iwatsubo T, Kanamitsu S, Ueda K, Suzuki H, Sugiyama Y.
+Prediction of pharmacokinetic alterations caused by drug –drug
+interactions: metabolic interaction in the liver. Pharmacol Rev.1998;50:387 –412.
+81. Kiser JJ, Burton JR, Anderson PL, Everson GT. Review and
+management of drug interactions with boceprevir and telaprevir.
+Hepatology. 2012;55:1620 –8.
+82. Garg V, Chandorkar G, Farmer HF, Smith F, Alves K, van
+Heeswijk RP. Effect of telaprevir on the pharmacokinetics ofmidazolam and digoxin. J Clin Pharmacol. 2012;52:1566 –73.
+83. Loi CM, Young M, Randinitis E, Vassos A, Koup JR. Clinical
+pharmacokinetics of troglit azone. Clin Pharmacokinet.
+1999;37:90 –104.84. Yeo KR, Walsky RL, Jamei M, Rostami-Hodjegan A, Tucker
+GT. Prediction of time-dependent CYP3A4 drug –drug interac-
+tions by physiologically based pharmacokinetic modelling: im-pact of inactivation parameters and enzyme turnover. Eur JPharm Sci. 2011;43:160 –73.
+85. Reitman ML, Chu X, Cai X, Yabut J, Venkatasubramanian R,
+Zajic S, et al. Rifampin ’s acute inhibitory and chronic inductive
+drug interactions: experimental and model-based approaches todrug –drug interaction trial design. Clin Pharmacol Ther.
+2011;89:234 –42.
+86. Sanchez RI, Wang R, Newton DJ, Bakhtiar R, Lu P, et al.
+Cytochrome P450 3A4 is the major enzyme involved in the
+metabolism of substance P receptor antogonist aprepitant. Drug
+Metab Dispos. 2004;32:1287 –92.
+87. Pascussi JM, Gerbal-Chaloin S, Drocourt L, Maurel P, Vilarem
+MJ. The expression of CYP2B6, CYP2C9 and CYP3A4 genes: atangle of networks of nuclear and steroid receptors. BiochimBiophys Acta. 2003;1619:243 –53.
+88. Chen Y, Kissling G, Negishi M, Goldstein JA. The nuclear
+receptors constitutive androstane receptor and pregnane X
+receptor cross-talk with hepatic nuclear factor 4alpha to syner-gistically activate the human CYP2C9 promoter. J PharmacolExp Ther. 2005;314:1125 –33.
+89. Xu L, Chen Y, Pan Y, Skiles GL, Shou M. Prediction of human
+drug-drug interactions from time-dependent inactivation of
+CYP3A4 in primary hepatocytes using a population-based
+simulator. Drug Metab Dispos. 2009;37:2330 –9.
+90. Parkinson A, Kazmi F, Buckley DB, Yerino P, Ogilvie BW,
+Paris BL. System-dependent out comes during the evaluation
+of drug candidates as inhibito rs of cytochrome P450 (CYP)
+and uridine diphosphate glucuronosyltransferase (UGT)enzymes: human hepatocytes versus liver microsomes versus
+recombinant enzymes. Drug Metab Dispos. 2010;25:
+16–27.
+91. Chen Y, Liu L, Monshouwer M, Fretland AJ. Determination of
+time-dependent inactivation of CYP3A4 in cryopreserved hu-man hepatocytes and assessment of human drug –drug interac-
+tions. Drug Metab Dispos. 2011;39:2085 –92.
+92. Yan Z, Caldwell GW. The current status of time dependent CYP
+inhibition assay and in silico drug –drug interaction predictions.
+Curr Top Med Chem. 2012;12:1291 –7.
+93. DiMasi JA, Feldman L, Seckler A, Wilson A. Trends in
+risks associated with new drug development: success ratesfor investigational drugs. Clin Pharmacol Ther. 2010;87:272–7.645 Perspectives on Drug Interaction Studies

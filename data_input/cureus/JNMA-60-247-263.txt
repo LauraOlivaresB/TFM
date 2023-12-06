@@ -1,0 +1,367 @@
+JNMA I VOL 60 I ISSUE 247I MARCH 2022263
+Free Full T ext Articles are Available at www.jnma.com.npORIGINAL ARTICLE J Nepal Med Assoc 2022;60(247):263-7
+CC
+BY
+doi: 10.31729/jnma.7137CC
+BY
+______________________________________
+Correspondence:  Dr Rakesh Ghimire, Department of Clinical 
+Pharmacology, Maharajgunj Medical Campus, Institute of Medicine, 
+Maharajgunj, Kathmandu, Nepal. Email: drrakeshghimire@iom.edu.
+np, Phone: +977-9849066170.Potential Drug-drug Interaction among the Patients Admitted in 
+Intensive Care Units of a Tertiary Care Centre: A Descriptive Cross-
+sectional Study
+Rakesh Ghimire,1 Pravin Prasad,1 Subigya Parajuli,2 Rabin Basnet,3 Pratik Lamichhane,4 Nirmal Poudel,4 Pramesh 
+Sunder Shrestha,3 Shristi Kharel,5 Akritee Pokharel,1 Anish Mudvari1
+1Department of Clinical Pharmacology, Maharajgunj Medical Campus, Institute of Medicine, Maharajgunj, Kathmandu, 
+Nepal, 2Manmohan Cardiothoracic Vascular and Transplant Center, Maharajgunj, Kathmandu, Nepal, 3Department 
+of Anesthesiology, Tribhuvan University Teaching Hospital, Institute of Medicine, Maharajgunj, Kathmandu, Nepal, 
+4Maharajgunj Medical Campus, Institute of Medicine, Maharajgunj, Kathmandu, Nepal, 5International Friendship 
+Children's Hospital, Maharajgunj, Kathmandu, Nepal.
+ABSTRACT
+Introduction: Drug interactions are one of the major contributors to increase hospital stay, inflate 
+health care expenses, and cause serious adverse events and end-organ damage. Patients admitted to 
+the intensive care unit are already critically sick and are at greater risk of these adverse outcomes. 
+The study aimed to find out the prevalence of potential drug-drug interactions in the intensive care 
+units of a tertiary care centre. 
+Methods: A descriptive cross-sectional study was conducted among the patients admitted in the 
+intensive care unit of a tertiary care hospital from April-June 2019. Ethical approval was taken from 
+the Institutional Review Board at the institute (Reference number: 399). Convenience sampling 
+method was used. Data was collected using proforma and potential drug-drug interactions were 
+identified using Lexicomp® drug-interactions version 1.1 (Wolters Kluwer). All the drug interactions 
+identified were classified and the severity scale of interactions was also defined. Statistical Package 
+for the Social Sciences version 17.0 was used for data analysis. Point estimate at 95% Confidence 
+Interval was calculated along with frequency, percentage, mean, standard deviation, and mode.   
+Results: Out of 101 patients, the prevalence of the drug-drug interaction was found to be 90 (89.11%) 
+(83.04-95.18 at 95% Confidence Interval). A total of 490 drug-drug interactions were identified. In 
+severity scale, it was seen that 311 (63.46%) were of moderate severity and 303 (61.83%) of drug 
+interactions were categorised as category C in risk rating. 
+Conclusions: Prevalence of potential drug-drug interactions was higher compared to similar 
+published literature. The most common drug with potential interaction was fentanyl and among 
+pairs was fentanyl plus paracetamol. 
+Keywords: drug interactions; intensive care units; Nepal; software.
+INTRODUCTION 
+Alteration in the efficacy or toxicity of one drug due to 
+the presence of another simultaneously administered 
+drug is termed as drug-drug interactions (DDI).1 The 
+prevalence of DDI is reported to be 3-5% in patients 
+who receive 3-10 drugs and increases to 20% when 
+they are given 10-20 drugs.2 Factors like polypharmacy 
+(four or more drugs), pharmacological properties 
+of medicines, elderly patients having comorbidities predisposed to the development of DDIs.3-5 DDIs are 
+known to increase hospital stay, inflate health care 
+expenses, and cause serious adverse events.JNMA I VOL 60 I ISSUE 247I MARCH 2022264
+Free Full T ext Articles are Available at www.jnma.com.npMost patients admitted to the Intensive Care Units (ICU) 
+have multiple co-morbidities and are being managed 
+with polypharmacy. So, there is always a substantial 
+risk of potential drug-drug interaction (pDDI) in the ICU 
+setting. Data from our own country shows that 57.7% 
+of ICU admitted patients experienced at least one DDI 
+in one of the teaching hospitals in Nepal.6 
+The aim of this study was to find out the prevalence of 
+potential DDIs in ICU patients of a tertiary care centre.
+METHODS
+This was a descriptive cross-sectional study conducted 
+among the patients admitted in the ICU of Tribhuvan 
+University Teaching Hospital, Institute of Medicine. 
+Ethical approval was taken from the Institutional 
+Review Committee of Institute of Medicine (Reference 
+number: 399). All the patients who were prescribed 
+more than two drugs admitted in the ICU for more 
+than 24 hours between April-June 2019 were included 
+in the study. Consent was obtained from the patient’s 
+relative who had consented during hospital admission. 
+However, patients admitted in ICU for less than 24 
+hours, receiving topical drugs (ointments, creams, 
+eye drops, or ear drops), nutritional supplements, and 
+vitamins only, and those patients whose prescription 
+was less than two drugs were excluded. A convenience 
+sampling method was used.
+The sample size was calculated using the following 
+formula:
+n= (Z2 x p x q) / e2 
+  = (1.962 x 0.5 x 0.5) / 0.12
+  = 97
+Where,
+n= minimum required sample size
+Z= 1.96 at 95% Confidence Interval (CI)
+p= prevalence of pDDI taken as 50% for maximum 
+      sample size
+q= 1-p
+e= margin of error, 10%
+Patients’ cardex were reviewed on a daily basis till 
+the discharge from ICU and data was collected in 
+the proforma sheet that included demographic data 
+of patient and the drugs given to the patient. The 
+enlisted drugs were assessed for pDDIs which was 
+identified by the Lexicomp® drug-interactions version 
+1.1 (Wolters Kluwer). Their risk rating was classified 
+into five categories.7 The identified pDDIs were also 
+classified according to the severity.6 
+Collected data was coded and entered in Microsoft 
+Excel and was analysed using Statistical Package for 
+the Social Sciences (SPSS) version 17.0. Point estimate 
+at 95% Confidence Interval was calculated along with 
+frequency, percentage, mean, standard deviation and 
+mode.RESULTS
+Out of 101 patients admitted to ICU, the prevalence 
+of potential drug-drug interaction was found in 90 
+(89.11%) patients (83.04-95.18 at 95% Confidence 
+Interval). The total number of drugs prescribed was 
+816 and the mean number of drugs prescribed per 
+prescription was found to be 8.08±3.7 (range 3-25). 
+Fentanyl was found to be the most common drug 
+accounted for 238 (29.28%) followed by phenytoin 
+which was 124 (25.30%) responsible for pDDIs. When 
+drugs were classified according to Anatomical and 
+Therapeutic Category (ATC), it was seen that nervous 
+system drugs (ATC class N) were the most common 
+drugs which was 501 (51.1%) among the observed 
+pDDIs, followed by anti-infective drugs (ATC class J) 
+141 (14.4%).
+The mean number of pDDI per prescription was found 
+to be 4.85±4.56. In 36 (40%) patients, there were more 
+than five pDDIs. A total number of 490 pDDIs were 
+identified. On severity rating, it was seen that 311 
+(63.46%) pDDIs identified were of moderate severity. 
+On categorising the pDDIs according to risk rating, it 
+was seen that 303 (61.83%) fell into category C. The 
+pDDIs that were classified as category X was found to 
+be 10 (2.04%) (Table 1). 
+Table 1. Distribution of identified pDDIs according to 
+their severity rating and risk rating (n= 490).
+Description n (%)
+Severity rating of pDDIs
+Minor 86 (17.55)
+Moderate 311 (63.46)
+Major 93 (18.97)
+Risk rating of pDDIs
+A 4 (0.81)
+B 82 (16.73)
+C 303 (61.83)
+D 91 (18.57)
+X 10 (2.04)
+Among category X pDDIs, quetiapine and 
+metoclopramide drug pairs were most common found 
+in 3 (30%) (Table 2).
+Table 2. Drug pairs that were found to have category 
+X pDDIs in risk rating (n= 10).
+Drug 1 Drug 2 n (%)
+Quetiapine Metoclopramide 3 (30)
+Potassium chloride 2 (20)
+Amiodarone 1 (10)
+Nimodipine Phenytoin 1 (10)
+Morphine Linezolid 1 (10)
+Chlorpromazine Metoclopramide 1 (10)
+Atorvastatin Voriconazole 1 (10)Ghimire et al. Potential Drug-drug Interaction among the Patients Admitted in Intensive Care Units of a Tertiary Care Centre: A Descriptive...JNMA I VOL 60 I ISSUE 247I MARCH 2022265
+Free Full T ext Articles are Available at www.jnma.com.npThe most common drug pair causing pDDI was 
+paracetamol and fentanyl 44 (8.98%) with risk rating 
+B and minor severity. The second most common drug 
+pair causing pDDI was fentanyl and phenytoin and fell 
+under risk rating C with moderate severity (Figure 1).
+Figure 1. The drug pairs with the ten most common 
+pDDIs with their frequency. 
+DISCUSSION
+This study demonstrated a prevalence of 89.11% of 
+pDDI. Similar prevalence of pDDI was reported by a 
+study conducted in ICUs of public and private hospitals 
+in Brazil.8 However, the study conducted by another 
+study in a public hospital in Brazil reported that 22% 
+of ICU prescriptions studied had 787 identified DDIs.9 
+Another study from India conducted in geriatric 
+patients admitted in ICU reported prevalence of pDDI 
+to be 83.25%.1 Studies with lower rates (72.5%) of 
+prevalence of pDDIs are also present.10 A study from 
+a medical college of Pokhara, Nepal reported 15 out of 
+26 patients admitted in their ICU to have encountered 
+at least one pDDI.6 
+Several factors could have contributed to the high 
+prevalence of pDDI seen in our study. The factors 
+could be drug related or patient related. Patients in 
+ICU are critically ill and have derangements in their 
+physiological state due to multiple health issues. 
+This leads to complex pharmacotherapy being 
+instituted in them that involves use of multiple drugs 
+(polypharmacy). Thus, these patients are predisposed 
+to witness higher pDDIs as compared to patients in 
+other settings. The prevalence of pDDIs in this study 
+was significantly correlated with the numbers of drugs 
+administered. A study reported that frequency of 
+pDDIs were significantly correlated with the number  
+of medications prescribed. Additionally, the study also 
+reported correlation of pDDI with factors like age and 
+number of co-morbidities of the patient.1 A study from 
+Brazil has reported that the number of DDI is positively 
+correlated with duration of hospital stay, irrespective 
+of the number of prescribed drugs and procedures 
+performed in the patients from ICU of a general 
+hospital.9 
+The potential drug-drug interactions detected were 
+mostly moderate to severe. The clinical evidence of Ghimire et al. Potential Drug-drug Interaction among the Patients Admitted in Intensive Care Units of a Tertiary Care Centre: A Descriptive...
+a drug interaction is determined by the severity.11,12 
+The pDDIs encountered in a study conducted in Nepal 
+reported 72.23% of pDDIs as of moderate severity 
+according to the Micromedex electronic database 
+system.6 A study from Brazil had reported 27.13% of 
+pDDIs to be highly significant, ones with either severe 
+or moderate intensity and with either established or 
+probable evidence.8 Though there were smaller number 
+of minor pDDIs seen in our study, the interactions 
+could be clinically relevant due to the clinical condition 
+of the ICU patients as suggested by other authors.8 The 
+higher prevalence of moderate pDDIs seen in our study 
+is concerning and needs to be addressed. Several 
+interventions like Continuing Medical Education 
+targeting physicians and nurses, drug bulletins, 
+audits, etc. could help to create awareness among the 
+physicians to avoid them in future. The involvement 
+of expertise like Clinical Pharmacologists in the team 
+to share the responsibility of patient care could also 
+help to minimise pDDIs. Availability of a reliable drug 
+interaction checker software at the point of care could 
+also help minimise the prevalence of pDDIs.
+When the drugs implicated to cause pDDIs were 
+classified according to ATC classification, it was 
+seen that the drugs acting on the nervous system 
+were most commonly associated with pDDIs 
+(51.1%). Fentanyl was the most common drug with 
+a high probability of causing pDDI in our study. A 
+Brazilian study similarly reported 40% of pDDIs being 
+associated with drugs acting in the central nervous 
+system and also reported midazolam (20.8%) to be the 
+most common drug associated with pDDIs followed 
+by fentanyl (6.7%) and both drugs were combinedly 
+associated with 45 (14.5%) of pDDIs identified in the 
+study.10 Pain is a common complaint of the patients 
+admitted in ICU which could be due to the morbidity 
+as well as iatrogenic (associated with the procedures). 
+It is recommended that procedural pain in adult ICU 
+patients is managed appropriately using opioids like 
+fentanyl along with other pharmacological and non-
+pharmacological modalities.13 
+Fentanyl-paracetamol pair was the most common 
+drug pair causing DDI followed by fentanyl-phenytoin 
+pair. According to the output of software used to 
+check the potential pDDIs in this study, fentanyl may 
+decrease the absorption of paracetamol. However, the 
+extent to which the systemic exposure of paracetamol 
+is decreased is uncertain. The severity rating of this 
+potential pDDIs is minor and the risk rating is B. 
+Phenytoin is an enzyme inducer and increases the 
+activity of CYP450 3A4, an enzyme involved in 
+metabolising  fentanyl. Thus, a patient receiving these 
+agents concomitantly might experience reduced 
+efficacy of fentanyl or may experience withdrawal JNMA I VOL 60 I ISSUE 247I MARCH 2022266
+Free Full T ext Articles are Available at www.jnma.com.npsymptoms. Different studies have reported different 
+drug-drug pairs as the most common contributor of 
+pDDI. A study from Nepal conducted in ICU patients 
+identified aspirin-angiotensin-converting enzyme (ACE) 
+inhibitors as the most common drug interaction pair in 
+their study.6 Another study conducted in 2008 reported 
+that captopril-spironolactone pair was the most frequent 
+(27 prescriptions) implicated to cause highly significant 
+pDDIs in their ICU patients.8 In another study from 
+Brazil, it was seen that there were 64 distinct pair of 
+drugs causing DDIs and among them insulin-aspirin pair 
+was the most commonly implicated to cause DDIs (106 
+pDDIs) in the ICU patients at that general hospital.9 
+The difference in pattern of pDDIs could have been due 
+to variation in admission diagnosis, availability of the 
+drugs, and the P-drug of the treating physicians. There 
+were seven drug pairs in our study contributing to ten 
+pDDIs (2%) in our study that was categorised as “X” in 
+risk rating. Similar proportion of category X pDDI was 
+reported by Shetty V, et.al. who found 14 drug pairs 
+contributing to 20 DDIs (3.02%) belonging to category 
+X.1 In our study, quetiapine-metoclopramide pair was 
+the most common cause of category X pDDIs. Both the 
+drugs are known to increase antidopaminergic effects 
+and may lead to development of extrapyramidal effects 
+and neuroleptic malignant syndrome.
+This was a descriptive cross-sectional study done in a 
+single tertiary care centre.In the current study, though, occurrence of pDDIs was not monitored clinically. 
+Duration of hospital stay was also not calculated. The 
+small-time frame also excluded the chances of patients 
+with large varieties of comorbidities to be included. 
+The software used for identification of drug interaction 
+has sensitivity of 97% and specificity of 90%. The 
+positive and negative predictive values of the software 
+are similarly 90% and 97% respectively. The software 
+additionally does not take into consideration the dose 
+of the medicines while assessing the drug-pairs for 
+drug interactions.14
+CONCLUSIONS
+The prevalence of potential drug-drug interactions was 
+high as compared to findings from similar reported 
+literature. The potential drug interactions identified 
+were of moderate severity. The most common drug 
+to have potential drug interaction was fentanyl and 
+the medication pair was fentanyl plus paracetamol. A 
+small percentage of drug interactions belonged to the 
+risk category X. The outcomes of this study will aid in 
+raising awareness of pDDIs in ICU.
+Conflict of Interest: This study was funded by Tribhuvan 
+University Mini Research Grant 2075 (2019 AD).Ghimire et al. Potential Drug-drug Interaction among the Patients Admitted in Intensive Care Units of a Tertiary Care Centre: A Descriptive...
+REFERENCES
+1. Shetty V, Chowta MN, Chowta KN, Shenoy A, Kamath A, 
+Kamath P. Evaluation of potential drug-drug interactions 
+with medications prescribed to geriatric patients in a 
+Tertiary Care Hospital. J Aging Res. 2018 Oct 9;2018:5728957. 
+[PubMed | Full Text | DOI]
+2. Hamidy MY, Fauzia D. Significant drug interactions among 
+intensive care unit patients. Asian J Pharm Clin Res. 2017 
+May;10(14):35-8. [Full Text | DOI]
+3. Farooqui R, Hoor T, Karim N, Muneer M. Potential 
+drug-drug interactions among patients prescriptions 
+collected from medicine out-patient setting. Pak J Med Sci. 
+2018 Jan-Feb;34(1):144-8. [PubMed | Full Text | DOI]
+4. Mouly S, Meune C, Bergmann JF. Mini-series: I. Basic science. 
+Uncertainty and inaccuracy of predicting CYP-mediated in 
+vivo drug interactions in the ICU from in vitro models: focus 
+on CYP3A4. Intensive Care Med. 2009 Mar;35(3):417-29. 
+[PubMed | Full Text | DOI]
+5. Reis AM, Cassiani SH. Prevalence of potential drug 
+interactions in patients in an intensive care unit of a university 
+hospital in Brazil. Clinics (Sao Paulo). 2011;66(1):9-15. 
+[PubMed | Full Text | DOI]
+6. Bista D, Saha A, Mishra P, Palaian S, Pathiyil RS. Pattern of 
+potential drug-drug interactions in the Intensive Care Unit of 
+a Teaching Hospital in Nepal: A pilot study. J Clin Diagn Res 
+J Clin Diagn Res. 2009 Aug 1;3(4):1713-6. [Full Text | DOI]7. Wolters Kluwer. Drug Interactions Analysis [Internet]. 
+Philadelphia (US): Wolters Kluwer; 2015 [cited 2021 Nov 
+5]. Available from: https://www.wolterskluwer.com/en/
+solutions/lexicomp/resources/lexicomp-user-academy/
+drug-interactions-analysis. [Full Text]
+8. Hammes JA, Pfuetzenreiter F, Silveira Fd, Koenig A, Westphal 
+GA. Potential drug interactions prevalence in intensive 
+care units. Rev Bras Ter Intensiva. 2008 Dec;20(4):349-54. 
+[PubMed | Full Text | DOI]
+9. Moura C, Prado N, Acurcio F. Potential drug-drug 
+interactions associated with prolonged stays in the intensive 
+care unit: a retrospective cohort study. Clin Drug Investig. 
+2011;31(5):309-16. [PubMed | Full Text | DOI]
+10. Lima RE, De Bortoli Cassiani SH. Potential drug interactions 
+in intensive care patients at a teaching hospital. Rev Lat Am 
+Enfermagem. 2009 Mar-Apr;17(2):222-7. [PubMed | Full 
+Text | DOI]
+11. Amariles P, Giraldo NA, Faus MJ. Drug interactions: an 
+approach to establish and evaluate their clinical relevance 
+Clinical relevance of drug interactions. Med Clin (Engl Ed). 
+2007 Jun 2;129(1):27-35. [Full Text | DOI]
+12. Fuhr U. Improvement in the handling of drug-drug 
+interactions. Eur J Clin Pharmacol. 2008 Feb;64(2):167-71. 
+[PubMed | Full Text | DOI]JNMA I VOL 60 I ISSUE 247I MARCH 2022267
+Free Full T ext Articles are Available at www.jnma.com.np13. Devlin JW, Skrobik Y, Gelinas C, Needham DM, Slooter 
+AJC, Pandharipande PP, et al. Clinical practice guidelines 
+for the prevention and management of pain, agitation/
+sedation, delirium, immobility, and sleep disruption in adult 
+patients in the ICU. Crit Care Med. 2018 Sep;46(9):e825-e873. 
+[PubMed | Full Text | DOI]
+© The Author(s) 2022.  
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article 
+are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the 
+Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. T o view a copy of this 
+license, visit http://creativecommons.org/licenses/by/4.0/14. Bacic-Vrca V, Marusic S, Erdeljic V, Falamic S, Gojo-Tomic N, 
+Rahelic D. The incidence of potential drug-drug interactions 
+in elderly patients with arterial hypertension. Pharm World 
+Sci. 2010 Dec;32(6):815-21. [PubMed | Full Text | DOI]Ghimire et al. Potential Drug-drug Interaction among the Patients Admitted in Intensive Care Units of a Tertiary Care Centre: A Descriptive...

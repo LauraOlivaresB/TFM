@@ -1,0 +1,1952 @@
+Review article
+Classi ﬁcation of drugs for evaluating drug interaction in drug
+development and clinical management
+Kazuya Maedaa,b,1, Akihiro Hisakac,1, Kiyomi Itod, Yoshiyuki Ohnoe, Akihiro Ishigurof,
+Reiko Satof, Naomi Nagaid,*
+aGraduate School of Pharmaceutical Sciences, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan
+bKitasato University School of Pharmacy, 5-9-1 Shirokane, Minato-ku, Tokyo, 108-8641, Japan
+cGraduate School of Pharmaceutical Sciences, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba-shi, Chiba, 260-8675, Japan
+dResearch Institute of Pharmaceutical Sciences, Musashino University, 1-1-20 Shin-machi, Nishitokyo-shi, Tokyo, 202-8585, Japan
+eDepartment of Pharmacy, Faculty of Medicine, The University of Tokyo Hospital, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Ja pan
+fPharmaceuticals and Medical Devices Agency, Shin-Kasumigaseki Bldg. 3-3-2 Kasumigaseki, Chiyoda-ku, Tokyo, 100-0013, Japan
+article info
+Article history:
+Received 15 March 2021Received in revised form24 June 2021Accepted 27 June 2021Available online 8 July 2021
+Keywords:
+Drug interactionDrug developmentLabelingRegulatory guideline
+Clinical pharmacology
+Decision treeIndex drugTypical drugP450Transporterabstract
+During new drug development, clinical drug interaction studies are carried out in accordance with the
+mechanism of potential drug interactions evaluated by in vitro studies. The obtained information should
+be provided ef ﬁciently to medical experts through package inserts and various information materials
+after the drug's launch. A recently updated Japanese guideline presents general procedures that areconsidered scienti ﬁcally valid at the present moment. In this review, we aim to highlight the viewpoints
+of the Japanese guideline and enumerate drugs that were involved or are anticipated to be involved in
+evident pharmacokinetic drug interactions and classify them by their clearance pathway and potential
+intensity based on systematic reviews of the literature. The classi ﬁcation would be informative for
+designing clinical studies during the development stage, and the appropriate management of drug in-
+teractions in clinical practice.
+©2021 The Japanese Society for the Study of Xenobiotics. Published by Elsevier Ltd. This is an open access article
+under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).
+1. Introduction
+In current drug therapy where two or more drugs are routinely
+coprescribed, physicians and pharmacists need to pay utmost
+attention to avoid drug interactions (DIs) that may lead to un-
+pleasant adverse events and insuf ﬁcient drug effects [ 1]. In this
+review, DIs include interactions between drug and drug as well as
+between drug and food/beverage. In the past, some effective drugs
+unfortunately caused serious adverse events due to unexpected DIs
+and were withdrawn from the market [ 2] such as the concomitantuse of sorivudine and ﬂuorouracil-based anticancer drugs [ 3]. In
+recent decades, the mechanism of pharmacokinetic DIs has been
+elucidated very well due to advances in pharmacokinetic research,
+which allows the prediction of the degree of DI for many combi-
+nations of drugs [ 4,5]. By referring to the latest information, the risk
+of DI is becoming routinely minimized during the screening pro-
+cess; nevertheless, if the potential of a DI is detected during the
+drug-development process, the information should be appropri-
+ately conveyed to physicians and pharmacists.
+In Japan, the Guideline on Drug Interaction for Drug Development
+and Appropriate Provision of Information (Japanese guideline) was
+notiﬁed in 2018 by the Ministry of Health, Labour and Welfare [ 6].
+The guideline was implemented through the public consultations
+as a formal procedure in Japan and by soliciting comments from the
+regulatory authorities of the United States and Europe. It re ﬂects
+the latest scienti ﬁc knowledge and presents the appropriate*Corresponding author.
+E-mail addresses: maedak@pharm.kitasato-u.ac.jp (K. Maeda), hisaka@chiba-u.
+jp(A. Hisaka), k-ito@musashino-u.ac.jp (K. Ito), yohno-tky@umin.ac.jp (Y. Ohno),
+ishiguro-akihiro@pmda.go.jp (A. Ishiguro), sato-reiko@pmda.go.jp (R. Sato), n_
+nagai@musashino-u.ac.jp (N. Nagai).
+1First authors
+Contents lists available at ScienceDirect
+Drug Metabolism and Pharmacokinetics
+journal homepage: http://www.journals.elsevier .com/drug-metabolism-and-
+pharmacokinetics
+https://doi.org/10.1016/j.dmpk.2021.100414
+1347-4367/ ©2021 The Japanese Society for the Study of Xenobiotics. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://
+creativecommons.org/licenses/by-nc-nd/4.0/ ).Drug Metabolism and Pharmacokinetics 41 (2021) 100414methods for the evaluation of DIs during the development of new
+drugs and how the risks and information of DIs should be provided
+to medical experts. The Japanese guideline includes lists of sub-
+strates, inhibitors, and inducers of cytochrome P450s (P450s) and
+transporters, which would be used as index drugs or typical drugs
+at various steps of DI evaluation in the drug-development process.
+In this review, we aim to enumerate drugs that were involved or are
+anticipated to be involved in evident pharmacokinetic DIs and
+classify them by their clearance pathway and potential intensity
+from more general viewpoints based on systematic reviews of the
+literature and similar classi ﬁcations [ 7,8]. The lists are restricted to
+clinically prevalent drugs in Japan, in most cases, which are infor-
+mative for designing clinical studies during drug development and
+the appropriate management of DIs in clinical practice.
+According to Japanese regulations on package inserts of drugs
+[9], clinical alerts regarding DIs are classi ﬁed into “contraindication
+for co-administration (do not co-administer) ”or“precaution for co-
+administration (be careful about concomitant use) ”. All drug names
+that are contraindicated have to be described by their nonpropri-
+etary names and representative brand names in the package insert.
+Alerts regarding DIs classi ﬁed as “precaution for co-administration ”
+are requested that nonproprietary names or names of drug class are
+listed in the package insert. For alerts regarding DIs classi ﬁed as
+“precaution for co-administration ”and metabolized mainly by
+CYP3A, the guideline requests that the strength classi ﬁcation of
+CYP3A inhibition or induction is also clari ﬁed in the package inserts
+so that a more systematic and updated management of DIs can be
+performed depending on the therapeutic effect or pharmacokinetic
+properties of concomitant drugs. The classi ﬁcations presented in
+this review would also be valuable because they provide suggestive
+information to determine how the drugs should be used in com-
+bination in clinical practice and includes the latest available infor-
+mation for medical experts who need systematic knowledge on
+index drugs and typical drugs of DIs including the strength classi-
+ﬁcation of inhibitors and inducers for P450.
+2. Pharmacokinetic theory and limitations to be considered
+The signi ﬁcance of DIs was understood even at the dawn of drug
+metabolism research when P450 was discovered and found to be
+inducible [ 10,11]. Then, DIs associated with changes in blood drug
+concentrations were reported for many cases, but reasonable pre-
+dictions of DIs were achieved only after isoenzymes of human P450
+were identi ﬁed in the 1980s [ 12], together with the development of
+the clearance theory and physiologically based pharmacokinetic
+(PBPK) analysis [ 13]. The whole-body clearance, which means the
+performance of drug elimination from the body is evaluated in vivo
+by dividing the dose by the drug blood concentration area under
+the curve (AUC) after systemic administration. The whole-body
+clearance is also equal to the sum of organ clearances, and to
+calculate organ clearance from intrinsic clearance, which is
+measurable by in vitro experiments, a local organ model, such as the
+well-stirred model, is necessary to consider the in ﬂuence of the
+blood ﬂow passing through. When a drug is administered orally,
+the oral clearance becomes proportional to the hepatic intrinsic
+clearance without being affected by the blood ﬂow due to a
+contribution of the ﬁrst-pass effect. Thus, the theory suggests that
+AUC changes of orally administered drugs caused by pharmacoki-
+netic DIs are inversely proportional to changes in the hepatic
+intrinsic clearance in principle. PBPK analysis would be useful when
+this simple assumption needs to be adjusted due to more compli-
+cated situations.
+An inhibitor with a similar strength of inhibitory effect to a
+speci ﬁc enzyme of P450 is theoretically expected to change the AUC
+of a substrate with high speci ﬁcity for the enzyme to a similarextent, regardless of whether the inhibition is reversible (including
+competitive) or irreversible (time-dependent). Thus, the classi ﬁ-
+cation of inhibitors by the degree of change in the AUC of a
+particular sensitive substrate is useful to estimate pharmacokinetic
+DIs with various similar substrates. The substrate used to classify
+inhibitors should be selective for the pathway of the metabolism to
+be evaluated. The Japanese guideline de ﬁned a substrate showing a
+5-fold or greater AUC change in combination with a strong inhibitor
+as a “sensitive substrate, ”which means that at least 80% of the oral
+clearance depends on the route. Similarly, a substrate that exhibits
+an AUC change from double to 5-fold is de ﬁned as a “moderately
+sensitive substrate, ”which corresponds to 50 e80% dependence.
+Inhibitors of representative P450s were classi ﬁed as strong, mod-
+erate, or weak depending on the degree of AUC changes of the
+sensitive substrate in the Japanese guideline on DIs, and these
+classi ﬁcations correspond to AUC changes of /C215-fold, /C212t o<5-
+fold, and <2-fold respectively. In this review, however, weak in-
+hibitors are not described from the viewpoint of clinical interaction
+management because both the degree of AUC change and the
+selectivity are sometimes unclear. The classi ﬁcations and certain
+terms related to substrate, inhibitor and inducer are described inthe Glossary at the end of this manuscript.
+The above theory could also be applied to some of the hepatic
+clearance regulated by transporters, but there are a few points to
+consider. In the case of a drug that is taken up into the liver via an
+uptake transporter such as organic anion transporting polypeptide
+(OATP) 1B, and does not return to the bloodstream at all, the theory
+can be applied correctly. However, this may be an exceptional case.
+For most of the substrates of hepatic uptake transporters, hepatic
+clearance is estimated as a complex function of passive and active
+uptake, vascular ef ﬂux, biliary ef ﬂux, and metabolism. Further-
+more, transporters are also often expressed in the extrahepatic
+tissues. As will be described in the “Drugs involved in pharmaco-
+kinetic DIs mediated by transporters ”section 4, overlapping sub-
+strate recognition is an additional issue for the prediction of
+transporter-mediated pharmacokinetic DIs. Overall, for drugs
+involved in transporter-mediated DIs, the change in AUC often does
+not correspond to the intrinsic transporter activity of a particular
+transporter at a particular location. For this reason, drugs involved
+in DIs mediated by transporters are classi
+ﬁed not by the degree of
+DI but by transporters in this review.
+The mechanism of DIs found in clinical settings can be even
+more complicated than those assumed in the above theory. In the
+small intestine, metabolism by CYP3A and ef ﬂux transport by P-
+glycoprotein (P-gp) are often simultaneously involved in DIs. In the
+Japanese guideline, a formula for estimating the risk of DIs in the
+small intestine from in vitro experiments is described, but this was
+derived empirically from the relationship between the intensity of
+thein vitro and in vivo DIs and does not provide a pharmacokinetic
+estimate of the drug concentration in the intestinal epithelial cells
+where the interaction is occurring. Even for advanced models
+currently used in PBPK analysis, the predictability of DIs in the
+small intestine has hardly been veri ﬁed yet because we do not
+know the precise drug concentrations in the enterocytes and the
+activity of ef ﬂux transporters including P-gp and breast cancer
+resistance protein (BCRP). At present, for drugs that have aremarkably high metabolic clearance by CYP3A and/or for those
+transported by P-gp or BCRP extensively, caution should be taken to
+avoid a higher risk of DI due to the contribution by the small
+intestine.
+The theory of DIs caused by a change in hepatic clearance cannot
+be applied to drugs that are to be cleared extensively from the
+extrahepatic tissue. For a representative example, renal clearance is
+composed of three processes, namely, glomerular ﬁltration, tubular
+secretion, and reabsorption, and in the case of interaction involvingK. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+2transporter activity in the processes of secretion and reabsorption,
+the basic equation differs depending on whether the transporter is
+located at the basolateral or apical side. In these cases, the most
+probable prediction would be obtained from a careful analysis us-
+ing the PBPK model. The degree of DIs is smaller after intravenous,
+intramuscular, or transdermal administrations of the substrate than
+that after oral administration, in general due to a lack of the ﬁrst-
+pass effect. An analysis by a PBPK model would again be consid-
+ered effective in these cases.
+In this review, drugs were classi ﬁed based on the largest change
+in the index parameter observed in their DI studies, as described in
+the next section. Furthermore, all the classi ﬁcation is based on the
+average parameter changes observed in clinical studies in primarily
+healthy subjects. The potential for interstudy and interindividual
+differences needs to be considered to apply the classi ﬁcation of
+drugs from this review to a clinical setting. In the pediatric popu-
+lation, especially in those below the age of two years, the devel-
+opment of drug-metabolizing enzymes and transporters is
+insufﬁcient [ 14]. In the elderly population, renal and hepatic
+functions are considerably reduced [ 15]. Furthermore, pharmaco-
+kinetics and DIs are affected by various disease states [ 16,17].
+Because of these variations, DIs can be enhanced potentially by
+several times. Overall, these uncertainties and exceptions need to
+be considered carefully when the classi ﬁcation presented in this
+review is to be applied to clinical practice.
+3. Drugs involved in evident pharmacokinetic DIs mediated
+by P450s
+Substrates, inhibitors, and inducers of P450 involved in evident
+pharmacokinetic DIs were classi ﬁed according to AUCR (the ratio of
+AUC in the presence of an interacting drug to that in the absence)
+after oral doses or the ratio of oral clearance (CL/F) in most cases,
+which is observed in a clinical DI study with one of the designated
+in vivo index drugs of P450 according to the Japanese guideline. In a
+few cases, trough and steady-state concentrations were used as
+described in the table. The guidance issued in 2020 by the United
+States FDA are also referred to as a regulatory document that de-
+ﬁnes the same strength classi ﬁcation of P450 inhibition or induc-
+tion (strong, moderate, or weak inhibitor or inducer).
+For examining the drug list, the new drug approval information
+of Japan (March 31, 2020. http://www.pmda.go.jp/PmdaSearch/
+iyakuSearch/ ) and the United States ( https://www.accessdata.fda.
+gov/scripts/cder/daf/ ), Drug Interaction Solutions ’PK-based Drug
+Interaction Database (DIDB) ( http://www.druginteractioninfo.org ),
+and the UCSF-FDA Transportal ( http://bts.ucsf.edu/fdatransportal/ )
+were used. Drugs to be considered for each decision tree of the
+drug-metabolizing enzyme P450 in the Japanese guideline were
+extracted and classi ﬁed based on changes in pharmacokinetics in
+clinical DI studies.
+We extracted drugs that could cause interactions accompanied
+by remarkable (strong) to moderate changes in pharmacokinetics,
+which are particularly important from the viewpoint of clinical
+interaction management, and classi ﬁed drugs with the application
+of Japanese clinical settings as represented in Tables 1 e3. Therefore,
+the tables exclude drugs that are currently not marketed in Japan,
+but include clinical index drugs shown in the Japanese guideline.
+InTable 3 , inducer drugs are listed by each isozyme of P450
+because inductions were examined by clinical studies in which an
+isozyme-selective substrate drug was co-administered. However,
+inducers are described together at the end of this chapter since
+several P450 isozymes are frequently induced together.3.1. Substrates and inhibitors of P450
+3.1.1. Substrates and inhibitors of CYP1A2
+It has been demonstrated that the AUC of sensitive CYP1A2
+substrates notably increased when administered with ﬂuvoxamine
+(caffeine 13.7-fold, tizanidine 32.7-fold, and ramelteon 128-fold).
+These evident DIs need to be avoided carefully in clinical settings. It
+is well-known that ﬂuvoxamine inhibits CYP1A2 as well as
+CYP2C19. Furthermore, it also inhibits CYP2C9, CYP2D6, and
+CYP3A4 in vitro [18]. Although the degrees of inhibition of ﬂuvox-
+amine against some of these enzymes in vivo are obscure, the
+observed strong DIs might be related to its broad inhibition spec-
+iﬁcity for various P450s. For this reason, although ﬂuvoxamine is
+selected as the index inhibitor of CYP1A2 in the Japanese guideline,
+the results of a clinical DI study need to be interpreted carefully for
+the possible contribution of the other P450 enzymes.
+3.1.2. Substrates and inhibitors of CYP2B6 and CYP2C8
+In the cases of CYP2B6 and CYP2C8, the number of substrates
+and inhibitors listed in Tables 1 and 2 are relatively small. However,
+it should be noted that the frequency of pharmacokinetic DIs would
+be potentially more than those implied by the list because in vitro
+studies have not been carried out routinely for these enzymes until
+recently, and thus, only limited clinical DI studies have been per-
+formed. Although a very strong inhibition of CYP2B6 was observedin vitro for some azoles [ 19,20], no clinical study has been per-
+formed to con ﬁrm their in vivo signiﬁcance.
+Cyclophosphamide is an alkylating agent of cancer activated by
+CYP2B6 and CYP2C19 [ 21]. Therefore, the outcome of cyclophos-
+phamide treatment might be affected by DIs as well as the genetic
+polymorphism with regard to both enzymes [ 22], although it is not
+included in Table 1 . Bupropion designated as a sensitive clinical
+substrate of CYP2B6 is not marketed in Japan, thus not included in
+Table 1 . To evaluate CYP2B6-dependent clearance, stereoselective
+metabolism of bupropion may need to be evaluated [ 23].
+It should be recognized that cerivastatin, an effective HMG-CoA
+inhibitor, was withdrawn from the market because of severe DI by
+gemﬁbrozil. Cerivastatin is a substrate of CYP2C8, and in this
+evident and fatal DI, it has been reported that glucuronide of
+gemﬁbrozil played a critical role in the irreversible inhibition of
+CYP2C8 [ 24,25].
+3.1.3. Substrates and inhibitors of CYP2C9
+Warfarin is the in vivo index substrate of CYP2C9, but it should
+be noted that warfarin is composed of two optical isomers, the S-
+isomer and R-isomer; the S-isomer is more effective and shows
+higher selectivity for CYP2C9 than the R-isomer [ 26]. Therefore,
+when warfarin is to be used in clinical DI studies, changes in both
+drug concentrations and ef
+ﬁcacy should be observed. In Table 1 ,S -
+warfarin is described, considering the evaluation of DI potentials in
+clinical studies. Recently, miconazole, known as an inhibitor of
+CYP3A, was contraindicated for use with warfarin in Japan [ 27]
+because it also strongly inhibited CYP2C9 and caused severe DI in
+association with warfarin. Some azole antifungals, including mi-
+conazole, often inhibit multiple P450 isoenzymes in vitro , but it
+should be kept in mind that their in vivo inhibition potential has not
+been veri ﬁed satisfactorily. In the future, further accumulation of
+information is necessary. Celecoxib is designated as a sensitive
+clinical substrate of CYP2C9 in the United States, considering the
+results of pharmacogenetic studies [ 28].
+Although not listed in Table 2 , it has been suggested that blood
+concentrations of losartan, warfarin, and phenytoin were increasedK. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+3Table 1
+Prevalent substrate drugs of P450 which are involved in evident pharmacokinetic drug interactions.
+isoform classi ﬁcation(a)substrate concomitantly used inhibitor comment ref.
+name(b),(c)dose(d)AUCR(e)name(c)dose(d)
+CYP1A2 sensitive caffeine * 250 mg sd 13.7 ﬂuvoxamine 100 mg qid S1
+tizanidine * 4 mg sd 9.74 cipro ﬂoxacin 500 mg bid S2
+4 mg sd 32.7 ﬂuvoxamine 100 mg qd S3
+duloxetine 60 mg sd 5.60 ﬂuvoxamine 100 mg qd S4
+melatonin 5 mg sd 17.4 ﬂuvoxamine 50 mg qd S5
+ramelteon 16 mg sd 128 ﬂuvoxamine 100 mg bid S6
+moderately
+sensitiveclozapine 50 mg sd 2.84 ﬂuvoxamine 50 mg bid S7
+pirfenidone 267 mg tid 4.01 ﬂuvoxamine 50 mg qd,bid
+50/100 mg bidnon-smoker S8
+ramosetron 10mg sd 2.66 ﬂuvoxamine 50 mg bid S9
+theophylline 250 mg sd 2.38 ﬂuvoxamine 75 mg qd S10
+CYP2B6 moderately
+sensitiveefavirenz 100 mg sd 2.24 voriconazole 200 mg bid upper limit of 90% CI, mean
+1.89S11
+CYP2C8 sensitive repaglinide * 0.25 mg sd 5.08 clopidogrel 300 mg sd S12
+0.25 mg sd 8.26 (gem ﬁbrozil) 900 mg sd S13
+selexipag 400mg sd 11.09 (gem ﬁbrozil) 600 mg bid active metabolite S14
+moderately
+sensitivemontelukast 10 mg sd 4.54 (gem ﬁbrozil) 600 mg bid S15
+pioglitazone 15 mg sd 4.66 (gem ﬁbrozil) 600 mg bid CYP2C8( *1/*3,*3/*3) S16
+15 mg sd 3.12 (gem ﬁbrozil) 600 mg bid CYP2C8( *1/*1)
+CYP2C9 moderately
+sensitiveS-warfarin *(f)0.75 mg/kg sd (warfarin) 4.72 miconazole 125 mg qd CF/F ratio: 0.19 S17
+0.75 mg sd (warfarin) 2.85 ﬂuconazole 400 mg qd S18
+celecoxib 200 mg sd 2.31 ﬂuconazole 200 mg qd S19
+glimepiride 0.5 mg sd 2.38 ﬂuconazole 200 mg qd S20
+phenytoin 250 mg sd 2.32 ﬂuconazole 400 mg qd trough (C48) S21
+(tolbutamide *) 500 mg sd 2.09 ﬂuconazole 100 mg qd S22
+CYP2C19 sensitive S-lansoprazole * 60 mg sd (lansoprazole) 14.0 ﬂuvoxamine 25 mg bid Homo EM Japanese S23
+6.21 Hetero EM Japanese2.01 PM Japanese
+omeprazole * 40 mg sd 5.62 ﬂuvoxamine 25 mg bid Homo EM Japanese S24
+2.38 Hetero EM Japanese1.15 PM Japanese
+moderately
+sensitivelansoprazole * 40 mg sd 3.83 ﬂuvoxamine 25 mg bid Homo EM Japanese S25
+2.50 Hetero EM Japanese1.04 PM Japanese
+diazepam 10 mg sd 2.80 ﬂuvoxamine 50/100 mg bid S26
+etizolam
+(g)0.25 mg sd 2.64 PGx PM/EM Japanese S27
+rabeprazole 20 mg sd 2.82 ﬂuvoxamine 25 mg bid Homo EM Japanese S28
+1.68 Hetero EM Japanese1.07 PM Japanese
+voriconazole 200 mg bid 2.64 ﬂuconazole 200 mg qd EM S29
+CYP2D6 sensitive (desipramine *) 50 mg sd 7.43 ( ﬂuoxetine) 60 mg qd S30
+50 mg qd 5.46 paroxetine 30 mg qd S31
+dextromethorphan *30 mg bid 47.8 quinidine 75 mg bid S32
+30 mg sd 27.2 ( ﬂuoxetine) 60 mg qd cocktail study S33
+(nebivolol *) 10 mg sd 6.57 ( ﬂuoxetine) 20 mg qd S34
+5 mg sd 6.15 paroxetine 20 mg qd S35
+atomoxetine 20 mg bid 7.06 paroxetine 20 mg qd S36
+eliglustat 100 mg bid 28.4 paroxetine 30 mg qd one ultra rapid metabolizer S37
+10.0 EM5.20 IM
+metoprolol 100 mg sd (metoprolol) 7.92 paroxetine 20 mg qd R-metoprolol S38
+5.08 paroxetine 20 mg qd S-metoprolol
+nortriptyline 25 mg bid 5.12 paroxetine 20 mg bid CL/F S39
+perphenazine 0.11 mg/kg sd 6.96 paroxetine 20 mg qd S40
+tolterodine tolerodine
+L-tartrate 2 mg bid11.3 ( ﬂuoxetine) 20 mg qd EM, CL/F S41
+moderately
+sensitiveimipramine 50 mg sd 3.33 ( ﬂuoxetine) 60 mg qd S42
+propafenone current daily dose (mean
+825 mg)2.69 quinidine 50 mg tid Css S43
+propranolol 20 mg sd 2.29 quinidine 200 mg sd S44
+tramadol 50 mg sd 2.15 terbina ﬁne 250 mg qd S45
+trimipramine 75 mg sd 2.98 quinidine 100 mg sd CL/F (n ¼2) S46
+venlafaxine 75 mg sd 3.27 terbina ﬁne 250 mg qd S47
+CYP3A sensitive midazolam * 4 mg sd 7.00 clarithromycin 500 mg bid S48
+7.5 mg sd 10.8 itraconazole 200 mg qd S497.5 mg sd 15.9 (ketoconazole) 400 mg qd
+triazolam * 0.25 mg sd 27.1 itraconazole 200 mg qd S50K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+4due to concomitant use of 5- ﬂuorouracil-related anticancer drugs,
+which may include TS-1, UFT, tegafur, ﬂuorouracil, doxi ﬂuridine,
+capecitabine, and carmofur [ 29,30]. They are not mentioned in the
+list because ﬂuorouracil does not directly inhibit CYP2C9 in vitro
+[31]. It was surmised that ﬂuorouracil decreases the expression of
+CYP2C9 in the liver by some unknown mechanism [ 32]. Similar
+interaction by ﬂuorouracil has also been suggested for CYP2C19[33]. Therefore, it is recommended to regard ﬂuorouracils as if they
+are strong inhibitors of CYP2C9 and CYP2C19 for proper clinical
+management of DIs.
+3.1.4. Substrates and inhibitors of CYP2C19
+Strong inhibitors of CYP2C19 in the list include ﬂuvoxamine and
+ﬂuconazole, but it should be noted that ﬂuvoxamine is also anTable 1 (continued )
+isoform classi ﬁcation(a)substrate concomitantly used inhibitor comment ref.
+name(b),(c)dose(d)AUCR(e)name(c)dose(d)
+0.25 mg sd 22.4 (ketoconazole) 400 mg qd
+0.125 mg sd 5.25 clarithromycin 500 mg bid S51
+blonanserin 2.5 mg sd 17.4 (ketoconazole) 400 mg qd S52
+brotizolam 0.5 mg sd 5.10 itraconazole 200 mg qd S53
+budesonide 3 mg sd 6.81 (ketoconazole) 200 mg qd S54
+darunavir(h)400 mg sd 10.7 ritonavir 100 mg bid S55
+dasatinib 20 mg qd 6.13 (ketoconazole) 200 mg bid Upper limit of 90% CI, mean
+4.84S56
+ebastine 20 mg qd 42.5 (ketoconazole) 400 mg qd S57
+eletriptan 80 mg sd 5.87 (ketoconazole) 400 mg qd S58
+entrectinib 100 mg sd 6.04 itoraconazole 100 mg qd S59
+eplerenone 100 mg sd 5.39 (ketoconazole) 200 mg bid S60
+everolimus 2 mg sd 14.7 (ketoconazole) 200 mg bid S61
+felodipine 5 mg sd 6.34 itoraconazole 200 mg qd S62
+ivabradine 10 mg sd 7.70 (ketoconazole) 200 mg qd S63
+ibrutinib 40 mg sd 26.2 (ketoconazole) 400 mg qd S64
+lomitapide 60 mg sd 27.3 (ketoconazole) 200 mg bid S65
+lurasidone 10 mg sd 8.95 (ketoconazole) 400 mg qd S66
+maraviroc 100 mg bid 5.00 (ketoconazole) 400 mg qd S67
+nisoldipine 5 mg sd 25.3 (ketoconazole) 200 mg qd S68
+quetiapine 25 mg sd 6.20 (ketoconazole) 200 mg qd S69
+rupatadine 20 mg qd 11.6 (ketoconazole) 200 mg qd S70
+sildena ﬁl 100 mg sd 9.36 (saquinavir)/
+ritonavir1200 mg tid/500 mg
+bidS71
+simvastatin 40 mg sd 12.6 (ketoconazole) 400 mg qd S72
+sirolimus 0.5e2 mg eod 26.1 (telaprevir) 1125 mg bid S73
+ticagrelor 90 mg sd 7.32 (ketoconazole) 200 mg bid S74
+tolvaptan 30 mg sd 5.40 (ketoconazole) 200 mg qd S75
+vardena ﬁl 5 mg sd 9.94 (ketoconazole) 200 mg qd S76
+moderately
+sensitivealprazolam 1 mg sd 3.98 (ketoconazole) 200 mg bid S77
+aprepitant 125 mg sd 4.78 (ketoconazole) 400 mg qd S78
+atorvastatin 80 mg qd 4.45 clarithromycin 500 mg bid S79
+20 mg sd 2.50 itraconazole 200 mg qd S80
+ceritinib 450 mg sd 2.88 (ketoconazole) 200 mg bid S81
+colchicine 0.6 mg sd 2.87 (ketoconazole) 200 mg bid S82
+cyclosporin A 0.59 mg/kg bid 4.39 (ketoconazole) 200 mg qd S83
+doravirine(h)100 mg sd 3.06 (ketoconazole) 400 mg qd S84
+eliglustat 100 mg bid 4.40 (ketoconazole) 400 mg qd S37
+lapatinib 100 mg sd 3.67 (ketoconazole) 200 mg bid S85
+lemborexant 10 mg sd 3.70 itraconazole 200 mg qd S86
+methyl
+predonisolone48 mg sd 2.53 itraconazole 200 mg qd S87
+naldemedine 0.2 mg sd 2.91 itraconazole 200 mg qd S88
+pimozide 6 mg sd 2.12 clarithromycin 500 mg bid S89
+rivaroxaban 10 mg qd 2.58 (ketoconazole) 400 mg qd S90
+tacrolimus 3 mg sd 3.32 itraconazole 200 mg bid S91
+tadala ﬁl 20 mg sd 4.12 (ketoconazole) 400 mg qd S92
+Note. The table is prepared to provide examples and drugs listed in the table is restricted to clinically prevalent drugs in Japan. The table is not inte nded to be an exhaustive list.
+Other elimination pathways may also contribute to the elimination of the substrates listed and should be considered when assessing the drug interact ion potential. Some
+drugs not on the list may also be considered when assessing the drug interaction potential. (e.g. cyclophosphamide is mainly activated by CYP2B6, the refore inhibition of
+CYP2B6 may result in in vivo drug interaction. Clopidogrel is mainly activated by CYP2C19, therefore, inhibition of CYP2C19 in addition to its polymorphism affects the effect) .
+A list of references for the tables are provided in the appendix.
+aClassi ﬁcation is in principle based on the largest observed AUC change (worst case scenario) in the study with a clinical index inhibitor. Sensitive: AUC incr ease by /C215-fold
+(CL/F decrease to <1/5) when co-administered with a strong inhibitor. Moderately sensitive: AUC increase by /C212-fold but <5-fold (CL/F decrease to <1/2 but /C211/5) when co-
+administered with a strong inhibitor.
+bAsterisk ( *) represents clinical index substrate.
+cDrugs in parenthesis are not approved in Japanese market currently.
+dMultiple doses were given for qd, bid, tid, and eod (every other day). Abbreviation sd and md refers to single dose and multiple dose, respectively.
+eAUCR is the ratio of AUC in the presence of an interacting drug to that in the absent.
+fWarfarin is composed of S and R isomers. S-isomer is pharmacologically more potent and selective for CYP2C9. Racemic warfarin: moderate sensitive.
+gEtizolam is a substrate of CYP2C19 and CYP3A, and CYP3A mediated DDI is potentiated considerably in poor metabolizers of CYP2C19.
+hUsually administered in combination with ritonavir.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+5Table 2
+Prevalent inhibitor drugs of P450 which cause evident pharmacokinetic drug interactions.
+isoform classi ﬁcation(a)inhibitor concomitantly used substrate comment ref.
+name(b,c)dose(d)name(c)dose(d)AUCR(e)
+CYP1A2 strong ﬂuvoxamine * 100 mg bid caffeine 250 mg sd 13.7 S1
+100 mg qd tizanidine 4 mg sd 32.7 S3
+ciproﬂoxacin 500 mg bid tizanidine 4 mg sd 9.74 S2
+moderate mexiletine 50 mg tid tizanidine 2 mg sd 3.42 S93
+oral contraceptives gestodene 75 mgs dþEE 20-
+30mgq dtizanidine 4 mg sd 3.92 S94
+CYP2C8 strong clopidogrel * 300 mg sd repaglinide 0.25 mg sd 5.08 index drug S95
+(gem ﬁbrozil *) 900 mg sd repaglinide 0.25 mg sd 8.26 S96
+moderate clopidogrel 75 mg qd repaglinide 0.25 mg sd 3.95 clinical drug S95
+deferasirox 30 mg/kg qd repaglinide 0.5 mg sd 2.27 S97
+teriﬂunomide 14 mg qd repaglinide 0.25 mg sd 2.28 S98
+CYP2C9 moderate ﬂuconazole * 400 mgqd S-warfarin warfarin 17.5 mg sd 2.54 S99
+amiodarone 200 mg bid S-warfarin warfarin 1.5 mg/kg sd 2.11 S100
+bucolome 300 mg qd S-warfarin warfarin 1.4 mg/kg qd 3.29 CL/F S101
+miconazole(f)125 mg qd S-warfarin warfarin 0.75 mg/kg sd 4.72 S102
+CYP2C19 strong ﬂuvoxamine * 25 mg bid omeprazole 40 mg sd 5.62 homo EM
+(Japanese)S24
+87.5 mg qd (S-mephenytoin) 100 mg sd 9.89 EM S103
+ﬂuconazole 100 mg qd omeprazole 20 mg sd 6.29 S104
+ticlopidine 200 mg qd omeprazole 20 mg sd 6.22 homo EM
+(Japanese)S105
+CYP2D6 strong (ﬂuoxetine *) 60 mg qd (desipramine) 50 mg sd 7.43 S30
+60 mg qd dextromethorphan 30 mg sd 27.2 cocktail study S3320 mg qd nebivolol 10 mg sd 6.57 S34
+paroxetine * 30 mg qd (desipramine) 50 mg qd 5.46 S31
+20 mg bid nebivolol 5 mg sd 6.15 S35
+dacomitinib 45 mg sd dextromethorphan 30 mg sd 9.55 S106
+quinidine 75 mg bid dextromethorphan 30 mg bid 47.8 S32
+200 mg sd dextromethorphan 10 mg sd 14.3 cocktail study S107
+terbina ﬁne 250 mg qd (desipramine) 50 mg sd 5.69 CL/F S108
+moderate mirabegron * 100 mg qd (desipramine) 50 mg sd 3.13 S109
+160 mg qd metoprolol 100 mg sd 3.16
+cinacalcet 90 mg qd (desipramine) 50 mg sd 3.12 S110
+50 mg qd dextromethorphan 30 mg sd 4.93 S111
+abiraterone 1000 mg qd dextromethorphan 30 mg sd 2.87 S112
+duloxetine 60 mg bid (desipramine) 50 mg sd 2.92 S113
+escitalopram 20 mg qd (desipramine) 50 mg sd 2.07 S114
+CYP3A strong /C2110 itraconazole * 200 mg qd midazolam 7.5 mg sd 10.8 S49
+200 mg qd triazolam 0.25 mg sd 27.1 S50
+cobicistat 200 mg qd midazolam 5 mg sd 19.0 S115
+grapefruit juice
+(g)(double
+strength)240 mL tid midazolam 2 mg sd 5.95 S116
+200 mL tid simvastatin 60 mg sd 16.1 S117
+ritonavir(h)100 mg (3 doses) midazolam 3 mg sd 26.4 S118
+200 mg bid triazolam 0.1875 mg sd 40.7 S119
+voriconazole(i)200 mg bid midazolam 3 mg sd 9.63 S120200 mg bid midazolam 7.5 mg sd 10.3 S121
+strong /C215,<10clarithromycin * 500 mg bid midazolam 4 mg sd 7.00 S48
+500 mg bid simvastatin 40 mg qd 9.95 S79500 mg bid triazolam 0.125 mg sd 5.26 S51
+ceritinib 750 mg qd midazolam 2.5 mg sd 5.42 S81
+posaconazole 200 mg qd midazolam 2 mg sd 5.70 S122
+moderate erythromycin * 500 mg bid triazolam 0.125 mg sd 3.80 S51
+ﬂuconazole * 200 mg qd triazolam 0.25 mg sd 4.42 S123
+verapamil * 80 mg tid midazolam 15 mg sd 2.92 S124
+80 mg tid simvastatin 40 mg sd 4.65 S125
+aprepitant 80 mg qd midazolam 2 mg sd 3.29 S126
+cipro ﬂoxacin 500 mg sd sildena ﬁl 50 mg sd 2.12 S127
+crizotinib 250 mg bid midazolam 2 mg sd 3.65 S128
+cyclosporine A 203 mg/day midazolam 2 mg sd 2.21 stable therapy S129
+diltiazem 60 mg tid midazolam 2 mg sd 4.06 S130
+60 mg tid triazolam 0.25 mg sd 3.38 S131
+ﬂuvoxamine 100 mg qd (buspirone) 10 mg sd 2.35 S132
+fosravuconazole 200 mg qd midazolam 2 mg sd 3.01 S133
+imatinib 400 mg qd simvastatin 40 mg sd 2.92 S134K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+6Table 3
+Prevalent inducer drugs of P450 which cause evident pharmacokinetic drug interactions.
+isoform classi ﬁcation(a)inducer concomitantly used substrate comment ref.
+name(b,c)dose(d)name(c)dose(d)AUCR(e)
+CYP1A2 moderate phenytoin 300e600 mg/day caffeine 140 mg sd 0.42 Caffeine CL S136
+ritonavir(f)400 mg bid caffeine 200 mg sd 0.25 cocktail study S137
+rifampicin 600 mg qd tizanidine 4 mg sd 0.46 S138
+smoking not provided pirfenidone 801 mg sd 0.50 S8
+1-2 pack/day cigarettes theophylline 3 e5 mg/kg sd 0.44 CL/F S139
+teriﬂunomide 14 mg qd caffeine 100 mg sd 0.45 S98
+CYP2B6 strong carbamazepine 942±254 mg (bupropion) 150 mg sd 0.10 S140
+moderate rifampicin * 600 mg qd efavirenz 600 mg sd 0.46 S141
+600 mg qd efavirenz 600 mg sd 0.44 S142
+efavirenz 600 mg qd (bupropion) 150 mg sd 0.45 S143
+CYP2C8 moderate rifampicin * 600 mg qd repaglinide 4 mg sd 0.20 S144
+600 mg qd pioglitazole 30 mg sd 0.46 S145
+CYP2C9 moderate rifampicin * 600 mg qd celecoxib 200 mg sd 0.35 S146
+300 mg bid warfarin 0.75 mg sd 0.26 S147
+enzalutamide 160 mg qd warfarin 10 mg sd 0.44 cocktail study S148
+CYP2C19 strong rifampicin * 600 mg qd omeprazole 5 mg sd 0.11 cocktail study S149
+600 mg qd voriconazole 200mgbid 0.01 S150
+apalutamide 240 mg qd omeprazole 40 mg sd 0.15 S151
+moderate enzalutamide 160 mg qd omeprazole 20 mg sd 0.30 cocktail study S148
+phenytoin 300 mg qd voriconazole 200 mg bid 0.28 S152
+CYP3A strong phenytoin * 200e450 mg qd nisoldipine 40 mg sd 0.11 chronic phenytoin monotherapy S153
+100 mg tid quetiapine 250 mg tid 0.20 S154
+rifampicin * 600 mg qd midazolam 15 mg sd 0.02 S155
+600 mg qd triazolam 0.5 mg sd 0.05 S156
+apalutamide 240 mg qd midazolam 2 mg sd 0.08 S151
+carbamazepine 200 mg bid quetiapine 300 mg bid 0.13 S69
+enzalutamide 160 mg qd midazolam 2 mg sd 0.14 cocktail study S148
+mitotane 0.5, 1.0 or 3.5g tid midazolam 7.5 mg sd 0.05 chronic mitotane therapy S157
+St. John's wort 200 mg bid midazolam 3 mg sd 0.18 S158
+moderate bosentan 125 mg bid sildena ﬁl 100 mg sd 0.31 S159
+efavirenz 600 mg qd (alfentanil) 43 mg/kg sd 0.24 S160
+etravirine 200 mg bid maraviroc 300 mg bid 0.47 S161
+moda ﬁnil 400 mg qd triazolam 0.125 mg sd 0.42 S162
+phenobarbital primidone(g)100 mg qd nifedipine 20 mg sd 0.39 phenobarbital sodium 100 mg cocktail study S163
+rifabutin 300 mg qd midazolam 2 mg sd 0.31 cocktail study S164
+Note. The table is prepared to provide examples and drugs listed in the table is restricted to clinically prevalent drugs in Japan. The table is not inte nded to be an exhaustive list.
+A list of references for the tables are provided in the appendix.
+aClassi ﬁcation is in principle based on the largest observed AUC change (worst case scenario) in the study with a sensitive substrate. Strong: AUC decrease of s ensitive
+substrate to /C201/5 (CL/F increase by >5-fold). Moderate: AUC decrease of sensitive substrate by /C201/2 but >1/5 (CL/F increase by /C212-fold but <5 fold).
+bAsterisk ( *) represents clinical index inducer.
+cDrugs in parenthesis are not approved in Japanese market currently.
+dMultiple doses were given for qd, bid and tid. Abbreviation sd and md refers to single dose and multiple dose, respectively.
+eAUCR is the ratio of AUC in the presence of an interacting drug to that in the absent. Values in parenthesis are data in special population for reference.
+fModerate inducer of CYP1A2 with dose of 800 mg/day ritonavir (not with other anti-HIV drugs). Effect on CYP1A2 at lower doses of ritonavir is unknown.
+gPrimidone is partially metabolized to phenobarbital.Table 2 (continued )
+isoform classi ﬁcation(a)inhibitor concomitantly used substrate comment ref.
+name(b,c)dose(d)name(c)dose(d)AUCR(e)
+toﬁsopam 100 mg tid midazolam 7.5 mg sd 2.36 S135
+Note. The table is prepared to provide examples and drugs listed in the table is restricted to clinically prevalent drugs in Japan. The table is not inte nded to be an exhaustive list.
+Some drugs not on the list may also be considered when assessing the drug interaction potential. (e.g. 5-Fluorouracil related drugs such as TS-1, UFT, tegafur, ﬂuorouracil,
+doxiﬂuridine, capecitabine, and carmofur, do not inhibit CYP2C9 directly but may reduce its activity in vivo considerably). A list of references for the tables are provided in the
+appendix.
+aClassi ﬁcation is in principle based on the largest observed AUC change (worst case scenario) in the study with a sensitive substrate. Strong: AUC increase of s ensitive
+substrate by /C215-fold (CL/F decrease to <1/5). Moderate: AUC increase of sensitive substrate by /C212-fold but <5-fold (CL/F decrease to <1/2 but /C211/5).
+bAsterisk ( *) represents clinical index inhibitor.
+cDrugs in parenthesis are not approved in Japanese market currently.
+dMultiple doses were given for qd, bid and tid. Abbreviation sd and md refers to single dose and multiple dose, respectively.
+eAUCR is the ratio of AUC in the presence of an interacting drug to that in the absent. Values in parenthesis are data in special population for reference.
+fMiconazole inhibits various isoenzymes strongly in vitro including CYP3A in addition to CYP2C9.
+gThe effect of grapefruit juice varies widely among brands and depends on concentration, dose and preparation.
+hUsually given in combination with other anti-HIV or anti-HCV drugs. Caution should be used when extrapolating the observed effect of ritonavir alone to the effect of
+combination regimens on CYP3A activities.
+iVoriconazole inhibits various isoenzymes strongly in vitro including CYP2C9 and CYP2C19 in addition to CYP3A.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+7inhibitor of CYP1A2 and CYP3A, and ﬂuconazole is also an inhibitor
+of CYP2C9 and CYP3A. The results of clinical trials that use these
+drugs as inhibitors need to be interpreted carefully considering the
+clearance pathway of the substrate concomitantly used. Regarding
+the clearance by CYP2C19, individual variability due to genetic
+polymorphism needs to be carefully considered in Asians, including
+the Japanese. Although it is not included in the list as a substrate of
+CYP2C19, clopidogrel is a prodrug and CYP2C19 is involved in the
+production of the active form of clopidogrel. Therefore, the thera-
+peutic bene ﬁt of clopidogrel is dependent on both polymorphism
+and the DI relating to CYP2C19 [ 34]. In the antiplatelet treatment
+using clopidogrel, concomitant use of omeprazole is often avoided
+because omeprazole inhibits CYP2C19 to some extent [ 35],
+although the inhibition is not evident as listed in Tables 1 and 2 .
+Genetic polymorphism of CYP2C19 needs to be considered more
+seriously in Japanese people, because it is known that nearly 20% of
+Japanese people completely lack the activity of CYP2C19 [ 36].
+DIs in patients with a genetic variant of a drug-metabolizing
+enzyme may critically differ from those in usual patients with the
+wild genotype. For example, in patients lacking CYP2C19 activity, it
+is apparent that no DI appears even when an inhibitor of CYP2C19 isused in combination. In contrast, a far more evident DI might
+appear when an inhibitor of the other P450s is used in these pa-
+tients. Etizolam is a drug that is metabolized by CYP2C19 and
+CYP3A4. When a strong inhibitor of CYP3A4 is given in combination
+with extensive metabolizers (EMs) of CYP2C19, the AUC of etizolam
+is raised by barely less than double [ 37], but when the same in-
+hibitor is given to poor metabolizers (PMs) of CYP2C19, it has been
+reported that the AUC of etizolam increased to approximately 6-
+fold compared with the AUC in EMs without the concomitant
+drug [ 38]. In the case of a drug having a signi ﬁcant metabolic
+contribution by polymorphic P450 enzymes, individual differences
+of DIs may need to be considered.
+3.1.5. Substrates and inhibitors of CYP2D6
+In contrast to CYP2C19, it is often considered that individual
+differences in clearance of CYP2D6 is less in Asians than in West-
+erners, because the frequency of PM of CYP2D6 is very small in
+Asians. However, it has been demonstrated that the CYP2D6 *10
+mutation in Asians is almost as abundant as the wild type, and the
+CYP2D6 clearance is greatly diminished in this mutation [ 39,40].
+The homozygotes or heterozygotes of CYP2D6 *10are often classi-
+ﬁed as intermediate metabolizers (IMs), but this classi ﬁcation is
+inconsistent among clinical studies. Special consideration would be
+necessary for Asians for individual differences in clearance and DI
+to be noticed, not only for drugs metabolized majorly by CYP2C19,
+but also those metabolized by CYP2D6.
+Eliglustat tartrate, a drug for the treatment of type 1 Gaucher
+disease, is a typical example that needs such consideration [ 41]. The
+prevalence of Gaucher disease is extremely low, approximately one
+in 50,000 to 100,000 people globally. The AUC of eliglustat in PM of
+CYP2D6 was 11.2-fold of EM according to the product labeling, so
+the contribution of CYP2D6 to the metabolism of this drug is clear.In EM of CYP2D6, the AUC of eliglustat was increased 10-fold when
+co-administered with paroxetine, as shown in Table 1 . Because the
+approved dosage and DI management of eliglustat vary by the ge-
+notype of CYP2D6 in Japan as well as in the United States and
+Europe [ 42], its use requires genetic testing for CYP2D6. In EM, it is
+contraindicated for use with a combination of both CYP2D6 and
+CYP3A inhibitors (moderate or strong), but in IM or PM, it is con-
+traindicated simply with a CYP3A inhibitor (moderate or strong).
+According to the classi ﬁcation in the clinical trial conducted for this
+drug, the homozygote of CYP2D6
+*10was classi ﬁed as IM but the
+heterozygotes with the wild type were classi ﬁed as EMs.3.1.6. Substrates and inhibitors of CYP3A
+As is evident from Tables 1 e3, there are far more substrates,
+inhibitors, and inducers that can be involved in DIs mediated by
+CYP3A than those by the other P450 enzymes. Because DIs occur
+depending on the prescription frequency of both interacting and
+affected drugs, many of the pharmacokinetic DIs encountered in
+clinical settings would be mediated by CYP3A. Therefore, especially
+for CYP3A, it is essential systematically to avoid DIs based on the
+classi ﬁcation shown in Tables 1 e3Clinical trials of interactions due
+to the inhibition of CYP3A were often conducted with ketoconazole.
+However, because ketoconazole is not currently used as an oral
+formulation in Japan and the United States FDA does not recom-
+mend its use due to safety issues, it is necessary to use other drugs
+such as itraconazole in clinical trials. There are several azoles other
+than the two mentioned above that strongly inhibit CYP3A, but care
+must be taken because P450 isoenzymes other than CYP3A are also
+often inhibited strongly by some other azoles. Furthermore, it
+should also be considered that because azoles, including ketoco-
+nazole and itraconazole, often inhibit P-gp and BCRP as well as
+CYP3A, the observed intestinal interactions would not be due to
+CYP3A inhibition alone.
+Major CYP3A isoenzymes in the adult population are CYP3A4
+and CYP3A5 [ 43,44]. In Japan, CYP3A5 is genetically de ﬁcient in
+approximately one-third of the population [ 45]. Because the sub-
+strate recognition or inhibition selectivity between CYP3A4 and
+CYP3A5 often does not differ signi ﬁcantly, it is generally considered
+that the individual ﬂuctuations in DI due to polymorphism of
+CYP3A5 are not signi ﬁcant. However, because it has been reported
+that some substrates are metabolized preferentially by either
+CYP3A4 or CYP3A5 [ 46], and some inhibitors demonstrated selec-
+tive inhibition of these isoenzymes [ 47], special consideration
+might be necessary for these drugs in the future.
+CYP3A is expressed in the small intestine as well as in the liver.
+Thus, the observed CYP3A-mediated DI is the sum of the contri-
+bution by the small intestine and the liver. Drugs that are consid-
+erably metabolized in the small intestine are often rapidly
+metabolized by CYP3A in vitro [48], and care should be taken to
+avoid the risk of signi ﬁcant DIs for those drugs. Vice versa, drugs
+that are susceptible to in vivo inhibition of CYP3A with /C2110-fold
+increase in the AUC need to be considered for a notable metabolic
+contribution by the small intestine [ 49]. Grapefruit juice is the only
+beverage listed in Table 2 as a strong inhibitor of CYP3A, and its
+inhibition is considered to be limited to the small intestine [ 50]. The
+DI reports of grapefruit juice vary considerably according to the
+amount and frequency of the intake, and the results showing strong
+interaction have been obtained on the condition of ingesting a large
+amount of dense grapefruit juice, such as double strength [ 51].
+Grapefruit juice should be avoided to reduce DI risk, but medical
+experts need to know that the risk depends on the amount of
+intake.
+3.2. Inducers of P450
+The induction of drug-metabolizing enzymes occurs by the ac-
+tion of nuclear receptors, and pregnane X receptor (PXR), consti-
+tutive androstane receptor (CAR), and aryl hydrocarbon receptor
+(AhR) are particularly important nuclear receptors, among many, in
+the regulation of pharmacokinetics. These nuclear receptors in-
+crease the expression of multiple P450 isoenzymes in varied de-
+grees; PXR increases expressions of CYP2C9, CYP2C19, CYP2B6, and
+CYP3A, CAR increases those of CYP2B6, CYP2C8, CYP2C9, and
+CYP3A4, and AhR increases the expression of CYP1A2 [ 52,53]. In
+addition, one inducer often shows af ﬁnity to multiple nuclear re-
+ceptors. Because of these properties, the same drug is often listed as
+an inducer of CYP1A, CYP2B, CYP2C, and CYP3A, as shown inK. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+8Table 3 . Furthermore, it is known that PXR also increases the
+expression of transporters such as P-gp and multidrug resistance-
+associated protein 2 (MRP2), and CAR increases the expression of
+other metabolic enzymes such as UDP-glucuronosyltransferase
+(UGT) and sulfotransferase. CYP1A2 is induced via AhR also by
+smoking but the inducibility is in ﬂuenced by polymorphisms in
+CYP1A2, transcription factors and nuclear receptors [ 54].
+In a typical drug-development process, the induction of P450 is
+often detected by increased mRNA expressions of CYP1A2, CYP2B6,
+and CYP3A in cell-based assays because of the selectivity of nuclear
+receptors and detection sensitivity, and this method is also rec-
+ommended in the new guideline. For inductions via PXR or CAR, an
+increase of CYP3A mRNA is usually detected in this method. The
+induction of CYP3A is then evaluated in clinical studies as the next
+step, and if the result is positive, the drug might be recognized as an
+inducer but only for CYP3A. In this case, medical experts had better
+consider the possibility of induction of the related enzymes and
+transporters as well as CYP3A. This may also be true for a drug listed
+as an inducer of the P450 isoenzymes other than CYP3A in Table 3 .
+Currently, inductions of the hepatic enzyme and the intestinal
+enzyme are not distinguished clearly in the process of drugdevelopment, and human hepatocytes are primarily used for
+in vitro studies [ 55]. However, becauase the expression of nuclear
+receptors differs considerably between the liver and small intes-
+tine, it might be more relevant to consider an intestine-speci ﬁc
+induction in the future. It has been reported that vitamin D re-
+ceptor is an important nuclear receptor that regulates the expres-
+sion of CYP3A in the intestine [ 56].
+4. Drugs involved in pharmacokinetic DIs mediated by
+transporters
+As with drugs involved in evident pharmacokinetic DIs medi-
+ated by P450s, the new drug approval information of Japan (March
+31, 2020. http://www.pmda.go.jp/PmdaSearch/iyakuSearch/ ) and
+the United States ( https://www.accessdata.fda.gov/scripts/cder/
+daf/), the drug-interaction database, DIDB ( http://www.
+druginteractioninfo.org ), and the UCSF-FDA Transportal ( http://
+bts.ucsf.edu/fdatransportal/ ), were used to enumerate drugs
+involved in in vitro and in vivo DI mediated by transporters. Changes
+in pharmacokinetics were mainly examined with a study con-
+ducted by oral administration with AUCR as an indicator. Regarding
+the transporter, studies with intravenous administration and
+pharmacokinetic parameters other than AUC were also considered
+if quantitative information on AUCR was not available in the pre-
+vious reports. As a general feature of substrates and inhibitors of
+drug transporters, they are often recognized by multiple trans-
+porters because of very broad substrate speci ﬁcities for each
+transporter that overlap one another. For example, BCRP can
+recognize a wide variety of drugs with diverse physicochemical
+properties, such as molecular weight (MW) (e.g., urate, MW ¼168
+vs. pheophorbide A, MW ¼593) and net charge at neutral pH (7.4)
+(e.g., anion [rosuvastatin, etc.], cation [imatinib, etc.], and neutral
+[prazosin, etc.]). The same is true for P-gp and MRP2. Such char-acteristics are bene ﬁcial for the ef ﬁcient vectorial transport of drugs
+in the intestine, liver, and kidney because multiple uptake and
+efﬂux transporters expressed on the opposite side of epithelial cells
+can accept the same compound as a substrate. [ 57]. Moreover,
+substrate speci ﬁcities of both OATP1B family transporters in the
+liver and organic anion transporter 3 (OAT3) in the kidney are very
+similar (e.g., HMG-CoA reductase inhibitors [statins], angiotensin II
+receptor antagonist [sartans]).
+Therefore, different from P450 substrates/inhibitors/inducers,
+“clinical index drugs ”cannot be clearly de ﬁned for transporter
+substrates/inhibitors because of the signi ﬁcant overlapping ofsubstrate recognition among different transporters. Instead, the
+current Japanese DI guideline shows examples of “in vivo typical
+substrates/inhibitors ”of transporters (Tables 2 e3 and 2 e4 in the
+Japanese guideline). They are selected mainly based on clinical
+evidence such as outcomes of clinical PK-DI studies with “rela-
+tively ”selective substrates/inhibitors or clinical pharmacogenetic
+studies for speci ﬁc genetic polymorphisms of a transporter, which
+have been known to affect its transport activity as well as accept-
+able pharmacokinetic and safety pro ﬁles of drugs. Thus, when the
+need for clinical DI studies is considered based on the ﬁnal judge of
+decision trees for the evaluation of the possibility of the investi-
+gational drug being a substrate/inhibitor of transporters (Figs. 2 e1
+to 2e7 in the Japanese guideline), the use of “in vivo typical sub-
+strates/inhibitors ”of transporters listed in Tables 2 e3 and 2 e4i n
+the Japanese guideline is recommended. Drugs listed in these ta-
+bles are selected by multiple criteria. The basic concept of the major
+criteria in the Japanese DI guideline is almost the same as that for
+the FDA guideline such as in vitro experimental evidence and in vivo
+clinical DI outcomes, although the creation of these tables was ﬁrst
+initiated independently. However, we also consider multiple factors
+such as the approval status and clinical usage of drugs in Japan, andthe rarity of the drugs with a pro ﬁle that selectively inhibits the
+transporters. Therefore, some drugs are differently listed in the
+Japanese DI guideline and the United States FDA's website. Our
+current opinions on these drugs are shown in each subsection.
+Because scienti ﬁc knowledge for drug transporters is still being
+continuously updated, it should be noted that Tables 2 e3 and 2 e4
+never provide exhaustive lists of drugs, and they do not limit the
+use of other drugs as substrates/inhibitors for a certain transporter
+if reasonable scienti ﬁc evidences are provided. Tables 4 and 5
+represent the same sets of drugs that appear in the current Japa-
+nese DI guideline (Tables 2 e3 and 2 e4 in the guideline) with
+detailed study designs and outcomes (AUCR) of the examples of
+representative clinical PK-DI studies, which can support the validity
+of studied drugs as in vivo sensitive probes/inhibitors for speci ﬁc
+transporters, although they are often recognized by other trans-
+porters and metabolizing enzymes. So, we should always take care
+to interpret the major cause of transporter-mediated DIs by inte-grating the clinical outcomes with other supportive in vitro and
+in vivo evidence for a speci ﬁc combination of interacting and
+affected drugs.
+4.1. Notes for the selection of in vivo typical substrates of
+transporters ( Table 4 )
+The United States FDA showed similar types of drug lists on their
+website ( https://www.fda.gov/drugs/drug-interactions-labeling/
+drug-development-and-drug-interactions-table-substrates-
+inhibitors-and-inducers#table5-1 ); a part of the substrate drugs for
+each transporter is different from those in the Japanese DI guideline
+(Table 2-3 in the guideline) because of the difference in the inclu-
+sion criteria.
+4.1.1. Substrates of P-gp
+P-gp can accept a wide variety of structurally diverse com-
+pounds regardless of their charge and molecular weight andactively pump them out. P-gp is expressed at the apical side of
+various tissues such as the intestine, liver, and kidney, and physi-
+ological barriers such as the blood-brain barrier (BBB) and blood-
+placental barrier and contributes to the protection of important
+sections of the body against exposure to xenobiotics. P-gp works
+not only for the suppression of intestinal absorption of orally
+administered drugs, but for the enhanced biliary and renal excre-
+tion of digoxin and for the decreased brain exposure of drugs such
+as ivermectin and cyclosporin A.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+9Table 4
+Examples of transporter-mediated pharmacokinetic drug interactions for substrates listed in Japanese guideline.
+isoform substrate concomitantly used inhibitor comment(b)ref.
+name dose(a)AUCR(b)name(c)dose(a)
+P-gp(d)dabigatran
+etexilate150 mg sd 2.43
+(dabigatran)verapamil 120 mg sd Verapamil was administered 1h before the administration
+of dabigatran etexilate.S165
+digoxin 0.4 mg qd 2.65 quinidine 600 mg bid S166
+fexofenadine 25 mg sd 2.14 quinidine 200 mg sd cocktail study S149
+120 mg sd 2.51 verapamil 80 mg tid S167
+aliskiren 75 mg sd 4.79 cyclosporin A 600 mg sd S168
+300 mg sd 1.78 verapamil 240 mg qd S169
+ambrisentan 5 mg qd 2.21 cyclosporin A 100 e150 mg bid S170
+colchicine 0.6 mg sd 3.17 cyclosporin A 100 mg sd S82
+0.6 mg sd 3.15 cyclosporin A 100 mg sd S171
+0.6 mg sd 1.88 verapamil 240 mg qd S82
+everolimus 2 mg sd 3.41 verapamil 80 mg tid S172
+lapatinib 100 mg sd 3.67 ketoconazole 200 mg bid S85
+maraviroc 100 mg bid 5.00 ketoconazole 400 mg qd S67
+nilotinib 200 mg sd 3.11 ketoconazole 400 mg qd S173
+saxagliptin 20 mg sd 3.67 ketoconazole 200 mg bid S174
+100 mg sd 2.45 ketoconazole 200 mg bid S175
+sirolimus 10 mg sd 3.31 cyclosporin A 300 mg sd S176
+tolvaptan 30 mg sd 5.40 ketoconazole 200 mg qd S75
+topotecan 1mg/m2sd 1.76 elacridar
+(GF120918)1000 mg sd S177
+BCRP imatinib 400 mg qd *** (PGx) Ctrough/Dose: /C21.36 [421CC (N ¼42) vs 421CA/AA (N ¼25)] S178
+rosuvastatin 20 mg sd 1.55 (PGx) Caucasian [421CC (N ¼24) vs 421CA (N ¼5)] S179
+10 mg sd 2.64 (PGx) Chinese [421CC (N ¼10) vs 421AA (N ¼10)] S180
+20 mg sd 2.44 (PGx) Finnish [421CC (N ¼16) vs 421AA (N ¼4)] S181
+20 mg sd 1.78 (PGx) Chinese [421CC (N ¼7) vs 421CA or AA (N ¼7)] S182
+sulfasalazine 2000 mg sd 5.08 (PGx) Japanese (NAT2: rapid acetylator) [421CC (N ¼5) vs 421AA (N ¼3)] S183
+1000 mg sd 2.37 (PGx) (no information about ethnicity) [421CC (N ¼9) vs 421CA (N ¼5)] S184
+OATP1B1,
+OATP1B3asunaprevir 200 mg sd 14.8 rifampicin 600 mg sd S185
+atorvastatin 40 mg sd 8.51 rifampicin 600 mg sd Chinese ( SLCO1B1 : c.521TT) S186
+50 mg sd 8.57 rifampicin 600 mg sd cocktail study S187
+33 mg sd 12.0 rifampicin 600 mg sd cocktail study S188
+bosentan 500 mg bid 1.97 cyclosporin A 300 mg bid S189
+docetaxel 75 mg/m2sd 7.32 cyclosporin A 15 mg/kg sd S190
+fexofenadine 180 mg sd *** (PGx) CLnr: /C20.81, Caucasian [ SLCO1B1 521TT (N ¼10) vs 521TC (N ¼8)] S191
+glibenclamide 1.25 mg sd 2.18 rifampicin 600 mg sd (i.v.) S192
+nateglinide 90 mg sd 1.81 (PGx) Chinese [ SLCO1B1 521TT (N ¼11) vs 521TC (N ¼4)] S193
+120 mg sd 1.34 (PGx) Chinese [ SLCO1B1 521TT (N ¼9) vs 521TC or CC (N ¼13)] S194
+paclitaxel 60 mg/m2sd 8.5 cyclosporin A 15 mg/kg sd S195
+pitavastatin 1 mg sd 5.70 rifampicin 600 mg sd S196
+10 mg sd 4.23 rifampicin 600 mg sd cocktail study S187
+0.2 mg sd 5.05 rifampicin 600 mg sd S197
+4 mg sd 5.28 rifampicin 600 mg sd S198
+pravastatin 20 mg sd 2.27 rifampicin 600 mg sd S199
+33 mg sd 4.64 rifampicin 600 mg sd cocktail study S188
+repaglinide 0.1 mg sd 2.60 rifampicin 600 mg sd S197
+rosuvastatin 5 mg sd 4.37 rifampicin 600 mg sd S196
+25 mg sd 4.59 rifampicin 600 mg sd cocktail study S187
+5 mg sd 4.67 rifampicin 600 mg sd S200
+simvastatin
+acid40 mg sd
+(simvastatin)3.21 (PGx) Caucasian [ SLCO1B1 521TT (N ¼16) vs 521CC (N ¼4)] S201
+OAT1, OAT3 adefovir 10 mg sd 2.09 probenecid 750 mg sd S202
+cefaclor 500 mg sd 2.14 probenecid 500 mg bid S203K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+10ceftizoxime 1000 mg sd (i.v.) 1.59 probenecid 1000 mg sd S204
+famotidine 20 mg sd 1.81 probenecid 1500 mg (total) md 1000 mg of probenecid 2h before, 250 mg 1h before and 250 mg simultaneously with famotidine
+dosingS205
+furosemide 40 mg sd (i.v.) 3.12 probenecid 1000 mg sd S206
+80 mg sd 2.68 probenecid 1000 mg sd S207
+ganciclovir 1000 mg tid 1.55 probenecid 500 mg qid S208
+methotrexate 200mg/m2sd *** probenecid 500 mg (p.o.), 500 mg (i.v.)
+or 1000 mg (i.v.) sdCLp:/C20.64 S209
+oseltamivir
+carboxylate75 mg qd or q48h
+(oseltamivir)*** probenecid 500 mg qid CLss/F: /C20.67 S210
+150 mg sd
+(oseltamivir)2.52 probenecid 500 mg qid S211
+bumetanide 200 mg/h (i.v.) *** probenecid 1000 mg sd (i.v.) Css: /C22.92 S212
+cipro ﬂoxacin 200 mg sd (i.v.) 1.74 probenecid 3000 mg (total) md 500 mg probenecid at 10 h and 1000 mg at 2 h before the end of the cipro ﬂoxacin infusion, and
+500 mg at 4 h, 10 h and 16 h after the end of the cipro ﬂoxacin infusionS213
+200 mg sd (i.v.) 1.75 probenecid 3000 mg (total) md 500 mg probenecid at 10 h and 1000 mg at 2 h before the end of the cipro ﬂoxacin infusion, and
+500 mg at 4 h, 10 h and 16 h after the end of the cipro ﬂoxacin infusionS214
+fexofenadine 180 mg sd 1.75 probenecid 1000 mg bid S215
+120 mg sd 1.69 probenecid 1000 mg bid S167
+zidovudine 100 mg qd 1.57 probenecid 500 mg bid S216
+2 mg/kg tid 2.06 probenecid 500 mg bid S217
+MATE1,
+MATE2-K,OCT2metformin 250 mg qd 1.46 cimetidine 400 mg bid S218
+500 mg sd 1.54 cimetidine 400 mg bid SLC22A2 :808GG (N ¼6) S219
+Note. The table is prepared to provide examples and not intended to be an exhaustive list. Other elimination pathways may also contribute to the elimin ation of the substrates listed and should be considered when assessing the
+drug interaction potential. .A list of references for the tables are provided in the appendix.
+aMultiple doses were given for qd, bid and tid. Abbreviation sd and md refers to single dose and multiple dose, respectively.
+bIf AUCR of substrate is not available in the literature, other PK parameter we selected is shown in the comment column. Ctrough/Dose: dose-normalized trough concentration in plasma, CLnr: non-renal clearance, CLp:
+plasma clearance, CLss/F: steady-state total clearance divided by bioavailability, Css: steady-state plasma concentration.
+c(PGx) represents the ratio of the AUC of substrate in subjects with speci ﬁc type of allele to that in subjects with wild type allele. Target allele, subject number and ethnicity (if available) are described in the comment colu mn.
+dBecause most of the P-gp substrate is also a substrate of CYP3A and BCRP and these inhibitors can inhibit not only P-gp but CYP3A and BCRP, it should be cau tious that relative contribution of P-gp inhibition to the overall AUC
+increase of substrate has not been clari ﬁed.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+11The United States FDA selected the drugs that satis ﬁed the
+following criteria: AUCR is /C212 in clinical DI studies with verapamil
+or quinidine, in vitro transport by P-gp expression systems has been
+conﬁrmed, and drugs are not extensively metabolized. In addition
+to these conditions (verapamil (80 mg): [I] g(the expected
+maximum concentration [maximum single dose of inhibitors/
+250 mL] of the investigational drug in the lumen side of the
+gastrointestinal tract) divided by half-maximal inhibitory concen-
+tration (IC50) ¼125 [3.14 e11,700], quinidine (200 mg): [I] g/
+IC50¼563 [44.0 e12,300] (the geometric mean [range] of [I] g/re-
+ported K ior IC50 values for the transport of typical in vitro sub-
+strates shown in Table 2 e1 in the Japanese guideline was used)),
+cyclosporin A and ketoconazole also have strong inhibition po-
+tencies against P-gp in the small intestine in vivo based on the static
+model (Fig. 2 e3 in the Japanese guideline) (cyclosporin A (ciclo-
+sporin) [200 mg]: [I] g/IC50 ¼442 [108 e2290], ketoconazole
+[400 mg]: [I] g/IC50 ¼1690 [475 e7170] (the geometric mean
+[range] of [I] g/reported K ior IC50 values for the transport of typical
+in vitro substrates shown in Table 2 e1 in the Japanese guideline was
+used)). Thus, when the reported AUCR of a substrate drug was /C212i nclinical DI studies with cyclosporin A and ketoconazole, it was
+added to Table 2 e3 in the Japanese DI guideline ( Table 4 in this
+review).
+In the case of topotecan, a previous study indicated that its AUCR
+was 1.76 when elacridar (GF120918) was co-administered [ 58].
+Elacridar is considered to be a dual potent inhibitor of P-gp and
+BCRP (P-gp: [I] g/IC50 ¼106,000 [16,100 e455,000], BCRP: [I] g/
+IC50¼8480 [5300 e14,200] at the dose of 1000 mg (the geometric
+mean [range] of [I] g/reported K ior IC50 values for the transport of
+typical in vitro substrates shown in Table 2 e1 in the Japanese
+guideline was used)). Though we cannot conclude the relative
+importance of P-gp and BCRP in the clinical DI case with elacridar,
+topotecan was included as a potential substrate of P-gp in Table 2 e3
+in the Japanese DI guideline ( Table 4 in this review). Cyclosporin A
+is also thought to inhibit intestinal BCRP ([I] g/IC50¼99.3, 142 at the
+dose of 200 mg ([I] g/reported K ior IC50 values for the transport of
+typical in vitro substrates shown in Table 2 e1 in the Japanese DI
+guideline was used)). At present, there are few drugs for which the
+relative contribution of P-gp and BCRP in the intestine to the sup-
+pression of intestinal absorption has been quantitatively identi ﬁed,Table 5
+Examples of transporter-mediated pharmacokinetic drug interactions for inhibitors listed in Japanese guideline.
+isoform inhibitor concomitantly used substrate comment(b)ref.
+name dose(a)name dose(a)AUCR(b)
+P-gp amiodarone 200 mg qd digoxin 0.5 mg sd 1.48 S220
+800 mg qd digoxin (not reported) 1.68 stable therapy S221
+carvedilol 6.25 mg bid digoxin 0.0625 e0.25 mg qd 1.57 (male)
+1.24 (female)stable therapy S222
+clarithromycin 500 mg bid digoxin 0.25 mg sd 1.47 S223
+250 mg bid digoxin 0.75 mg sd 1.64 S224500 mg bid digoxin 0.5 mg sd 1.57 S225
+itraconazole 200 mg qd digoxin 0.5 mg sd 1.68 S226
+lapatinib 1500 mg qd digoxin 0.5 mg sd 1.63 S227
+lopinavir/ritonavir 400/100 mg bid digoxin 0.5 mg sd 1.81 cocktail study S228
+quinidine 62.5 mg sd digoxin 0.5 mg sd 3.28 S229
+600 mg bid digoxin 0.4 mg qd 2.65 S166(not reported) digoxin (not reported qd) 1.77 S230
+ritonavir 300 mg bid digoxin 0.5 mg sd 1.86 S231
+400 mg bid digoxin 0.5 mg sd 1.47 S232
+saquinavir/ritonavir 1000mg/100 mg bid digoxin 0.5 mg sd 1.68 S233
+telaprevir/ritonavir 750 mg tid digoxin 0.5 mg sd 1.81 S234
+verapamil 80 mg bid/tid digoxin 0.25 mg bid 1.50 S235
+azithromycin 250 mg qd fexofenadine 60 mg bid 1.72 S236
+cyclosporin A (not reported) digoxin (not reported) *** plasma CL: /C20.47 S237
+BCRP curcumin 2 g sd sulfasalazine 2 g sd 3.23 S238
+eltrombopag 75 mg qd rosuvastatin 10 mg sd 1.55 S239
+OATP1B1, OATP1B3 atazanavir/ritonavir 300mg/100 mg qd rosuvastatin 10 mg sd 3.13 S240
+clarithromycin 500 mg bid rosuvastatin 25 mg sd 1.56 cocktail study S187
+cyclosporin A 75e200 mg bid rosuvastatin 10 mg qd 7.08 S241
+erythromycin 500 mg qid pitavastatin 4 mg sd 2.79 S242
+500 mg qid atorvastatin 10 mg sd 1.33 S243
+lopinavir/ritonavir 400mg/100 mg bid rosuvastatin 20 mg qd 2.08 S244
+rifampicin 600 mg sd rosuvastatin 5 mg sd 4.09 S196
+600 mg sd rosuvastatin 25 mg sd 4.59 cocktail study S187600 mg sd rosuvastatin 5 mg sd 4.67 S200
+simeprevir 150 mg qd rosuvastatin 10 mg sd 2.81 S245
+OAT1, OAT3 probenecid 1500 mg sd benzylpenicillin 400000 U sd 3.27 S202
+MATE1, MATE2-K, OCT2 cimetidine 400 mg bid metformin 250 mg qd 1.46 S218
+400 mg bid metformin 500 mg sd 1.54 SLC22A2 :808GG (N ¼6) S219
+dolutegravir 50 mg bid metformin 500 mg bid 2.45 S246
+(pyrimethamine)
+(c)50 mg sd metformin 250 mg sd 1.35 S247
+50 mg sd metformin 750 or 500 mg sd 2.70 S248
+trimethoprim 200 mg bid metformin 500 mg tid 1.37 S249
+vandetanib 800 mg sd metformin 1000 mg sd 1.74 S250
+Note. The table is prepared to provide examples and not intended to be an exhaustive list. Other elimination pathways may also contribute to the elimin ation of the substrates
+listed and should be considered when assessing the drug interaction potential. A list of references for the tables are provided in the appendix.
+aMultiple doses were given for qd, bid and tid. Abbreviation sd and md refers to single dose and multiple dose, respectively.
+bIf AUCR of substrate is not available in the literature, other PK parameter we selected is shown in the comment column.
+cDrugs in parenthesis are not approved in Japanese market currently.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+12and we have little knowledge about the inhibition potency of P-gp
+inhibitor drugs for BCRP. Thus, we should be careful about the
+interpretation of clinical DI outcomes with P-gp inhibitor drugs.
+In the interpretation of AUCR values for each P-gp-mediated DI
+case, we must pay attention to the evidence in which most of the
+drugs (except digoxin, fexofenadine, and dabigatran etexilate) are
+metabolized by CYP3A and all of the studied inhibitor drugs can
+inhibit CYP3A in the intestine and the liver. Currently, the relative
+contribution of CYP3A and P-gp to the overall effect on the AUCR of
+affected drugs cannot be clearly separated, and these AUC increases
+are thought to be caused by the inhibition of both CYP3A and P-gp.
+Digoxin has most often been used as a probe for P-gp in clinical
+DI studies because it is mainly excreted into urine without any
+extensive metabolism [ 59]. However, the bioavailability of digoxin
+is relatively high (about 70%), partly depending on the dosage form,
+which means that the small margin of AUC increase is caused only
+by the inhibition of intestinal P-gp (maximum AUCR ~ 1.4 ( ¼1/0.7)).
+In some DI cases, renal clearance of digoxin was also decreased,
+suggesting that the role of P-gp-mediated renal ef ﬂux in the AUC
+increased [ 60]. However, a separation of these contributions has
+not yet been clearly determined because of the lack of clinicalinformation.
+Fexofenadine is a nonmetabolized type of P-gp substrate and its
+pharmacological effect is relatively mild (histamine H2 receptor
+antagonist) compared with other P-gp probe drugs. Moreover, the
+margin of AUC increase caused by intestinal P-gp inhibition is
+relatively high (bioavailability ¼33% (product information:
+Hoechst Marion, Roussel, Laval, QC, Canada)). However, it is
+recognized by multiple uptake and ef ﬂux transporters such as
+OATP1Bs, OATP2B1, OAT3, MRP2, MRP3, and MATEs [ 60e64]. Thus,
+before clinical DI studies at least, the inhibitory effects of drugs for
+the fexofenadine transport, mediated by the above-mentioned
+known transporters must be checked in vitro for the accurate pre-
+diction of P-gp-mediated DI risks with fexofenadine.
+On the other hand, dabigatran etexilate is a prodrug that is
+metabolized by serum esterase to dabigatran. Previous reports
+indicate that dabigatran etexilate is a good substrate of P-gp, but
+not dabigatran, and that dabigatran etexilate was con ﬁrmed to be a
+nonsubstrate of OATPs, OCTs, OATs, MRP2, and BCRP [ 65]. Because
+the bioavailability of dabigatran etexilate is about 7%, it enables the
+sensitive catch of the inhibition potency of inhibitor drugs on in-
+testinal P-gp. However, few clinical DI studies with dabigatran
+etexilate have been published, so the further accumulation of
+clinical DI examples is needed to compare the DI prediction per-
+formance of dabigatran etexilate with that of other P-gp probes.
+4.1.2. Substrates of BCRP
+Similar to P-gp, BCRP can also ef ﬂux various types of compounds
+and it is also expressed in multiple tissues and barriers. Pharma-
+cogenetic studies indicated that BCRP contributes to the suppres-
+sion of intestinal absorption of various drugs such as sulfasalazine
+and rosuvastatin. Moreover, though direct clinical evidence
+demonstrating the importance of BCRP in other organs is very
+limited at this moment, BCRP plays a role in biliary excretion oftroglitazone sulfate, renal excretion of bile acids and transplacental
+transport of glyburide.
+There is no BCRP-selective inhibitor among the approved drugs
+at the moment. The United States FDA selected the drugs that
+satisﬁed the following criteria: AUCR is /C212 with pharmacogenetic
+alteration in subjects with ABCG2 c.421C >A and in vitro transport
+by BCRP expression systems has been con ﬁrmed. Several in vitro
+experiments supported the decreased function of mutated BCRP
+with ABCG2 c.421C >A[
+66,67]. Because the allele frequency of
+c.421C >A is about 32% in the Japanese population, a pharmaco-
+genetic study can be designed to understand the impact of thedecrease in BCRP function on the pharmacokinetics of affected
+drugs. Rosuvastatin and sulfasalazine are selected as typical BCRP
+substrates, both in the lists of the United States FDA and Japanese DI
+guidelines. Rosuvastatin is a nonmetabolized type of statin and is
+mainly excreted into bile and partly excreted into the urine in an
+unchanged form. Multiple transporters such as OATP1Bs, Naþ-
+taurocholate cotransporting polypeptide (NTCP), P-gp, MRP2, and
+OAT3 are involved in the regulation of rosuvastatin pharmacoki-
+netics [ 68e70]. Thus, it is dif ﬁcult to identify the major cause of DIs
+only from clinical DI outcomes; in vitro experimental results should
+also be considered in parallel.
+For example, cyclosporin A is thought to be an inhibitor of in-
+testinal BCRP, and co-administration of cyclosporin A led to a sig-
+niﬁcant increase in the plasma AUC of rosuvastatin [ 71]. However,
+previous reports clearly indicate that the major cause of the DI
+between rosuvastatin and cyclosporin A is the inhibition of hepatic
+OATP1B transporters by cyclosporin A, though BCRP inhibition also
+partly contributes to its AUC increase [ 72,73]. As for sulfasalazine,
+because its bioavailability is about 7%, it is expected sensitively
+catch the functional change of intestinal BCRP. This is supported by
+a previous clinical result in which plasma AUC of sulfasalazine insubjects with ABCG2 c.421C >A is about 5-fold higherthan subjects
+with the wild-type allele [ 74]. Conversely, the aqueous solubility of
+sulfasalazine shows that it is practically insoluble and largely de-
+pends on pH, while its clinical dose is relatively high. Thus, the
+fraction of the dose absorbed from the intestinal wall may depend
+on the dose of sulfasalazine. In addition, because the number of
+examples is very small at this moment, imatinib is also listed in the
+Japanese DI guideline because its trough plasma concentration
+normalized by dose was signi ﬁcantly larger in subjects with ABCG2
+c.421C >A, though the AUCR was not available [ 75].
+4.1.3. Substrates of OATP1B1/OATP1B3
+OATP1B1/1B3 are exclusively expressed on the basal membrane
+of hepatocytes and are responsible for the hepatic uptake of sub-
+strate drugs. Because of the broad substrate speci ﬁcities of
+OATP1B1/1B3, many types of example drugs are listed in the Jap-
+anese DI guideline. The United States FDA selected the drugs when
+the following criteria were satis ﬁed: AUCR is /C212 in clinical DI
+studies with a single dose of rifampicin or cyclosporin A or with
+pharmacogenetic alteration in subjects with SLCO1B1 c.521T >C,
+and the in vitro transport by OATP1B1 or OATP1B3 expression
+systems has been con ﬁrmed. Rifampicin and cyclosporin A have
+been con ﬁrmed to be potent clinically relevant OATP1B inhibitors
+from in vitro inhibition studies (rifampicin [600 mg]: [I
+u,in,max ] (the
+expected maximum concentration of the inhibitor at the inlet to the
+liver adopted by the Japanese DI guideline)/IC50 ¼5.55 [1.19 e24.4]
+for OATP1B1, 1.11 [0.914 e53.2] for OATP1B3; cyclosporin A
+[200 mg]: [I u,in,max ]/IC50 ¼4.85 [0.740 e63.8] for OATP1B1, 4.83
+[0.933 e37.9] for OATP1B3 (the geometric mean [range] of [I u,in,max ]/
+reported K ior IC50 values was used when estradiol-17 b-glucuro-
+nide was used as a substrate in transporter-expression systems)).
+OATP1B1/1B3 substrates, which were selected by the United
+States FDA, are listed in the Table 2 e3 in the Japanese DI guideline
+(Table 4 in this review), but danoprevir is only listed in the United
+States FDA table simply because it has not been approved in Japan.
+Various types of HMG-CoA reductase inhibitors (statins) are listed
+because all the acid forms of statins are con ﬁrmed to be substrates
+of OATP1B1/1B3 in vitro [73]. Among these statins, pitavastatin,
+rosuvastatin, and pravastatin are excreted into bile mostly in an
+unchanged form, while atorvastatin and ﬂuvastatin are extensively
+metabolized by CYP3A and CYP2C9, respectively, after their hepatic
+uptake via OATP1Bs. Among the listed drugs, some of them are
+subsequently metabolized by P450s; thus, the impact on their
+pharmacokinetics should be taken into consideration in theK. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+13interpretation of DI outcomes. Watanabe et al. have shown that
+in vivo hepatic clearances of four types of statins are well predicted
+from in vitro uptake clearance in human hepatocytes rather than
+from in vitro metabolic clearance with human liver microsomes,
+suggesting that OATP1B1/1B3-mediated hepatic uptake is a rate-
+determining process of hepatic clearance even for metabolized
+type of statins [ 76]. A previous microdosing clinical DI study with
+atorvastatin further supported its uptake-limited hepatic clearance
+in vivo in humans because the plasma AUC of parent atorvastatin
+was greatly increased by the oral administration of rifampicin
+(OATP1Bs inhibitor), while it was not changed by the intravenous
+administration of itraconazole (hepatic CYP3A inhibitor) [ 77]. Flu-
+vastatin is now quali ﬁed as a listed drug because a recent DI study
+showed that the AUCR of ﬂuvastatin is 2.4 by single oral dose of
+rifampicin (600 mg) and this is almost to the same as those of
+pitavastatin and rosuvastatin [ 78].
+In the interpretation of clinical DI results, we must pay attention
+to the fact that statins are also recognized by multiple transporters
+other than OATP1Bs. For example, pitavastatin is a substrate of P-gp,
+MRP2, and BCRP [ 79], though the contribution of intestinal BCRP to
+the suppression of intestinal absorption of pitavastatin wasconsidered to be minor because of its high bioavailability. In the
+case of rosuvastatin, the partial contribution of NTCP to the hepatic
+uptake was reported [ 68], and it is also a substrate of P-gp, MRP2,
+and BCRP [ 69]. Pravastatin is thought to be mainly excreted into bile
+via MRP2 [ 80]. Moreover, these two statins are partially (~30%)
+eliminated from the kidney mainly via OAT3.
+Other than statins, several NS3/4A protease inhibitors for the
+treatment of hepatitis C are also known to be substrates of OATP1Bs
+and some DI cases have recently been reported. AUCRs of sime-
+previr, grecaprevir, and grazoprevir were reported to be 6.2, 8.6,
+and 8.4 when rifampicin (600 mg, 300 mg, and 200 mg, respec-
+tively) was orally co-administered [ 81]. The number of OATP1B
+substrate drugs has been increasing and we must continuously
+collect information on the pharmacokinetic properties of newly
+approved drugs. For instance, pema ﬁbrate, a selective PPAR
+a
+modulator ﬁrst approved in Japan, is a substrate of OATP1Bs ac-
+cording to the package insert, and co-administration of rifampicin
+(600 mg) and cyclosporin A (600 mg) greatly increased the plasma
+AUC of pema ﬁbrate 11- and 14-fold, respectively; thus, these are
+designated as contraindicated drugs.
+4.1.4. Substrates of OAT1/OAT3
+OAT1 and OAT3 are expressed on the basal membrane of renal
+proximal tubular epithelial cells and play important roles in the
+renal secretion of anionic drugs. The United States FDA selected the
+drugs when the following criteria were satis ﬁed: the AUCR is /C211.5
+in clinical DI studies with probenecid, the fraction excreted into the
+urine in an unchanged form is /C210.5, and the in vitro transport by
+OAT1 or OAT3 expression systems has been con ﬁrmed. In the drug
+list of the Japanese DI guideline (Table 2-3), some drugs (bumeta-
+nide, cipro ﬂoxacin, fexofenadine, and zidovudine) were newly
+added to the list of the United States FDA's website because pre-
+vious clinical reports indicated that the AUCR (or steady-stateplasma concentration (only for bumetanide)) of these drugs was
+/C211.5 on co-administration of probenecid (probenecid [1000 mg]:
+[I
+u,max ]/IC50 ¼0.14e6.1 for OAT1, 0.69 e29 for OAT3 [the range of
+reported K ior IC50 values was used]). As for fexofenadine, though
+its fraction excreted into urine is <0.5 (12%) and it is also a sub-
+strate of hepatic OATP1B transporters [ 61,63], the functions of OAT1
+and OAT3 can be directly evaluated from its renal clearance, which
+is calculated by dividing the cumulative amount of drugs excreted
+unchanged in the urine by blood AUC. So, the second criterion by
+the United States FDA is not necessarily important to evaluate the
+change in the functions of OAT1 and OAT3 once renal clearance ofdrugs is quanti ﬁed. The same is true for pravastatin and rosuvas-
+tatin, 30% of which are excreted unchanged into urine via OAT3.
+Regarding penicillin G, a previous report supported the claim
+that it can also meet the above-mentioned criteria as an in vivo
+OAT3 probe substrate because the plasma concentration of peni-
+cillin G was increased 2.1-fold by the oral co-administration of
+750 mg of probenecid [ 82]. This quantitative DI information was
+not available when the tables were being originally created for the
+Japanese guideline; thus, penicillin G is also quali ﬁed as an in vivo
+OAT3 probe substrate in the review.
+In general, substrate speci ﬁcities of OAT1 and OAT3 are different.
+OAT1 preferentially accepts low molecular weight and hydrophilic
+compounds as substrates compared with OAT3 [ 83]. The molecular
+properties of OAT3 substrates resemble those of hepatic OATP1B
+transporters. The relative contribution of OAT1 and OAT3 to the
+uptake of listed drugs into proximal tubular epithelial cells is of
+great variety. Based on several methods reported previously to
+quantify their contributions [ 84,85], adefovir, ganciclovir, and p-
+aminohippurate (PAH) are selective substrates of OAT1, whereas
+penicillin G, bumetanide, cipro ﬂoxacin, and oseltamivir carboxylate
+are selective substrates of OAT3. So, it is noted that the selection ofsubstrate drugs from Tables 2 e3 in the Japanese DI guideline
+(Table 4 in this review) depends on the putative target transporter
+for renal DIs.
+4.1.5. Substrates of OCT2/MATEs
+OCT2 is expressed on the basal (blood) side of renal epithelial
+cells, while MATEs are expressed on the apical (urine) side. The
+cooperative functions of OCT2 and MATEs in the kidney partly
+realize the ef ﬁcient transcellular transport of various organic cat-
+ions. The United States FDA selected only one drug, metformin,
+because it is a well-established substrate of the cationic transport
+system.
+Metformin is well-known to be mainly excreted into the urine
+by active secretion mediated by OCT2/MATEs. Clinical evidence,
+such as DI and pharmacogenetic studies, as well as animal exper-
+iments supported the importance of OCT2/MATEs in the renal
+clearance of metformin in vivo [86e88].
+4.2. Notes for the selection of in vivo typical inhibitors of
+transporters ( Table 5 )
+As for transporter inhibitors, the United States FDA also showed
+similar types of drug lists on their website ( https://www.fda.gov/
+drugs/drug-interactions-labeling/drug-development-and-drug-
+interactions-table-substrates-inhibitors-and-inducers#table5-2 ); a
+part of the inhibitor drugs for each transporter is different from
+those in the Japanese DI guideline (Table 2 e4 in the guideline).
+4.2.1. Inhibitors of P-gp
+Many drugs have been nominated as in vivo typical inhibitors of
+transporters in the tables of both the United States FDA's website
+and Japanese DI guideline, though some of the listed drugs are notidentical between these tables. The United States FDA selected the
+drugs when the following criteria were satis ﬁed: the AUCR of
+digoxin is /C212 in clinical DI studies and the in vitro inhibition of P-gp
+has been con ﬁrmed. However, according to the drug-interaction
+database, DIDB ( http://www.druginteractioninfo.org ), the AUCR of
+digoxin is within the range of 1.5 e2.0 in co-administration as with
+most of the listed drugs ( Table 5 ). For the practical use of these
+inhibitors, we should pay attention to the evidence in which most
+of these inhibitors also inhibit CYP3A; thus, even if the plasma
+concentration of a drug is increased by co-administration of the
+listed inhibitors, the major mechanism of DIs cannot be simply
+determined using clinical DI studies.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+14Compared with the list of the United States FDA's website,
+cyclosporin A and azithromycin were also listed in Table 2-4 in the
+Japanese DI guideline ( Table 5 in this review). A previous case
+report indicated that cyclosporin A decreased plasma clearance of
+digoxin 0.47-fold and cyclosporin A potently inhibits P-gp in in vitro
+experiments as mentioned above [ 89]. Other clinical data also
+strongly suggested that cyclosporin A works as a clinically relevant
+P-gp inhibitor. However, the interpretation of the clinical DI
+outcome with cyclosporin A must be made with caution because it
+also inhibits intestinal BCRP and CYP3A, and hepatic OATP1B1/
+OATP1B3. As for azithromycin, though a clinical DI study with
+digoxin is not available at the moment, the in vitro inhibition po-
+tency of azithromycin was strong enough to inhibit intestinal P-gp
+in humans ([I] g/IC50¼61.2 at 250 mg dose) [ 90], and a previous
+report indicated that azithromycin signi ﬁcantly increased the
+plasma AUC of fexofenadine 1.7-fold [ 90].
+Although propafenone is only listed in the United States FDA
+table but not in the Japanese guideline, a previous clinical DI study
+showed that the plasma concentration of digoxin was increased
+1.8-fold by co-administration of propafenone (300 mg/8 h for 3
+days) [ 91] and the in vitro inhibition potency has been con ﬁrmed
+([I]g/IC50¼173, 517 at 300 mg dose) [ 92]. Thus, propafenone can
+also be quali ﬁed as a P-gp inhibitor drug. Ranolazine, dronedarone
+and tipranavir/ritonavir are not included in the list in the Japanese
+guideline simply because they have not been approved in Japan.
+4.2.2. Inhibitors of BCRP
+The United States FDA selected the drugs when the following
+criteria were satis ﬁed: the AUCR of sulfasalazine is /C211.5 in clinical
+DI studies and the in vitro inhibition of BCRP has been con ﬁrmed.
+However, only curcumin meets those criteria because clinical DI
+studies with sulfasalazine are very rare at the moment. The
+disadvantage of the use of curcumin for a DI study is that a large
+amount of dose (2 g) is required to inhibit BCRP in humans [ 93]. The
+United States FDA also considers cyclosporin A and eltrombopag as
+BCRP inhibitors because they increase the plasma AUC of rosuvas-
+tatin 6.1-fold and 1.6-fold, respectively [ 71,94]. However, it should
+be noted that a major mechanism of DI between rosuvastatin and
+cyclosporin A is considered to be the inhibition of hepatic OATP1B1/
+OATP1B3 rather than the inhibition of intestinal BCRP [ 73]. Thus,
+cyclosporin A is not included in the list of the Japanese guideline. A
+recent paper suggested that the clinical dose of eltrombopag may
+also partly inhibit hepatic OATP1B1/OATP1B3 [ 95]. Therefore, there
+is no good speci ﬁc inhibitor for BCRP at the moment. To check
+whether the intestinal absorption of a drug is dominated by BCRP,
+another option is to compare its plasma concentrations in subjects
+with the ABCG2 c.421C >A mutation with those in subjects with
+wild-type ABCG2 , as mentioned above.
+4.2.3. Inhibitors of OATP1B1/OATP1B3
+The United States FDA selected the drugs when the following
+criteria were satis ﬁed: the AUCR of one of the clinical substrates in
+the United States FDA list is /C212 in clinical DI studies and the in vitro
+inhibition of OATP1B1 and/or OATP1B3 has been con ﬁrmed. Among
+these drugs, rifampicin has been frequently used in OATP1B-
+mediated clinical DI studies because its pharmacological effect isrelatively mild among the listed OATP1B inhibitors. Because
+rifampicin also works as a strong inducer of P-gp, some P450 iso-
+enzymes (CYP2C9, 2C19, 2B6, and 3A) whose genes are regulated
+by the nuclear receptor PXR, and possibly OATP1B1 [ 96e98] (some
+controversial results have also been published [ 99e102]), repeated
+dosing of rifampicin must be avoided and a single dose of rifam-
+picin (typically 600 mg) should be used to evaluate the impact of
+hepatic OATP1B transporters on the pharmacokinetics of affected
+drugs. All the listed OATP1B inhibitors have an inhibition potencyfor intestinal P-gp and CYP3A to some extent, so we should be
+careful in clinical DI data interpretation. Although gem ﬁbrozil has
+not been approved in Japan and it is not listed in the Japanese
+guideline, it mildly increased the plasma AUC of various types of
+statins 1.1 e2.0-fold, except cerivastatin (5.6-fold) [ 103] because of a
+combination of mechanism-based inhibition of hepatic CYP2C8 by
+gem
+ﬁbrozil glucuronide and inhibition of hepatic OATP1B trans-
+porters by both gem ﬁbrozil and its glucuronide [ 25].
+4.2.4. Inhibitors of OAT1/OAT3
+Probenecid is the only drug listed in the Japanese guideline that
+is a potent inhibitor for both OAT1 and OAT3. K ivalues of proben-
+ecid for OAT1 (4.0 mM) and OAT3 (3.5 mM) are reported to be almost
+the same [ 82], so probenecid is considered to inhibit both OAT1 and
+OAT3 to the same extent in humans. Thus, the relative contribution
+of OAT1 and OAT3 to the renal uptake of OAT1/OAT3 substrate
+drugs cannot be determined only from clinical DI studies with
+probenecid. A previous report demonstrated that 750 mg of pro-
+benecid signi ﬁcantly decreased the renal clearance of adefovir (an
+OAT1-selective substrate) and penicillin G (an OAT3-selective
+substrate) by 82% and 54%, respectively, and the dose-dependentchange in their renal clearances could be reasonably explained by
+in vitro K
+ivalues for OAT1 and OAT3 and the average unbound
+plasma concentration of probenecid at each dose [ 82].
+On the other hand, the United States FDA selected two additional
+drugs, PAH and teri ﬂunomide as OAT1/OAT3 inhibitors based on the
+following criteria: the AUCR of one of the clinical substrates in the
+United States FDA table is /C211.5 in clinical DI studies and the in vitro
+inhibition of OAT1 and/or OAT3 has been con ﬁrmed. A previous
+report demonstrated that PAH meets the above-mentioned criteria as
+anin vivo relatively selective inhibitor for OAT1 because a large dif-
+ference in K ivalues for OAT1 and OAT3 was con ﬁrmed in vitro and the
+plasma concentration of adefovir was increased by 1-h continuous
+infusion of PAH at the rate of 120 mg/min, and a dose-dependent
+change in its renal clearance could be explained by in vitro Kivalues
+for OAT1 and average unbound plasma concentration of PAH at each
+dose [ 82]. This quantitative DI information was not available at the
+time the tables were being originally created for the Japanese
+guideline; thus, PAH is useful for the selective inhibition of OAT1 in
+the human kidney. However, unexpectedly, PAH clearly increased the
+renal clearance of penicillin G in a dose-dependent manner, which
+might be caused by the inhibition of the reabsorption process of
+penicillin G via unidenti ﬁed transporter(s) [ 82].
+Repeated dosing of teri ﬂunomide increased the plasma AUC of
+cefaclor 1.5-fold, suggesting that it inhibits renal OAT3 in humans
+[104]. On the otherhand, an interpretation of clinical DI results should
+be made with caution because teri ﬂunomide may also inhibit
+CYP2C8, BCRP, and OATP1B1/OATP1B3 because plasma AUCs of
+repaglinide and rosuvastatin were increased 2.3- and 2.5-fold,
+respectively [ 104].In vitro IC50 values of teri ﬂunomide for BCRP,
+OATP1B1, and OAT3 were 0.146, 7.4, and 1.03 mM, respectively,
+resulting in [I] g/IC50¼1420 (for BCRP), [I u,in,max ]/IC50 ¼0.231 (for
+OATP1B1 (unbound fraction is set as 0.01)) and [I u,max ] (the maximum
+unbound concentration of the inhibitor in the blood)/IC50 ¼1.63 (for
+OAT3 (unbound fraction is set as 0.01)) at 14 mg dose [ 104].
+4.2.5. Inhibitors of OCT2/MATEs
+The listed inhibitors for OCT2/MATEs in the Japanese guideline
+and FDA's website are almost the same. The United States FDA
+selected the drugs when the following criteria were satis ﬁed: the
+AUCR of metformin is /C211.5 in clinical DI studies and the in vitro
+inhibition of OCT2 and/or MATEs has been con ﬁrmed. In Table 5 ,
+the inclusion criteria were met for all the listed drugs. Isavucona-
+zole and ranolazine are not included in the list in the Japanese
+guideline because they have not been approved in Japan.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+15The reason why pyrimethamine is included in the Japanese
+guideline is that it is well-validated as a MATEs-selective inhibitor.
+In vitro inhibition assay of pyrimethamine for renal cation transport
+systems revealed its highly selective inhibition of MATEs (K ifor
+MATE1: 0.151 [0.0193 e93.5] mM, MATE2-K: 0.136 [0.01 e1.50] mM
+(geometric mean [range] of reported K ior IC50 values in
+transporter-expression systems)) compared with OCT2 (K i¼6.17
+[0.61 e160] mM). A similar tendency is also observed for cimetidine
+(Kifor OCT2: 59.9 [1.8 e1650] mM, MATE1: 2.15 [0.093 e16.3] mM,
+MATE2-K: 8.14 [2.1 e46.6] mM), trimethoprim (K ifor OCT2: 61.4
+[6.9e1330] mM, MATE1: 3.56 [0.51 e29.1] mM, MATE2-K: 0.445
+[0.03 e28.9] mM), and vandetanib (K ifor OCT2: 6.18 [0.4 e73.4] mM,
+MATE1: 0.337 [0.06 e1.23] mM, MATE2-K: 0.297 [0.04 e1.26] mM),
+which suggests that they also preferentially inhibit MATEs rather
+than OCT2. Conversely, inhibition potencies of dolutegravir for
+OCT2 (K i¼2.12 [0.066 e23]mM) and MATEs (K ifor MATE1: 4.99
+[3.6e6.34] mM, MATE2-K: 19.4 [9.3 e49.3] mM) are similar. However,
+the unbound maximum plasma concentration of dolutegravir is
+0.11mM at 50 mg dose, which is less than the K ivalues for OCT2 and
+MATEs. Thus, clinical DIs with dolutegravir may not be simply
+explained by the inhibition of OCT2 and MATEs.
+5. Other clinically evident pharmacokinetic DIs
+In this review, we have focused on P450 and transporter-
+mediated DIs, because it is currently dif ﬁcult systematically to
+manage the DIs of the other mechanisms. Nevertheless, it is
+important to know the risks of clinically evident DIs of the other
+mechanisms. In addition to P450, multiple metabolizing enzymes,
+including ﬂavin monooxygenase (FMO), monoamine oxidase
+(MAO), xanthine oxidase (XO), and aldehyde oxidase (AO) [ 105,106],
+various esterases and peptidases [ 107], as well as conjugating en-
+zymes such as UGT [ 108] and sulfotransferase [ 109] play important
+roles in the regulation of drug clearance. Among these, glucur-
+onidation is the most commonly observed metabolizing enzyme
+next to P450, and it has been elucidated that multiple isoenzymes of
+UGT are expressed in the liver, small intestine, and kidney [ 110].
+However, the information of DIs on the selectivity of substrates
+or inhibitors is not fully clari ﬁed for UGT compared with those for
+P450. It has been reported that drugs such as valproic acid [ 111],
+lamotrigine [ 112], zidovudine [ 113], deferasirox [ 114], canagli ﬂozin
+[115], and raltegravir [ 116] are extensively glucuronidated without
+phase I metabolism, but the degrees of DI due to UGT inhibition are
+relatively moderate with AUC changes of less than double for most
+of these drugs [ 117] except for a DI between valproic acid and
+carbapenem, which is described later. However, when these drugs
+are used in combination with strong inducers, such as rifampicin,
+evident decreases in AUC have been observed.
+When carbapenems, such as panipenem or meropenem, are
+used in combination with valproic acid, the blood concentration of
+valproic acid is remarkably reduced, as if the glucuronidation ac-
+tivity is increased [ 118]. It has been reported that the mechanism of
+this interaction involves irreversible inhibition of the enzyme that
+hydrolyzes the valproic acid conjugate and returns it to valproic
+acid [ 119,120]. Currently, there are no known drugs that interact
+with carbapenem by this mechanism other than valproic acid.
+It has also been reported that evident pharmacokinetic DIs occur
+due to ﬂuctuations in absorption [ 121e123]. Some of these DIs are
+described in the Japanese guideline.
+6. Concluding remarks
+Problematic DIs mediated by P450s and transporters are often
+observed in clinical studies or even post-approval, therefore it is
+very important systematically to evaluate the risks of such DIs andtake the necessary precautions at the right timing. The classi ﬁcation
+of drugs presented in this study allows for a better understanding of
+the mechanism or potency for pharmacokinetic DIs and will support
+efﬁcient drug development and the realization of improved phar-
+macotherapy in clinical practice. As we have discussed in this re-
+view, however, there are still many open issues in this area. Even in
+the short term after the publication of the Japanese guideline, novel
+quantitative DI information that was not available at the time the
+tables were being created has become available such as substrates ofOATP1Bs, OAT3, and OCT2/MATEs (pema ﬁbrate, penicillin G, and
+dofetilide, respectively) or an inhibitor of OAT (PAH). Thus, the tables
+that were created based on current pharmacokinetic knowledge
+should be updated appropriately if new information appears in the
+future. It is also noteworthy that an activity to seek indus-
+tryegovernment eacademia collaboration to update and maintain
+the FDA's list has been reported [ 124]. Individual regulatory stan-
+dards for the evaluation of DIs have been issued in the EU, Japan, and
+the US, however, the international council for harmonization of
+technical requirements for pharmaceuticals for human use (ICH) has
+started activities to harmonize the evaluation of DIs during drug
+development ( https://www.ich.org/page/multidisciplinary-
+guidelines ). It is expected that the harmonized guidelines will
+contribute to reducing the uncertainty of development or short-
+ening the development period. Even if the mechanism is uncom-
+mon, such as the DI of sorivudine, it is necessary to manage clinically
+occurring risks meticulously [ 125]. The clinical signi ﬁcance of DIs
+should be considered regarding not only the pharmacokinetic
+impact but also whether the pharmacokinetic changes affect the
+therapeutic effect or lead to safety concerns. We should use the
+classi ﬁcation with understanding its bene ﬁts and limitations
+thoughtfully for evaluation and management of all potential DIs.
+Glossary
+$Investigational drug: A medicinal product or a drug under
+development that is investigated as to its potential to act as an
+affecting drug or an affected drug.
+$Concomitant drug: When two or more drugs are used, each drug
+is called a concomitant drug, in the broad sense. In the narrow
+sense, a concomitant drug is a drug that is added to the basic
+drug treatment.
+$Substrate: A drug that is subject to metabolism or transport by
+transporters.
+$Interacting drug: In pharmacokinetic DIs, a drug that affects the
+pharmacokinetics of other drugs when administered concomi-
+tantly. For instance, in the case of metabolism, the affecting drug
+may inhibit or induce drug metabolizing enzymes.
+$Affected drug: In pharmacokinetic DIs, a drug whose pharma-
+cokinetics is affected by a concomitant drug. For instance, in the
+case of metabolism, the metabolism of an affected drug may be
+decreased by inhibition of the drug metabolizing enzymes or
+increased by induction of the drug metabolizing enzymes by the
+interacting drug.
+$Index drug: A drug that has been demonstrated in multiple
+clinical studies to have a high speci ﬁcity for the enzymes and
+represents the changes in the pharmacokinetics. It needs to be
+possible to quantify index drugs and show them as having high
+safety if they are to be used in clinical studies.
+$Selective inhibitor, selective substrate: A drug that rather
+strongly inhibits a speci ﬁc drug metabolizing enzyme; a drug
+that is metabolized or transported selectively by a speci ﬁc drug
+metabolizing enzyme or transporter.
+$Typical inhibitor, typical substrate: A typical inhibitor may
+inhibit multiple drug metabolizing enzymes or transporters and
+a typical substrate may be a substrate for multiple drugK. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+16metabolizing enzymes or transporters, so that it is not neces-
+sarily a selective inhibitor or a selective substrate.
+$Strong inhibitor, moderate inhibitor, weak inhibitor: When a
+drug is considered to increase the AUC of sensitive substrates
+by/C215-fold (or decrease the CL/F to less than 1/5), the drug is
+termed a “strong inhibitor ”; a drug that is considered to cause an
+increase in the AUC by /C212-fold but <5-fold (or a decrease in the
+CL/F to <1/2 but /C211/5) is termed a “moderate inhibitor ”; and a
+drug that is considered to cause an increase in the AUC
+by/C211.25-fold but <2-fold (or a decrease in the CL/F to <1/1.25
+but/C211/2) is termed a “weak inhibitor. ”
+$Strong inducer, moderate inducer, weak inducer: A drug that is
+considered to reduce the AUC of sensitive substrates to /C201/5 (or
+increase the CL/F ratio by >5-fold) is termed a “strong inducer, ”
+a drug that is considered to cause a decrease in the AUC to /C201/2
+but>1/5 (or an increase in the CL/F by /C212-fold but <5-fold) is
+termed a “moderate inducer, ”and a drug that is considered to
+reduce the AUC to /C201/1.25 but >1/2 (or increase the CL/F
+by/C211.25-fold but <2-fold) is termed a “weak inducer. ”
+$Sensitive substrate, moderate sensitive substrate: A substrate
+susceptible to pharmacokinetic DIs whose AUC increases by /C215-
+fold (or decreases the CL/F to <1/5) when co-administered with
+a“strong inhibitor ”; a substrate moderately susceptible to
+pharmacokinetic DIs whose AUC increases by /C212-fold but <5-
+fold (or decreases the CL/F to <1/2 but /C211/5) when co-
+administered with a “strong inhibitor. ”
+Declaration of competing interest
+The authors declare no con ﬂict of interest. The views presented
+in this article are those of authors and do not necessarily re ﬂect the
+ofﬁcial position of the Pharmaceuticals and Medical Devices
+Agency.
+Acknowledgements
+This research was supported by research grants from the Min-
+istry of Health, Labour and Welfare (MHLW) (H24-tokubetsu-sitei-
+034, H25-iyaku-sitei-011) and the Japan Agency for Medical
+Research and Development (AMED) (15mk0101060h0101,
+16mk0101040h0002, 17mk0101040h0003, 19mk0101159h0001,
+20mk0101159h0002). We thank all researchers who joined the
+MHLW Drug Interaction Research/Working Group, and the research
+group that continued as the Research on Regulatory Science of
+Pharmaceuticals and Medical Devices, AMED.
+The authors thank Dr. Akira Okada from Musashino University
+for assisting in the collection of some data for this study.
+Appendix A. Supplementary references (Tables 1-5)
+Supplementary references (Table 1-5) to this article can be
+found online at https://doi.org/10.1016/j.dmpk.2021.100414 .
+Author contributions
+K.M. and A.H. wrote the original manuscript draft. N.N., Y.O. and
+K.M. surveyed the data in NDAs and literatures. All authors
+contributed to the writing, reviewing and editing of the document.
+References
+[1]Page N, Baysari MT, Westbrook JI. A systematic review of the effectiveness of
+interruptive medication prescribing alerts in hospital CPOE systems to
+change prescriber behavior and improve patient safety. Int J Med Inf2017;105:22 e30.[2]Huang SM, Strong JM, Zhang L, Reynolds KS, Nallani S, Temple R, et al. New
+era in drug interaction evaluation: US Food and Drug Administration update
+on CYP enzymes, transporters, and the guidance process. J Clin Pharmacol
+2008;48(6):662 e70.
+[3]Okuda H, Nishiyama T, Ogura K, Nagayama S, Ikeda K, Yamaguchi S, et al.
+Lethal drug interactions of sorivudine, a new antiviral drug, with oral 5-ﬂuorouracil prodrugs. Drug Metab Dispos 1997;25(5):270 e3.
+[4]Kato M, Shitara Y, Sato H, Yoshisue K, Hirano M, Ikeda T, et al. The quanti-
+tative prediction of CYP-mediated drug interaction by physiologically based
+pharmacokinetic modeling. Pharm Res (N Y) 2008;25(8):1891 e901.
+[5]Min JS, Bae SK. Prediction of drug-drug interaction potential using physio-
+logically based pharmacokinetic modeling. Arch Pharm Res (Seoul)
+2017;40(12):1356 e79.
+[6] Ministry of Health, Labour and Welfare. Guideline on drug interaction for
+drug development and appropriate provision of information, (PSEHB noti ﬁ-
+cation No.0723-4 dated July 23 2018). Japan: Pharmaceuticals Safety and
+Environmental Health Bureau; 2018. https://www.pmda.go.jp/ ﬁles/
+000228122.pdf . [Accessed 13 March 2021].
+[7]Sychev DA, Ashraf GM, Svistunov AA, Maksimov ML, Tarasov VV,
+Chubarev VN, et al. The cytochrome P450 isoenzyme and some new op-
+portunities for the prediction of negative drug interaction in vivo. Drug Des
+Dev Ther 2018;12:1147 e56.
+[8]Zhang L, Reynolds KS, Zhao P, Huang SM. Drug interactions evaluation: an
+integrated part of risk assessment of therapeutics. Toxicol Appl Pharmacol
+2010;243(2):134 e45.
+[9] Ministry of Health, Labour and Welfare. Instructions for package inserts of
+prescription drugs, etc.(PSEHB noti ﬁcation No. 0611-1 dated June 11 2021
+issued by the director of the PSEHB. Pharmaceutical Evaluation Division,
+Pharmaceuticals Safety and Environmental Health Bureau; 2021. http://
+www.pmda.go.jp/ ﬁles/000241061.pdf [only available in Japanese language)].
+[10] Conney AH, Miller EC, Miller JA. The metabolism of methylated aminoazo
+dyes. V. Evidence for induction of enzyme synthesis in the rat by 3-
+methylcholanthrene. Canc Res 1956;16(5):450 e9.
+[11] Remmer H. [The acceleration of evipan oxidation and the demethylation of
+methylaminopyrine by barbiturates]. Naunyn-Schmiedebergs Arch ExpPathol Pharmakol 1959;237:296 e307.
+[12] Rodrigues DA. Drug-drug interactions. New York: Marcel Dekker; 2002 .
+[13] Rowland M, Peck C, Tucker G. Physiologically-based pharmacokinetics in
+drug development and regulatory science. Annu Rev Pharmacol Toxicol
+2011;51:45 e73.
+[14] Johnson TN, Rostami-Hodjegan A, Tucker GT. Prediction of the clearance of
+eleven drugs and associated variability in neonates, infants and children. ClinPharmacokinet 2006;45(9):931 e56
+.
+[15] McLean AJ, Le Couteur DG. Aging biology and geriatric clinical pharmacology.
+Pharmacol Rev 2004;56(2):163 e84.
+[16] Palatini P, De Martin S. Pharmacokinetic drug interactions in liver disease: an
+update. World J Gastroenterol 2016;22(3):1260 e78.
+[17] Tortorici MA, Cutler DL, Hazra A, Nolin TD, Rowland-Yeo K,
+Venkatakrishnan K. Emerging areas of research in the assessment of phar-
+macokinetics in patients with chronic kidney disease. J Clin Pharmacol
+2015;55(3):241 e50.
+[18] Niwa T, Honda S, Shirakawa K, Imamura Y, Osaki S, Takagi A. Drug interac-
+tion of ﬂuvoxamine, a selective serotonin reuptake inhibitor. Folia Pharmacol
+Jpn 2016;128:93 e103.
+[19] Jeong S, Nguyen PD, Desta Z. Comprehensive in vitro analysis of voriconazole
+inhibition of eight cytochrome P450 (CYP) enzymes: major effect on CYPs
+2B6, 2C9, 2C19, and 3A. Antimicrob Agents Chemother 2009;53(2):541 e51.
+[20] Zhang W, Ramamoorthy Y, Kilicarslan T, Nolte H, Tyndale RF, Sellers EM.
+Inhibition of cytochromes P450 by antifungal imidazole derivatives. DrugMetab Dispos 2002;30(3):314 e8.
+[21] Helsby NA, Yong M, van Kan M, de Zoysa JR, Burns KE. The importance of
+both CYP2C19 and CYP2B6 germline variations in cyclophosphamide phar-
+macokinetics and clinical outcomes. Br J Clin Pharmacol 2019;85(9):
+1925 e34.
+[22] Shibata Y, Tamemoto Y, Singh SP, Yoshitomo A, Hozuki S, Sato H, et al.
+Plausible drug interaction between cyclophosphamide and voriconazole viainhibition of CYP2B6. Drug Metabol Pharmacokinet 2021;39:100396 .
+[23] Kharasch ED, Mitchell D, Coles R. Stereoselective bupropion hydroxylation as
+an in vivo phenotypic probe for cytochrome P4502B6 (CYP2B6) activity.
+J Clin Pharmacol 2008;48(4):464 e74.
+[24] Kudo T, Hisaka A, Sugiyama Y, Ito K. Analysis of the repaglinide concentra-
+tion increase produced by gem ﬁbrozil and itraconazole based on the inhi-
+bition of the hepatic uptake transporter and metabolic enzymes. Drug Metab
+Dispos 2013;41(2):362 e71.
+[25] Shitara Y, Hirano M, Sato H, Sugiyama Y. Gem ﬁbrozil and its glucuronide
+inhibit the organic anion transporting polypeptide 2 (OATP2/OATP1B1:SLC21A6)-mediated hepatic uptake and CYP2C8-mediated metabolism of
+cerivastatin: analysis of the mechanism of the clinically relevant drug-drug
+interaction between cerivastatin and gem ﬁbrozil. J Pharmacol Exp Ther-
+apeut 2004;311(1):228 e36.
+[26] Takahashi H, Echizen H. Pharmacogenetics of warfarin elimination and its
+clinical implications. Clin Pharmacokinet 2001;40(8):587 e603.
+[27] Warfarin potassium. https://www.pmda.go.jp/PmdaSearch/iyakuSearch/
+[accessed 13 March 2021]..K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+17[28] Laura D, Megan K. Celecoxib therapy and CYP2C9 genotype [Internet]. In:
+Medical genetics summaries. Bethesda (MD): National Center for Biotech-
+nology Information (US); 2012. 2016 Aug 18 [updated 2021 Jan 25] .
+[29] Gunes A, Coskun U, Boruban C, Gunel N, Babaoglu MO, Sencan O, et al.
+Inhibitory effect of 5- ﬂuorouracil on cytochrome P450 2C9 activity in cancer
+patients. Basic Clin Pharmacol Toxicol 2006;98(2):197 e200.
+[30] Saif MW. An adverse interaction between warfarin and ﬂuoropyrimidines
+revisited. Clin Colorectal Canc 2005;5(3):175 e80.
+[31] Park JY, Kim KA. Inhibitory effect of 5- ﬂuorouracil on human cytochrome
+P(450) isoforms in human liver microsomes. Eur J Clin Pharmacol
+2003;59(5 e6):407 e9.
+[32] Afsar A, Lee C, Riddick DS. Modulation of the expression on constitutive rat
+hepatic cytochrome P450 isozymes by 5- ﬂuorouracil. Can J Physiol Phar-
+macol 1996;74(2):150 e6.
+[33] Helsby NA, Lo WY, Thompson P, Laking GR. Do 5- ﬂuorouracil therapies alter
+CYP2C19 metaboliser status? Canc Chemother Pharmacol 2010;66(2):405 e7.
+[34] Brown SA, Pereira N. Pharmacogenomic impact of CYP2C19 variation on clo-
+pidogrel therapy in precision cardiovascular medicine. J Personalized Med2018;8(1) .
+[35] Bundhun PK, Teeluck AR, Bhurtu A, Huang WQ. Is the concomitant use of
+clopidogrel and Proton Pump Inhibitors still associated with increased
+adverse cardiovascular outcomes following coronary angioplasty?: a sys-
+tematic review and meta-analysis of recently published studies (2012 -2016). BMC Cardiovasc Disord 2017;17(1):3 .
+[36] Desta Z, Zhao X, Shin JG, Flockhart DA. Clinical signi ﬁcance of the cytochrome
+P450 2C19 genetic polymorphism. Clin Pharmacokinet 2002;41(12):913 e58.
+[37] Araki K, Yasui-Furukori N, Fukasawa T, Aoshima T, Suzuki A, Inoue Y, et al.
+Inhibition of the metabolism of etizolam by itraconazole in humans: evi-
+dence for the involvement of CYP3A4 in etizolam metabolism. Eur J Clin
+Pharmacol 2004;60(6):427 e30.
+[38] Yamamoto T, Furihata K, Hisaka A, Moritoyo T, Ogoe K, Kusayama S, et al.
+Notable drug-drug interaction between etizolam and itraconazole in poor
+metabolizers of cytochrome P450 2C19. J Clin Pharmacol 2017;57(11):1491 e9.
+[39] Zhou SF. Polymorphism of human cytochrome P450 2D6 and its clinical
+signiﬁcance: Part I. Clin Pharmacokinet 2009;48(11):689 e723.
+[40] Zhou SF, Liu JP, Chowbay B. Polymorphism of human cytochrome P450 en-
+zymes and its clinical impact. Drug Metab Rev 2009;41(2):89 e295.
+[41] Becquemont L. Type 1 gaucher disease (CYP2D6-eliglustat). Therapie
+2017;72(2):323 e
+6.
+[42] Eliglustat tartrate. https://www.pmda.go.jp/PmdaSearch/iyakuSearch/
+[accessed 13 March 2021]. .
+[43] Kitada M, Kamataki T, Itahashi K, Rikihisa T, Kato R, Kanakubo Y. Puri ﬁcation
+and properties of cytochrome P-450 from homogenates of human fetal
+livers. Arch Biochem Biophys 1985;241(1):275 e80.
+[44] Williams JA, Ring BJ, Cantrell VE, Jones DR, Eckstein J, Ruterbories K, et al.
+Comparative metabolic capabilities of CYP3A4, CYP3A5, and CYP3A7. Drug
+Metab Dispos 2002;30(8):883 e91.
+[45] Aoyama T, Yamano S, Waxman DJ, Lapenson DP, Meyer UA, Fischer V, et al.
+Cytochrome P-450 hPCN3, a novel cytochrome P-450 IIIA gene product that
+is differentially expressed in adult human liver. cDNA and deduced amino
+acid sequence and distinct speci ﬁcities of cDNA-expressed hPCN1 and
+hPCN3 for the metabolism of steroid hormones and cyclosporine. J Biol Chem
+1989;264(18):10388 e95.
+[46] Tseng E, Walsky RL, Luzietti Jr RA, Harris JJ, Kosa RE, Goosen TC, et al. Relative
+contributions of cytochrome CYP3A4 versus CYP3A5 for CYP3A-cleared
+drugs assessed in vitro using a CYP3A4-selective inactivator (CYP3cide).
+Drug Metab Dispos 2014;42(7):1163 e73.
+[47] Niwa T, Murayama N, Emoto C, Yamazaki H. Comparison of kinetic param-
+eters for drug oxidation rates and substrate inhibition potential mediated bycytochrome P450 3A4 and 3A5. Curr Drug Metabol 2008;9(1):20 e33.
+[48] Kato M, Chiba K, Hisaka A, Ishigami M, Kayama M, Mizuno N, et al. The in-
+testinal ﬁrst-pass metabolism of substrates of CYP3A4 and P-glycoprotein-
+quantitative analysis based on information from the literature. Drug Metabol
+Pharmacokinet 2003;18(6):365 e72.
+[49] Takahashi M, Onozawa S, Ogawa R, Uesawa Y, Echizen H. Predictive per-
+formance of three practical approaches for grapefruit juice-induced 2-fold orgreater increases in AUC of concomitantly administered drugs. J Clin Pharm
+Therapeut 2015;40(1):91 e7.
+[50] Ducharme MP, Warbasse LH, Edwards DJ. Disposition of intravenous and oral
+cyclosporine after administration with grapefruit juice. Clin Pharmacol Ther
+1995;57(5):485 e91.
+[51] Kantola T, Kivisto KT, Neuvonen PJ. Grapefruit juice greatly increases serum
+concentrations of lovastatin and lovastatin acid. Clin Pharmacol Ther
+1998;63(4):397 e402.
+[52] Lin JH. CYP induction-mediated drug interactions: in vitro assessment and
+clinical implications. Pharm Res (N Y) 2006;23(6):1089 e116.
+[53] Manikandan P, Nagini S. Cytochrome P450 structure, function and clinical
+signiﬁcance: a review. Curr Drug Targets 2018;19(1):38 e54.
+[54] Dobrinas M, Cornuz J, Eap CB. Pharmacogenetics of CYP1A2 activity and
+inducibility in smokers and exsmokers. Pharmacogenetics Genom
+2013;23(5):286 e92.
+[55] Luo G, Guenthner T, Gan LS, Humphreys WG. CYP3A4 induction by xenobi-
+otics: biochemistry, experimental methods and impact on drug discovery
+and development. Curr Drug Metabol 2004;5(6):483 e505.[56] Chae YJ, Cho KH, Yoon IS, Noh CK, Lee HJ, Park Y, et al. Vitamin D receptor-
+mediated upregulation of CYP3A4 and MDR1 by quercetin in caco-2 cells.
+Planta Med 2016;82(1 e2):121 e30.
+[57] International Transporter C, Giacomini KM, Huang SM, Tweedie DJ, Benet LZ,
+Brouwer KL, et al. Membrane transporters in drug development. Nat Rev
+Drug Discov 2010;9(3):215 e36.
+[58] Kruijtzer CM, Beijnen JH, Rosing H, ten Bokkel Huinink WW, Schot M,
+Jewell RC, et al. Increased oral bioavailability of topotecan in combination
+with the breast cancer resistance protein and P-glycoprotein inhibitor
+GF120918. J Clin Oncol 2002;20(13):2943 e50.
+[59] Ma JD, Tsunoda SM, Bertino Jr JS, Trivedi M, Beale KK, Nafziger AN. Evalua-
+tion of in vivo P-glycoprotein phenotyping probes: a need for validation. Clin
+Pharmacokinet 2010;49(4):223 e37.
+[60] Fenner KS, Troutman MD, Kempshall S, Cook JA, Ware JA, Smith DA, et al.
+Drug-drug interactions mediated through P-glycoprotein: clinical relevance
+and in vitro-in vivo correlation using digoxin as a probe drug. Clin Pharmacol
+Ther 2009;85(2):173 e81.
+[61] Matsushima S, Maeda K, Hayashi H, Debori Y, Schinkel AH, Schuetz JD, et al.
+Involvement of multiple ef ﬂux transporters in hepatic disposition of fex-
+ofenadine. Mol Pharmacol 2008;73(5):1474 e83.
+[62] Matsushima S, Maeda K, Inoue K, Ohta KY, Yuasa H, Kondo T, et al. The in-
+hibition of human multidrug and toxin extrusion 1 is involved in the drug-
+drug interaction caused by cimetidine. Drug Metab Dispos 2009;37(3):555e9.
+[63] Shimizu M, Fuse K, Okudaira K, Nishigaki R, Maeda K, Kusuhara H, et al.
+Contribution of OATP (organic anion-transporting polypeptide) family
+transporters to the hepatic uptake of fexofenadine in humans. Drug Metab
+Dispos 2005;33(10):1477 e81.
+[64] Shirasaka Y, Shichiri M, Murata Y, Mori T, Nakanishi T, Tamai I. Long-lasting
+inhibitory effect of apple and orange juices, but not grapefruit juice, onOATP2B1-mediated drug absorption. Drug Metab Dispos 2013;41(3):
+615e21.
+[65] Kishimoto W, Ishiguro N, Saito A, Ebner T, Hartter S, Igarashi T. Character-
+ization of drug transporters involved in the disposition of dabigatran etex-
+ilate and its active form, dabigatran. In: 9th international ISSX meeting.Turkey: Istanbul; 2010 .
+[66] Hira D, Terada T. BCRP/ABCG2 and high-alert medications: biochemical,
+pharmacokinetic, pharmacogenetic, and clinical implications. Biochem
+Pharmacol 2018;147:201 e10.
+[67] Ieiri I. Functional signi ﬁcance of genetic polymorphisms in P-glycoprotein
+(MDR1, ABCB1) and breast cancer resistance protein (BCRP, ABCG2). Drug
+Metabol Pharmacokinet 2012;27(1):85 e105.
+[68] Ho RH, Tirona RG, Leake BF, Glaeser H, Lee W, Lemke CJ, et al. Drug and bile
+acid transporters in rosuvastatin hepatic uptake: function, expression, and
+pharmacogenetics. Gastroenterology 2006;130(6):1793 e
+806.
+[69] Kitamura S, Maeda K, Wang Y, Sugiyama Y. Involvement of multiple trans-
+porters in the hepatobiliary transport of rosuvastatin. Drug Metab Dispos2008;36(10):2014 e23.
+[70] Windass AS, Lowes S, Wang Y, Brown CD. The contribution of organic anion
+transporters OAT1 and OAT3 to the renal uptake of rosuvastatin. J Pharmacol
+Exp Therapeut 2007;322(3):1221 e7.
+[71] Simonson SG, Raza A, Martin PD, Mitchell PD, Jarcho JA, Brown CD, et al.
+Rosuvastatin pharmacokinetics in heart transplant recipients administered
+an antirejection regimen including cyclosporine. Clin Pharmacol Ther2004;76(2):167 e77.
+[72] Elsby R, Martin P, Surry D, Sharma P, Fenner K. Solitary inhibition of the
+breast cancer resistance protein ef ﬂux transporter results in a clinically
+signiﬁcant drug-drug interaction with rosuvastatin by causing up to a 2-fold
+increase in statin exposure. Drug Metab Dispos 2016;44(3):398 e408.
+[73] Shitara Y, Sugiyama Y. Pharmacokinetic and pharmacodynamic alterations of
+3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors:
+drug-drug interactions and interindividual differences in transporter and
+metabolic enzyme functions. Pharmacol Ther 2006;112(1):71 e105.
+[74] Yamasaki Y, Ieiri I, Kusuhara H, Sasaki T, Kimura M, Tabuchi H, et al. Phar-
+macogenetic characterization of sulfasalazine disposition based on NAT2 and
+ABCG2 (BCRP) gene polymorphisms in humans. Clin Pharmacol Ther2008;84(1):95 e103.
+[75] Takahashi N, Miura M, Scott SA, Kagaya H, Kameoka Y, Tagawa H, et al. In-
+ﬂuence of CYP3A5 and drug transporter polymorphisms on imatinib trough
+concentration and clinical response among patients with chronic phase
+chronic myeloid leukemia. J Hum Genet 2010;55(11):731 e7.
+[76] Watanabe T, Kusuhara H, Maeda K, Kanamaru H, Saito Y, Hu Z, et al.
+Investigation of the rate-determining process in the hepatic elimination of
+HMG-CoA reductase inhibitors in rats and humans. Drug Metab Dispos
+2010;38(2):215 e22.
+[77] Maeda K, Ikeda Y, Fujita T, Yoshida K, Azuma Y, Haruyama Y, et al. Identi-
+ﬁcation of the rate-determining process in the hepatic clearance of ator-
+vastatin in a clinical cassette microdosing study. Clin Pharmacol Ther
+2011;90(4):575 e81.
+[78] Takehara I, Yoshikado T, Ishigame K, Mori D, Furihata KI, Watanabe N, et al.
+Comparative study of the dose-dependence of OATP1B inhibition by rifam-
+picin using probe drugs and endogenous substrates in healthy volunteers.
+Pharm Res (N Y) 2018;35(7):138 .K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+18[79] Hirano M, Maeda K, Matsushima S, Nozaki Y, Kusuhara H, Sugiyama Y.
+Involvement of BCRP (ABCG2) in the biliary excretion of pitavastatin. Mol
+Pharmacol 2005;68(3):800 e7.
+[80] Matsushima S, Maeda K, Kondo C, Hirano M, Sasaki M, Suzuki H, et al.
+Identi ﬁcation of the hepatic ef ﬂux transporters of organic anions using
+double-transfected Madin-Darby canine kidney II cells expressing humanorganic anion-transporting polypeptide 1B1 (OATP1B1)/multidrug
+resistance-associated protein 2, OATP1B1/multidrug resistance 1, and
+OATP1B1/breast cancer resistance protein. J Pharmacol Exp Therapeut
+2005;314(3):1059 e67.
+[81] Yoshikado T, Maeda K, Furihata S, Terashima H, Nakayama T, Ishigame K,
+et al. A clinical cassette dosing study for evaluating the contribution of he-
+patic OATPs and CYP3A to drug-drug interactions. Pharm Res (N Y)2017;34(8):1570 e83.
+[82] Maeda K, Tian Y, Fujita T, Ikeda Y, Kumagai Y, Kondo T, et al. Inhibitory ef-
+fects of p-aminohippurate and probenecid on the renal clearance of adefovir
+and benzylpenicillin as probe drugs for organic anion transporter (OAT) 1
+and OAT3 in humans. Eur J Pharmaceut Sci 2014;59:94 e103.
+[83] Burckhardt BC, Burckhardt G. Transport of organic anions across the baso-
+lateral membrane of proximal tubule cells. Rev Physiol Biochem Pharmacol
+2003;146:95 e158.
+[84] Hasegawa M, Kusuhara H, Endou H, Sugiyama Y. Contribution of organic
+anion transporters to the renal uptake of anionic compounds and nucleosidederivatives in rat. J Pharmacol Exp Therapeut 2003;305(3):1087 e97.
+[85] Nozaki Y, Kusuhara H, Kondo T, Hasegawa M, Shiroyanagi Y, Nakazawa H,
+et al. Characterization of the uptake of organic anion transporter (OAT) 1 and
+OAT3 substrates by human kidney slices. J Pharmacol Exp Therapeut
+2007;321(1):362 e9.
+[86] Chen Y, Li S, Brown C, Cheatham S, Castro RA, Leabman MK, et al. Effect of
+genetic variation in the organic cation transporter 2 on the renal eliminationof metformin. Pharmacogenetics Genom 2009;19(7):497 e504.
+[87] Elsby R, Chidlaw S, Outteridge S, Pickering S, Radcliffe A, Sullivan R, et al.
+Mechanistic in vitro studies con ﬁrm that inhibition of the renal apical ef ﬂux
+transporter multidrug and toxin extrusion (MATE) 1, and not altered ab-
+sorption, underlies the increased metformin exposure observed in clinicalinteractions with cimetidine, trimethoprim or pyrimethamine. Pharmacol
+Res Perspect 2017;5(5) .
+[88] Ito S, Kusuhara H, Yokochi M, Toyoshima J, Inoue K, Yuasa H, et al. Competitive
+inhibition of the luminal ef ﬂux by multidrug and toxin extrusions, but not
+basolateral uptake by organic cation transporter 2, is the likely mechanism
+underlying the pharmacokinetic drug-drug interactions caused by cimetidine
+in the kidney. J Pharmacol Exp Therapeut 2012;340(2):393 e403.
+[89] Dorian P, Strauss M, Cardella C, David T, East S, Ogilvie R. Digoxin-cyclo-
+sporine interaction: severe digitalis toxicity after cyclosporine treatment.
+Clin Invest Med 1988;11(2):108 e12.
+[90] Eberl S, Renner B, Neubert A, Reisig M, Bachmakov I, Konig J, et al. Role of p-
+glycoprotein inhibition for drug interactions: evidence from in vitro andpharmacoepidemiological studies. Clin Pharmacokinet 2007;46(12):1039 e49.
+[91] Salerno DM, Granrud G, Sharkey P, Asinger R, Hodges M. A controlled trial of
+propafenone for treatment of frequent and repetitive ventricular premature
+complexes. Am J Cardiol 1984;53(1):77 e83.
+[92] Poirier A, Cascais AC, Bader U, Portmann R, Brun ME, Walter I, et al. Cali-
+bration of in vitro multidrug resistance protein 1 substrate and inhibition
+assays as a basis to support the prediction of clinically relevant interactionsin vivo. Drug Metab Dispos 2014;42(9):1411 e22.
+[93] Kusuhara H, Furuie H, Inano A, Sunagawa A, Yamada S, Wu C, et al. Phar-
+macokinetic interaction study of sulphasalazine in healthy subjects and the
+impact of curcumin as an in vivo inhibitor of BCRP. Br J Pharmacol
+2012;166(6):1793 e803.
+[94] Allred AJ, Bowen CJ, Park JW, Peng B, Williams DD, Wire MB, et al. Eltrom-
+bopag increases plasma rosuvastatin exposure in healthy volunteers. Br J Clin
+Pharmacol 2011;72(2):321 e9.
+[95] Takeuchi K, Sugiura T, Matsubara K, Sato R, Shimizu T, Masuo Y, et al.
+Interaction of novel platelet-increasing agent eltrombopag with rosuvastatin
+via breast cancer resistance protein in humans. Drug Metab Dispos
+2014;42(4):726 e34.
+[96] Jigorel E, Le Vee M, Boursier-Neyret C, Parmentier Y, Fardel O. Differential
+regulation of sinusoidal and canalicular hepatic drug transporter expression
+by xenobiotics activating drug-sensing receptors in primary human hepa-
+tocytes. Drug Metab Dispos 2006;34(10):1756 e63.
+[97] Sahi J, Sinz MW, Campbell S, Mireles R, Zheng X, Rose KA, et al. Metabolism
+and transporter-mediated drug-drug interactions of the endothelin-A re-
+ceptor antagonist CI-1034. Chem Biol Interact 2006;159(2):156 e68.
+[98] Williamson B, Dooley KE, Zhang Y, Back DJ, Owen A. Induction of in ﬂux and
+efﬂux transporters and cytochrome P450 3A4 in primary human hepatocytes
+by rifampin, rifabutin, and rifapentine. Antimicrob Agents Chemother2013;57(12):6366 e9.
+[99] Benson EA, Eadon MT, Desta Z, Liu Y, Lin H, Burgess KS, et al. Rifampin
+regulation of drug transporters gene expression and the association of
+MicroRNAs in human hepatocytes. Front Pharmacol 2016;7:111 .
+[100] Han KM, Ahn SY, Seo H, Yun J, Cha HJ, Shin JS, et al. Bosentan and rifampin
+interactions modulate in ﬂux transporter and cytochrome P450 expressionand activities in primary human hepatocytes. Biomol Ther (Seoul)
+2017;25(3):288 e95.
+[101] Meyer Zu Schwabedissen HE, Bottcher K, Chaudhry A, Kroemer HK,
+Schuetz EG, Kim RB. Liver X receptor alpha and farnesoid X receptor are
+major transcriptional regulators of OATP1B1. Hepatology 2010;52(5):
+1797 e807.
+[102] Niu C, Wang Y, Zhao X, Tep S, Murakami E, Subramanian R, et al. Organic
+anion transporting polypeptide (OATP) genes are not induced by the preg-
+nane X receptor (PXR) activator rifampin: studies in hepatocytes in vitro and
+in monkeys in vivo. Drug Metab Dispos 2019;47(12):1433 e42.
+[103] Yoshida K, Maeda K, Sugiyama Y. Transporter-mediated drug –drug in-
+teractions involving OATP substrates: predictions based on in vitro inhibition
+studies. Clin Pharmacol Ther 2012;91(6):1053 e64.
+[104] Teri
+ﬂunomide https://www.accessdata.fda.gov/scripts/cder/daf/ [accessed 13
+March 2021].
+[105] Fan PW, Zhang D, Halladay JS, Driscoll JP, Khojasteh SC. Going beyond
+common drug metabolizing enzymes: case studies of biotransformation
+involving aldehyde oxidase, gamma-glutamyl transpeptidase, cathepsin B,ﬂavin-containing monooxygenase, and ADP-ribosyltransferase. Drug Metab
+Dispos 2016;44(8):1253 e61.
+[106] Strolin Benedetti M. FAD-dependent enzymes involved in the metabolic
+oxidation of xenobiotics. Ann Pharm Fr 2011;69(1):45 e52.
+[107] Beaumont K, Webster R, Gardner I, Dack K. Design of ester prodrugs to
+enhance oral absorption of poorly permeable compounds: challenges to the
+discovery scientist. Curr Drug Metabol 2003;4(6):461 e85.
+[108] Miners JO, Mackenzie PI, Knights KM. The prediction of drug-
+glucuronidation parameters in humans: UDP-glucuronosyltransferase
+enzyme-selective substrate and inhibitor probes for reaction phenotyping
+and in vitro-in vivo extrapolation of drug clearance and drug-drug interac-
+tion potential. Drug Metab Rev 2010;42(1):196 e208.
+[109] Lindsay J, Wang LL, Li Y, Zhou SF. Structure, function and polymorphism of
+human cytosolic sulfotransferases. Curr Drug Metabol 2008;9(2):99 e105.
+[110] Oda S, Fukami T, Yokoi T, Nakajima M. A comprehensive review of UDP-
+glucuronosyltransferase and esterases for drug development. Drug Metabol
+Pharmacokinet 2015;30(1):30 e51.
+[111] Verrotti A, Mencaroni E, Co ﬁni M, Castagnino M, Leo A, Russo E, et al. Val-
+proic acid metabolism and its consequences on sexual functions. Curr Drug
+Metabol 2016;17(6):573 e81.
+[112] Milosheska D, Lorber B, Vovk T, Kastelic M, Dolzan V, Grabnar I. Pharma-
+cokinetics of lamotrigine and its metabolite N-2-glucuronide: in ﬂuence of
+polymorphism of UDP-glucuronosyltransferases and drug transporters. Br J
+Clin Pharmacol 2016;82(2):399 e411.
+[113] Yuan L, Qian S, Xiao Y, Sun H, Zeng S. Homo- and hetero-dimerization of
+human UDP-glucuronosyltransferase 2B7 (UGT2B7) wild type and its allelic
+variants affect zidovudine glucuronidation activity. Biochem Pharmacol
+2015;95(1):58 e70.
+[114] Tanaka C. Clinical pharmacology of deferasirox. Clin Pharmacokinet
+2014;53(8):679 e94.
+[115] Garcia-Ropero A, Badimon JJ, Santos-Gallego CG. The pharmacokinetics and
+pharmacodynamics of SGLT2 inhibitors for type 2 diabetes mellitus: the
+latest developments. Expet Opin Drug Metabol Toxicol 2018;14(12):
+1287 e302.
+[116] Hicks C, Gulick RM. Raltegravir: the ﬁrst HIV type 1 integrase inhibitor. Clin
+Infect Dis 2009;48(7):931 e9.
+[117] Williams JA, Hyland R, Jones BC, Smith DA, Hurst S, Goosen TC, et al. Drug-
+drug interactions for UDP-glucuronosyltransferase substrates: a pharmaco-
+kinetic explanation for typically observed low exposure (AUCi/AUC) ratios.Drug Metab Dispos 2004;32(11):1201 e8.
+[118] Lee J. Interaction betwen meropenem and valproate leading to seizures. Clin
+Pharm 2010;2:181 .
+[119] Masuo Y, Ito K, Yamamoto T, Hisaka A, Honma M, Suzuki H. Characterization
+of inhibitory effect of carbapenem antibiotics on the deconjugation of val-
+proic acid glucuronide. Drug Metab Dispos 2010;38(10):1828 e35.
+[120] Mori H, Takahashi K, Mizutani T. Interaction between valproic acid and
+carbapenem antibiotics. Drug Metab Rev 2007;39(4):647 e57.
+[121] LuberAD.Useofacid-reducingagentsinproteaseinhibitor-basedHAARTandthe
+potentialfornegativetreatmentoutcomes.AIDSRead2005;15(12).692-5,8-700 .
+[122] Mizuki Y, Fujiwara I, Yamaguchi T. Pharmacokinetic interactions related to
+the chemical structures of ﬂuoroquinolones. J Antimicrob Chemother
+1996;37(Suppl A):41 e55.
+[123] van Lunzen J, Liess H, Arasteh K, Walli R, Daut B, Schurmann D. Concomitant
+use of gastric acid-reducing agents is frequent among HIV-1-infected pa-
+tients receiving protease inhibitor-based highly active antiretroviral therapy.
+HIV Med 2007;8(4):220 e5.
+[124] Yang X, Pfuma Fletcher E, Huang SM, Zineh I, Madabushi R. Regulatory ef-
+forts to facilitate evaluation and clinical management of drug-drug interac-tion risks. Clin Pharmacol Ther 2021;109(1):42 e6.
+[125] Watabe T. Strategic proposals for predicting drug-drug interactions during
+new drug development: based on sixteen deaths caused by interactions of
+the new antiviral sorivudine with 5- ﬂuorouracil prodrugs. J Toxicol Sci
+1996;21(5):299 e300.K. Maeda, A. Hisaka, K. Ito et al. Drug Metabolism and Pharmacokinetics 41 (2021) 100414
+19

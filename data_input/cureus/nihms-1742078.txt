@@ -1,0 +1,876 @@
+Pediatric Drug-Drug Interaction Evaluation: Drug, Patient 
+Population, and Methodological Considerations
+Daniel Gonzalez, PharmD, PhD1, Jaydeep Sinha, PhD1
+1Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School of 
+Pharmacy, The University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+Abstract
+Hospitalized pediatric patients and those with complex or chronic conditions treated on an 
+outpatient basis are commonly prescribed multiple drugs resulting in an increased risk for drug­
+drug interactions (DDIs). Although dedicated DDI evaluations are routinely performed in healthy 
+adult volunteers during drug development, they are rarely performed in pediatric patients due to 
+ethical, logistical, and methodological challenges. In the absence of pediatric DDI evaluations, 
+adult DDI data are often extrapolated to pediatric patients. However, the magnitude of a DDI 
+in pediatric patients may differ from adults because of age-dependent physiological changes 
+that can impact drug disposition or response, and due to other factors related to the drug (e.g., 
+dose, formulation) and the patient population (e.g., disease states, obesity). Therefore, the DDI 
+magnitude needs to be assessed in children separately from adults, although a lack of clinical 
+DDI data in pediatric populations makes this evaluation challenging. As a result, pediatric DDI 
+assessment relies on the predictive performance of the pharmacometric approaches used, such as 
+population and physiologically-based pharmacokinetic modeling. Therefore, careful consideration 
+needs to be given to adequately account for the age-dependent physiological changes in these 
+models to build a high confidence level for such untested DDI scenarios. This review article 
+summarizes the key considerations related to the drug, patient population, and methodology, and 
+how they can impact DDI evaluation in the pediatric population.
+Keywords
+pediatrics; drug-drug interactions; pharmacokinetics; pharmacodynamics
+Potential Drug-Drug Interactions (DDIs) in Pediatric Patients
+Drug-drug interactions (DDI) are a serious concern in pharmacotherapy whereby the 
+pharmacological effect of a victim drug is either exaggerated or suppressed by the 
+concomitant administration of a perpetrator drug. Depending upon the extent of DDI, 
+the altered pharmacology may manifest as adverse effects, including both on- and off­
+Corresponding author:  Daniel Gonzalez, UNC Eshelman School of Pharmacy, The University of North Carolina at Chapel Hill, 
+Campus Box #7569, Chapel Hill, NC 27599-7569, USA. Tel: +1-919-966-9984; Fax: +1-919-962-0644; daniel.gonzalez@unc.edu.
+Declaration of Conflicts of Interest
+The authors declare no relevant conflicts of interest.
+HHS Public Access
+Author manuscript
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Published in final edited form as:
+J Clin Pharmacol . 2021 June ; 61(Suppl 1): S175–S187. doi:10.1002/jcph.1881.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripttarget effects. Alternatively, suppression of a drug’s pharmacological effect may lead 
+to treatment failure. In some instances, a DDI can have a therapeutic benefit and has 
+been deliberately accounted for in the recommended dosing regimen. The majority of the 
+known therapeutically beneficial DDIs occur by pharmacodynamic (PD) interactions, such 
+as synergistic effects of various combined antibiotic regimens and combined anesthetic­
+analgesic regimens in general anesthesia.1,2 However, desired pharmacokinetic (PK) 
+interactions can also be exploited to optimize a therapeutic regimen, such as ritonavir­
+boosted dosage of protease inhibitors in patients with human immunodeficiency virus 
+(HIV).3 Irrespective of the nature of a DDI (i.e., whether beneficial or detrimental), it is 
+important to evaluate the DDI’s magnitude in the target population where the interacting 
+drugs are likely to be co-administered. Although DDI evaluations are routinely performed 
+in healthy adult volunteers during drug development, limited studies have evaluated DDIs 
+in pediatric patients due to ethical, logistical, and methodological challenges.4 As a result, 
+there are limited DDI data for most drugs used in pediatric patients, including the extent 
+to which DDI magnitude varies with age. In the absence of DDI data that can inform 
+dosing adjustments in pediatric patients, adult DDI data are extrapolated to pediatric patients 
+without accounting for age-dependent physiological changes that can alter PK and PD.
+Hospitalized pediatric patients often receive multiple drugs, resulting in a potential increased 
+DDI risk. One retrospective cohort study evaluated the prevalence and characteristics of 
+potential DDIs in hospitalized pediatric patients (<21 years of age) using the Pediatric 
+Health Information System (PHIS) database, which included data from 43 freestanding 
+children’s hospitals.5 The authors found that out of 498,956 hospitalizations in 2011, 
+49% were associated with ≥1 potential DDI. Also, they identified that in 41% of these 
+hospitalizations, pediatric patients were exposed to a “major” potential DDI (defined as a 
+DDI that is life-threatening or requires medical intervention to treat or prevent an adverse 
+drug event). For infants, on day 1 of hospitalization, 21.8% were exposed to a potential 
+DDI, increasing to 32% by day 30 of hospitalization. For pediatric patients >1 year of age, 
+34.7% and 66.3% were exposed to a potential DDI on day 1 and day 30 of hospitalization, 
+respectively. Interestingly, the authors noted that half of the exposures were related to 
+potential DDIs that were caused by less common drug pairs (≤3% of pediatric patients 
+exposed per hospital day).
+Another study that evaluated potential DDIs in pediatric intensive care unit (PICU) patients 
+using the PHIS database found that, on average, patients were exposed to 10 distinct 
+drugs during hospitalization and 20 drugs cumulatively during a hospitalization.6 Out of 
+54,549 PICU patients <18 years of age, 75% were exposed to ≥1 potential DDI, and 69% 
+were exposed to ≥1 “major” potential DDI. Potential DDIs were associated with specific 
+diagnoses (neoplasms, circulatory systems, congenital anomalies, nervous system diseases), 
+the presence of complex chronic conditions, increasing number of distinct drugs used, 
+increasing PICU length of stay, and white race.6
+Across both studies, several drug classes commonly involved in the potential DDIs 
+were similar: opioids (25–29.7% of all potential DDIs), neurologic drugs (15–23.6%), 
+anti-infective drugs (17–18.1%), renal diuretics (18.8%), and gastrointestinal drugs (10.5–
+13%).5,6 In the study of PICU patients, additional drug classes noted included renal diuretics Gonzalez and Sinha Page 2
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript(18.8%), analgesics and antipyretics (13.1%), psychotherapeutics (11.7%), and blood and 
+coagulation drugs (10.4%).6 Among the “major” potential DDIs, the top three drug pairs in 
+both studies included fentanyl plus morphine, fentanyl plus midazolam, and midazolam plus 
+morphine.5,6 These DDIs can result in a potentially additive respiratory depressing effect.
+Pediatric patients with complex or chronic conditions treated on an outpatient basis may also 
+be at risk for potential DDIs.7–10 Due to less monitoring by a health care professional, 
+outpatients may be more susceptible to the adverse effects of DDIs. For example, a 
+retrospective cohort study of Medicaid patients <18 years of age in Colorado reported 
+that 35% of 242,230 patients received ≥2 concurrent drugs for at least one day.7 The 
+pediatric patients that received a greater number of concurrent drugs were at greater 
+risk for potential DDIs and were exposed to less commonly prescribed drug classes 
+(psychotropics, anticonvulsants, and opioids). Therefore, potential DDIs are common in 
+hospitalized pediatric patients and patients with complex or chronic conditions treated on an 
+outpatient basis. Additional studies are warranted to inform the DDI risk extent and guide 
+therapeutic management when interacting drugs are co-administered.
+Challenges with DDI Evaluation in the Pediatric Population
+There are numerous ethical, logistical, and methodological challenges in evaluating DDI 
+potential in pediatric patients, summarized in Table 1 and compared with adult DDI 
+evaluation considerations. According to 21 CFR 50, subpart D, which describes clinical 
+investigations in pediatric subjects associated with a more than minimal risk, there must be 
+an anticipated benefit for children enrolled in clinical studies.4,11 Therefore, DDI studies 
+need to be performed in pediatric patients receiving the drug as part of their care.4
+The analysis of DDI data from pediatric patients receiving the drugs per standard of care can 
+present methodological challenges. Unlike DDI studies in healthy adult volunteers, analysis 
+of DDI data from pediatric patients requires separating the effect of the DDI of interest 
+from the confounding effects of disease states and other concomitant medications. Also, due 
+to limitations around the collection of numerous PK samples (particularly in neonates and 
+infants) and low informed consent rates, ensuring an adequate sample size across pediatric 
+age groups to evaluate the DDI effect can be challenging.
+A comprehensive literature review that searched articles published between 1945–2011 
+identified 145 reports of DDIs in pediatric patients ranging in age from birth to 20 years.12 
+Seventy-four (49%) studies used a prospective design, 16 (11%) were retrospective, and 60 
+(40%) were case reports. The number of reports that provided information for neonates, 
+infants, children, and adolescents was 9, 38, 120, and 52, respectively. Therefore, although 
+neonates and infants are expected to have the most considerable differences in DDI potential 
+relative to adults, limited DDI data exist for these pediatric age groups.12
+Potential Differences in DDI Magnitude Between Pediatric Patients Relative to Adults
+The magnitude of a DDI in pediatric patients may differ from adults due to age-dependent 
+physiological processes that potentially impact a drug’s PK and PD. Depending upon 
+the physiological processes involved in the drugs’ disposition and the patient population 
+characteristics, the magnitude of DDI can widely vary between children and adults. By Gonzalez and Sinha Page 3
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptcomparing drug clearance (CL), area under the concentration vs. time curve (AUC), or 
+steady-state concentrations, a published meta-analysis compared adult and pediatric DDI 
+magnitude.12 For 24 drug pairs (data from 31 pediatric and 33 adult DDI studies), the 
+authors reported that the DDI magnitude was higher, similar, or lower for 10, 15, and 8 
+of the cases, respectively.12 Therefore, based on potential differences in DDI magnitude 
+relative to adults, DDI evaluation in pediatric patients requires careful consideration of drug, 
+patient population, and methodological considerations, which we have discussed below and 
+summarized in Figure 1.
+Drug-Related Considerations
+Concomitant use of drugs can result in either PK- or PD-mediated DDIs. In either case, it 
+is essential to understand how drug-related properties affect the PK/PD and DDI magnitude 
+in pediatric patients. Elucidating the relationship between a drug’s properties and expected 
+age-dependent differences in PK/PD could inform potential extrapolation of the magnitude 
+of a DDI from adults to children. Such considerations should be made judiciously depending 
+upon the type of DDI and the drugs’ intended use. A previously published review article 
+by Salem et al. performed a comprehensive literature search through 2011, and summarized 
+pediatric DDIs reported in the literature.12
+PK-Mediated DDIs— The mechanism of DDIs often involves a perpetrator drug that 
+affects the PK of a victim drug by altering its absorption, distribution, metabolism, or 
+excretion (ADME) in vivo . Elimination-mediated DDIs (eDDI) have received significant 
+attention in drug development as these DDIs can directly influence CL.13–16 Although 
+eDDIs have been characterized to the greatest extent among all DDIs that alter ADME 
+processes, limited data are available for eDDIs in children. Therefore, eDDI assessment 
+in children often relies on adult data12, and the objective is to understand whether the 
+magnitude of the DDI observed in adults is similar and clinically relevant in pediatric 
+patients.
+The clinical relevance of an eDDI would primarily depend on two factors: (1) the extent of 
+the eDDI (i.e., the fold-change in CL) and the (2) therapeutic window of the drug for a given 
+indication. The narrower the therapeutic window, the more likely a fold-change in CL will 
+warrant a dose adjustment. For instance, phenytoin (a first-generation anti-epileptic drug) 
+is much more susceptible to eDDIs than oxcarbazepine (a second-generation anti-epileptic 
+drug) because of its narrow therapeutic window.17,18 Altered phenytoin exposure can result 
+in neurological adverse events or recurrent seizures (i.e., treatment failure). The therapeutic 
+window is related to a drug’s PD properties, which might vary in children due to maturation 
+and/or sensitivity of the pharmacological target(s). Therefore, information about the victim 
+drug’s therapeutic window in pediatric patients can help assess the clinical relevance of a 
+DDI. Often the therapeutic window is assumed to be similar to adults in the absence of 
+data to refute this assumption. In this scenario, the eDDI magnitude in children dictates the 
+clinical relevance of a DDI.
+In the absence of clinical data, quantitative approaches are helpful to predict the eDDI 
+magnitude in the target pediatric population. In the case of reversible metabolic inhibition, Gonzalez and Sinha Page 4
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptthe eDDI magnitude as determined by a fold increase in CL (RCL) is driven by two factors: 
+fraction of dose of the victim drug eliminated by the perpetrated enzyme ( fe,dose), and the 
+in vivo  concentration of the perpetrator drug ( I), as approximated by a “static” model in 
+Equation 1.19–21 The model ignores the time-dependent variation in the perpetrator drug’s 
+concentration, thereby assuming it “static” at the site of elimination. A “static” concentration 
+(I) is analogous to the concept of an “average” steady-state concentration (while the actual 
+steady-state concentration fluctuates with time), which is the measure of exposure often 
+used for DDI evaluations. When an equivalent exposure ( I) of the perpetrator drug is 
+targeted in children assuming a similar exposure-response relationship between children 
+and adults, RCL will differ in children if fe,dose differs relative to adults. Even in the 
+case of non-equivalent exposure ( I) in children, at least for the “strong” inhibitors, RCL is 
+rate-limited by fe,dose, since in this case, Equation 1 is approximated by Equation 2 due to a 
+high I
+Ki ratio. Here, Ki represents the reversible inhibition constant.
+RCL=1
+fe,dose
+1 +I
+Ki+ (1 − fe,dose) (1)
+When I >> Ki (for strong inhibitors),
+RCL=1
+(1 −fe,dose)(2)
+Since, 1 +I
+Ki≈ ∞
+Under such circumstances, extrapolation of an eDDI would be simplified to extrapolation of 
+fe,dose from adults to children. Therefore, to evaluate a pediatric eDDI by leveraging adult 
+data, it is of utmost importance to understand age-related variation in fe,dose.
+Theoretically, fe,dose can vary early in life due to multiple factors, including the ontogeny 
+of metabolic pathways and renal function maturation. Ontogenic maturation of different 
+drug-metabolizing enzymes does not occur at the same rate. For instance, the fractional 
+expression (relative to adults) of CYP2C9 is 0.17 at birth, whereas it is negligible for 
+CYP1A2; however, the latter matures faster than the former.22 Because of the differential 
+maturation, the fe,dose of the respective enzymes (for a shared substrate) would drastically 
+change from birth to adulthood. As quantified by Salem et al.22, if the drug-metabolizing 
+enzymes CYP2C9 and CYP1A2 exclusively metabolize a hypothetical drug A, with the 
+majority of the dose being eliminated by CYP1A2 in adults ( fe,dose> 0.90 , then the 
+contribution of these two enzymes will be almost equal at birth (i.e., fe,dose would be 
+approximately 0.50 for both isoforms). These authors further estimated that inhibition of the 
+CYP2C9 pathway would have a limited impact on the AUC of drug A (~5% increase) in 
+adults, whereas, in neonates, it would cause a 2.1-fold increase in the AUC due to a higher Gonzalez and Sinha Page 5
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptfe,dose for CYP2C9 in neonates. On the contrary, for a different hypothetical drug B that 
+is equally metabolized by CYP3A4 and CYP2D6 at birth (i.e., fe,dose= 0.50 ), the AUC 
+ratio would increase from 1.9-fold at birth to 4.7-fold in adults, if the CYP3A4 pathway 
+is inhibited by a perpetrator. This suggests that the clinical relevance (or irrelevance) of an 
+eDDI in children depends on the victim drug’s metabolic pathways and the child’s age. 
+Drugs that are metabolized by CYP3A4 may also be substrates for CYP3A7 in neonates and 
+young infants. The switch from CYP3A7 to CYP3A4 has been reported to occur in the first 
+3 months of life, which can impact CL predictions.23
+If renal excretion also plays a role in the overall elimination of drug A in the above example, 
+the fe,dose for the CYP2C9 pathway may further increase in neonates and infants (relative 
+to adults) due to immature renal function. Therefore, careful consideration is required when 
+extrapolating an eDDI for a partially renally cleared drug because the eDDI magnitude can 
+be higher in neonates and infants relative to what is expected based on sole consideration 
+of drug-metabolizing enzyme ontogeny. One study applied a sigmoidal hyperbolic model 
+to characterize the relationship between post-menstrual age and glomerular filtration rate.24 
+The authors reported that the time to half the adult value of glomerular filtration rate 
+occurred at 47.7 weeks of post-menstrual age, suggesting that maturation in renal function 
+will be an important predictor of clearance in neonates and infants.24 Another study 
+developed an ontogeny function based on postnatal age, gestational age at birth, and 
+body weight, and identified birth as an important determinant of glomerular filtration 
+rate for pediatric patients less than 105 weeks post-menstrual age.25 Another important 
+consideration is that body size-related developmental changes in organ size, composition, 
+and perfusion occur disproportionately with age. As a result, the effect of age on the 
+three variables that alter hepatic CL (i.e., hepatic intrinsic clearance CLint,H], free fraction 
+in blood fu,b], and hepatic blood flow QH]) are not proportional to each other, which 
+could affect the extraction ratio ( EH) of the victim drug in different age groups. Using 
+the Simcyp Simulator, one analysis demonstrated that such age-dependent physiological 
+changes decrease the EH of midazolam from 0.6 in adults to 0.02 at birth.26 Therefore, in 
+the case of midazolam, it would be classified as an intermediate extraction drug in adults 
+and a low extraction in neonates. Furthermore, a switch from a higher extraction ratio to a 
+lower extraction ratio may increase the risk of a DDI in neonates and infants. This occurs 
+because as the EH of a drug decreases, the CL becomes gradually less dependent on QH
+and more sensitive to changes in CLint,H. In addition, a potential shift in the contribution 
+of metabolic pathways early in life (e.g., a switch from CYP3A4 to CYP3A7 pathway in 
+neonates23) and its probable implication on fe,dose should also be considered during DDI 
+extrapolation. Similar mechanistic considerations need to be evaluated for other modes of 
+eDDI in children, such as transporter-mediated DDIs.
+There are fewer examples focused on characterizing absorption-related DDIs in the pediatric 
+population, typically pertinent to poorly soluble drugs. For instance, it has been reported that 
+concomitant administration of proton pump inhibitors (PPIs) decreases the bioavailability 
+of posaconazole suspension (a poorly soluble systemic anti-fungal drug) by 42% in 
+immunocompromised children, imposing a risk of invasive fungal infection.27 It has been Gonzalez and Sinha Page 6
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscripthypothesized that the reduced bioavailability is due to the elevation of gastric pH by PPIs, 
+which affects the pH-dependent solubility of posaconazole. A similar interaction with 
+PPIs has been reported in adults for other drugs, such as atazanavir (an HIV protease 
+inhibitor) and mycophenolate mofetil (an immunosuppressant) that often requires dosage 
+adjustment.28 Therefore, the effect of pH modulating agents on the bioavailability of such 
+vulnerable drugs (with demonstrated pH-dependent solubility) warrants further investigation 
+in the pediatric population as well. This would be particularly important because neonates, 
+infants, and children (especially birth to 3 years of age) are reported to possess overall 
+higher baseline gastric pH than adults based on repeated measurements taken over a 
+24-hour period.29 It is not clear how this physiological variation would impact absorption­
+related DDIs in these pediatric age groups. There is evidence in adults that modulation of 
+intestinal P-glycoprotein (P-gp) can alter the extent of absorption of P-gp substrates.30–33 
+For example, decreased digoxin (a P-gp substrate) exposure following concomitant oral 
+administration with rifampin (a P-gp inducer) was linked to intestinal P-gp induction.33 
+In addition to absorption and elimination processes, there is evidence that transporter 
+modulation may also alter drug distribution. For example, ketoconazole was found to 
+increase the distribution of the protease inhibitors ritonavir and saquinavir through P-gp 
+modulation in the blood brain barrier.34 Since the drug transporters are subject to age-related 
+maturation, such transporter-mediated DDIs during oral absorption may manifest to different 
+extents in children than adults, which warrants further investigation.
+PD-Mediated DDIs— PD-mediated DDIs occur at the site of action (i.e., at the 
+receptor level), such that the perpetrator drug directly potentiates or attenuates the victim 
+drug’s effect without altering its exposure. While PK-mediated interactions are mostly 
+considered undesired (with a few exceptions, such as ritonavir-boosted regimens of protease 
+inhibitors3), PD-mediated DDIs serve as the basis of many therapeutic strategies, such as 
+in anesthetic practice.35 For example, general anesthetics, and opioid analgesics are often 
+combined in routine anesthesia (i.e., synergistic); naloxone is used to reverse the effect of 
+opioids (i.e., antagonistic); and combination regimens of antibiotics are frequently used to 
+achieve a synergistic effect on bacterial killing.1,2
+Since PD-mediated interactions occur at the receptor level, any possible alteration to 
+receptor abundance in the pediatric population might have implications in exposure­
+response, and consequently, in DDI assessment. According to Stephenson’s modified 
+receptor occupancy theory36–38, the significant portion of the receptor abundance is 
+constituted by the “spare receptor” pool (or receptor reserve), which explains why the drug 
+concentrations required for 50% receptor occupancy ( Kd) and for 50% of the maximal effect 
+(EC50) are not necessarily the same. In other words, the theory explains why 100% receptor 
+occupancy is not required for the potent agonists to elicit the maximal effect; and the higher 
+the potency, the lower would be the EC50 compared to Kd. This implies that as the receptor 
+reserve becomes more diminished, the EC50 will progressively increase and approach the 
+Kd due to a rightward shift in the exposure-response curve (i.e., lowering the potency).37 
+Nonetheless, if a gradual maturation of the pharmacological targets during early human 
+life is assumed, a similar scenario of a low “receptor reserve”36 might exist, which could Gonzalez and Sinha Page 7
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptcause variation in the exposure-response profile in children depending on age. However, no 
+previous systematic studies sought to test this hypothesis in the DDI context to the authors’ 
+knowledge.
+There is some direct and indirect evidence from both preclinical and clinical studies 
+that pharmacological targets, such as the serotonin reuptake transporter (SERT) on the 
+presynaptic neurons and gamma-aminobutyric acid (GABA) receptors on the post-synaptic 
+neurons, are expressed and/or function differently in children.39,40 However, data describing 
+the age-dependency of pharmacological targets is generally lacking.40 Furthermore, the 
+pharmacological targets are unknown for many central nervous system (CNS)-acting drugs. 
+Therefore, the mechanistic underpinnings that may drive the differences in PD-mediated 
+DDIs in children are not well understood. PD-mediated DDIs are usually assumed to be 
+similar to adults in the absence of studies in the pediatric population. Studies are needed 
+to characterize age-dependent changes in PD-mediated DDIs, including characterizing the 
+ontogeny of PD targets, changes in PD endpoints in the presence of a DDI, and potential 
+dosage adjustments that may be needed when drugs are expected to lead to a clinically 
+significant DDI.
+Patient Population Considerations
+When performing a DDI evaluation in pediatric patients, patient-related factors can affect 
+the DDI magnitude and variability. These factors include the pediatric age groups that the 
+drug will likely be used in; the anticipated concomitantly administered drugs that could 
+result in potential DDIs; differences in drug dosing and the resulting exposure of the 
+perpetrator or victim drug based on factors such as age, body weight, the formulation used, 
+or the indication; and the potential impact of genetics, obesity, life-saving interventions such 
+as extracorporeal membrane oxygenation (ECMO), and disease-mediated changes on drug 
+disposition and response. If the dose-exposure or exposure-response relationship(s) for the 
+victim or perpetrator drug varies with age, this can result in potential age-dependent changes 
+in the DDI magnitude. For an investigational drug, if these factors are considered early in 
+the pediatric drug development program, they can inform the data analysis approach and 
+collection of clinical data that can aid in assessing DDIs in the pediatric population.
+Apart from age, the impact of pediatric formulation on the DDI magnitude should also be 
+investigated, particularly for those poorly soluble drugs whose bioavailability is impacted 
+by formulation, altering the dose-exposure profile. For example, the triazole anti-fungal 
+drug posaconazole can be administered as suspension and delayed-release tablets depending 
+on a patient’s age. The suspension formulation has a lower bioavailability than the 
+delayed-release tablets.27 Posaconazole, a strong CYP3A inhibitor41, can be prescribed 
+to combat invasive fungal disease in immunocompromised patients also receiving the 
+CYP3A substrate tacrolimus, resulting in a metabolic DDI. Although this DDI’s relevance 
+is well characterized in adults (i.e., a 3-fold dose reduction of tacrolimus is warranted)41,42, 
+investigation in pediatric patients is warranted. This is particularly important because a 
+recent population PK (PopPK) study in infants and children has identified that posaconazole 
+had a poor and saturable bioavailability when administered as the suspension formulation 
+in children.27 Interestingly, this study also concluded that a significant portion (>50%) Gonzalez and Sinha Page 8
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptof virtual pediatric patients would fail to attain the target therapeutic exposure (trough 
+concentration >1 mg/L for treatment of invasive fungal disease) with any feasible dose of 
+posaconazole suspension if diarrhea is present and a gastric acid suppressant (i.e., PPI) is 
+used concomitantly. Therefore, because of the expected lower exposure of posaconazole, 
+the DDI’s magnitude may differ in pediatric patients, potentially requiring a different dose 
+adjustment, which needs to be investigated.
+Other patient-related variables that can alter the fe,dose can also affect the magnitude of a 
+DDI. For example, given that DDI data is generally collected from patients receiving drug 
+treatments as part of their care, it is important to consider whether disease-mediated changes 
+and life-saving interventions such as ECMO can play a role. Disease states can alter organ 
+function, and in the case of ECMO, adsorption of the drug to the circuit can sequester the 
+drug and alter its PK.43 Additional patient variables such as obesity and genetic variation 
+(e.g., genetic differences in genes encoding drug-metabolizing enzymes) could alter fe,dose
+and the DDI magnitude.
+Clearance of hepatically eliminated drugs can be affected by obesity-induced nonalcoholic 
+fatty liver disease (NAFLD). NAFLD is a range of progressive hepatic pathologies, starting 
+with abnormal hepatocellular fatty infiltration (known as steatosis  where liver fat is >5% 
+of the total liver). It can progress to steatohepatitis  (a fibro-inflammatory condition known 
+as nonalcoholic steatohepatitis [NASH]). If not addressed, the inflammatory state can even 
+lead to liver cirrhosis, where the loss of hepatocellular mass and function occurs. Although 
+NAFLD’s effect on drug-metabolizing enzymes has been investigated in animal studies, 
+limited information is available for humans, where findings remain mostly inconclusive.44 
+Nonetheless, based on available data, the effect of obesity on drug-metabolizing enzymes 
+appears to be isoform-specific, with CYP3A4 decreasing and CYP2E1 increasing with 
+obesity.45 An isoform-specific effect of obesity on drug-metabolizing enzymes would 
+impose a risk of altering the fe,dose of the purturbed enzyme (and hence the DDI magnitude) 
+if that isoform is preferentially modulated (i.e., up- or down-regulated) by obesity. However, 
+DDI evaluation in pediatric patients with obesity is currently lacking. In adults, one 
+study found that co-administration of the CYP3A substrate, lurasidone, with the inhibitor, 
+posaconazole, resulted in a less pronounced interaction (a lower increased geometric ratio 
+for the total AUC) in patients with obesity as compared with normal-weight volunteers 
+(although the inhibitory effect lasted longer).46 While it has been established that >90% 
+of obese adults have some degree of NAFLD44,47, the prevalence of NAFLD in children 
+with obesity is generally believed to be low.48 However, a recent retrospective study (based 
+on autopsy reports conducted between 1993 to 2003 in the county of San Diego) has 
+estimated that NAFLD’s prevalence in children and adolescents with obesity is 38%.49 An 
+association between NAFLD and pediatric obesity has been reported for other countries as 
+well.50,51 Therefore, the influence of obesity on DDI magnitude in children and adolescents 
+with obesity is an immediate area of research with high importance, especially amidst the 
+increasing rate of obesity in the pediatric population.52
+There may also be differences in the concomitantly administered drugs and the victim 
+and perpetrator drug dosing and indication across pediatric age groups. These differences Gonzalez and Sinha Page 9
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptmay impact the specific perpetrator drugs that should be considered when making DDI 
+predictions and whether there are likely to be differences in victim or perpetrator drug 
+exposure with age, leading to differences in the DDI magnitude. Therefore, patient-related 
+variables that can affect the victim or perpetrator drug exposure or alter the fe,dose should be 
+considered when evaluating DDI magnitude in pediatric patients.
+Methodological Considerations
+Non-Compartmental Analysis— In adults, DDI studies designed to evaluate a potential 
+PK-mediated DDI often involve studying healthy volunteers using a crossover clinical 
+trial design and an intensive PK sampling scheme. In analyzing this PK data, a non­
+compartmental analysis (NCA) approach is applied to compute a measure of drug exposure 
+(i.e., AUC, maximal drug concentration) from individual concentration vs. time data. 
+However, NCA analyses are not commonly used in pediatric DDI evaluation because of the 
+sparse sampling scheme, especially in neonates and infants. Also, there is often variability 
+in the number of samples and sample collection timing between subjects. Applying a “naïve­
+pooled approach,” where all samples are assumed to come from a single patient (ignoring 
+the inter-individual variability), is challenging to implement in pediatric DDI studies. This 
+approach is generally not feasible because the AUC change in pediatric patients may not 
+reflect the actual magnitude of DDI due to possible confounding effect(s) at the individual 
+level. These confounding effects arise because of the heterogeneity in the pediatric patients 
+studied (unlike healthy adults) and their existing standard of care therapies. Therefore, 
+opportunities to apply traditional NCA in pediatric DDI assessment is limited.
+Population Modeling— PopPK modeling can be used to characterize the disposition of a 
+drug and account for the effect of patient covariates (e.g., body weight, age, and concomitant 
+medications) that help to explain inter-individual variability. Using PopPK modeling, the 
+impact of a specific covariate (e.g., interacting drug) on a PK parameter such as CL can 
+be separated from other confounding covariates such as organ dysfunction measures. When 
+applying PopPK modeling for DDI evaluation, selecting an appropriate parameterization 
+for the covariate effect is of utmost importance. The choice should be made based on 
+prior knowledge about the interacting drugs’ characteristics, especially when a high inter­
+individual variability in the magnitude of DDI is expected in the target population. The 
+covariate effect parameterization should also be based on study design considerations and 
+the available covariate data (e.g., doses studied, sample size).
+Modeling Concomitant Drug Use as a Categorical Covariate— In PopPK models, 
+the effect of a DDI can be incorporated as a categorical covariate. This is accomplished 
+by introducing a binary variable that accounts for the co-administration of the perpetrator 
+drug.53,54 This approach implicitly assumes that the change in CL (due to co-administration 
+of an interacting drug) is a fixed value, which does not vary with respect to dose, age, and 
+disease, or any other variable that potentially influences fe,dose. However, this assumption 
+may not be valid for all drugs because the dose and/or patient-related factors can also 
+influence the magnitude of DDI depending upon the drug’s disposition characteristics.Gonzalez and Sinha Page 10
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptThe dose of the perpetrator drug can influence the magnitude of the DDI depending on 
+both its potency of enzyme modulation and its therapeutic dose range (that determines 
+[I]). More specifically, the ratio of IKi should be considered. According to Equation 
+1, a low and a high IKi ratio would imply a weak and a strong inhibitor, respectively. 
+Theoretically, for a weak inhibitor with a wide therapeutic dose range, the magnitude of a 
+DDI may be dose-dependent due to incomplete inhibition at the lower doses. In contrast, 
+less dose-dependency would be expected for a DDI that results from a strong inhibitor 
+since complete inhibition would be achieved at a lower dose. For example, when the strong 
+CYP3A inhibitor itraconazole is co-administered (100 mg once daily vs. 200 mg once 
+daily for multiple days) with midazolam, midazolam’s AUC increased to a similar extent 
+(~6-fold) in both the dose groups.55 However, in reality, the well-recognized categorization 
+of “weak” and “strong” inhibitors may not align with low and high IKi ratios given that 
+the ratio will depend on the clinical range of concentrations and the inhibition constant. For 
+example, the effect of itraconazole dose on midazolam AUC was more pronounced when 
+a 50 mg single dose (~ 2-fold AUC ratio) is compared with 100 or 200 mg once daily 
+(~6-fold AUC ratio).55 In addition to the dose, the dosing regimen could also alter the DDI 
+magnitude depending upon the perpetrator’s half-life. The same study reported that a 400 
+mg single dose of itraconazole increased midazolam’s AUC to a similar extent as 100 mg 
+once daily. Therefore, when evaluating the magnitude of a DDI, one should consider the 
+resulting exposures for varying dosing regimens.
+As discussed, the magnitude of a DDI can vary due to differences in several other patient­
+related factors, which potentially alter the fe,dose. For example, the fe,dose of a partially 
+metabolically cleared victim drug can increase in neonates and infants due to the immature 
+renal function. Even once the renal function is mature, organ dysfunction can also cause 
+fe,dose to increase further. Apart from this, differential ontogeny rates across various enzyme 
+isoforms (e.g., CYP3A4 vs. CYP2D6) would cause their relative expression to vary with 
+age, resulting in variation in fe,dose. When multiple metabolic pathways are involved (e.g., 
+CYP3A4 vs. CYP2D6), the presence of a polymorphic allele in at least one of these 
+contributing pathways (e.g., CYP2D6) would further increase fe,dose of the other pathway 
+(i.e., CYP3A4), which contribute to variability in the DDI magnitude. In these situations, 
+modeling the DDI using a more mechanistic framework may be warranted.
+Mechanism-Based Modeling— Another strategy to model the DDI and account for the 
+dose-effect is to co-model the perpetrator drug’s PK. The perpetrator drug model is then 
+linked to the victim drug’s elimination via a fit-for-purpose enzyme modulation model.56,57 
+While this approach closely aligns with the pharmacology (since the perpetrator’s exposure 
+is considered a continuous covariate in the model), its implementation is often challenging 
+due to the lack of perpetrator concentration vs. time data, especially in children. Therefore, 
+another approach is to capture the dose-dependent DDI effect by modeling it as an ordinal 
+categorical covariate, accounting for each dose.54 While the latter approach can be more 
+readily implemented because perpetrator drug concentration vs. time data are not needed, it 
+also reduces the power to estimate the ordinal covariate effects by sub-grouping the patients 
+based on the dose level. Therefore, whenever data are available from multiple dose levels, Gonzalez and Sinha Page 11
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptefforts should be made to account for dosing differences as a continuous covariate. Although 
+this approach would account for dosing differences, a fundamental assumption is that there 
+is no inter-individual variability in the average perpetrator drug exposure (equivalent [ I] in 
+Equation 1) within a dose group. Therefore, the inter-individual variability in the perpetrator 
+drug PK is not captured. For example, a sigmoidal model where the DDI effect increases 
+with the perpetrator drug’s dose level and eventually asymptotes to a maximal effect can be 
+applied.
+In addition to the perpetrator drug dose, other continuous covariates (e.g., age, organ 
+function) that potentially impact the DDI by causing variation in fe,dose between pediatric 
+patients should also be considered. The model parameterization should be justified by the 
+biological considerations that can contribute to drug exposure variability and take into 
+account study design variables such as the sample size.
+Early phase pediatric studies may be limited in sample size in many cases, making DDI 
+estimation by a PopPK analysis challenging. A simulation-estimation-based exercise by 
+Yang and Beerahee concluded that PopPK studies’ power to detect the DDI would largely 
+depend on the inter-individual variability in PK parameters.58 Using a two-compartment 
+model, their results indicated that for a parameter with low inter-individual variability 
+(<25% coefficient of variation), a minimum of 40 participants would be required to achieve 
+90% power. The requirement will increase to at least 80 participants if the inter-individual 
+variability on the PK parameter rises to nearly 40%. A similar trend of a higher sample size 
+requirement for PopPK studies was reported in another simulation-estimation-based study 
+compared to an NCA approach to achieve the required power.59 Their overall conclusion 
+was that typical phase 2/3 studies in drug development would allow DDI estimation by 
+PopPK methods. Therefore, given the sample size constraints in pediatric studies, it is 
+recommended to perform simulation-based power analysis on a case-by-case basis to design 
+the pediatric studies for DDI assessment optimally.54
+Physiologically-Based Pharmacokinetic (PBPK) Modeling— PBPK modeling can 
+be applied to mechanistically account for the dose and patient-related factors that can impact 
+DDI magnitude and variability. A PBPK model’s ability to account for the mechanistic 
+underpinnings of the biological processes that determine DDI potential, especially in the 
+absence of clinical data in the target population, has made this modeling approach a 
+helpful tool in drug development. The number of articles that used PBPK modeling for 
+U.S. Food and Drug Administration (FDA) approved drugs increased by more than tenfold 
+between 2012 and 2018.60 Among a total of 136 FDA submissions between 2008 and 
+2014 that applied PBPK modeling, 61% focused on addressing DDI-related questions.61,62 
+However, there are a limited number of examples of using PBPK modeling for pediatric DDI 
+assessment. Although a few recent reports have utilized PBPK modeling to predict an eDDI 
+in children63–66, only one article considered a target population below two years of age.65 
+As of now, the use of PBPK modeling in pediatric regulatory submissions has primarily 
+focused on initial dose-finding for clinical trials, especially in the younger children below 
+two years of age.67 This could be mainly because limited pediatric DDI data are currently 
+available to validate the PBPK model predictions, with almost no DDI data available in Gonzalez and Sinha Page 12
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptneonates and infants4, where maximum variation in the magnitude of DDI could be expected 
+(compared to adults). Therefore, there is a clear knowledge gap in the application of PBPK 
+modeling for pediatric DDI assessment, particularly below two years of age.
+When applying PBPK modeling in the pediatric population, adult PBPK models are first 
+developed and evaluated for the victim and perpetrator drugs. If adult DDI data are 
+available, a joint DDI model can be implemented and evaluated.4 These adult PBPK 
+models are then extrapolated to the pediatric population by accounting for age-dependent 
+physiological changes such as organ size, composition, perfusion, and function. Such age­
+dependent changes are already implemented in virtual pediatric populations available within 
+software platforms such as Simcyp® and PK-Sim®. The pediatric PBPK models for the 
+perpetrator and victim drugs can then be evaluated separately using available clinical data. 
+However, pediatric PBPK model evaluation can be challenging due to the presence of 
+other confounding factors that affect PK, including disease-mediated factors (e.g., organ 
+impairment, critical illness) and/or co-medications. Accounting for these disease-mediated 
+changes in the virtual pediatric population can be challenging due to gaps in knowledge 
+and heterogeneity in disease status between patients. In these circumstances, it is essential 
+to have confidence in the algorithms that define the age-dependent changes in the “rate­
+limiting” physiological variables to ensure an appropriate joint DDI model is developed. 
+More specifically, in the context of DDI evaluation, essential rate-limiting variable(s) are 
+the ontogeny of enzyme and transporter expression(s) that define the age-dependent change 
+in fe,  dose of the perturbed pathway(s) in the victim drug’s model. Scientists working at 
+the FDA have identified ontogeny as the key area where confidence needs to be built 
+in order to make “untested” predictions of DDI in children below two years of age.67 
+Additionally, the polymorphic drug-metabolizing enzymes and transporters can also be 
+a rate-limiting variable influencing fe,  dose if multiple metabolic/transport processes are 
+involved. Extensive research has already been performed to facilitate PBPK modeling for the 
+pediatric population. Various ontogeny equations for enzyme expressions have already been 
+developed, and some of them are already implemented in commercial PBPK software.68–72 
+Apart from drug-metabolizing enzymes, there has also been progress in elucidating the 
+impact of ontogeny in drug transporters that can impact drug disposition.73,74 Therefore, 
+there is an opportunity to apply PBPK modeling to evaluate both drug-metabolizing 
+enzyme- and transporter-mediated DDIs in the future.
+Model Simulations— Developed PopPK and PBPK models can be used to evaluate the 
+DDI magnitude in different untested scenarios using a simulation-based approach. The 
+simulations can assess DDI magnitude differences as a function of age, dose, and genetic 
+variation if these variables are accounted for in the PopPK or PBPK model. The simulations 
+can inform dose adjustments based on the predicted change in the measure(s) of exposure 
+as a function of these variables if the drug combination is used in pediatric patients. Drug 
+exposure measures that can be simulated and related to the drug’s therapeutic window 
+include AUC and the maximal drug concentration. As described in the FDA guidance, a 
+no-effect boundary needs to be defined, representing the interval within which a change in 
+a systemic exposure measure is considered not relevant to warrant clinical action (e.g., dose 
+or schedule adjustment, or additional therapeutic monitoring).75 For clinical DDI studies, Gonzalez and Sinha Page 13
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptno-effect boundaries can be derived for the substrate drug based on available information 
+about the exposure and exposure-response relationships.75 In the absence of information 
+that can help define these no-effect boundaries, standard bio-equivalence criteria can be 
+followed. As per the criteria, the 90% confidence interval for the exposure measure’s 
+geometric mean ratio (in the presence and absence of the interaction) should fall within 
+the range of 80–125% to be considered a clinically insignificant DDI. A 90% confidence 
+interval for the exposure measure’s geometric mean ratio can be generated separately for 
+each pediatric age group studied in pediatric DDI evaluation.
+Summary of Pediatric DDI Evaluation, Knowledge Gaps, and Areas for Future Research
+A DDI magnitude estimated in adults may not be directly applicable to pediatric patients 
+under various circumstances discussed in this article. However, given that pediatric studies 
+often employ an opportunistic study design, estimation of the DDI magnitude in pediatric 
+age groups is challenging. Selection of an appropriate modeling approach is needed and 
+should depend upon the availability and/or informativeness of clinical DDI data. When 
+robust pediatric DDI data are available (i.e., adequate sample size and sampling scheme), a 
+top-down analysis that uses population modeling can be applied since it has the unique 
+ability to estimate the PK and PD parameters from opportunistic datasets. Population 
+modeling can also help to discern the effect of concomitant medication(s) on the inter­
+individual variability in drug disposition or response. The use of population modeling for 
+pediatric DDI evaluation is mainly limited by small sample sizes and scarcity of information 
+about co-medications (i.e., dose levels, perpetrator drug PK data). On the other hand, PBPK 
+modeling holds great promise for pediatric DDI evaluation, particularly when clinical DDI 
+data are unavailable (or are less informative). PBPK modeling can be applied to make PK 
+predictions by integrating available drug and physiological data of the target population 
+and accounting for study design variables. As summarized in Figure 2, population and 
+PBPK modeling approaches each have strengths and limitations, and both will play a role in 
+pediatric DDI evaluation.
+Collaborative research is needed to facilitate pediatric DDI evaluation in the future. 
+This can include characterizing patient-related variables’ (e.g., obesity, organ dysfunction, 
+genetic variation) impact on DDI magnitude; the development and refinement of virtual 
+pediatric patient population libraries; continued research into the maturation of enzyme 
+and transporter proteins; and pediatric DDI data collection for model development and 
+evaluation. PBPK modeling predictions require virtual patient population libraries of 
+physiological variables for the target population that account for the inter-individual 
+variability in PK. These virtual patient population libraries should account for physiological 
+changes that mimic different real-world patient populations, such as pediatric patients with 
+obesity, organ dysfunction, and critical illness. When comparing PBPK model predictions 
+with real-world patient data, model evaluation can be challenging if these patient-related 
+variables are not captured. Therefore, continued development and refinement of virtual 
+patient population libraries is needed for PBPK model evaluation purposes.
+Additional potential areas for research include identifying elimination pathways and/or 
+combination of elimination pathways that may be particularly susceptible to DDIs in Gonzalez and Sinha Page 14
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscriptpediatric patients; identifying ideal clinical substrates, inhibitors, and inducers (that are 
+routinely administered per standard of care in pediatric patients) to validate DDIs associated 
+with these elimination pathways; and more examples demonstrating the use of opportunistic 
+and electronic health cord data for pediatric DDI evaluation. Also, much more research 
+is needed to characterize PD-mediated DDIs in pediatric patients, including applying 
+methodologies that have been used to assess PD-mediated DDIs in adults.35,76–79 Finally, 
+the potential ontogeny of pharmacological targets and its impact on PD-mediated DDIs 
+has remained unexplored to the authors’ knowledge. Initiatives to facilitate collaboration 
+between drug developers, academic researchers, and regulatory agencies can help expedite 
+the research in these unmet areas of pediatric DDI evaluation.
+Source of Funding
+D.G. was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development 
+(NICHD) under awards 5R01HD096435-03 and 1R01HD102949-01A1. J.S. was supported by the NICHD under 
+award 5R01HD096435-03. The content is solely the responsibility of the authors and does not necessarily represent 
+the official views of the National Institutes of Health.
+References
+1. Cascorbi I Drug interactions—principles, examples and clinical consequences. Dtsch. Arztebl. Int. 
+2012;109(33–34):546–55. [PubMed: 23152742] 
+2. van den Berg JP, et al. Pharmacokinetic and pharmacodynamic interactions in anaesthesia. A review 
+of current knowledge and how it can be used to optimize anaesthetic drug administration. Br. J. 
+Anaesth. 2017;118(1):44–57. [PubMed: 28039241] 
+3. Hull MW, Montaner JSG. Ritonavir-boosted protease inhibitors in HIV therapy. Ann. Med. 
+2011;43(5):375–88. [PubMed: 21501034] 
+4. Salerno SN, Burckart GJ, Huang SM, Gonzalez D. Pediatric drug–drug interaction studies: barriers 
+and opportunities. Clin Pharmacol Ther. 2019;105(5):1067–1070. [PubMed: 30362111] 
+5. Feinstein J, Dai D, Zhong W, Freedman J, Feudtner C. Potential drug-drug interactions in infant, 
+child, and adolescent patients in children’s hospitals. Pediatrics. 2015;135(1):e99–108. [PubMed: 
+25511114] 
+6. Dai D, Feinstein JA, Morrison W, Zuppa AF, Feudtner C. Epidemiology of polypharmacy and 
+potential drug-drug interactions among pediatric patients in ICUs of U.S. children’s hospitals. 
+Pediatr Crit Care Med. 2016;17(5):e218–28. [PubMed: 26959349] 
+7. Feinstein JA, Feudtner C, Valuck R, Kempe A. The depth, duration, and degree of outpatient 
+pediatric polypharmacy in Colorado fee-for-service Medicaid patients. Pharmacoepidemiol. Drug 
+Saf. 2015;24(10):1049–1057. [PubMed: 26248529] 
+8. Holm J, Eiermann B, Kimland E, Mannheimer B. Prevalence of potential drug-drug interactions in 
+Swedish pediatric outpatients. PLoS One 2019;14(8):e0220685. [PubMed: 31381591] 
+9. Balk TE, et al. Drug–drug interactions in pediatric oncology patients. Pediatr. Blood Cancer 
+2017;64(7): e26410.
+10. Yeh ML, et al. Potential drug-drug interactions in pediatric outpatient prescriptions for newborns 
+and infants. Comput. Methods Programs Biomed. 2014;113(1): 15–22. [PubMed: 24209715] 
+11. U.S. Food and Drug Administration. Code of Federal Regulations, Title 21, Part 50, 
+Subpart D, (2013), §50.52. Accessed via: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/
+CFRSearch.cfm?fr=50.52 .
+12. Salem F, Rostami-Hodjegan A, Johnson TN. Do children have the same vulnerability to metabolic 
+drug-drug interactions as adults? A critical analysis of the literature. J Clin Pharmacol. 2013;53(5): 
+559–66. [PubMed: 23724424] Gonzalez and Sinha Page 15
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript13. Tesfaye ZT, Nedi T. Potential drug–drug interactions in inpatients treated at the internal medicine 
+ward of Tikur anbessa specialized hospital. Drug. Healthc. Patient Saf. 2017;9: 71–76. [PubMed: 
+28860861] 
+14. Grissinger M Analysis of reported drug interactions: a recipe for harm to patients. Pennsylvania 
+patient Saf. Advis. 2016;13(4):137–148.
+15. Magro L, Moretti U, Leone R. Epidemiology and characteristics of adverse drug reactions caused 
+by drugdrug interactions. Expert Opin. Drug Saf. 2012;11(1):83–94. [PubMed: 22022824] 
+16. Palleria C, et al. Pharmacokinetic drug-drug interaction and their implication in clinical 
+management. J. Res. Med. Sci. 2013;18(7):601–610. [PubMed: 24516494] 
+17. Patsalos PN, et al. Antiepileptic drugs -- best practice guidelines for therapeutic drug monitoring: 
+A position paper by the subcommission on therapeutic drug monitoring, ILAE Commission on 
+Therapeutic Strategies. Epilepsia 2008;49(7):1239–76. [PubMed: 18397299] 
+18. van Dijkman SC, Wicha SG, Danhof M, Della Pasqua OE. Individualized dosing algorithms 
+and therapeutic monitoring for antiepileptic drugs. Clin. Pharmacol. Ther. 2018;103(4):663–673. 
+[PubMed: 28653352] 
+19. Obach RS, Walsky RL, Venkatakrishnan K, Houston JB, Tremaine LM. In vitro cytochrome P450 
+inhibition data and the prediction of drug-drug interactions: Qualitative relationships, quantitative 
+predictions, and the rank-order approach. Clin. Pharmacol. Ther. 2005;78(6): 582–592. [PubMed: 
+16338274] 
+20. Rostami-Hodjegan A, Tucker G. ‘In silico’ simulations to assess the ‘in vivo’ consequences of ‘in 
+vitro’ metabolic drug-drug interactions. Drug Discov. Today Technol. 2004;1(4):441–8. [PubMed: 
+24981625] 
+21. Rowland M, Matin SB. Kinetics of drug-drug interactions. J. Pharmacokinet. Biopharm. 1973;1(6): 
+553–567.
+22. Salem F, Johnson TN, Barter ZE, Leeder JS, Rostami-Hodjegan A. Age related changes in 
+fractional elimination pathways for drugs: assessing the impact of variable ontogeny on metabolic 
+drug-drug interactions. J Clin Pharmacol. 2013;53(8):857–865. [PubMed: 23720017] 
+23. Strougo A, Yassen A, Monnereau C, Danhof M, Freijer J. Predicting the ‘first dose in children’ 
+of CYP3A-metabolized drugs: evaluation of scaling approaches and insights into the CYP3A7­
+CYP3A4 switch at young ages. J. Clin. Pharmacol. 2014;54(9):1006–15. [PubMed: 24676942] 
+24. Rhodin MM, et al. Human renal function maturation: a quantitative description using weight and 
+postmenstrual age. Pediatr. Nephrol. 2009;24(1): 67–76. [PubMed: 18846389] 
+25. Salem F, Johnson TN, Hodgkinson ABJ, Ogungbenro K, Rostami-Hodjegan A. Does “birth” as an 
+event impact maturation trajectory of renal clearance via glomerular filtration? Reexamining data 
+in preterm and full-term neonates by avoiding the creatinine bias. J. Clin. Pharmacol. 2021;61(2): 
+159–171. [PubMed: 32885464] 
+26. Salem F, Abduljalil K, Kamiyama Y , Rostami-Hodjegan A. Considering age variation when 
+coining drugs as high vs low hepatic extraction ratio. Drug Metab. Dispos. 2016;44(7):1099–1102. 
+[PubMed: 26864786] 
+27. Boonsathorn S, et al. Clinical pharmacokinetics and dose recommendations for posaconazole in 
+infants and children. Clin. Pharmacokinet. 2019;58(1): 53–61. [PubMed: 29679234] 
+28. Ogawa R & Echizen H. Drug-drug interaction profiles of proton pump inhibitors. Clin. 
+Pharmacokinet. 2010;49(8):509–33. [PubMed: 20608754] 
+29. Nagita A, et al. Diurnal variation in intragastric pH in children with and without peptic ulcers. 
+Pediatr. Res. 1996;40(4): 528–532. [PubMed: 8888278] 
+30. Mordel A, Halkin H, Zulty L, Almog S, Ezra D. Quinidine enhances digitalis toxicity 
+at therapeutic serum digoxin levels. Clin. Pharmacol. Ther. 1993;53(4): 457–462. [PubMed: 
+8477562] 
+31. Lin JH. Drug-drug interaction mediated by inhibition and induction of P-glycoprotein. Adv. Drug 
+Deliv. Rev. 2003;55(1): 53–81. [PubMed: 12535574] 
+32. Verschraagen M, Koks CHW, Schellens JHM, Beijnen JH. P-glycoprotein system as a determinant 
+of drug interactions: The case of digoxin-verapamil. Pharmacol. Res. 1999;40(4): 301–306. 
+[PubMed: 10527640] Gonzalez and Sinha Page 16
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript33. Greiner B, et al. The role of intestinal P-glycoprotein in the interaction of digoxin and rifampin. J. 
+Clin. Invest. 1999;104(2): 147–153. [PubMed: 10411543] 
+34. Khaliq Y , Gallicano K, Venance S, Kravcik S, Cameron DW. Effect of ketoconazole on ritonavir 
+and saquinavir concentrations in plasma and cerebrospinal fluid from patients infected with human 
+immunodeficiency virus. Clin. Pharmacol. Ther. 2000; 68(6): 637–646. [PubMed: 11180024] 
+35. Minto CF, Schnider TW, Short TG, Gregg KM, Gentilini A, Shafer SL. Response surface model 
+for anesthetic drug interactions. Anesthesiology 2000;92(6):1603–16. [PubMed: 10839909] 
+36. Stephenson RP. A modification of receptor theory. Br. J. Pharmacol. 1956;11(4):379–93.
+37. Ruffolo RR Jr. Important concepts of receptor theory. J. Auton. Pharmacol. 1982;2(4):277–95. 
+[PubMed: 7161296] 
+38. Maehle A-H, Prüll C-R, Halliwell RF. The emergence of the drug receptor theory. Nat Rev Drug 
+Discov. 2002;1(8):637–41. [PubMed: 12402503] 
+39. Daws LC, Gould GG. Ontogeny and regulation of the serotonin transporter: providing insights into 
+human disorders. Pharmacol Ther. 2011;131(1):61–79. [PubMed: 21447358] 
+40. Samardzic J, Allegaert K, Bajcetic M. Developmental pharmacology: A moving target. Int. J. 
+Pharm. 2015;492(1–2):335–7. [PubMed: 25959118] 
+41. Groll AH, et al. Drug-drug interactions between triazole antifungal agents used to treat invasive 
+aspergillosis and immunosuppressants metabolized by cytochrome P450 3A4. Transpl. Infect. Dis. 
+2017;19(5).
+42. Lipp H-P. Posaconazole: clinical pharmacokinetics and drug interactions. Mycoses 2011;54 Suppl 
+1:32–8. [PubMed: 21126270] 
+43. Di Nardo M, Wildschut ED. Drugs pharmacokinetics during veno-venous extracorporeal 
+membrane oxygenation in pediatrics. J. Thorac. Dis. 2018;10(Suppl 5):S642–S652. [PubMed: 
+29732182] 
+44. Merrell MD, Cherrington NJ. Drug metabolism alterations in nonalcoholic fatty liver disease. Drug 
+Metab. Rev. 2011;43(3):317–34. [PubMed: 21612324] 
+45. Ghobadi C, et al. Application of a systems approach to the bottom-up assessment of 
+pharmacokinetics in obese patients: expected variations in clearance. Clin. Pharmacokinet. 
+2011;50(12):809–22. [PubMed: 22087867] 
+46. Greenblatt DJ, Harmatz JS, Ryan MJ, Chow CR. Sustained impairment of lurasidone clearance 
+after discontinuation of posaconazole: impact of obesity, and implications for patient safety. J. 
+Clin. Psychopharmacol. 2018;38(4):289–295. [PubMed: 29851709] 
+47. Marceau P, et al. Liver pathology and the metabolic syndrome X in severe obesity. J. Clin. 
+Endocrinol. Metab. 1999;84(5):1513–7. [PubMed: 10323371] 
+48. Bellentani S, Scaglioni F, Marino M, Bedogni G. Epidemiology of non-alcoholic fatty liver 
+disease. Dig. Dis. 2010;28(1):155–61. [PubMed: 20460905] 
+49. Schwimmer JB, Deutsch R, Kahen T, Lavine JE, Stanley C, Behling C. Prevalence of fatty liver in 
+children and adolescents. Pediatrics 2006;118(4):1388–93. [PubMed: 17015527] 
+50. Marion AW, Baker AJ, Dhawan A. Fatty liver disease in children. Arch. Dis. Child. 
+2004;89(7):648–52. [PubMed: 15210498] 
+51. Lavine JE, Schwimmer JB. Nonalcoholic fatty liver disease in the pediatric population. Clin. Liver 
+Dis. 2004;8(3):549–58. [PubMed: 15331063] 
+52. Ogden CL, Carroll MD, Curtin LR, McDowell MA, Tabak CJ, Flegal KM. Prevalence of 
+overweight and obesity in the United States, 1999–2004. JAMA 2006;295(13):1549–55. [PubMed: 
+16595758] 
+53. Sallas WM, Milosavljev S, D’Souza J, Hossain M. Pharmacokinetic drug interactions in children 
+taking oxcarbazepine. Clin. Pharmacol. Ther. 2003;74(2):138–49. [PubMed: 12891224] 
+54. Bonate PL, et al. Methods and strategies for assessing uncontrolled drug–drug interactions in 
+population pharmacokinetic analyses: results from the International Society of Pharmacometrics 
+(ISOP) Working Group. J. Pharmacokinet. Pharmacodyn. 2016;43(2):123–35. [PubMed: 
+26837775] Gonzalez and Sinha Page 17
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript55. Ke AB, Zamek-Gliszczynski MJ, Higgins JW, Hall SD. Itraconazole and clarithromycin 
+as ketoconazole alternatives for clinical CYP3A inhibition studies. Clin. Pharmacol. Ther. 
+2014;95(5):473–6. [PubMed: 24747234] 
+56. Frechen S, Junge L, Saari TI. A semiphysiological population pharmacokinetic model for dynamic 
+inhibition of liver and gut wall cytochrome P450 3A by voriconazole. Clin. Pharmacokinet. 
+2013;52(9):763–81. [PubMed: 23653047] 
+57. Lehr T, Staab A, Trommeshauser D, Schaefer HG, Kloft C. Semi-mechanistic population 
+pharmacokinetic drug-drug interaction modelling of a long half-life substrate and itraconazole. 
+Clin Pharmacokinet. 2010;49(1):53–66. [PubMed: 20000889] 
+58. Yang S, Beerahee M. Power estimation using a population pharmacokinetics model with optimal 
+design by clinical trial simulations: application in pharmacokinetic drug-drug interaction studies. 
+Eur. J. Clin. Pharmacol. 2011;67(3):225–33. [PubMed: 21125264] 
+59. Wang DD, et al. The utility of a population approach in drug-drug interaction assessments: a 
+simulation evaluation. J. Clin. Pharmacol. 2017;57(10):1268–1278. [PubMed: 28513856] 
+60. Perry C, Davis G, Conner TM, Zhang T. Utilization of physiologically based pharmacokinetic 
+modeling in clinical pharmacology and therapeutics: an overview. Curr. Pharmacol. Reports 2020 
+5 12;1–14. [Epub ahead of print].
+61. Grillo JA. Presentation title: Pediatric applications of PBPK modeling and simulation 
+in drug regulatory science: where are we now?, In: AAPS Meeting. San Diego, USA. 
+2014. Accessed via: https://zerista.s3.amazonaws.com/item_files/1f71/attachments/32090/original/
+186.pdf . Accessed 21 Mar 2021.
+62. Huang S-M, Abernethy DR, Wang Y , Zhao P, Zineh I. The utility of modeling and simulation 
+in drug development and regulatory review. J. Pharm. Sci. 2013;102(9): 2912–2923. [PubMed: 
+23712632] 
+63. Li A, Yeo K, Welty D, Rong H. Development of guanfacine extended-release dosing strategies 
+in children and adolescents with ADHD using a physiologically based pharmacokinetic model 
+to predict drug–drug interactions with moderate CYP3A4 inhibitors or inducers. Pediatr. Drugs 
+2018;20(2):205.
+64. Adiwidjaja J, Boddy A V , McLachlan AJ. Implementation of a physiologically based 
+pharmacokinetic modeling approach to guide optimal dosing regimens for imatinib and potential 
+drug interactions in paediatrics. Front. Pharmacol. 2020;10:1672. [PubMed: 32082165] 
+65. Salerno SN, et al. Physiologically-based pharmacokinetic modeling characterizes the CYP3A­
+mediated drug-drug interaction between fluconazole and sildenafil in infants. Clin. Pharmacol. 
+Ther. 2021;109(1): 253–262. [PubMed: 32691891] 
+66. Huang W, Nakano M, Sager J, Ragueneau-Majlessi I, Isoherrane N. Physiologically based 
+pharmacokinetic model of the CYP2D6 probe atomoxetine: extrapolation to special populations 
+and drug-drug interactions. Drug Metab. Dispos. 2017;45(11):1156–1165. [PubMed: 28860113] 
+67. Grimstein M, et al. Physiologically based pharmacokinetic modeling in regulatory science: an 
+update from the U.S. Food and Drug Administration’s Office of Clinical Pharmacology. J. Pharm. 
+Sci. 2019;108(1):21–25. [PubMed: 30385284] 
+68. Edginton AN, Schmitt W, V oith B, Willmann S. A mechanistic approach for the scaling of 
+clearance in children. Clin. Pharmacokinet. 2006;45(7):683–704. [PubMed: 16802850] 
+69. Johnson TN, Rostami-Hodjegan A, Tucker GT. Prediction of the clearance of eleven drugs and 
+associated variability in neonates, infants and children. Clin. Pharmacokinet. 2006;45(9):931–56. 
+[PubMed: 16928154] 
+70. Upreti VV , Wahlstrom JL. Meta-analysis of hepatic cytochrome P450 ontogeny to underwrite the 
+prediction of pediatric pharmacokinetics using physiologically based pharmacokinetic modeling. J. 
+Clin. Pharmacol. 2016;56(3):266–83. [PubMed: 26139104] 
+71. de Wildt SN, Kearns GL, Leeder JS, van den Anker JN. Glucuronidation in humans. 
+Pharmacogenetic and developmental aspects. Clin. Pharmacokinet. 1999;36(6):439–52. [PubMed: 
+10427468] 
+72. Verscheijden LFM, Koenderink JB, Johnson TN, de Wildt SN, Russel FGM. Physiologically­
+based pharmacokinetic models for children: Starting to reach maturation? Pharmacol. Ther. 
+2020;211:107541. [PubMed: 32246949] Gonzalez and Sinha Page 18
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript73. Cheung KWK, van Groen BD, Burckart GJ, Zhang L, de Wildt SN, Huang S-M. Incorporating 
+ontogeny in physiologically based pharmacokinetic modeling to improve pediatric drug 
+development: what we know about developmental changes in membrane transporters. J Clin 
+Pharmacol. 2019;59 (Suppl 1):S56–S69. [PubMed: 31502692] 
+74. van Groen BD, Tibboel D, deWildt SN. Innovative approaches and recent advances in the study 
+of ontogeny of drug metabolism and transport. Br. J. Clin. Pharmacol. 2020 8 26. [Epub ahead of 
+print].
+75. U.S. Food and Drug Administration Center for Drug Evaluation and Research. Clinical 
+drug interaction studies-cytochrome P450 enzyme- and transporter-mediated drug interactions. 
+Guidance for industry. Accessvia via: https://www.fda.gov/media/134581/download . (2020). 
+Accessed 23 Dec 2020.
+76. Danhof M, de Jongh J, De Lange ECM, Della Pasqua O, Ploeger BA, V oskuyl RA. Mechanism­
+based pharmacokinetic-pharmacodynamic modeling: biophase distribution, receptor theory, and 
+dynamical systems analysis. Annu. Rev. Pharmacol. Toxicol. 2007;47:357–400. [PubMed: 
+17067280] 
+77. Jonker DM, Visser SAG, van der Graaf PH, V oskuyl RA, Danhof M. Towards a mechanism-based 
+analysis of pharmacodynamic drug-drug interactions in vivo. Pharmacol. Ther. 2005;106(1):1–18. 
+[PubMed: 15781119] 
+78. Wicha SG, Chen C, Clewe O, Simonsson USH. A general pharmacodynamic interaction model 
+identifies perpetrators and victims in drug interactions. Nat. Commun. 2017 14;8(1):2129. 
+[PubMed: 29242552] 
+79. Kern S, Xie G, White J, Egan T. A response surface analysis of propofol-remifentanil 
+pharmacodynamic interaction in volunteers. Anesthesiology 2004;100(6):1373–81. [PubMed: 
+15166554] Gonzalez and Sinha Page 19
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 1. 
+Essential considerations for the evaluation of pediatric drug-drug interactions (DDIs). The 
+drug, patient population, study design, and data analysis considerations are summarized 
+within separate light blue boxes. The study design and data analysis categories collectively 
+represent the methodological considerations. The considerations outlined within the dark 
+blue boxes are common to the corresponding categories in the light blue boxes. PK, 
+pharmacokinetic; PBPK, physiologically based pharmacokinetic.Gonzalez and Sinha Page 20
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptFigure 2. 
+Challenges and opportunities for applying physiologically based pharmacokinetic (PBPK) 
+and population pharmacokinetic (PopPK) modeling in pediatric drug-drug interaction (DDI) 
+evaluations.Gonzalez and Sinha Page 21
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptAuthor Manuscript Author Manuscript Author Manuscript Author ManuscriptGonzalez and Sinha Page 22
+Table 1.
+Comparison of the key attributes between adult and pediatric drug-drug interaction (DDI) evaluation and their 
+implications in pediatric DDI assessment.
+Adults Pediatric Patients Implications for Pediatric DDI Assessment
+Study subjects Healthy volunteersPatients receiving the 
+drugs as part of their 
+treatment regimenPotential confounding effects of disease states and co­
+medications may be observed.
+Study designProspective (crossover or 
+parallel, two-arm study 
+design)Prospective, 
+retrospective, or case 
+reportsFindings may be limited by the study design variables in 
+retrospective studies (e.g., limited dose and age range, the 
+limited sample size for each age or dose group).
+Physiological 
+changes with ageGenerally, not a 
+significant factor for 
+healthy volunteersPresent throughout 
+childhoodAge-dependent physiological changes may confound the DDI 
+magnitude if the age effect is not captured (most relevant for <2 
+years of age due to possible alteration of fe,dose ).
+PK data analysis 
+approachNon-compartmental 
+analysis, Population PK, 
+or PBPKPopulation or PBPK 
+modelingStudy design variables (e.g., sample size, perpetrator’s PK data, 
+or dose range) should guide population modeling methodology 
+(e.g., categorical vs. continuous covariate modeling). PBPK 
+modeling is an alternative approach when clinical DDI data are 
+unavailable or less informative.
+PK sampling Intensive SparseSparse sampling makes it challenging to apply a non­
+compartmental analysis approach.
+PK: pharmacokinetic; PBPK: physiologically-based pharmacokinetic; fe,dose : fraction of dose of the victim drug eliminated by the perpetrated 
+elimination pathway.
+J Clin Pharmacol . Author manuscript; available in PMC 2022 June 01.

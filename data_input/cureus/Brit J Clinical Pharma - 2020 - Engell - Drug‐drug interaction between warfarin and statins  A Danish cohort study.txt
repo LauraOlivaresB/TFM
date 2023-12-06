@@ -1,0 +1,363 @@
+SHORT REPORT
+Drug-drug interaction between warfarin and statins: A Danish
+cohort study
+Anna E. Engell1| Andreas L.O. Svendsen2| Bent S. Lind1|
+Christen L. Andersen3,4| John S. Andersen5| Tora G. Willadsen5|
+Frederik Persson6| Anton Pottegård7
+1Department of Clinical Biochemistry,
+Copenhagen University Hospital Hvidovre,
+Hvidovre, Denmark
+2Department of Clinical Biochemistry and
+Pharmacology, Odense University Hospital,
+Odense, Denmark
+3Copenhagen Primary Care Laboratory
+(CopLab) Database, Research Unit for GeneralPractice and Section of General Practice,
+Department of Public Health, University of
+Copenhagen, Denmark
+4Department of Hematology, Copenhagen
+University Hospital, Rigshospitalet,
+Copenhagen, Denmark
+5Research Unit for General Practice,
+Department of Public Health, Copenhagen
+University, Copenhagen, Denmark
+6Steno Diabetes Center Copenhagen,
+Gentofte, Denmark
+7Clinical Pharmacology and Pharmacy,
+Department of Public health, University of
+Southern Denmark, Odense, Denmark
+Correspondence
+Anna E. Engell, MD, Department of Clinical
+Biochemistry, University Hospital Hvidovre,
+Kettegaard Allé 30 2650, Hvidovre, Denmark.Email: anna.elise.engell@regionh.dkInitiation of statin treatment is suggested to increase the international normalised
+ratio (INR) among warfarin users. However, available data is limited and conflicting.
+We conducted a register-based cohort study to evaluate the drug-drug interactionbetween warfarin and statins.
+By linking data on INR measurements and filled prescriptions, we identified warfarin
+users 2000-2015 initiating simvastatin (n = 1363), atorvastatin (n = 165) or
+rosuvastatin (n = 23). Simvastatin initiation led to an increase in mean INR from 2.40
+to 2.71, with INRs peaking after 4 weeks, corresponding to a mean change of 0.32
+(95%CI 0.25-0.38). High-dose and low-dose simvastatin led to comparable changes
+(mean change 0.33 vs0.29). Initiation of atorvastatin and rosuvastatin lead to INR
+increases of 0.27 (95%CI 0.12-0.42) and 0.30 (95%CI -0.09-0.69).
+In conclusion, initiation of simvastatin, atorvastatin or rosuvastatin among warfarin
+users led to a minor increase in INR. The magnitude of this change is for most
+patients likely of limited clinical relevance.
+KEYWORDS
+anticoagulants and warfarin, drug interactions, statins
+1|INTRODUCTION
+The vitamin K antagonist warfarin is used in the treatment and
+prevention of thromboembolic events.1–3Due to its narrow
+therapeutic index, use of warfarin requires close monitoring of the
+international normalised ratio (INR). Warfarin is metabolised by the
+cytochrome P450 (CYP) liver enzymes, especially CYP2C9 ,4which
+makes it highly susceptible to drug-drug interactions (DDIs).1,4Statins
+are also metabolized by some of the same CYP enzymes and
+transporters dependent of statin type, eg, simvastatin is metabolised
+byCYP3A4 ,2C8,2D6 andMRP2 ,atorvastatin by CYP3A4, 2C8 and
+OATP1B1, and rosuvastatin by CYP2C9, 2C19 and OATP1B1.5Due to several overlaps in indications of use, coadministration of
+warfarin and statins is common.6,7A limited number of generally
+conflicting studies have reported both that statin initiation leads to
+moderate INR increases8–11and that small INR changes are of limited
+clinical relevance.12,13Despite limited evidence of a clinically relevant
+interaction between warfarin and statins, commonly used online DDI
+guidelines consistently advise clinicians to increase the frequency ofINR monitoring and if necessary adjust the warfarin dose when initiatingstatin treatment.
+14–16This results in additional consultations and
+blood testing, burdening both the patient and the healthcare system.
+To provide additional data on this potential DDI between statins
+and warfarin, we conducted a large register-based study andReceived: 15 April 2020 Revised: 26 May 2020 Accepted: 3 June 2020
+DOI: 10.1111/bcp.14428
+694 © 2020 The British Pharmacological Society Br J Clin Pharmacol. 2021; 87:694–699. wileyonlinelibrary.com/journal/bcpexamined the INR changes in warfarin users following exposure to
+simvastatin, atorvastatin and rosuvastatin.
+2|METHODS
+2.1 |Base cohort and data sources
+A base cohort was established by linking different Danish health
+registries. The base cohort comprised all patients registered with at
+least one INR measurement in the Copenhagen Primary CareLaboratory (CopLab) database. The database includes laboratory testresults from primary healthcare patients in the Copenhagen area of
+Denmark from 2000 to 2015.
+17,18During this period the primary
+healthcare doctors in the Copenhagen area were served by theElective Laboratory of the Capital Region (ELCR). ELCR covers
+approximately 1.2 million inhabitants and provides a wide range of
+biochemical, physiological and cardiac tests. The CopLab databasedoes not include INR point-of-care testing (POCT) results from general
+practice. The ELCR was accredited for International Organization for
+Standardization (ISO) standards ISO17025 and ISO15189. Appendix Aprovides a detailed description of the INR assay.
+For the cohort identified via CopLab, we retrieved data about
+drug use from the Danish National Prescription Registry
+19as well as
+hospital diagnoses from the Danish National Patient Registry (NPR).20
+Data linkage was done using the unique Danish Civil Registration
+Number assigned to all Danish residents.21
+2.2 |Study population
+From the base cohort (see above) we restricted the dataset to patients
+with at least two INR measurements, at least one recorded vitamin K
+antagonist (VKA) dispensing and at least one statin dispensing. Withinthis cohort we identified all incident prescriptions for simvastatin,atorvastatin and rosuvastatin, defined as a prescription with no
+preceding prescription for a statin within the last 2 years. If one
+individual had two such incident prescriptions for the same statin,only the first was included. We further restricted to those with at
+least one INR measurement 8 weeks before statin initiation, as well as
+at least one INR measurement within 12 weeks after statin initiation.Finally, we excluded those with no VKA prescription within 180 days
+before statin initiation and those aged <18 years at the time of statin
+initiation.
+2.3 |Main analysis
+The INR results were measured from 8 weeks before statin initiation
+to 12 weeks after statin initiation. We graphically depicted the
+changes in INR values by mapping median, interquartile, and 10th and90th percentiles during this window. To formally assess the INR
+changes, we estimated the increase in mean INR by comparing thelatest INR result in the before window to the first INR result
+within weeks 3-6 after statin initiation (if any) by using a paired
+ttest. We further assessed the median effect by estimating median
+changes in INR levels for all statin-treated patients, as well as thosetreated with high- ( ≥40 mg) and low-dose (<40 mg) simvastatin in
+secondary analyses. Finally, we calculated the proportion of patients
+with an INR above the therapeutic interval (for most patients INRbetween 2 and 3), defined as INR > 4 and >5 by comparing the
+proportion of patients 1-4 weeks prior to initiating simvastatin to the
+proportion 3-6 weeks after.
+All analyses were performed using STATA Release 14.1
+(Stata- Corp, College Station, TX, USA). The study was approved by
+the Danish Data Protection Agency. Since data is based on
+anonymised register data neither approval from the Ethics Committeenor collection of informed consent was needed.
+2.4 |Supplementary and sensitivity analyses
+To assess the potential impact from other drugs interacting with
+warfarin, the main analysis was repeated excluding patients with a
+prescription for other potentially interacting drugs in the observation
+period (8 weeks before to 12 weeks after the date of statin initiation).These drugs included specific antifungals, macrolides, quinolones,metronidazole and amiodarone as described in Appendix B.
+11
+Furthermore, the main analysis was repeated excluding patients
+with a mechanical heart valve, identified through the NPR,22to assess
+the potential influence of this patient group with target INR ranges
+other than 2-3.23What is already known about this subject
+Warfarin has a narrow therapeutic window and
+pharmacological characteristics that render the drug
+highly susceptible to drug-drug interactions.
+Statins and warfarin are often coprescribed due to
+convergent clinical indications.
+What this study adds
+Initiation of statins in patients treated with warfarin is
+associated with a minor increase in internationalnormalised ratio (INR), peaking at about 4 weeks after
+statin initiation.
+The observed association was similar for high- and
+low-dose simvastatin.
+The increase in INR is probably of limited clinical
+relevance.ENGELL ET AL. 695
+ 13652125, 2021, 2, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14428 by Readcube (Labtiva Inc.), Wiley Online Library on [05/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Finally, some INR measurements were labelled as imprecise (up to
+5-7% higher than actual values) due to prolonged storage of the bloodsample before analysis of INR. We therefore conducted an analysis
+where these INR measurements were discarded.
+2.5 |Nomenclature of targets and ligands
+Key protein targets and ligands in this article are hyperlinked to
+corresponding entries in http://www.guidetopharmacology.org, the
+common portal for data from the IUPHAR/BPS Guide toPHARMACOLOGY.
+3|RESULTS
+For the analyses, we included 1363, 165 and 23 warfarin users who
+had been exposed to simvastatin, atorvastatin and rosuvastatin,respectively, between 2000 and 2015.
+For patients treated with simvastatin, atorvastatin and
+rosuvastatin, the median ages were 72 years (interquartile range [IQR]64-79 years), 70 years (IQR 63-76) and 74 years (IQR 64-80), while
+the proportion of males were 58%, 62% and 47%, respectively.
+INR values increased slightly after initiation of simvastatin
+treatment with a peak after about 4 weeks (Figure 1). Initiation ofsimvastatin was associated with an increase in mean INR from 2.40 to
+2.71, corresponding to an increase of 0.32 (95%CI: 0.25-0.38,
+P< 0.001) while the median INR change was 0.2 (IQR –0.3-0.8)
+(Figure 2). During a time window of 1-4 weeks before initiation of
+statin treatment, 3.4% of patients had at least one INR measurement
+above 4. This proportion increased to 9.0% during 3-6 weeks afterinitiation of statin treatment ( P< 0.01). Similarly, the proportion ofpatients with INR > 5 increased from 1.3% before initiation of statin
+treatment to 3.2% after ( P< 0.01).
+When stratifying by simvastatin dosage, we found that initiation
+of both high-dose ( ≥40 mg) simvastatin (0.33, 95%CI 0.25-0.42) and
+low-dose (<40 mg) simvastatin (0.29, 95%CI 0.20-0.38) was associatedwith a similar modest increase in mean INR. The median change in
+INR was 0.2 (IQR −0.3-0.9) and 0.3 (IQR −0.2-0.8) for patients
+receiving high and low simvastatin dose, respectively (Figure 2).
+Considering atorvastatin, initiation of treatment was associated
+with an increase in mean INR from 2.42 to 2.69 (change 0.27, 95%CI
+0.12-0.42, P< 0.01), while for rosuvastatin it was associated with a
+corresponding increase from 2. 31 to 2.61 (change 0.30, 95%CI –
+0.09-0.69, P= 0.121). Analyses of high dose vslow dose were prohibited
+by low statistical power for both atorvastatin and rosuvastatin.
+Sensitivity analyses excluding patients filling prescriptions for
+other potentially interacting drugs (n = 77), patients with a mechanical
+heart valve (n = 110), and INR measurements labelled as potentially
+imprecise (n = 81 patients with no alternative measurements) yieldedvirtually unchanged estimates (data not shown).
+4|DISCUSSION
+In this register-based study based on a primary healthcare population,
+we found that initiation of simvastatin was associated with a minor, but
+statistically significant, increase in INR of 0.32 (95%CI 0.25-0.38,
+P< 0.001), peaking approximately 4 weeks after initiation. We observed
+a similar response in patients initiating treatment with atorvastatin androsuvastatin, although it failed to reach statistical significance. Sufficient
+data to allow analyses was not available for other statins.
+The main strength of this study is the use of data obtained from
+daily routine work in primary health care with limited risk of selection
+bias. One limitation of the study is the assessment of drug use by
+FIGURE 1 Median INR from 8 weeks before and 12 weeks after
+initiation of simvastatin treatment. Grey and dashed lines illustratethe 10th, 25th, 75th and 90th percentiles, respectively. INR values aresummarised in 3-day intervals
+FIGURE 2 Box and whisker plot showing median change in the
+INR for all patients treated with simvastatin, low dose (<40 mg) andhigh dose ( ≥40 mg). Upper and lower box borders illustrate the 75th
+and 25th percentiles of observed change in INR, while upper andlower whiskers illustrate the 10th and 90th percentiles696 ENGELL ET AL.
+ 13652125, 2021, 2, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14428 by Readcube (Labtiva Inc.), Wiley Online Library on [05/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+prescription data alone. The level of adherence to statin therapy
+cannot be determined and neither can the precise date of initiation ofstatin treatment. Early discontinuation of statins due to side effects
+could minimise the effect on the change in INR.
+24Also, we had no
+available information about other factors that might impact the INRlevel, eg lifestyle factors and herbal medications as well as relevant
+diagnoses diagnosed solely in primary health care, but due to the
+within-person comparison most of these factors can reasonably beassumed to be constant. Furthermore, we do not report clinical
+outcomes. However, increases in INR are well known to increase the
+risk of severe bleeding.
+1,25,26This is supported by a study that found
+initiation of statins to increase the risk of gastrointestinal bleeding inchronic warfarin users.
+27In our study the proportion of patients with
+INR > 5 increased from 1.3 to 3.2% after statin treatment was
+initiated. Importantly, however, when scrutinising the INR changes atthe level of the individual, this increase reflected a small overall
+increase and not a pronounced increase in a subset of patients.
+Finally, our study was limited to simvastatin, atorvastatin and
+rosuvastatin. Limited use of other statins and other cholesterol
+lowering therapy, eg the cholesterol absorption inhibitor ezetimibe,
+were not included in the present study. One study reported a possibledrug interaction between warfarin and
+ezetimibe , which was
+enhanced in patients taking both ezetimibe and statins with an
+increase in INR (0.06 ± 0.36 for ezetimibe and 0.34 ± 0.54 forezetimibe and statins, P= 0.03).
+28
+Our findings from primary health care in the Copenhagen area
+support the recent findings from specialised anticoagulation clinics in
+Sweden presented by Andersson et al, which found an increase in INRfrom 2.43 to 2.58 in 5637 patients on warfarin treatment initiating
+simvastatin, also peaking about 4 weeks after simvastatin initiation.
+11
+A more pronounced increase in INR was found in a small study in
+which INR increased from 2.5 at baseline to 3.2 after simvastatin
+initiation in 29 patients in stable warfarin treatment.8
+Despite relying on different CYP enzymes and transporters, we
+found a similar increase in INR values with use of simvastatin,atorvastatin and rosuvastatin. This suggests that non-CYP effects
+might play a role in this drug-drug interaction. Also, the latency in the
+INR increase, peaking after 4 weeks of concomitant treatment, issurprising. Of note, a similar course was seen in the study by
+Andersson et al.
+11This does not correspond to statins directly
+inhibiting the CYP enzymes responsible for the metabolism ofwarfarin, as this would lead to a faster onset of the INR increase, eg,
+as seen for azole antinfungals.
+29To our knowledge, no alternative
+mechanisms have been proposed. As such, additional work identifyingthe mechanism through which statin use potentiates the effect of
+warfarin is warranted.
+In conclusion, initiation of simvastatin, atorvastatin and rosuvastatin
+led to a minor increase in INR in patients treated with warfarin, peakingabout 4 weeks after statin initiation. The magnitude of the change in
+INR is for most patients likely to be of limited clinical relevance.
+Individual risk stratification including age, use of medication and otherdiseases should be applied when deciding if increased INR monitoring
+should be performed during the initiation of statin treatment.ACKNOWLEDGEMENTS
+The authors acknowledge Martin T. Ernst for help with datamanagement and Maja Hellfritszch for valuable input to the
+presentation of the findings.
+COMPETING INTERESTS
+F.P. reports having received a research grant from AstraZeneca, Novo
+Nordisk and Novartis and lecture fees from MSD, AstraZeneca, NovoNordisk, Novartis, Eli Lilly and Boehringer Ingelheim, and has served
+as a consultant for AstraZeneca, Novo Nordisk, Amgen and MSD.
+A.P. reports participation in research projects funded by Alcon,Almirall, Astellas, Astra-Zeneca, Boehringer-Ingelheim, Novo Nordisk,Servier and LEO Pharma, all with funds paid to the institution where
+he was employed (no personal fees) and with no relation to the work
+reported in this paper.
+CONTRIBUTORS
+A.E. was the principal author and investigator. A.P. carried out datacollection and data analysis. A.P. supervised the work. A.E. prepared
+the first draft manuscript. All authors read and approved the final
+manuscript.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from thecorresponding author upon reasonable request.
+ORCID
+Anna E. Engell
+https://orcid.org/0000-0003-4123-0753
+Andreas L.O. Svendsen https://orcid.org/0000-0001-8050-6447
+Anton Pottegård https://orcid.org/0000-0001-9314-5679
+REFERENCES
+1. Ageno W, Gallus AS, Wittkowsky A, Crowther M, Hylek EM,
+Palareti G. Oral anticoagulant therapy - antithrombotic therapy andprevention of thrombosis, 9th ed: American College of Chest
+Physicians evidence-based clinical practice guidelines. Chest . 2012;
+141(2):e44S-e88S.
+2. Huisman MV, Rothman KJ, Paquette M, et al. Antithrombotic
+treatment patterns in patients with newly diagnosed nonvalvular
+atrial fibrillation: the GLORIA-AF registry, phase II. Am J Med . 2015;
+128(12):1306-1313. e1
+3. Adelborg K, Grove EL, Sundbøll J, Laursen M, Schmidt M. Sixteen-
+year nationwide trends in antithrombotic drug use in Denmark and itscorrelation with landmark studies. Heart . 2016;102(23):1883-1889.
+4. Holbrook AM, Pereira JA, Labiris R, et al. Systematic overview of
+warfarin and its drug and food interactions. Arch Intern Med . 2005;
+165(10):1095-1106.
+5. Sirtori CR. The pharmacology of statins. Pharmacol Res . 2014;88:3-11.
+6. Neuvonen PJ, Niemi M, Backman JT. Drug interactions with lipid-
+lowering drugs: mechanisms and clinical relevance. Clin Pharmacol
+Ther. 2006;80(6):565-581.
+7. Hellfritzsch M, Rathe J, Stage TB, et al. Generic switching of warfarin
+and risk of excessive anticoagulation: a Danish nationwide cohortstudy. Pharmacoepidemiol Drug Saf . 2016;25(3):336-343.
+8. Kamali F, Hickmott H, Wynne H. The effect of simvastatin co-
+medication on warfarin anticoagulation response and doserequirements. Thromb Haemost . 2003;89:949-950.ENGELL ET AL. 697
+ 13652125, 2021, 2, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14428 by Readcube (Labtiva Inc.), Wiley Online Library on [05/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+9. Lin JC, Ito MK, Stolley SN, Morreale AP, Marcus DB. The effect of
+converting from pravastatin to simvastatin on the pharmacodynamicsof warfarin. J Clin Pharmacol . 1999;39(1):86-90.
+10. Simonson SG, Martin PD, Mitchell PD, Lasseter K, Gibson G,
+Schneck DW. Effect of rosuvastatin on warfarin pharmacodynamicsand pharmacokinetics. J Clin Pharmacol . 2005;45(8):927-934.
+11. Andersson ML, Mannheimer B, Lindh JD. The effect of simvastatin on
+warfarin anticoagulation: a Swedish register-based nationwide cohort
+study. Eur J Clin Pharmacol . 2019;75(10):1387-1392.
+12. Stern A, Gibson L. Atorvastatin anticoagulant. J Clin Pharmacol . 1997;
+37(11):1062-1064.
+13. Jindal D, Tandon M, Sharma S, Pillai KK. Pharmacodynamic evaluation
+of warfarin and rosuvastatin co-administration in healthy subjects.
+Eur J Clin Pharmacol . 2005;61(9):621-625.
+14. Lexicomp
+®drug interactions - UpToDate. https://www.uptodate.com/
+drug-interactions/?source=responsive_home#di-document. AccessedJanuary 28, 2020.
+15. Drug interactions search - MICROMEDEX. https://www.micromedex
+solutions.com/micromedex2/librar ian/CS/DFE440/ND_PR/evidencexpert/
+ND_P/evidencexpert/DUPLICATIONSHIELDSYNC/A7EB49/ND_PG/evidencexpert/ND_B/evidencexpert/ND_AppProduct/evidencexpert/ND_T/evidencexpert/PFActionId/evidencexpert. FindDrugInteractions?navitem=topInteractions&isToolPage=true. Accessed January 28, 2020.
+16. Interaktionsdatabasen.Dk. http: //www.interaktionsdatabasen.dk/.
+Accessed January 29, 2020.
+17. The Copenhagen primary care laboratory database. https://publichealth.
+ku.dk/research/databases-for-collaboration/coplab/. Accessed April
+1, 2020.
+18. Medici BB, Nygaard B, La Cour JL, et al. Changes in prescription
+routines for treating hypothyroidism between 2001 and 2015: anobservational study of 929,684 primary care patients in Copenhagen.Thyroid . 2019;29(7):910-919.
+19. Pottegård A, Schmidt SAJ, Wallach-Kildemoes H, Sørensen HT,
+Hallas J, Schmidt M. Data resource profile: the Danish national pre-scription registry. Int J Epidemiol . 2017;46(3):798-798f.
+20. Schmidt M, Schmidt SAJ, Sandegaard JL, Ehrenstein V, Pedersen L,
+Sørensen HT. The Danish National Patient Registry: a review of
+content, data quality, and research potential. Clin Epidemiol . 2015;7:
+449-490.
+21. Schmidt M, Pedersen L, Sørensen HT. The Danish civil registration
+system as a tool in epidemiology. Eur J Epidemiol . 2014;29(8):
+541-549.
+22. Keeling DM, Baglin T, Tait C, et al. Guidelines on oral anticoagulation
+with warfarin - fourth edition. Br J Haematol . 2011;154(3):311-324.
+23. Whitlock RP, Sun JC, Fremes SE, Rubens FD, Teoh KH.
+Antithrombotic and thrombolytic therapy for valvular disease:
+antithrombotic therapy and prevention of thrombosis, 9th ed:
+American College of Chest Physicians evidence-based clinical practiceguidelines. Chest . 2012;141(2):e576S-e600S.
+24. Nielsen SF, Nordestgaard BG. Negative statin-related news stories
+decrease statin persistence and increase myocardial infarction and
+cardiovascular mortality: a nationwide prospective cohort study. Eur
+Heart J . 2016;37(11):908-916.
+25. Nelson WW, Wang L, Baser O, Damaraju CV, Schein JR. Out-
+of-range INR values and outcomes among new warfarin patients withnon-valvular atrial fibrillation. Int J Clin Pharmacol . 2014;37:53-59.26. Wan Y, Heneghan C, Perera R, et al. Anticoagulation control and
+prediction of adverse events in patients with atrial fibrillation: asystematic review. Circ Cardiovasc Qual Outcomes . 2008;1(2):84-91.
+27. Schelleman H, Bilker WB, Brensinger CM, Wan F, Yang YX,
+Hennessy S. Fibrate/statin initiation in warfarin users andgastrointestinal bleeding risk. Am J Med . 2010;123(2):151-157.
+28. Hashikata T, Yamaoka-Tojo M, Kakizaki R, et al. Ezetimibe enhances
+and stabilizes anticoagulant effect of warfarin. Heart Vessels . 2017;32
+(1):47-54.
+29. Venkatakrishnan K, Von Moltke LL, Greenblatt DJ. Effects of the
+antifungal agents on oxidative drug metabolism. Clinical relevance.Clin Pharmacokinet . 2000;38(2):111-180.
+How to cite this article: Engell AE, Svendsen ALO, Lind BS,
+et al. Drug-drug interaction between warfarin and statins: ADanish cohort study. Br J Clin Pharmacol . 2021;87:694 –699.
+https://doi.org/10.1111/bcp.14428
+APPENDIX A: THE INTERNATIONAL NORMALISED RATIO
+ASSAY
+Coagulation, tissue factor-induced; rel.time(actual/norm; INR; IRP
+67/40; proc.) was determined in sodium-citrate-stabilised plasma byStago Prothombin-complex assay (Diagnostica Stago, Asnières,
+France) on Thrombolyzer (Behnk Elektronik, Norderstedt, Germany)
+and on STA-R (Diagnostica Stago). For the Thrombolyzer assay theinterserial coefficient of variation percentage (CV%) was 2.4% (at INR
+level 1.0) and 2.9% (at INR level 2.3). For the STAR assay the
+interserial CV% was 2.1% (at level INR 1.00) and 2.1% (at INR level2.2). The results from the two platforms were comparable as
+documented by parallel analysis of 90 human plasma samples during a
+period of 6 days in December 2001 to May 2002. The equation fromthe parallel analysis was STAR = 1.0186 ×Thrombolyzer −0.0305.
+The STA-R platform was used after 8 December 2003. The INR assay
+was subject to external quality control through participation in the
+Danish quality assessment service (DEKS, Glostrup, Denmark). Theassessment schemes included five distributions annually. Each
+distribution comprised four samples. The results from DEKS
+confirmed the reliability of the assays, and the results from ELCR(from 2002 to 2015) deviated less than 5% from the method mean in
+89% of the results (n = 231). The mean deviation from the method
+mean was –1.8% (n = 196).698 ENGELL ET AL.
+ 13652125, 2021, 2, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14428 by Readcube (Labtiva Inc.), Wiley Online Library on [05/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+APPENDIX B: CODES AND DEFINITIONS
+Study drugs
+Warfarin ATC B01AA03
+Statins ATC C10AA
+Simvastatin ATC C10AA01
+Rosuvastatin ATC C10AA07
+Atorvastain ATC C10AA05Other drug useAmiodarone ATC C01BD01Fluconazole ATC J02AC01Miconazole ATC D01AC02Erythromycin ATC J01FA01Ciprofloxacin ATC J01MA02Metronidazol ATC D06BX01Factors affecting therapeutic interval of INRPresence of prosthetic heart valve ICD-10 Z95.2
+International Classification of Diseases Tenth Revision (ICD-10), ATC: Anatomical Therapeutic Chemical Classification System.ENGELL ET AL. 699
+ 13652125, 2021, 2, Downloaded from https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.14428 by Readcube (Labtiva Inc.), Wiley Online Library on [05/12/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

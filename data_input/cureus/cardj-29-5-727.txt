@@ -1,0 +1,204 @@
+Address for correspondence: Prof. Jacek Kubica, Department of Cardiology and Internal Medicine, Collegium Medicum, 
+Nicolaus Copernicus University, ul. M. Skłodowskiej-Curie 9, 85–094 Bydgoszcz, Poland, e-mail: jkubica@cm.umk.pl
+Received: 29.05.2022 Accepted: 30.06.2022
+This article is available in open access under Creative Common Attribution-Non-Commercial-No Derivatives 4.0 International (CC BY-NC-ND 4.0) license, allowing to download 
+articles and share them with others as long as they credit the authors and the publisher, but without permission to change them in any way or use them commercially.Cardiology Journal
+2022, Vol. 29, No. 5, 727–729
+DOI: 10.5603/CJ.2022.0082
+Copyright © 2022 Via Medica
+ISSN 1897–5593
+eISSN 1898–018XeDItOrIalclinicAl cARDiOl OGY
+Opioids and oral P2Y12 receptor inhibitors:  
+A drug–drug interaction
+Jacek Kubica
+Department of Cardiology and Internal Medicine, Collegium Medicum,  
+Nicolaus Copernicus University, Bydgoszcz, Poland
+As recommended in the European 
+Society of Cardiology guidelines, titrated  
+intravenous opioids should be consid-
+ered to relieve pain in patients present-
+ing with ST-segment elevation myocar-
+dial infarction (STEMI) (class of recom-
+mendation IIa, level of evidence C) [1].  
+The class of recommendation for mor-
+phine use in STEMI has been lowered 
+from I to IIa (i.e., from “it is indicated” 
+to “should be considered”) as com-pared to previous guidelines, due to the 
+unfavorable impact of morphine on P2Y12 recep-
+tor inhibitors bioavailability and their antiplatelet 
+effect [2–4]. 
+The CRUSADE registry was the first to sug-
+gest drug–drug interaction between morphine and a P2Y12 receptor inhibitor, as it reported an 
+increased prevalence of adverse clinical outcome 
+in acute coronary syndrome (ACS) patients receiv-
+ing morphine and clopidogrel [5]. This sugges -
+tion was then proven in a randomized, placebo-
+controlled trial in patients with acute myocardial 
+infarction (AMI) [2] and was confirmed in several other studies [3, 4, 6–8]. According to ticagrelor 
+pharmacokinetic and pharmacodynamic studies, 
+compared with healthy volunteers, patients with 
+uncomplicated AMI appear to have similar plasma 
+concentrations of ticagrelor and its active metabo-lite — AR-C124910XX after loading dose adminis-
+tration. Co-administration of morphine results in 
+a decrease in ticagrelor bioavailability to a degree similar in both groups. However, while platelet 
+inhibition in healthy volunteers is largely inde-pendent of morphine, in AMI patients 
+the antiplatelet effect of ticagrelor is 
+significantly less pronounced with co-
+administration of morphine [4, 9]. The 
+greater susceptibility to the P2Y12 
+receptor inhibitor-morphine interac -
+tion seen in AMI patients is probably due to enhanced platelet activation in this subset of patients. In a meta-
+analysis by Gue et al. [10], patients 
+pretreated with morphine were shown to have a higher rate of reinfarction 
+than those not receiving morphine. Several ap-proaches to overcome the “morphine effect” in 
+patients with ACS have been proposed, showing 
+some, but unsatisfactory effects [11–16]. Iglesias  
+et al. [17] reported results of the PERSEUS study —  
+a randomized trial comparing the impact of fentanyl versus morphine on ticagrelor pharmacokinetics 
+and pharmacodynamics in STEMI patients under-
+going primary percutaneous coronary intervention (PCI). Previously, reduced bioavailability of ticagre-
+lor had been demonstrated when co-administered 
+with fentanyl in stable patients [17], however the influence of fentanyl on ticagrelor absorption and 
+platelet inhibition in AMI patients had not been 
+established. The PERSEUS study was prematurely 
+terminated after the inclusion of 68% of originally 
+designed study population due to a slower than anticipated patient enrolment rate resulting in 
+loss of statistical power. Nevertheless, the study brought consistent pharmacodynamic and pharma-cokinetic evidence that fentanyl may be associated 
+with a more favourable ticagrelor absorption profile 
+727
+www.cardiologyjournal.orgthan morphine, while exerting a similar analgesic 
+effect. Indeed, these results do provide a strong 
+premise supporting the preferential use of fentanyl 
+over morphine in symptomatic STEMI patients 
+undergoing primary PCI. The PERSEUS study, 
+however, does not provide a comparison with any non-opioid treatment strategy, making it impossible 
+to truly assess the effects of fentanyl on the phar-
+macokinetics and pharmacodynamics of ticagrelor in AMI patients. In this specific clinical setting, 
+despite opioid-induced decreased bioavailability of 
+P2Y12 receptor inhibitors, some additional factors, 
+including enhanced platelet activation and reduced 
+gastrointestinal perfusion as well as impact of mild therapeutic hypothermia applied in cardiac arrest 
+survivors, may also impede the effect of oral anti-
+platelet drugs [18–24].
+Further research enriches the knowledge on 
+the possibility of reducing the clinical significance 
+of the opioid-P2Y12 receptor inhibitor interactions, 
+however, without bringing any breakthroughs to date. Therefore, for the time being, ensuring im-
+mediate inhibition of platelets by using the bridging 
+therapy with cangrelor, seems to be the best solu-tion of all [25, 26]. Nevertheless, the limited avail-
+ability of this intravenous P2Y12 receptor inhibitor 
+is a serious obstacle to widespread implementation 
+of this approach.
+Conflict of interest: None declared
+References
+1. Ibanez B, James S, Agewall S, et al. 2017 ESC Guidelines for the 
+management of acute myocardial infarction in patients present -
+ing with ST-segment elevation: The Task Force for the manage -
+ment of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC). Eur Heart J. 2018; 39(2): 119–177, doi: 10.1093/eurheartj/
+ehx393, indexed in Pubmed: 28886621.
+2. Kubica J, Adamski P , Ostrowska M, et al. Morphine delays and at
+-
+tenuates ticagrelor exposure and action in patients with myocar -
+dial infarction: the randomized, double-blind, placebo-controlled IMPRESSION trial. Eur Heart J. 2015; 37(3): 245–252, doi: 10.1093/eurheartj/ehv547, indexed in Pubmed: 26491112.
+3. Hobl EL, Reiter B, Schoergenhofer C, et al. Morphine decreases 
+ticagrelor concentrations but not its antiplatelet effects: a rand
+-
+omized trial in healthy volunteers. Eur J Clin Invest. 2016; 46(1): 
+7–14, doi: 10.1111/eci.12550, indexed in Pubmed: 26449338.
+4. Kubica J, Kubica A, Jilma B, et al. Impact of morphine on antiplatelet effects of oral P2Y12 receptor inhibitors. Int J Cardiol. 2016; 215: 201–
+ 
+–208, doi: 10.1016/j.ijcard.2016.04.077, indexed in Pubmed: 27128531.
+5. Meine TJ, Roe MT , Chen AY, et al. CRUSADE Investigators. Association of intravenous morphine use and outcomes in acute coronary syndromes: results from the CRUSADE Quality Im
+-
+provement Initiative. Am Heart J. 2005; 149(6): 1043–1049, doi: 10.1016/j.ahj.2005.02.010, indexed in Pubmed: 15976786.6. Adamski P , Sikora J, Laskowska E, et al. Comparison of bio
+-
+availability and antiplatelet action of ticagrelor in patients with 
+ST-elevation myocardial infarction and non-ST-elevation myo -
+cardial infarction: A prospective, observational, single-centre study. PLoS One. 2017; 12(10): e0186013, doi: 10.1371/journal.
+pone.0186013, indexed in Pubmed: 29023473.
+7. Adamski P , Buszko K, Sikora J, et al. Determinants of high plate
+-
+let reactivity in patients with acute coronary syndromes treated with ticagrelor. Sci Rep. 2019; 9(1): 3924, doi: 10.1038/s41598-
+019-40628-0, indexed in Pubmed: 30850677.
+8. Schoergenhofer C, Hobl EL, Staudinger T , et al. Prasugrel in critically ill patients. Thromb Haemost. 2017; 117(8): 1582–1587, doi: 10.1160/TH17-03-0154, indexed in Pubmed: 28692105.
+9. Buszko K, Kubica K, Hobl EL, et al. Pharmacokinetic modeling of morphine’s effect on plasma concentrations of ticagrelor and 
+its metabolite in healthy volunteers. Front Physiol. 2021; 12: 
+663170, doi: 10.3389/fphys.2021.663170, indexed in Pubmed: 
+34248659.
+10. Gue YX, Spinthakis N, Farag M, et al. Impact of preadmission morphine on reinfarction in patients with st-elevation myocar
+-
+dial infarction treated with percutaneous coronary intervention:  
+a meta-analysis. Clin Pharmacol Ther. 2020; 108(1): 54–62, doi: 10.1002/cpt.1798, indexed in Pubmed: 31990051.
+11. Liu Y, Kang S, Li X, et al. Modified ticagrelor loading doses 
+according to the vasodilator-stimulated phosphoprotein phos
+-
+phorylation index improve the clinical outcome in ST-elevation 
+myocardial infarction patients with high on-treatment platelet 
+reactivity. Cardiol J. 2021 [Epub ahead of print], doi: 10.5603/
+CJ.a2021.0105, indexed in Pubmed: 34581430.
+12. Stiermaier T , Schaefer P , Meyer-Saraei R, et al. Impact of 
+morphine treatment with and without metoclopramide coad -
+ministration on myocardial and microvascular injury in acute myocardial infarction: insights from the randomized MonAMI trial. J Am Heart Assoc. 2021; 10(9): e018881, doi: 10.1161/
+JAHA.120.018881, indexed in Pubmed: 33899498.
+13. Kubica A, Kosobucka A, Niezgoda P , et al. ANalgesic Efficacy and safety of MOrphiNe versus methoxyflurane in patients with acute myocardial infarction: the rationale and design of the ANEMON-SIRIO 3 study: a multicentre, open-label, phase II, 
+randomised clinical trial. BMJ Open. 2021; 11(3): e043330, doi: 
+10.1136/bmjopen-2020-043330, indexed in Pubmed: 33649058.
+14. Niezgoda P , Barańska MA, Sikora J, et al. Oral NAloxone to overcome the moRphine effect in acute COronary syndrome patients treated with TICagrelor: NARCOTIC trial. Cardiol J. 
+2022; 29(3): 432–440, doi: 10.5603/CJ.a2020.0040, indexed in 
+Pubmed: 32207836.
+15. Franchi F , Rollini F , Park Y, et al. Effects of methylnaltrexone on 
+ticagrelor-induced antiplatelet effects in Coronary artery disease patients treated with morphine. JACC Cardiovasc Interv. 2019; 12(16): 1538–1549, doi: 10.1016/j.jcin.2019.05.028, indexed in 
+Pubmed: 31377269.
+16. Niezgoda P , Barańska M, Adamski P , et al. Influence of METHoxy
+-
+flurane on ANtiplatelet Effect of ticagrelor in patients with unsta -
+ble angina pectoris: Rationale and a protocol of a randomized clin -
+ical METHANE-SIRIO 4 study. Cardiol J. 2022; 29(2): 324–328,  
+doi: 10.5603/CJ.a2021.0126, indexed in Pubmed: 34642919.
+17. Iglesias JF , Valgimigli M, Carbone F , et al. Comparative effects 
+of fentanyl versus morphine on platelet inhibition induced by 
+ticagrelor in patients with ST-segment elevation myocardial in -
+farction: Full results of the PERSEUS randomized trial. Cardiol J.  
+728
+www.cardiologyjournal.orgCardiology Journal 2022, Vol. 29, No. 52022; 29(4): 591–600, doi: 10.5603/CJ.a2022.0049, indexed in 
+Pubmed: 35762079.
+18. Umińska JM, Ratajczak J, Pstrągowski K, et al. The impact of 
+mild therapeutic hypothermia on platelet reactivity in coma -
+tose survivors of cardiac arrest with acute myocardial infarction 
+treated with ticagrelor. Cardiol J. 2022 [Epub ahead of print], doi: 10.5603/CJ.a2022.0029, indexed in Pubmed: 35514087.
+19. Tomala MT , Trąbka-Zawicki A, Machnik A, et al. Ticagrelor ef
+-
+fectively inhibits platelet aggregation in comatose survivors of cardiac arrest undergoing primary percutaneous coronary inter
+-
+vention treated with mild therapeutic hypothermia. Cardiol J. 2021 [Epub ahead of print], doi: 10.5603/CJ.a2021.0064, indexed 
+in Pubmed: 34165181.
+20. Ratajczak J, Łach P , Umińska JM, et al. Mild therapeutic hy
+-
+pothermia after out-of-hospital cardiac arrest: What does re -
+ally matter? Cardiol J. 2021; 28(2): 293–301, doi: 10.5603/
+CJ.a2019.0023, indexed in Pubmed: 30799547.
+21. Umińska JM, Ratajczak J, Buszko K, et al. Impact of mild thera -
+peutic hypothermia on bioavailability of ticagrelor in patients with acute myocardial infarction after out-of-hospital cardiac ar
+-
+rest. Cardiol J. 2020; 27(6): 780–788, doi: 10.5603/CJ.a2019.0024 , 
+indexed in Pubmed: 30799546.22. Ostrowska M, Kubica J, Adamski P , et al. Stratified approaches to antiplatelet therapies based on platelet reactivity testing. Front Cardiovasc Med. 2019; 6: 176, doi: 10.3389/fcvm.2019.00176, 
+indexed in Pubmed: 31850373.
+23. Adamski P , Adamska U, Ostrowska M, et al. Evaluating 
+ 
+current and emerging antithrombotic therapy currently available for the treatment of acute coronary syndrome in geriatric popu
+-
+lations. Expert Opin Pharmacother. 2018; 19(13): 1415–1425,  
+doi: 10.1080/14656566.2018.1510487, indexed in Pubmed: 
+30132731.
+24. Adamski P , Adamska U, Ostrowska M, et al. New directions for pharmacotherapy in the treatment of acute coronary syndrome. 
+Expert Opin Pharmacother. 2016; 17(17): 2291–2306, doi: 
+10.1080/14656566.2016.1241234, indexed in Pubmed: 27677394.
+25. Tantry U, Chaudhary R, Kubica J, et al. Cangrelor for the treatment of patients with Arterial Thrombosis. Expert Opin Pharmacother. 2018; 19(12): 1389–1398, doi: 10.1080/14656566.2018.1506767, 
+indexed in Pubmed: 30102083.
+26. Kubica J, Kozinski M, Navarese EP , et al. Cangrelor: an emerging therapeutic option for patients with coronary ar
+-
+tery disease. Curr Med Res Opin. 2014; 30(5): 813–828, doi: 
+10.1185/03007995.2014.880050, indexed in Pubmed: 24393016.
+www.cardiologyjournal.org
+729
+Jacek Kubica, Opioids and oral P2Y12 receptor inhibitors: A drug–drug interaction

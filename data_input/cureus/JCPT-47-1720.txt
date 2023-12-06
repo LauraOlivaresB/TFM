@@ -1,0 +1,304 @@
+COMMENTARY
+Antiretroviral drug –drug interactions: A comparison of online
+drug interaction databases
+Emily N. Drwiega PharmD |Melissa E. Badowski PharmD, MPH |
+Sarah Michienzi PharmD
+College of Pharmacy, University of Illinois at
+Chicago, Chicago, Illinois, USA
+Correspondence
+Sarah Michienzi, College of Pharmacy,
+University of Illinois at Chicago, Chicago, IL,
+833 S. Wood Street, Chicago, IL 60612, USA.
+Email: msarah@uic.eduAbstract
+What is known and objective: Antiretrovirals have a high drug interaction potential,
+which can lead to increased toxicity and/or decreased efficacy. Multiple databasesare available to assess drug –drug interactions. The aim of our study was to compare
+interaction identification for commonly used ARVs and concomitant medications
+between six different online drug –drug interaction databases.
+Comment: This was a cross-sectional review using each of the following six data-
+bases: LexiComp
+®, Clinical Pharmacology®, Micromedex®, Epocrates®, University of
+Liverpool, and University of Toronto. Sixteen antiretroviral drugs and 100 of the
+DrugStats Database “Top 200 of 2019 ”list of medications were included. Each of
+the six databases identified a different number of actual or potential interactions.
+The number of interactions ranged from 211 to 283.
+What is new and conclusions: A variety of databases exist with inconsistent identifi-
+cation of actual or potential drug –drug interactions amongst them. It may be benefi-
+cial to cross-reference multiple databases prior to making decisions regardingpatient care.
+KEYWORDS
+antiretroviral therapy, drug –drug interaction
+1|WHAT IS KNOWN AND OBJECTIVE
+People with human immunodeficiency virus (HIV) are living longer as
+a result of highly active antiretroviral therapy (HAART) and the likeli-hood of encountering patients with chronic conditions continues to
+grow.
+1–4Providers are likely to encounter polypharmacy in this
+patient population.
+Antiretrovirals (ARVs) are known for their high drug interaction
+potential, frequently due to CYP3A4 metabolism, including the risk of
+interacting with common medications prescribed for many chronicdisease states. Drug –drug interactions (DDIs) can lead to increased
+toxicity and/or decreased efficacy of one or multiple drugs. Adequateconcentrations of ARVs are critical to suppressing and maintaining an
+undetectable HIV viral load and preventing the development of resis-
+tance. The identification and appropriate management of DDIs can
+reduce preventable harm.
+Multiple databases are available for providers to check for drug
+interactions and ensure patient safety when evaluating treatment reg-
+imens. It has been demonstrated that drug interaction experts utilize avariety of methods to search for potential DDIs.
+5Databases for asses-
+sing DDIs are available through subscription and open-access plat-
+forms. Previous studies have evaluated ARVs with concomitantmedications and demonstrated discrepancies between online DDIdatabases with older ARVs.
+6–9Since these studies, newer agents haveReceived: 22 April 2022 Revised: 21 June 2022 Accepted: 24 June 2022
+DOI: 10.1111/jcpt.13750
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2022 The Authors. Journal of Clinical Pharmacy and Therapeutics published by John Wiley & Sons Ltd.
+1720 J Clin Pharm Ther. 2022;47:1720 –1724. wileyonlinelibrary.com/journal/jcptbeen approved for the treatment of HIV. The aim of our study was to
+compare interaction identification and severity classification for com-
+monly used ARVs and concomitant medications between six different
+online DDI databases.
+2|COMMENT
+2.1 |Methods
+This study was a cross-sectional review designed to identity differ-
+ences in how online drug interaction databases identify and classify
+ARV DDIs. Sixteen ARVs were selected by HIV-trained clinical phar-
+macists to represent the most commonly used ARVs in each classin the United States. From the DrugStats Database “Top 200 of
+2019 ”list of medications,
+10the top 100 most frequently prescribedmedications were utilized for our study. All medications included in
+the analysis are listed in Table 1.
+Each unique drug pair was evaluated for DDIs in each of the
+following six databases: LexiComp®, Clinical Pharmacology®,
+Micromedex®,E p o c r a t e s®, University of Liverpool, and University
+of Toronto. A description of the characteristics of the DDI data-
+bases are described in Table 2. These were specifically selected to
+represent a variety of databases av ailable including subscription
+and open-access. The University of Liverpool and University of
+Toronto databases were both HIV-specific, whereas the otherdatabases included are general DDI databases. Most databasesincluded grouped DDI severity in four categories. Lexicomp
+®
+included five categories and the University of Toronto database
+included 3. Additionally, Lexicomp®and Epocrates®databases
+both provide a clinical recommendation of how to address the DDI
+as their severity category.TABLE 1 Medications Included
+Antiretrovirals Concomitant medications
+Bictegravir
+DolutegravirElvitegravir/cobicistatRaltegravirDarunavir/cobicistat
+Darunavir +ritonavir
+Atazanavir/cobicistatAtazanavir +ritonavir
+DoravirineRilpivirine
+Efavirenz
+Tenofovir alafenamideTenofovir disaproxil
+fumarate
+Abacavir
+Lamivudine
+EmtricitabineAcetaminophen
+Acetaminophen/hydrocodone bitartrateAlbuterolAlendronate sodiumAllopurinol
+Alprazolam
+AmitriptylineAmlodipine besylateAmoxicillinAspirin
+Atenolol
+AtorvastatinAzithromycinBacitracin/neomycin/polymyxin BBudesonide/formoterol
+Bupropion
+Buspirone hydrochlorideCarvedilolCetirizine hydrochlorideCitalopram
+Clonazepam
+ClonidineClopidogrel bisulfateCyclobenzaprine
+Dextroamphetamine, dextroamphetamine
+saccharate, amphetamine, amphetamineaspartate
+DiclofenacDiltiazem hydrochloride
+Donepezil hydrochloride
+DuloxetineEnalapril maleateErgocalciferolEscitalopram oxalate
+EsomeprazoleEstradiol
+Ethinyl estradiol/norethindroneEthinyl estradiol/norgestimateFenofibrateFerrous sulfate
+Finasteride
+Fluoxetine hydrochlorideFluticasoneFluticasone propionate/salmeterol
+xinafoate
+Folic acid
+FurosemideGabapentinGlimepirideGlipizide
+Hydrochlorothiazide
+Hydrochlorothiazide/lisinoprilHydrochlorothiazide/losartan
+potassium
+Hydrochlorothiazide/triamterene
+Hydroxyzine
+IbuprofenInsulin aspartInsulin glargine
+Insulin human
+Insulin lisproLamotrigineLatanoprostLevetiracetam
+Levothyroxine
+Lisdexamfetamine dimesylateLisinoprilLoratadineLorazepam
+Losartan potassiumLovastatin
+MeloxicamMetforminMethylphenidateMetoprolol
+Metronidazole
+MontelukastNaproxenOmeprazoleOndansetron
+Oxycodone
+PantoprazoleParoxetinePotassiumPravastatin sodium
+Prednisone
+PregabalinPropranolol
+hydrochloride
+Quetiapine fumarate
+Ranitidine
+Rosuvastatin calciumSertraline
+hydrochloride
+Simvastatin
+Sitagliptin phosphateSpironolactoneTamsulosin
+hydrochloride
+Tiotropium
+TopiramateTramadol
+hydrochloride
+Trazodone
+hydrochloride
+ValsartanVenlafaxine
+hydrochloride
+Warfarin
+Zolpidem tartrate
+COMMENTARY 1721
+TABLE 2 Drug interaction database
+characteristicsDatabase Access Content Severity scale
+Clinical Pharmacology®Subscription General Severe
+MajorModerateMinor
+Micromedex
+®Subscription General Contraindicated
+MajorModerateMinor
+LexiComp
+®Subscription General Avoid
+ModifyMonitorNo actionNo known interaction
+Epocrates
+®Open Access General Contraindicated
+Avoid/use alternativeMonitor/modifyCaution advised
+University of Liverpool Open Access HIV Do not coadminister
+Potential interactionPotential interaction or weak intensityNo interaction expected
+University of Toronto Open Access HIV Red
+YellowGreen
+276
+211271283 280274
+050100150200250300
+Clinical
+PharmacologyMicromedex LexiComp Epocrates Universityof
+LiverpoolUniversityof
+TorontoNumberofInterac/g415ons
+DrugInterac/g415onDatabase®® ® ®
+FIGURE 1 Actual or potential drug –drug interactions identified1722 COMMENTARY
+We reviewed characteristics of each DDI database including their
+severity ranking. We also assessed whether an actual or potential DDIwas identified for each ARV-concomitant medication drug pair, in
+each of the six databases. The percent of pairs which resulted in a
+DDI was also evaluated. Data were analysed using descriptivestatistics.
+2.2 |Results
+There were 1520 drug pairs evaluated for interaction, after removing
+duplicates. Each of the six databases identified a different number ofactual or potential DDIs of any severity. The number of DDIs ranged
+from 211 to 283. These are described in Figure
+1. The most DDIs
+were identified by Epocrates®and the least number of DDIs were
+identified by Micromedex®. The percent of pairs in which a drug inter-
+action was identified ranged from 13.9% to 18.6%.
+3|DISCUSSION
+Each of the six DDI databases identified a different number of actual
+or potential DDIs between the ARVs and concomitant medications.
+This variability has been demonstrated in multiple studies with otherdrug classes, outside of ARVs and with a variety of online DDIdatabases.
+11–18Databases were selected to represent resources at
+varying levels of access, including subscription and open access. Addi-
+tionally, of the selected databases, some were general resources whileothers were HIV-specific. Each database has its own severity ranking
+system and categories. There was no consistency between types of
+databases and number of actual or potential DDIs identified.
+Micromedex
+®identified 211 drug interaction pairs, 60 pairs
+fewer than the next most identified pairs by Lexicomp®. The remain-
+ing five databases identified a similar number of actual or potentialDDIs, demonstrated by a range of 12 DDIs between the databaseidentifying the most interactions and the least interactions. The clini-
+cal impact of each recommendation was not assessed, thus we are
+unable to make conclusions on the relevance of the identified DDIs.
+A similar study was performed by Pehlivanli et al. comparing
+potential DDIs of immunosuppressants in kidney transplant recipients
+in four different online data bases.
+11Potential DDIs identified were
+compared to a gold standard reference to determine sensitivity and
+specificity of each database. Such a gold standard does not exist for
+ARVs, making it difficult to determine a single, most-reliable onlinedatabase.
+Our study is the only study to date specifically evaluating the
+number of identified actual or potential DDIs between ARVs and con-comitant medications for six different DDI databases, but it is notwithout limitations. Our study only included 16 ARVs and 100 con-
+comitant medications, assessing for only 1520 DDI pairs. Additionally,
+the type of recommendation, severity, and clinical impact of each DDIwas not evaluated. Heterogeneity of DDIs identified amongst data-
+bases was also not assessed. Finally, the Department of Health andHuman Services has frequently referenced guidelines with drug inter-
+action recommendations, but this was not included in our review as itwas not a searchable database.
+Online DDI databases do not consistently identify potential ARV
+DDIs and such discrepancies could impact patient care. Cross-referencing databases may be beneficial when evaluating ARV DDIs.
+Further evaluation of ARV DDIs is necessary. Future studies that
+include more medications that are commonly taken, as well as over-the-counter medications and herbal supplements, are necessary.
+4|WHAT IS NEW AND CONCLUSIONS
+Online DDI databases are a tool for clinicians to identify potential
+DDIs between ARVs and concomitant medications, and to find guid-ance regarding management. A variety of databases exist with incon-
+sistent identification of actual or potential DDIs amongst them.
+Results should be interpreted with caution, and it may be beneficial tocross-reference multiple databases prior to making decisions regard-
+ing patient care.
+ACKNOWLEDGEMENTS
+The authors would like to acknowledge Ioana Balta, PharmD; Juliana
+Ihm, PharmD; Edwin Le, PharmD; and Gemiracle Lee, PharmD Candi-date 2022 for their assistance with data collection while students atUIC College of Pharmacy.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+ORCID
+Emily N. Drwiega
+https://orcid.org/0000-0002-4039-867X
+REFERENCES
+1. Graber S, Weiss L, Costagliola D. HIV infection in older adult patients
+in the HAART era. J Antimicrob Chemother . 2006;57:4-7. doi: 10.
+1093/jac/dki411
+2. Gallant J, Hsue PY, Shreay S, Meyer N. Comorbidities among US
+patients with prevalent HIV infection —a trend analysis. J Infect Dis .
+2017;216(12):1525-1533. doi: 10.1093/infdis/jix518
+3. Back D, Marzolini C, et al. The challenge of HIV treatment in an era of
+polypharmacy. J Int AIDS Soc . 2020;23(2):e25449. doi: 10.1002/jia2.
+25449
+4. Kong AM, Pozen A, Anastos K, Kelvin EA, Nash D. Non-HIV
+comorbid conditions and polypharmacy among people living with
+HIV age 65 or older compared with HIV-negative individuals age65 or older in the United States: a retrospective claims-based
+analysis. AIDS Patient Care STDS . 2019;33(3):93-103. doi:
+10.
+1089/apc.2018.0190
+5. Grizzle AJ, Horn J, Collins C, et al. Identifying common methods used
+by drug interaction experts for finding evidence about potential drug-drug interaction: web-based survey. J Med Internet Res . 2019;21(1):
+e11182. doi:
+10.2196/11182
+6. Sheehan NL, Kelly DV, Tseng AL, van Heeswijk RPG, Beique LC,
+Hughes CA. Evaluation of HIV drug interaction web sites. Ann Phar-
+macother . 2003;37:1577-1586. doi: 10.1345/aph.1D039COMMENTARY 1723
+7. Oshikoya KA, Oreagba IA, Ogunleye OO, Lawal S, Senbanjo IO. Clini-
+cally significant interactions between antiretroviral and co-prescribeddrugs for HIV-infected children: profiling and comparison of two drug
+databases. Ther Clin Risk Manag . 2013;9:215-221. doi:
+10.2147/
+TCRM.S44205
+8. Ramos GV, Guaraldo L, Japiassu AM, Bozza FA. Comparison of two
+databases to detect potential drug-drug interactions between pre-scriptions of HIV/AIDS patients in critical care. J Clin Pharm Ther .
+2015;40(1):63-67. doi:
+10.1111/jcpt.12222
+9. Ruellan A, Bourneau-Martin D, Joyau C, et al. Assessment of drug-
+drug interaction in an elderly human immunodeficiency virus popula-tion: comparison of 3 expert databases. Br J Clin Pharmacol . 2021;
+87(3):1194-1202. doi:
+10.1111/bcp.14491
+10. ClinCalc DrugStats Database. The Top 200 Drugs of 2019. https://
+www.clincalc.com/DrugStats/ (Accessed April 19, 2022).
+11. Pehlivanli A, Eren-Sadioglu R, Aktar M, et al. Potential drug-drug
+interactions of immunosuppressants in kidney transplant recipients:comparison of drug interaction resources. Int J Clin Pharmacol . 2022;
+44:651-662. doi:
+10.1007/s11096-022-01385-9
+12. Monteith S, Glenn T. Comparison of potential psychiatric drug inter-
+actions in six drug interaction database programs: a replication studyafter 2 years of updates. Hum Psychopharmacol . 2021;36(6):e2802.
+doi:
+10.1002/hup.2802
+13. Kheshti R, Aalipour M, Namazi S. A comparison of five common drug-
+drug interaction software programs regarding accuracy and compre-hensiveness. J Res Pharm Pract . 2016;5(4):257-263. doi:
+10.4103/
+2279-042X.19246114. Bossaer JB, Thomas CM. Drug interaction database sensitivity with
+oral antineoplastics: an exploratory analysis. J Oncol Pract . 2017;
+13(3):e217-e222. doi: 10.1200/JOP.2016.016212
+15. Suriyapakom B, Chairat P, Boonyoprakarn S, et al. Comparison of
+potential drug-drug interactions with metabolic syndrome medica-tions detected by two databases. PLoS One . 2019;14(11):e0225239.
+doi:
+10.1371/journal.pone.0225239
+16. Prely H, Herledan C, Caffin AG, et al. Real-life drug-drug and herb-
+drug interactions in outpatients taking oral anticancer drugs: compari-
+son with databases. J Cancer Res Clin Oncol . 2022;148(3):707-718.
+doi:10.1007/s00432-021-03645-z
+17. Shareef J, Sridhar SB, Thomas S, Shariff A, Chalasani S. Potential psy-
+chotropic and COVID-19 drug interactions: a comparison of inte-
+grated evidence from six database programs. Cureus . 2021;13(12):
+e20319. doi: 10.7759/cureus.20319
+18. Shariff A, Sridhar SB, Basha NFA, Hasan SS, Alshemeil BT,
+Alzaabi NAAA. Assessing consistency of drug-drug interaction-relatedinformation across various drug information resources. Cureus. 2021;
+13(3):e13766. doi:
+10.7759/cureus.13766
+How to cite this article: Drwiega EN, Badowski ME,
+Michienzi S. Antiretroviral drug –drug interactions: A
+comparison of online drug interaction databases. J Clin Pharm
+Ther. 2022;47(10):1720 ‐1724. doi: 10.1111/jcpt.137501724 COMMENTARY

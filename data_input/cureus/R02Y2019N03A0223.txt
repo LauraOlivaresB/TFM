@@ -1,0 +1,213 @@
+V ol. 85 - No. 3  MiNerVa  aN estesiologica  223EDITORIAL
+Drug interaction is the cornerstone 
+of modern anesthesia practice
+chien-Kun tiNg *
+Department of a nesthesiology, taipei Veterans g eneral Hospital, National Yang-Ming University, taipei, taiwan
+*corresponding author: chien-Kun ting, Department of a nesthesiology, taipei Veterans g eneral Hospital, National Yang-Ming 
+University, 201 section 2 shi-Pai road, Bei- tou District, taipei, 1 1211, taiwan. e -mail: ckting2@gmail.comMinerva a nestesiologica 2019 March;85(3):223-5
+Doi: 10.23736/ s0375-9393.19.13463-3© 2019 eDiZioNi MiNerVa M e D ica
+online version at http://www.minervamedica.it
+in the study by Weber and Prasser published 
+in this issue of Minerva Anestesiologica , 60 
+patients underwent elective otolaryngeal or ear 
+surgery for investigating a propofol-sufentanil 
+interaction model to determine the optimal con -
+centration of either drug for adequate anesthesia 
+and rapid recovery, by evaluating both clinical 
+endpoints and electroencephalography findings.1 
+they concluded that sufentanil has a dose-depen -
+dent synergistic effect on the clinically observed outcomes and parameters from three depths of 
+hypnosis (DoH) devices (Bispectral i ndex [B is ], 
+Narcotrend index, and c aai) in patients hypno -
+tized with propofol.1
+anesthesiologists are required to have an 
+in-depth knowledge of pharmacology;2 we use 
+the synergy between hypnotics and analgesics to suppress consciousness and nociception. Un -
+der general anesthesia, a set of desirable clini -
+cal endpoints should be achieved, including lack of awareness, lack of movement, adequate muscle relaxation, acceptable blood pressure, 
+and body homeostasis maintenance. No single 
+drug is universally satisfactory for achieving 
+these endpoints. For practical purposes, anes -
+thesia in the modern age involves the admin -
+istration of at least two drugs — an opioid and 
+a sedative hypnotic.
+3 th is concept of multiple 
+drug use was first described by Lundy in 1926, who used the term balanced anesthesia.
+4 Bal-
+anced anesthesia involves the use of desirable drug combinations by reducing the required doses of individual drugs to minimize the side 
+effects. cu rrently, balanced anesthesia is one of 
+the most worldwide used techniques for general 
+anesthesia.
+Drug interactions are usually considered in 
+the dose or concentration domain, and there are 
+many ways to study drug interaction. t he dose–
+response relation curve is based on the standard 
+sigmoid e max model. i n their study, Weber and 
+Prasser used the modified Observer’s Assessment 
+of alertness and s edation s cale (m oaa / s )5 to 
+measure the clinical endpoints and defined loss 
+of responsiveness to verbal command ( lor -
+verb) by the transition from m oaa /s level 3 to 
+2; noxious (painful) stimulation ( lor nox), cor -
+responding to m oaa /s level 0, served as the 
+primary endpoint of this study. t he m oaa / s  
+Scale was firstly developed to measure the level of alertness in subjects who are sedated.
+5 Probit 
+regression analysis was used to determine the 
+dose–response relation curve for the two differ -
+ent clinical endpoints.
+there is experimental evidence showing that 
+conscious recall of intraoperative events is only the tip of an iceberg.
+6 three DoH devices were 
+used in the study of Weber and Prasser to avoid 
+awareness and facilitate rapid recovery. t he B is 
+index was first introduced in 1992 by Aspect 
+Medical systems. t he main component of the B is 
+monitor is bispectral analysis, which evaluates the 
+phase relations from a single channel eeg  signal 
+measured from the patient’s forehead.7 although 
+This document is protected by international copyright laws. No additional reproduction is authorized. It is permitted for personal use to download and save only one file and print only one copy of this Article. It is not permitted to make additional copies (either sporadically 
+or systematically, either printed or electronic) of the Article for any purpose. It is not permitted to distribute the electronic copy of the article through online internet and/or intranet file sharing systems, electronic mailing or any other means which may allow access 
+to the Article. The use of all or any part of the Article for any Commercial Use is not permitted. The creation of derivative works from the Article is not permitted. The production of reprints for personal or commercial use is not permitted. It is not permitted to remove, cover,  overlay, obscure, block, or change any copyright notices or terms of use which the Publisher may post on the Article. It is not permitted to frame or use framing techniques to enclose any trademark, logo, or other proprietary information of the Publisher.tiNg  D r U g  i N teractio N i N M o D er N a N est H esia  P ractice
+224 MiNerVa  aN estesiologica  March 2019 Bis-guided anesthesia and etag -guided anes -
+thesia may be equivalent with regard to avoidance 
+of intraoperative awareness,8 Bis-guided total in -
+travenous anesthesia plays an important role in re -
+ducing the risk of intraoperative awareness.9, 10 in 
+2000, Monitor technik produced the Narcotrend  
+monitor based on the concept described by loo-
+mis et al.11 The Narcotrend monitor classifies the 
+state of anesthesia into five stages (A to F); they 
+were further subdivided into three sub-stages by 
+Kugler.12 analogous to B is , the newer versions 
+of the monitor also display the index value (0 to 
+100).7 The first AEP commercial monitor was in -
+troduced by Danmeter in 2001. ae P-Monitor/2 
+is not only based on ae P, but also analyses the 
+spectral eeg  parameters.7 Different DoH devices 
+have different algorisms, which leads to a differ -
+ent index value; this is compatible with Weber 
+and Prasser’s finding that specific devices have their own dose–response curves.
+Drug interactions can be described by shifts 
+in dose–response curves, where one drug influ -
+ences the dose–response curve for another drug. Weber and Prasser tried to analyses drug inter -
+action using dose–response curves in the three 
+DoH devices. Nonlinear regression was used to 
+determine the curves. t he method suggested by 
+Hannam and anderson13 was applied to deter -
+mine whether the interaction is synergistic or ad -
+ditive. i f the curve was noted to shift to the left, 
+it was considered to indicate synergy. t he other 
+approach to study interaction between two drugs 
+is to plot dose pairs together to form a line which 
+shows a particular level of effect. t hese isoef -
+fect lines are called isoboles. isobolograms can 
+be easily constructed and analyzed. Numerous 
+published studies have used this methodology, 
+and their conclusions are comparable to those of studies using more complex methodologies; however, the limitation of isobolograms is that the result is only applicable to the effect level 
+investigated. to gain a full understanding of the 
+interaction between two drugs for all effect lev -
+els, it is possible to overlay a series of isoboles ranging from the minimal effect to the maximal 
+effect attainable ( emax).14
+the response surface is a three-dimensional 
+graph with two drugs ( a and B) on the horizontal 
+x and y axes and the effect on the vertical z axis. the surface is based on the shift in dose-response 
+curves and the isobologram; it describes effects 
+for the complete set of doses for the endpoint in 
+question. responses may be either continuous, 
+such as B is and blood pressure, or quantal, such 
+as sedation scale scores, awake/sleep, and move-
+ment/immobility. t here was a breakthrough in 
+response surface modeling after 2000, owing to 
+not only the advancements in computing tech-
+nology that made the complex calculation pos-
+sible15 but also the increasing demand for precise 
+anesthesia. This concept was first introduced by 
+Box and Wilson,16 and was first introduced into 
+the field of anesthesia by Greco et al.14 in 1995. 
+the response surfaces create models of all pos -
+sible combinations of two or more drugs for a given effect. Further, they characterize the entire spectrum of the drug effect, which is an impor -
+tant advantage of this approach in anesthesia and 
+clinical pharmacology. t his approach reduces 
+the complex physiology to a few mathematical 
+elements.2
+Drug interaction is the cornerstone of mod -
+ern anesthesia practice. Understanding the syn -
+ergism, additive effects, and even antagonism 
+among anesthetics, especially hypnotics and opioids, may aid in making anesthesia more effective, minimizing side effects from the use 
+of a single anesthetic, and improving the safety 
+of patients. on the other hand, comprehend -
+ing the underlying physiological mechanisms 
+regulating the depth of hypnosis, by monitor -
+ing electroencephalography findings, can aid in formulating cost-effective and safer anesthetic protocols.
+the study successfully addresses synergis -
+tic effect of sufentanil on the hypnotic effect of propofol both in their primary and second out -
+come by tci  effective site concentration (Marsh 
+model). The findings provided some evidence that sufentanil could be beneficial in loss of con-sciousness of propofol, but problems with study 
+design prevented the authors from fully address -
+ing this issue. a comprehensiv e ex  amination of 
+opioid-propofol interaction requires a different 
+study design. Future studies should consider reli-able new methods such as response surface so 
+that the findings can be generalized.
+This document is protected by international copyright laws. No additional reproduction is authorized. It is permitted for personal use to download and save only one file and print only one copy of this Article. It is not permitted to make additional copies (either sporadically 
+or systematically, either printed or electronic) of the Article for any purpose. It is not permitted to distribute the electronic copy of the article through online internet and/or intranet file sharing systems, electronic mailing or any other means which may allow access 
+to the Article. The use of all or any part of the Article for any Commercial Use is not permitted. The creation of derivative works from the Article is not permitted. The production of reprints for personal or commercial use is not permitted. It is not permitted to remove, cover,  overlay, obscure, block, or change any copyright notices or terms of use which the Publisher may post on the Article. It is not permitted to frame or use framing techniques to enclose any trademark, logo, or other proprietary information of the Publisher.DrUg iNteractio N iN MoDerN a N est H esia  P ractice  ti Ng
+V ol. 85 - No. 3  MiNerVa  aN estesiologica  225ac, selvidge J a, et al.  anesthesia awareness and the bispec -
+tral index. N engl J Med 2008;358:1097–108.  
+9. Punjasawadwong Y , Phongchiewboon a , Bunchungmon -
+gkol N. Bispectral index for improving anaesthetic delivery 
+and postoperative recovery. cochrane Database syst rev 
+2014;(6): cD003843.
+10. Punjasawadwong Y , Boonjeungmonkol N, Phongchiew -
+boon a . Bispectral index for improving anaesthetic delivery 
+and postoperative recovery. cochrane Database syst rev 
+2007;(4): cD003843.
+11. loomis al , Harvey e N, Hobart ga . c erebral states dur -
+ing sleep as studied by human brain potentials. J exp Psychol 
+1937;21:127–44.  
+12. Kugler J. elektroenzephalographie in klinik und praxis. 
+stuttgart: thieme; 1981.
+13. Hannam J a, a nderson BJ. Pharmacodynamic interaction 
+models in pediatric anesthesia. Paediatr a naesth 2015;25:970–80.  
+14. greco W r, Bravo g , Parsons J c . t he search for synergy: 
+a critical review from a response surface perspective. Pharma -
+col rev 1995;47:331–85.
+15. liou JY , tsou MY , ting c K. r esponse surface models 
+in the field of anesthesia: A crash course. Acta Anaesthesiol 
+taiwan 2015;53:139–45.  
+16. Box ge, Wilson KB. on the experimental attainment of opti -
+mum conditions. J r stat soc series B stat Methodol 1951;13:1–45.References
+1. Weber F, Prasser c. investigating propofol-sufentanil in -
+teraction using clinical endpoints and processed electroen -
+cephalography: a prospective randomized controlled trial. 
+Minerva anestesiol 2019;85:271–8. 
+2. shafer sl. a ll models are wrong. a nesthesiology 
+2012;116:240–1.  
+3. Kern se , Xie g , White J l , e gan t D. a response surface 
+analysis of propofol-remifentanil pharmacodynamic interac -
+tion in volunteers. a nesthesiology 2004;100:1373–81.  
+4. silver s. Balanced a nesthesia. J a m Dent s oc a nesthesiol 
+1959;6:11.
+5. chernik D a, gillings D, laine H, Hendler J, silver 
+JM, Davidson aB, et al.  Validity and reliability of the 
+Observer’s Assessment of Alertness/Sedation Scale: study 
+with intravenous midazolam. J clin Psychopharmacol 
+1990;10:244–51.
+6. schwender D, Klasing s, Daunderer M, Madler c, Pöppel 
+E, Peter K. [Awareness during general anesthesia. Definition, 
+incidence, clinical relevance, causes, avoidance and medico -
+legal aspects]. a naesthesist 1995;44:743–54. g erman.  
+7. Musizza B, ribaric s. Monitoring the depth of anaesthesia. 
+sensors (Basel) 2010;10:10896–935.  
+8. avidan M s , Zhang l , Burnside B a , Finkel KJ, s earleman 
+Conflicts of interest.—The author certifies that there is no conflict of interest with any financial organization regarding the material discussed in the manuscript.
+Comment on:
+ Weber F, Prasser c . i nvestigating propofol-sufentanil interaction using clinical endpoints and processed electroenceph -
+alography: a prospective randomized controlled trial. Minerva a nestesiol 2019;85:271-8. D oi : 10.23736/ s 0375-9393.18.12326-1.
+Article first published online: February 13, 2019. - Manuscript accepted: February 7, 2019. - Manuscript revised: February 4, 2019. - 
+Manuscript received: November 17, 2018.
+(Cite this article as:  ting c K. Drug interaction is the cornerstone of modern anesthesia practice. Minerva a nestesiol 2019;85:223-5. 
+Doi: 10.23736/ s0375-9393.19.13463-3)
+This document is protected by international copyright laws. No additional reproduction is authorized. It is permitted for personal use to download and save only one file and print only one copy of this Article. It is not permitted to make additional copies (either sporadically 
+or systematically, either printed or electronic) of the Article for any purpose. It is not permitted to distribute the electronic copy of the article through online internet and/or intranet file sharing systems, electronic mailing or any other means which may allow access 
+to the Article. The use of all or any part of the Article for any Commercial Use is not permitted. The creation of derivative works from the Article is not permitted. The production of reprints for personal or commercial use is not permitted. It is not permitted to remove, cover,  overlay, obscure, block, or change any copyright notices or terms of use which the Publisher may post on the Article. It is not permitted to frame or use framing techniques to enclose any trademark, logo, or other proprietary information of the Publisher.

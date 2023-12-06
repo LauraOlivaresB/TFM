@@ -1,0 +1,347 @@
+Review Article
+PXR as a mediator of herb edrug interaction
+Brett C. Hoglea, Xiudong Guanb, M. Maggie Folana, Wen Xiea,c,d,*
+aPharmaceutical Sciences Graduate Program, University of Pittsburgh School of Pharmacy, Pittsburgh, PA, USA
+bDepartment of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, China
+cCenter for Pharmacogenetics and Department of Pharmaceutical Sciences, University of Pittsburgh, Pittsburgh, PA,
+USA
+dDepartment of Pharmacology and Chemical Biology, University of Pittsburgh, Pittsburgh, PA, USA
+article info
+Article history:
+Received 19 October 2017Accepted 23 November 2017Available online 19 December 2017
+Keywords:
+Drug metabolismHerbedrug interaction
+PXRSt. John 's Wort
+Xenobioticsabstract
+Medicinal herbs have been a part of human medicine for thousands of years. The herbedrug interaction is an extension of drug edrug interaction, in which the consumptions of
+herbs cause alterations in the metabolism of drugs the patients happen to take at the sametime. The pregnane X receptor (PXR) has been established as one of the most importanttranscriptional factors that regulate the expression of phase I enzymes, phase II enzymes,and drug transporters in the xenobiotic responses. Since its initial discovery, PXR has beenimplicated in multiple herb edrug interactions that can lead to alterations of the drug 's
+pharmacokinetic properties and cause ﬂuctuating therapeutic efﬁcacies, possibly leadingto complications. Regions of the world that heavily incorporate herbalism into their pri-mary health care and people turning to alternative medicines as a personal choice could be
+at risk for adverse reactions or unintended results from these interactions. This article is
+intended to highlight our understanding of the PXR-mediated herb edrug interactions.
+Copyright ©2017, Food and Drug Administration, Taiwan. Published by Elsevier Taiwan
+LLC. This is an open access article under the CC BY-NC-ND license ( http://
+creativecommons.org/licenses/by-nc-nd/4.0/ ).
+1. Discovery and early characterization of
+PXR as a xenobiotic receptor
+Humans and other mammals are exposed to numerous xe-
+nobiotics every day either intentionally or unintentionallythrough food, water, air, or any other type of environmentalexposure. Within the natural products realm of xenobiotics,there exists a seemingly limitless array of chemical entitiesthat could hold the potential for pushing our understanding ofcurrently puzzling diseases to the edge of the scientiﬁc fron-tier. These chemical entities from natural products, orphytochemicals, can become incorporated in the already vast
+and complex biochemical nature of the human body, and canlead to either intended beneﬁt or unintended harm. Thebody 's innate ability to sense, react to, and act upon
+these foreign substances is a remarkable feat that ensuresefﬁcient metabolism/detoxiﬁcation and the restoration ofhomeostasis.
+The cascade of transcription and expression of drug
+metabolizing enzymes and transporters upon exposure to
+xenobiotics has been traced to the nuclear receptor pregnane
+X receptor (PXR). In 1995, Phil Guzelian 's laboratory discovered
+the existence a novel element in the CYP3A gene promoter
+*Corresponding author . Center for Pharmacogenetics, 306 Salk Pavilion, University of Pittsburgh, Pittsburgh, PA 15261, USA.
+E-mail address: wex6@pitt.edu (W. Xie).
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.jfda-online.comjournal of food and drug analysis 26 (2018) S26 eS31
+https://doi.org/10.1016/j.jfda.2017.11.007
+1021-9498/Copyright ©2017, Food and Drug Administration, Taiwan. Published by Elsevier Taiwan LLC. This is an open access article under the CC
+BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ).that links the glucocorticoid signaling and subsequent
+CYP3A1 gene activation, which disproved the idea that direct
+binding of glucocorticoids such as dexamethasone (DEX) tothe glucocorticoid receptor (GR) was the mechanism ofCYP3A1 gene activation [1]. Two areas of conserved rodent
+DNA sequence, referred to as “footprints ”, within the CYP3A
+gene promoter lacked the typical glucocorticoid responseelement (GRE), which further supported the existence of anovel element that is bound by a yet to be deﬁned cellularfactor. One year later, Phil Guzelian 's laboratory further pro-
+posed that the presence of unique “cellular factors ”in each
+species, instead of allelic heterogeneity in the CYP3A gene it-
+self, accounts for the well-known species speciﬁc induction of
+CYP3A enzymes by the same xenobiotics, such as rifampicin(RIF) and pregnenolone-16 a-carbonitrile (PCN) [2]. Two years
+later, in 1998, PXR was ﬁrst cloned in the laboratories of SteveKliewer and Ron Evans utilizing cDNA libraries. PXR wasdemonstrated to be a novel nuclear receptor activated byendogenous and synthetic steroids and be present in highlymetabolic tissues such as the liver and intestines [3,4]. The
+Kliewer group termed the nuclear receptor PXR since it wasactivated by the 21-carbon pregnanes, while the Evan 's group
+termed it steroid and xenobiotic receptor (SXR) due to its
+activation by natural and synthetic steroid compounds and
+xenobiotics [3,4]. These ﬁndings ultimately set the stage for
+the discovery of the in vivo functionality of this nuclear re-
+ceptor that sits at the heart of the xenobiotic response of en-zymes and transporters. The DNA “footprints ”in the promoter
+region of CYP3A that were discovered by the Guzelian groupcontain a PXR response element, which was bound to by the“cellular factor ”PXR. This correlation therefore classiﬁes
+CYP3A as a direct target gene of PXR [5]. This formed specu-
+lation of a connection between PXR and drug metabolizingenzyme induction involved in the drug response in vivo .I n
+2000, the Evans ﬁrst reported the creation and characteriza-
+tion of the PXR knockout mice, in which the induction ofCYP3A by PCN and DEX was completely abolished [6], and
+these results were independently veriﬁed in another strain ofPXR knockout mice created in the Kliewer lab [7].
+There is a considerable homology in the DNA binding-
+domain (DBD) of PXR between the human and mouse PXR.This conserved portion of the DBD allows PXR to share pro-moter binding sites in the CYP3A gene promoters of either thehuman or rodent origin. In a murine model, disruption of theN-terminal zinc ﬁnger portion of the DBD resulted in a trun-cated and inactive protein, unable to bind to DNA [7]. Ho-
+mology in the C-terminal ligand binding-domain (LBD) was
+found to be much less between humans and mice, whichpostulates the idea of speciﬁcity of ligand recognition by PXRin different species [5]. Crystal structure studies of the LBD
+revealed a more in-depth reasoning for the diverse, yetdistinct, ligand binding to PXR [8]. The large and rather unique
+LBD binding pocket is what allows PXR to bind to a diversearray of ligands, while other traditional nuclear receptors tendto have a more rigid speciﬁcity for their ligands [8]. The pocket
+itself is spherical, hydrophobic, and ﬂexible, which are allcharacteristics that would be expected for a promiscuous re-
+ceptor [8]. Within the large hydrophobic portions of the
+pocket, there exist a small number of polar head residues [8].
+Changes within these polar residues can lead to variations inresponsiveness to different xenobiotics. This ligand pocket
+variability supports the idea of species speciﬁc forms of PXR
+and consequently, different xenobiotic responses [8]. Cell
+transfection and mouse transgenic studies have functionallydemonstrated that the species origin of PXR, rather than thestructure of the promoter regions, dictates the response toxenobiotics [6]. As a direct result of this ﬁnding, “humanized ”
+mice have been created by genetically replacing the mousePXR (mPXR) with the human PXR (hPXR) [6]. The humanized
+mice were able to display a more human representative drugresponse proﬁle rather than a mouse representative drugresponse proﬁle [6]. The creation of “
+humanized ”PXR mice is a
+signiﬁcant step forward in creating a standard model that
+can be used to test drug edrug interactions, toxicity, and
+herbedrug interactions in order to create overall safer drugs
+[6]. This new model also gives us the opportunity to be able
+to observe potentially harmful interactions between herbalmedicines and prescription medicines before they can occurin human patients.
+Previous beliefs that PXR was solely in charge of the regu-
+lation of phase 1 cytochrome P450 enzymes have beendebunked, because emerging evidence has shown that PXRalso plays an essential role in the regulation of phase II drug
+metabolizing enzymes and drug transporters [5]. As of 2009,
+PXR target genes include phase I cytochrome P450 's(CYP2A6,
+CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A1, CYP3A4, CYP3A5,CYP3A7, CYP4F12, CYP24, and CYP27A1 ), phase II uridine
+diphosphate (UDP)-glucuronosyltransferases ( UGT1A1,
+UGT1A3, UGT1A4, UGT1A6, and UGT1A9 ), sulfotransferases
+(Sult2a1 ), glutathione S-transferases ( Gsta2, GSTA4 ), and car-
+boxylesterases (8, 9, 16), and phase III P-glycoprotein ( MDR1 /
+ABCB1 ), multidrug resistance-associated protein 1 (Abcc1),
+multidrug resistance-associated protein 2 ( Abcc2 ), multidrug
+resistance-associated protein 3 ( Abcc3 ), and organic anion
+transporting polypeptide 2 ( OATP2 )[9,10] . As a result, PXR has
+since been deﬁned as a master regulator of the xenobioticresponse [5].
+2. Herb edrug interactions
+Medicinal herbs have been a part of human medicine for the
+last 5000 years and continue to be increasingly involved inmodern medicine of the 21st century [11]. An herb is deﬁned
+as being any type of plant or plant product from the tip of the
+plant down to the roots in the earth, including and leaves,ﬂowers, and seeds [11]. Herbs contain various phytochemi-
+cals, but the proportions of these chemicals can vary sub-stantially from plant to plant. This natural inconsistencylends into the great complexity of studying safety and efﬁcacyof these natural products. In 2007, is has been reported that40% of adults in America used some form of complementaryand alternative medicine, 17.7% of which were natural prod-ucts [12]. A third of Americans who consume an herbal
+product concomitantly consume other oral products [13].O na
+larger scale, the WHO has reported 70% of the world 's popu-
+lation uses some form of alternative medicine [14]. This be-
+comes especially concerning when it comes to drugs such aschemotherapeutics and immunosuppressive agents becausethey have a narrow therapeutic index and ﬂuctuations injournal of food and drug analysis 26 (2018) S26 eS31 S27bioavailability due to enzyme/transporter inhibition or in-
+duction can either lead to toxicity by down or loss of thera-
+peutic efﬁcacy [13,15] . Complementary and alternative
+medicine has been increasing in popularity and usage inwestern medicine and all over the world [16]. As of July 1, 2017,
+traditional Chinese medicine, which includes the use ofherbal supplements, has been given a much larger role in thecountry 's medical system and puts it on an importance level
+comparable with western medicine [17]. Tu Youyou 's discov-
+ery of artemisinin as a novel treatment for malaria earned her
+the 2015 Nobel Prize, perhaps further facilitating the accep-tance of TCM into the nation 's healthcare system [17]. The one
+largest misconception by the public with regards to natural
+products is the perceived notion that “natural ”equals “safe ”.I t
+is crucial to understand that natural products can be mar-keted and sold to consumers with little demonstration ofsafety of efﬁcacy [11].
+Among the herbs, St. John 's Wort ( Hypericum perforatum )
+has become the most studied natural product in the world byamassing over 2000 peer reviewed articles [18]. It has become
+popular globally for its efﬁcacy as an antidepressant [18].I t
+has also taken center stage in herb edrug interaction research
+due to its pharmacokinetic actions on drug metabolizing en-
+zymes (Phase I and II) and efﬂux/uptake transporters [13]. The
+US Food and Drug Administration has labeled St. John 's Wort
+as a strong inducer of CYP 450 enzymes and P-gp transport,which, by deﬁnition, can reduce the AUC of a CYP 450 sub-strate by up to 80% [19]. St. John 's Wort has been demonstrated
+to have clinically relevant pharmacokinetic effects, leading todecreased plasma bioavailability of HIV protease inhibitors(such as Ritonavir and Indinavir), antidepressants, antihy-pertensives, cardiovascular medicines, blood pressure medi-cines, bronchodilators, immunosuppressants, sedatives, andsteroid hormones such as oral contraceptives, to name a few
+[16]. In 2003, it was reported that a 36-year-old woman became
+pregnant while taking the oral contraceptive Valette
+®in
+addition to self-medicating with St. John 's Wort after a
+failed suicide attempt in 1995 [20]. Investigations into this
+herbedrug interaction began increasing in number with the
+ﬁrst controlled clinical trial taking place in 2003. The trialconcluded that irregular bleeding episodes along withdecreased serum concentration of oral contraceptive takentogether with St. John 's Wort put women at higher risk of
+unwanted pregnancies, or as some called them, “miracle ba-
+bies ”[21]. In addition to oral contraceptives, St. John 's Wort co-
+administered with warfarin has shown to reduce its ability to
+increase prothrombin time and puts patients at increased risk
+of an adverse cardiovascular event [22]. Patients diagnosed
+with HIV-1 who take Indinavir as their protease inhibitor incombination with St. John 's Wort are at signiﬁcant risk of
+treatment failure or developing retroviral resistance [23].I n
+another study, 35 patients received liver or kidney transplantsand along with taking their prescribed cyclosporine, self-medicated with St. John 's Wort resulting in their therapeutic
+plasma level being reduced by almost 50% and causing 2serious organ rejection scenarios [24]. This type of immuno-
+suppression drug eherb interaction has also been documented
+in a heart transplant patient who was self-medicating with St.
+John 's Wort for mild depression prior to the surgical procedure
+[25]. Cancer patients taking Imatinib for their treatment arealso subject to signiﬁcant plasma level decrease of the drugs
+taken along with St. John 's Wort [26]. An additional study
+involving the herb and anti-fungal agent voriconazole high-lights the more complicated nature of this type of interaction.Long-term interaction between St. John 's Wort and vor-
+iconazole decreased the drug 's bioavailability while paradox-
+ically short-term interaction increased the drug 's
+bioavailability [27]. The cases described above are only
+representative of a single herb 's impact on multiple medical
+fronts.
+There are a plethora of other herbs, some common and
+some unusual, that alter the pharmacokinetics of concomi-
+tant drugs, but require additional evidence to establish
+causation. Echinacea purpurea is an herb that has gained
+popularity in its observed ability to alleviate secondarysymptoms of HIV in antiretroviral therapy, but has beenshown to up-regulate CYP1A2, CYP3A4, and MDR1 (P-gp)in vitro which could ultimately affect a prescription drug 's
+performance [28]. To put the issue of herb edrug interactions
+into a more relatable perspective, we can look at herbs that aretaken not for their medicinal properties, but for their appe-tizing aromatic properties and their ability to inject ﬂavorsinto our snacks, meals or beverages. Black pepper, cayenne
+pepper, garlic, ginger, ginkgo balboa, ginseng, grapefruit juice,
+liquorice, and pomegranate juice are all being investigated todetermine their risk of causing an adverse event when takenwith medications [18,29,30] . The variation in the results of
+these herbs with conventional medicine warrants furtherresearch into the mechanisms and causalities of potentialadverse events. It is critical to widen our knowledge base inthis area in order to prevent, or at least have some degree ofcontrol over, the fate of herb edrug interactions.
+3. PXR as a mediator of herb edrug
+interaction
+Although the herb edrug interactions have been recognized
+and extensively studied for many years, the underlyingmechanism by which herbs trigger herb edrug interaction has
+long been elusive. The discovery of PXR in 1998 offered anexciting opportunity to decipher the herb edrug interactions.
+Indeed, structural analysis revealed that the binding pocket ofPXR exhibits a “one-size-ﬁts-all ”type of structure [31].I t
+seems reasonable to speculate that many xenobiotic chem-
+icals, including those present in the herbs, can be recognizedby PXR and consequently trigger a PXR-mediated regulation ofdrug metabolizing enzymes, which can be the molecular basisof drug eherb interactions.
+The ﬁrst herb ePXR interaction that was uncovered was the
+discovery of St. John 's Wort extract and its constituent com-
+pound hyperforin acting as PXR agonists, leading to increasedhepatic drug metabolism [32]. In 2000, the group at Glaxo
+Wellcome, led by Steve Kliewer, demonstrated a direct bind-ing of hyperforin to the LBD of PXR [32]. The EC
+50of induction
+of CYP3A in primary human hepatocytes was measured at
+23 nM, that is at ~94% less than the of the concentration ofblood plasma after a standard 3 /C2300 mg dose regimen, which
+really shows how potent of a PXR activator and enzymeinducer this really is [32]. This degree of inducibility can causejournal of food and drug analysis 26 (2018) S26 eS31 S28increased clearance of a systemically available drug that just
+also happens to be a substrate of CYP3A.
+Since the discovery of St. John 's Wort as a PXR agonist, a
+whole host of herbs, including gugulipids, kava kava, Coleusforskohlii, hypoxis, sutherlandia, qing hao, gan cao andquiercitin, have been found to interact with PXR in somefashion to trigger the up-regulation of enzymes and trans-porters to expedite their own metabolism and subsequentlythe metabolism of concomitant drugs that are substrates forthe same enzymes and transporters [33]. These herb edrug
+interactions are starting to build evidence and starting tobecome more understood, but not quite to the degree of St.
+John 's Wort. Herb edrug interactions through PXR activation
+are important biochemical mechanisms that should beinvestigated with every new drug that emerges onto themarket to preserve the safety of those individuals who will betaking it. The herb ePXR interaction can be evaluated by using
+cell culture models and/or in vivo animal models. These
+include the PXR transfection and reporter gene assay and thePXR “humanized mice ”.
+4. Does the induction of PXR always
+correlate to an increase in drug metabolism?
+PXR induction has been shown to cause adverse pharmaco-
+kinetic reactions such as increased drug metabolism leadingto sub-therapeutic concentrations of important drugs. Anoutstanding question is: Does the induction of PXR alwayscorrelate to an increase in drug metabolism? Studies showedthat some xenobiotics display a dual nature of acting as a PXRactivator/CYP enzyme inducer and as a CYP enzyme inhibitor.The enzyme inhibitory effects of xenobiotics can be catego-
+rized as either reversible inhibition or irreversible inhibition,
+which is commonly referred to as mechanism basedinhibition [34]. Irreversible inhibition essentially inactivates
+the enzyme through irreversible binding and in vivo , the only
+way for the CYP enzyme ability to be restored is to synthesizenew enzymes [34]. This type of inhibition has drawn clinical
+interest due to the extended time of which CYP enzymes areunable to metabolize their substrates due to the relativelyslower process of protein biosynthesis [34]. In the event that a
+xenobiotic compound can function as both a PXR activatorand enzyme/transporter inhibitor, the ﬁnal outcome dependson the relative strength of these two opposing actions.
+The traditional Chinese herbal medicine Wu Wei Zi
+(WWZ, or Schisandra Sphenanthera ) provides a good example
+that an herb may have a complex effect on drug metabolism
+as summarized in Fig. 1 . WWZ has been shown to activate
+PXR and induce CYP enzymes. Schisandrol B, Schisandrins Aand Schisandrins B were identiﬁed as the PXR-activatingconstituents isolated from WWZ that showed similar po-tency and efﬁcacy as RIF [35]. However, WWZ extracts have
+been used as a drug-sparing agent to decrease drug meta-bolism of immunosuppressants such as Tacromilus in a pre-clinical rat model [36]. The drug sparing effect of WWZ was
+reasoned to be due to the inhibitory effect of WWZ on theactivities of both CYP3A enzyme and P-gp, the enzymes and
+transporter that play an important role in the disposition of
+Tacromilus. Wu Wei Zi taken concomitantly with Tacromilusallows the herb to exhibit its inhibitory effects on CYP3Aenzymes and P-gp transporter proteins resulting in animproved systemic bioavailability and a higher concentrationof drug being able to survive ﬁrst pass metabolism [36].
+Treatment with WWZ has also been shown to improve thebioavailability of cyclosporine A and paclitaxel in animalmodels [34]. The overall drug sparing effect of WWZ suggests
+that the enzyme and transporter inhibitory effect of WWZdominates the PXR activating and enzyme inducing activity
+of this herbal.
+Fig. 1 eSummary of the effect of Wu Wei Zi on drug metabolism. The overall net effect of an herb edrug interaction depends
+on the proportion of induction and inhibition triggered by constitutive phytochemicals contained in the herb.
+Phytochemical contents of herbs are generally susceptible to great variability in nature.journal of food and drug analysis 26 (2018) S26 eS31 S29Other factors, besides the inhibition of enzyme and
+transporter activity, have been discovered to play a role in
+determining whether PXR induction will lead to increaseddrug metabolism. In vitro studies investigating a drug 's ability
+to induce PXR were not entirely reﬂective of observed in vivo
+drug concentrations that caused some drugs to be labeled asinducers when in fact they showed no induction in vivo [34].
+Intracellular concentrations of the drugs in vivo are also more
+susceptible to ﬂuctuation due to the presence of transporterswhich presents the case that drug concentrations in vitro may
+not be the same observed in vivo [34]. Another complexity is
+the species speciﬁcity of PXR activation and enzyme induc-
+tion, meaning that cautions need to apply when extrapolating
+preclinical rodent model data to humans.
+5. Summary and perspectives
+After 22 years of the discovery of PXR, we have gained a sig-niﬁcant understanding of its importance in the metabolismand disposition of xenobiotic and endogenous chemicals.From being initially regarded as strictly a phase I CYP
+450 enzyme inducer to an inducer of phases I eIII, this
+receptor continues to demonstrate complexity and variability.Herbedrug interaction studies seem to be gaining traction in
+the realm of pharmaceutical research and with good reason.Natural products, by nature, are more complex than what wecan ever hope to achieve synthetically in the lab. One-third toone-half of today 's pharmaceutical company 's products are
+being derived from nature, more speciﬁcally from plants [9].
+There are approximately 20,000 herbal supplements in exis-tence, as well as in use, that have little pharmacokinetic,pharmacodynamic, or safety data [9]. The key for future
+research is to study these herb ePXR interactions while taking
+into consideration the delicate balance between induction andinhibition, in vivo concentrations of drugs, and understanding
+that rodent models may not fully represent the intricate andvariable nature of the human body. Future research could alsoinclude identifying of agonists of PXR, ﬁnding the pharmaco-phore structure, determining whether PXR induction or inhi-bition would be of most beneﬁt, and synthetically modifyingthe agonist or antagonist in a way that produces the mostbeneﬁcial therapeutic effect, essentially giving rise to a type ofprecision medicine. This type of research has already gotten
+off the ground in the case where 820 ingredients from 421
+herbs were screened as agonists of PXR, building a pharma-cophore model, and using docking strategies to identify andrank potential PXR agonists [37]. Although this article focuses
+on the discussion of PXR, it is important to emphasize that theconstitutive androstane receptor (CAR) is a sister xenobioticreceptor of PXR. CAR share many of the functions of PXR insensing herb medicines and in regulating the expression ofdrug metabolizing enzymes and transporters [38, 39] .
+references
+[1]Quattrochi LC, Mills AS, Barwick JL, Yockey CB, Guzelian PS.
+A novel cis-acting element in a liver cytochrome P450 3Agene confers synergistic induction by glucocorticoids plus
+antiglucocorticoids. J Biol Chem 1995;270:28917 e23.
+[2]Barwick JL, Quattrochi LC, Mills AS, Potenza C, Tukey RH,
+Guzelian PS. Trans-species gene transfer for analysis ofglucocorticoid-inducible transcriptional activation oftransiently expressed human CYP3A4 and rabbit CYP3A6 in
+primary cultures of adult rat and rabbit hepatocytes. Mol
+Pharmacol 1996;50:10 e6.
+[3]Kliewer SA, Moore JT, Wade L, Staudinger JL, Watson MA,
+Jones SA, et al. An orphan nuclear receptor activated by
+pregnanes deﬁnes a novel steroid signaling pathway. Cell1998;92:73 e82.
+[4]Blumberg B, Sabbagh Jr W, Juguilon H, Bolado Jr J, van
+Meter CM, Ong ES, et al. SXR, a novel steroid and xenobiotic-
+sensing nuclear receptor. Genes Dev 1998;12:3195 e205.
+[5]Yan J, Xie W. A brief history of the discovery of PXR and CAR
+as xenobiotic receptors. Acta Pharm Sin B 2016;6(5):450 e2.
+[6]Xie W, Barwick JL, Downes M, Blumberg B, Simon CM,
+Nelson MC, et al. Humanized xenobiotic response in miceexpressing nuclear receptor SXR. Nature 2000;406:435 e8.
+[7]Staudinger JL, Goodwin B, Jones SA, Hawkins-Brown D,
+MacKenzie KI, LaTour A, et al. The nuclear receptor PXR is a
+lithocholic acid sensor that protects against liver toxicity.Proc Natl Acad Sci U S A 2001;98:3369 e74.
+[8]Watkins RE, Wisely GB, Moore LB, Collins JL, Lambert MH,
+Williams SP, et al. The human nuclear xenobiotic receptorPXR: structural determinants of directed promiscuity.Science 2001;292:2329 e33.
+[9]Mandelkar S, Hong JL, Kong ANT. Modulation of metabolic
+enzymes by dietary phytochemicals: a review ofmechanisms underlying beneﬁcial versus unfavorableeffects. Curr Drug Metabol 2006;7:661 e75.
+[10] Chang TK. Activation of pregnane X receptor (PXR) and
+constitutive androstane receptor (CAR) by herbal medicines.AAPS J 2009;11:590 e601.
+[11] Bent S. Herbal medicine in the United States: review of
+efﬁcacy, safety, and regulation: grand rounds at University ofCalifornia, San Francisco Medical Center. J General InternMed 2008;23(6):854 e9.
+[12] Barnes PM, Bloom B, Nahin RL. Complementary and
+alternative medicine use among adults and children: UnitedStates, 2007. National health statistics reports; no 12.Hyattsville, MD: National Center for Health Statistics; 2008 .
+[13] Mouly S, Llorent-Linares C, Sellier PO, Sene D, Bergmann JF.
+Is the clinical relevance of drug-food and drug-herbinteractions limited to grapefruit juice and Saint-John ’s
+Wort? Pharmacol Res 2017;118:82 e92.
+[14] Fasinu P, Bouic P, Rosenkranz B. An overview of the evidence
+and mechanisms of herb-drug interactions. Front Pharmacol2012;3(69):1 e19.
+[15] Meijerman I, Beijnen JH, Schellens J. Herb-drug interactions
+in oncology: focus on mechanisms of induction. Oncol2006;11:742 e52.
+[16]
+Frass M, Strassl RP, Friehs H, Mu ¨llner M, Kundi M, Kaye AD.
+Use and acceptance of complementary and alternative
+medicine among the general population and medicalpersonnel: a systematic review. Ochsner J 2012;12(1):45 e56.
+[17] Tianchen H. China adopts law on TCM to boost medical
+practices. CGTN; 26 Dec. 2016. news.cgtn.com/news/
+3d6b544f7955544d/share_p.html .
+[18] Gurley BJ, Fifer EK, Gardner Z. Pharmacokinetic herb-drug
+interactions (part 2): drug interactions involving popular
+botanical dietary supplements and their clinical relevance.Planta Med 2012;78:1490 e514.
+[19] Berry-Bibee E, Kim MJ, Tepper N, Riley H, Curtis K. Co-
+administration of St. John 's Wort and hormonal
+contraceptives: a systematic review. Contraception2016;94(6):668 e77.journal of food and drug analysis 26 (2018) S26 eS31 S30[20] Schwarz U, Bu ¨schel B, Kirch W. Unwanted pregnancy on
+self-medication with St. John 's wort despite hormonal
+contraception. Br J Clin Pharmacol 2003;55(1):112 e3.
+[21] Pfrunder A, Schiesser M, Gerber S, Haschke M, Bitzer J,
+Drewe J. Interaction of St. John 's wort with low-dose oral
+contraceptive therapy: a randomized controlled trial. Br J
+Clin Pharmacol 2003;56(6):683 e90.
+[22] Tachjian A, Maria V, Jahangir A. Use of herbal products and
+potential interactions in patients with cardiovascular
+diseases. J Am Coll Cardiol 2010;55(6):515 e25.
+[23] Piscitelli SC, Burstein AH, Chaitt D, Alfaro RM, Falloon J.
+Indinavir concentrations and St. John 's wort. Lancet
+2000;355:547 e8.
+[24] Ernst E. St. John 's Wort supplements endanger the success of
+organ transplantation. Arch Surg 2002;137:316 e9.
+[25] Ruschitzka F, Meier PJ, Turina M, Luscher TF, Noll G. Acute
+heart transplantation rejection due to St. John 's wort. Lancet
+2000;355:548 e9.
+[26] Frye R, Fitzgerald S, Lagattuta T, Hruska M, Egorin M. Effect of
+St. John 's Wort on imatinib mesylate pharmacokinetics. Clin
+Pharmacol Therapeut 2004;76:323 e9.
+[27] Xie HG, Kim R. St. John 's wort-associated drug interactions:
+short-term inhibition and long-term induction? ClinPharmacol Therapeut 2005;78(1):19 e24.
+[28] Awortwe C, Manda V, Avonto C, Khan S, Khan I, Walker L,
+et al. Echinacea purpurea up-regulates CYP1A2, CYP3A4 and
+MDR1 gene expression by activation of pregnane X receptorpathway. Xenobiotica 2015;45(3):218 e29.
+[29] Fugh-Berman Adriane. Herb-Drug interactions. Lancet
+2000;355(9198):134 e8.
+[30] Prakash C, Zuniga B, Song CS, Jiang S, Cropper J, Park S, et al.
+Nuclear receptors in drug metabolism, drug response and
+drug interactions. Nucl Recept Res 2015;2. pii:101178 .
+[31] Kliewer S. Nuclear Receptor PXR: discovery of a
+pharmaceutical anti-target. J Clin Investig
+2015;125(4):1388 e9.[32] Moore LB, Goodwin B, Jones SA, Wisely GB, Serabjit-Singh CJ,
+Willson TM, et al. St John
+'s wort induces hepatic drug
+metabolism through activation of the pregnane X receptor.
+Proc Natl Acad Sci U S A 2000;97:7500 e2.
+[33] Staudinger J, Ding X, Lichti K. Pregnane X receptor and
+natural products: beyond drug-drug interactions. Expert
+Opin Drug Metab Toxicol 2006;2(6):847 e57.
+[34] Wei Y, Tang C, Sant V, Li S, Poloyac S, Xie W. A molecular
+aspect in the regulation of drug metabolism: does PXR-
+induced enzyme expression always lead to functional
+changes in drug metabolism? Curr Pharmacol Rep2016;2:187 e92.
+[35] Mu Y, Zhang J, Zhang S, Zhou HH, Toma D, Ren S, et al.
+Traditional Chinese medicines Wu Wei Zi (Schisandra
+chinensis Baill) and Gan Cao (Glycyrrhiza uralensis Fisch)activate pregnane X receptor and increase warfarinclearance in rats. J Pharmacol Exp Therapeut
+2006;316(3):1369 e77.
+[36] Qin XL, Bi HC, Wang XD, Li JL, Wang Y, Xue XP, et al.
+Mechanistic understanding of the different effects of WuzhiTablet (Schisandra sphenanthera extract) on the absorption
+and ﬁrst-pass intestinal and hepatic metabolism of
+Tacrolimus (FK506). Int J Pharm. 2010;389(1-2):114 e21.
+[37] Cui Z, Kang H, Tang K, Liu Q, Cao Z, Zhu R. Screening
+ingredients from herbs against pregnane X receptor in the
+study of inductive herb-drug interactions: combiningpharmacophore and docking-based rank aggregation.Biomed Res Int 2015;2015:657159. https://doi.org/10.1155/
+2015/657159 .
+[38] Wei P, Zhang J, Egan-Haﬂey M, Liang S, Moore DD. The
+nuclear receptor CAR mediates speciﬁc xenobiotic inductionof drug metabolism. Nature 2000;407(6806):920 e3.
+[39] Huang W, Zhang J, Moore DD. A traditional herbal medicine
+enhances bilirubin clearance by activating the nuclearreceptor CAR. J Clin Investig 2004;113(1):137 e43.journal of food and drug analysis 26 (2018) S26 eS31 S31

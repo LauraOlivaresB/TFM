@@ -1,0 +1,218 @@
+Journal of Cystic Fibrosis 21 (2022) e5–e7 
+Contents  lists available  at ScienceDirect  
+Journal  of Cystic  Fibrosis  
+journal  homepage:  www.elsevier.com/locate/jcf  
+Case Report  
+No drug-drug  interaction  between  tezacaf  tor-ivacaf  tor and 
+clofazimine:  A case  report  
+S.E.M.  Vonk  a , S.W.J.  Terheggen-Lagro  b , L.M. Mouissie  c , R.A .A . Mathôt  a , E.M. Kemper  a , on 
+behalf  of the Amsterdam  Mucociliary  Clearance  Disease  (AMCD)  research  group  ∗
+a Department  of Hospital Pharmacy,  Amsterdam  University  Medical Centers, location AMC, the Netherlands  
+b Department  of Pediatric Respiratory  Medicine,  Amsterdam  University  Medical Centers, location AMC, the Netherlands  
+c Patient with Cystic Fibrosis under treatment  at CF-center  Amsterdam,  the Netherlands  
+a r t i c l e i n f o 
+Article history: 
+Received  21 July 2021 
+Revised 29 September  2021 
+Accepted  11 October 2021 
+Available  online 29 October 2021 
+Keywords:  
+Tezacaftor-ivacaftor  
+Clofazimine  
+Drug-drug  interaction  a b s t r a c t 
+In this case report the potential  drug-drug  interaction  between  cytochrome  P450 (CYP) 3A4 substrates  
+tezacaftor-ivacaftor  and CYP3A4/5  inhibitor  clofazimine  is investigated  in a patient with cystic ﬁbrosis.  
+Exposure  to tezacaftor,  ivacaftor  and its metabolites  was assessed  by determination  of the area under 
+the plasma concentration  versus time curve (AUC 0-24 h for tezacaftor  and AUC 0-12 h for ivacaftor  and its 
+metabolite)  before start of clofazimine  and 8 and 115 days after start of clofazimine.  The AUC-ratio  at day 
+115 and pre-start  was 1.09, 1.45 and 0.747 for ivacaftor,  hydroxymethyl  ivacaftor  and tezacaftor,  respec- 
+tively. This case suggests  that clofazimine  exhibits  no clinically  relevant  increase  in exposure  to tezacaftor  
+and ivacaftor.  
+© 2021 The Author(s). Published by Elsevier B.V. on behalf of European Cystic Fibrosis Society.  
+This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/  ) 
+1. Introduction  
+Clofazimine  is an antimycobacterial  drug which is used for the 
+treatment  of non-tuberculous  mycobacterium  (NTM).  In August  
+2019 clofazimine  got a positive  opinion  for orphan  designation  for 
+the treatment  of NTM lung disease  by the European  Medicines  
+Agency.  In vitro clofazimine  has been characterized  as an inhibitor  
+of cytochrome  P450 (CYP)3A4/5,  2C8 and 2D6. In previously  per- 
+formed  static and physiologically  based pharmacokinetic  (PBPK) 
+modeling  prediction  studies  an interaction  between  clofazimine  
+and midazolam,  a probe substrate  for CYP3A4,  was characterized.  
+Midazolam  area under the plasma  concentration  versus time curve 
+(AUC) was increased  with a factor 5.59 and 2.69 for static and 
+PBPK modeling,  respectively,  when coadministered  with 100 mg 
+clofazimine  [1] . At the moment  of writing  this report there are 
+limited  in vivo data available  describing  the interaction  proﬁle of 
+clofazimine  [2] . 
+Tezacaftor-ivacaftor,  a combination  drug for the treatment  of CF, 
+are both substrates  of CYP3A4  and CYP3A5.  In the prescribing  in- 
+formation  of tezacaftor-ivacaftor  dose reductions  are recommended  
+when patients  are starting  with a moderate  to strong inhibitor  of 
+∗Corresponding  author at: PharmD,  PhD Amsterdam  University  Medical Centers, 
+location AMC, Department  of Pharmacy,  Meibergdreef  9, 1105 AZ Amsterdam,  the 
+Netherlands.  
+E-mail address: e.m.kemper@amsterdamumc.nl  (E.M. Kemper).  CYP3A4  [3] . Based on these data an increase  in AUC of tezacaftor-  
+ivacaftor  after initiation  with clofazimine  was expected.  
+In this case study the interaction  between  tezacaftor-ivacaftor  
+and clofazimine  was evaluated  in a patient  with CF. 
+2. Case report 
+A 16-year-old  girl with cystic ﬁbrosis  (CF) was initiated  on 
+clofazimine  100 mg once daily for approximately  one year, as 
+part of a quadruple  therapy  regimen  including  also ethambutol,  
+azithromycin  and amikacin  to treat NTM. As chronic  CF medication  
+tezacaftor-ivacaftor  was used in a regular  dose of 100-150  mg, re- 
+spectively,  once daily in the morning,  combined  with ivacaftor  150 
+mg monotherapy  once daily in the evening.  Her medication  pro- 
+ﬁle was thoroughly  screened  before start of the NTM medication  
+on drug-drug  interactions.  Since there were no in vivo data avail- 
+able describing  the potential  drug-drug  interaction  between  clo- 
+fazimine  and CYP3A4  substrates,  no immediate  dose adjustments  
+in tezacaftor-ivacaftor  were made at the start of clofazimine.  The 
+patient  was admitted  to the hospital  before the initiation  of her 
+NTM treatment.  Blood samples  were taken just before administra-  
+tion of tezacaftor-ivacaftor  (time = 0) and 2, 4 and 6 h after ad- 
+ministration.  Similar  PK curves were obtained  at 8 and 115 days af- 
+ter start of clofazimine.  Ivacaftor,  hydroxymethyl  ivacaftor,  ivacaftor  
+carboxylate  and tezacaftor  were quantiﬁed  in plasma  with a val- 
+idated liquid chromatography-tandem  mass spectrometry  method  
+https://doi.org/10.1016/j.jcf.2021.10.003  
+1569-1993/© 2021 The Author(s). Published by Elsevier B.V. on behalf of European Cystic Fibrosis Society. This is an open access article under the CC B Yl i c e n s e  
+( http://creativecommons.org/licenses/by/4.0/  ) S.E.M. Vonk, S.W.J. Terheggen-Lagro,  L.M. Mouissie et al. Journal of Cystic Fibrosis 21 (2022) e5–e7 
+Table 1 
+Area under the curve (AUC) of ivacaftor,  hydroxymethyl  ivacaftor,  ivacaftor  carboxylate  and tezacaftor  before start 
+of clofazimine  (day 0), and at day 8 and day 115 after start of clofazimine.  
+Day 0 Day 8 Day 115 
+AUC ^ (mg ∗h/L) AUC ^ (mg ∗h/L) AUC-ratio  ∗AUC ^ (mg ∗h/L) AUC-ratio  ∗
+Ivacaftor  11.1 16.2 1.46 12.2 1.09 
+Hydroxymethyl  ivacaftor  19.6 33.1 1.69 28.5 1.45 
+Ivacaftor  carboxylate  # 8.56 14.4 1.68 22.3 2.61 
+Tezacaftor  75.4 75.5 1.00 56.3 0.747 
+∗AUC-ratio  = AUC after start clofazimine (day 8 or 115) /AUC before start clofazimine (day 0) 
+^ AUC 0-24h for tezacaftor  by a dose of 100 mg once daily, and AUC 0-12h for ivacaftor  and its metabolites  by a dose of 
+150 mg twice daily. 
+# ivacaftor  carboxylate  is a non-active  metabolite  of ivacaftor  
+[4] . AUC 0-24h for tezacaftor  and AUC 0-12h for ivacaftor  were deter- 
+mined by the linear-log  trapezoidal  method.  At day 8, the AUC- 
+ratio (AUC(day  8)/AUC(day  0)) was 1.46, 1.69, 1.68 and 1.00 for 
+ivacaftor,  hydroxymethyl  ivacaftor,  ivacaftor  carboxylate  and teza- 
+caftor, respectively.  The AUC-ratio  at day 115 was 1.09, 1.45, 2.61 
+and 0.747 for ivacaftor,  hydroxymethyl  ivacaftor,  ivacaftor  carboxy-  
+late and tezacaftor,  respectively  ( Table 1 ). No tezacaftor-ivacaftor  
+dose adjustments  were made based on these results.  
+3. Discussion  
+In this case report no clinical  signiﬁcant  increase  in exposure  of 
+tezacaftor-ivacaftor  at day 8 and day 115 was seen after the start 
+with clofazimine  therapy.  
+In order to calculate  the AUC, blood samples  were taken just 
+before administration  of tezacaftor-ivacaftor  (time = 0) and 2, 4 
+and 6 h after administration.  The maximum  plasma  concentration  
+(C max ) of tezacaftor  and ivacaftor  are reached  after 4 and 6 h, re- 
+spectively.  Steady state plasma  concentrations  (C ss ) of tezacaftor  
+and ivacaftor  are reached  within 8 days [3] . Inhibition  of CYP en- 
+zymes is immediate  and is normally  dependent  on the dose of the 
+inhibitory  drug. Since clofazimine  has a very long elimination  half- 
+life of 25 days, C ss is reached  after approximately  3-4 months  [5] . 
+Therefore,  blood samples  were not only taken at day 8, but also on 
+day 115 days after start of clofazimine  when (higher)  steady-state  
+levels are present.  
+The observed  AUCs of ivacaftor  and tezacaftor  in this patient  
+before start of clofazimine  correspond  to the AUCs reported  in the 
+registration  documents.  Mean AUC (SD) at C ss in the registration  
+documents  are AUC 0-24h 97.1 (35.8) mg •h/L and AUC 0-12h 11.4 (5.5) 
+mg •h/L for tezacaftor  and ivacaftor,  respectively  [3] . 
+Maartens  et al. studied  the effect of clofazimine  on bedaquiline  
+exposure  in a group of tuberculosis  patients.  The difference  in ex- 
+posure of bedaquiline  in patients  treated  with and without  clofaz- 
+imine was -9.1% (90% CI -22.8 to + 7.1; p = 0.19). This study was 
+however  not designed  to examine  this DDI in particular  and the 
+conﬁdence  interval  of the interaction  effect were quite large, thus 
+its clinical  relevance  was questioned.  However,  our ﬁndings  sup- 
+port their results and in this case the patient  served as its own 
+control  [2] . 
+The difference  between  midazolam  and tezacaftor-ivacaftor  is 
+remarkable,  since other inhibitors  of CYP3A4  do increase  its AUC. 
+In the study of Sangana  et al. clofazimine  was characterized  as a 
+moderate  to strong inhibitor  of CYP3A4  by in silico studies,  with 
+signiﬁcant  increases  in midazolam  AUC. However,  in the study of 
+Maartens  et al. in vivo no clear inhibitory  effect of clofazimine  on 
+bedaquiline  exposure  was seen. Therefore  the CYP3A4  inhibiting  
+potency  of clofazimine  in vivo may be questioned  and further  re- 
+search is needed.  
+The AUC-ratio  at day 115 and pre-start  was 1.09, 1.45 and 0.747 
+for ivacaftor,  hydroxymethyl  ivacaftor  and tezacaftor,  respectively.  
+These increases  are not clinically  relevant  as registration  docu- ments deﬁne a moderate  or strong inhibitor  of CYP3A4  by respec-  
+tive AUC-ratios  of 3- and 16-fold  [3] . Only ivacaftor  carboxylate  
+showed  an increase  in AUC-ratio  of 2.6 at day 115, but this is a 
+pharmacologically  non-active  metabolite.  Therefore,  no adjustment  
+in the dose of ivacaftor  was made. 
+The AUC-ratio  of ivacaftor  metabolites  increased  after introduc-  
+tion of clofazimine.  This was remarkable,  since the opposite  was 
+expected  when inhibiting  the metabolism  of ivacaftor.  This phe- 
+nomenon  can possibly  be explained  by a lower clearance  or inhib- 
+ited metabolism  of the metabolites.  On the other hand, the reduc- 
+tion of tezacaftor  with an AUC-ratio  of 0.747 was also the opposite  
+from expected  when inhibiting  the metabolism  of tezacaftor.  This 
+reduction  may be the result of a reduced  bioavailability  and/or an 
+increased  clearance.  
+Small differences  were observed  between  the AUC-ratios  at day 
+8 and 115. These differences  are clinically  not relevant  and can pos- 
+sibly be explained  by intra-individual  variability  in pharmacokinet-  
+ics of tezacaftor-ivacaftor.  For instance,  both compounds  are both 
+poorly soluble,  lipophilic  molecules  and administration  with fat- 
+containing  food increases  their AUC [3] . 
+Limitations  of this case report are that the patient  was not 
+genotyped  for CYP3A4,  however  the clinical  relevance  of this is 
+questioned,  since the patient  served as its own control.  Secondly,  
+food intake on the days of sampling  was not controlled.  The pa- 
+tient was advised  to administer  tezacaftor-ivacaftor  with fat con- 
+taining  food as stated in the prescribing  information  [3] , but on 
+these days no restrictions  were made compared  to usual days. In 
+summary,  in this case report the drug-drug  interaction  between  
+tezacaftor-ivacaftor  and clofazimine  was examined  in a patient  
+with CF treated  for NTM. No clinical  signiﬁcant  increase  in expo- 
+sure of tezacaftor-ivacaftor  was seen after introduction  of clofaz- 
+imine, and no adjustments  in the dose of tezacaftor-ivacaftor  were 
+made. 
+Patients  perspective  
+I am a girl aged seventeen  and live in the Netherlands  in a vil- 
+lage near the sea. When I was ﬁve years old I was diagnosed  with 
+Cystic Fibrosis.  Last year I started  the treatment  with clofazimine  
+for my NTM. I had been using tezacaftor-ivacaftor  for a while and 
+I did not have any side effects.  Before the start and during the 
+treatment  with clofazimine  the physicians  checked  the concentra-  
+tions of tezacaftor-ivacaftor.  For this, blood had to be taken several  
+times, luckily I am used to this. After the start of the treatment  
+with clofazimine  I still almost had no side effects.  The only side 
+effect I had is that I get a sunburn  really fast, but this also comes 
+with a nice tan. After using clofazimine  for over a year I got rid of 
+my NTM, and I am very happy with that. I think it is special  that I 
+am the ﬁrst person  in whom this combination  has been researched  
+as far as my practitioners  know, and hopefully  other practitioners  
+can learn something  from this. 
+e6 S.E.M. Vonk, S.W.J. Terheggen-Lagro,  L.M. Mouissie et al. Journal of Cystic Fibrosis 21 (2022) e5–e7 
+Declaration  of Competing  Interest  
+The authors  declare  that they have no known  competing  ﬁnan- 
+cial interests  or personal  relationships  that could have appeared  to 
+inﬂuence  the work reported  in this paper. 
+Acknowledgements  
+We would like to thank the patient  for her approval  to share 
+her clinical  data and contribution  to this case report. 
+References  
+[1] Sangana R , Gu H , Chun DY , Einolf HJ . Evaluation  of clinical drug interaction  
+potential  of clofazimine  using static and dynamic  modeling  approaches.  Drug 
+Metab Dispos 2018;46(1):26–32  . [2] Maartens  G , Brill MJE , Pandie M , Svensson  EM . Pharmacokinetic  interaction  be- 
+tween bedaquiline  and clofazimine  in patients with drug-resistant  tuberculosis.  
+Int J Tuberc Lung Dis 2018;22(1):26–9  . 
+[3] EMA. Summary  of Product Characteristics  - SYMKEVI.:  European  Medicines  
+Agency; 2018. Contract No.: EMEA/H/C/004682  - II/0012/G.  
+[4] Vonk SEM , van der Meer-Vos  M , Bos LDJ , Neerincx  AH , Majoor CJ , Maitland-van  
+der Zee AH , et al. A quantitative  method for the analysis of ivacaftor,  hydrox- 
+ymethyl ivacaftor,  ivacaftor  carboxylate,  lumacaftor,  and tezacaftor  in plasma 
+and sputum using LC-MS/MS  and its clinical applicability.  Ther Drug Monit 
+2020 . 
+[5] Pharma N. Summary  of Product Characteristics  - CLOFAZIMINE.  https://www.  
+geneesmiddeleninformatiebank.nl/nl/  : College ter Beoordeling  van Geneesmid-  
+delen (CBG-MEB);  2019. 
+e7 
