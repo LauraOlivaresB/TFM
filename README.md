@@ -26,6 +26,12 @@ Step 2: run `ollama run zephyr` in your terminal. This will pull the zephyr mode
 ### Pandas 
 dataframes for graph schema (can use a graphdb at a later stage).
 
+### Gradio
+pip install gradio
+
+### Neo4j
+pip install neo4j
+
 
 
 
