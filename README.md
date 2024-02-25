@@ -3,7 +3,7 @@ Here I have created my master thesis. The automatization of the identification o
 
 This is the main notebook https://github.com/LauraOlivaresB/TFM/blob/main/extract_graph.ipynb to execute
 
-But before generating this code, is important to install Ollama in the terminal and run ollama zephyr. Also to activate the enviroment https://github.com/LauraOlivaresB/TFM/blob/main/environment.yml then you are ready to use the code.
+But before generating this code, is important to install Ollama in the terminal and run ollama zephyr. Also to activate the enviroment https://github.com/LauraOlivaresB/TFM/blob/main/environment.yml , install the libraries gradio and neo4j. After this the code is ready to be used. 
 
 It's already with only one document in the folder cureus2 in format .txt but here is where you can put more documents if you need, the only thing is that you need a really good machine because is slow. In the line [10] there is this line df=df[1:20] this should be changed if you want to process all the document.
 
